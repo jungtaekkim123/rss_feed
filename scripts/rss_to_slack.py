@@ -1,6 +1,9 @@
 """
-RSS Feed to Slack Notifier
-- RSS 피드를 파싱하여 새로운 글을 Slack Webhook으로 전송
+RSS Feed to Slack Notifier (with Gemini AI Summary)
+- RSS 피드를 파싱하여 Gemini로 요약 + 인사이트를 생성
+- 카테고리별 이모지 태깅
+- 오늘의 추천 글 선정
+- Slack Webhook으로 전송
 - 중복 방지: sent_entries.json에 이미 보낸 항목 ID를 저장
 """
 
@@ -8,12 +11,14 @@ import json
 import os
 import sys
 import hashlib
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
 import feedparser
 import requests
 import yaml
+import google.generativeai as genai
 
 
 # ── 경로 설정 ──────────────────────────────────────────────
@@ -22,6 +27,96 @@ CONFIG_PATH = ROOT_DIR / "config.yaml"
 SENT_DB_PATH = ROOT_DIR / "data" / "sent_entries.json"
 
 
+# ── Gemini 설정 ────────────────────────────────────────────
+def init_gemini() -> genai.GenerativeModel | None:
+    """Gemini API를 초기화합니다."""
+    api_key = os.environ.get("GEMINI_API_KEY", "")
+    if not api_key:
+        print("⚠️  GEMINI_API_KEY가 없습니다. 요약 없이 원문 전송합니다.")
+        return None
+
+    genai.configure(api_key=api_key)
+    return genai.GenerativeModel("gemini-2.0-flash")
+
+
+def summarize_entry(model: genai.GenerativeModel, title: str, summary: str, link: str) -> dict:
+    """Gemini로 글을 요약하고 인사이트를 생성합니다."""
+    prompt = f"""아래 기술 블로그/뉴스 글의 제목과 내용을 보고, 한국어로 두 가지를 작성해주세요.
+
+1. **요약**: 핵심 내용을 1~2문장으로 간결하게 요약
+2. **인사이트**: "왜 읽어볼 만한지" 또는 "어떤 점이 흥미로운지"를 1문장으로 코멘트
+
+반드시 아래 JSON 형식으로만 응답하세요 (마크다운 코드블록 없이):
+{{"summary": "요약 내용", "insight": "인사이트 내용"}}
+
+---
+제목: {title}
+내용: {summary}
+링크: {link}
+"""
+    try:
+        response = model.generate_content(prompt)
+        text = response.text.strip()
+
+        # 마크다운 코드블록 제거
+        if text.startswith("```"):
+            text = text.split("\n", 1)[1] if "\n" in text else text[3:]
+        if text.endswith("```"):
+            text = text[:-3]
+        text = text.strip()
+
+        result = json.loads(text)
+        return {
+            "summary": result.get("summary", ""),
+            "insight": result.get("insight", ""),
+        }
+    except (json.JSONDecodeError, Exception) as e:
+        print(f"   ⚠️  Gemini 요약 실패: {e}")
+        return {"summary": "", "insight": ""}
+
+
+def pick_top_article(model: genai.GenerativeModel, all_entries: list[dict]) -> dict | None:
+    """Gemini가 오늘의 추천 글 1개를 선정합니다."""
+    if not all_entries:
+        return None
+
+    entries_text = "\n".join(
+        f"- [{i}] {e['title']} ({e.get('feed_name', '')})"
+        for i, e in enumerate(all_entries)
+    )
+
+    prompt = f"""아래 기술 블로그/뉴스 목록 중에서 개발자에게 가장 읽어볼 만한 글 1개를 골라주세요.
+
+반드시 아래 JSON 형식으로만 응답하세요 (마크다운 코드블록 없이):
+{{"index": 0, "reason": "추천 이유 1문장"}}
+
+---
+{entries_text}
+"""
+    try:
+        response = model.generate_content(prompt)
+        text = response.text.strip()
+
+        if text.startswith("```"):
+            text = text.split("\n", 1)[1] if "\n" in text else text[3:]
+        if text.endswith("```"):
+            text = text[:-3]
+        text = text.strip()
+
+        result = json.loads(text)
+        idx = int(result.get("index", 0))
+        if 0 <= idx < len(all_entries):
+            return {
+                "entry": all_entries[idx],
+                "reason": result.get("reason", ""),
+            }
+    except (json.JSONDecodeError, Exception) as e:
+        print(f"⚠️  오늘의 추천 선정 실패: {e}")
+
+    return None
+
+
+# ── RSS / DB 유틸 ──────────────────────────────────────────
 def load_config() -> dict:
     """config.yaml에서 RSS 피드 목록과 설정을 읽어옵니다."""
     if not CONFIG_PATH.exists():
@@ -49,7 +144,6 @@ def save_sent_entries(entries: dict) -> None:
 
 def make_entry_id(entry) -> str:
     """피드 항목의 고유 ID를 생성합니다."""
-    # id(guid) > link > title hash 순으로 우선순위
     if hasattr(entry, "id") and entry.id:
         return entry.id
     if hasattr(entry, "link") and entry.link:
@@ -72,21 +166,27 @@ def parse_feed(url: str, max_items: int = 5) -> list[dict]:
             "id": make_entry_id(entry),
             "title": entry.get("title", "(제목 없음)"),
             "link": entry.get("link", ""),
-            "summary": entry.get("summary", "")[:200],
+            "summary": entry.get("summary", "")[:500],
             "published": entry.get("published", ""),
             "feed_title": feed.feed.get("title", url),
         })
     return items
 
 
-def build_slack_blocks(feed_name: str, entries: list[dict]) -> dict:
-    """Slack Block Kit 형식의 메시지를 생성합니다."""
+def get_category_emoji(category: str, emoji_map: dict) -> str:
+    """카테고리에 해당하는 이모지를 반환합니다."""
+    return emoji_map.get(category, emoji_map.get("default", "📄"))
+
+
+# ── Slack 메시지 빌드 ──────────────────────────────────────
+def build_slack_blocks(feed_name: str, category_emoji: str, entries: list[dict]) -> dict:
+    """Slack Block Kit 형식의 메시지를 생성합니다 (불릿 포맷)."""
     blocks = [
         {
             "type": "header",
             "text": {
                 "type": "plain_text",
-                "text": f"📰 {feed_name}",
+                "text": f"{category_emoji} {feed_name}",
                 "emoji": True,
             },
         },
@@ -96,15 +196,28 @@ def build_slack_blocks(feed_name: str, entries: list[dict]) -> dict:
     for entry in entries:
         title = entry["title"]
         link = entry["link"]
-        summary = entry["summary"].replace("<", "&lt;").replace(">", "&gt;")
-        if len(summary) > 150:
-            summary = summary[:150] + "…"
+        ai_summary = entry.get("ai_summary", "")
+        ai_insight = entry.get("ai_insight", "")
 
-        text = f"*<{link}|{title}>*"
-        if summary:
-            text += f"\n{summary}"
-        if entry["published"]:
-            text += f"\n🕐 {entry['published']}"
+        # 불릿 형태로 깔끔하게 구성
+        lines = [f"*<{link}|{title}>*"]
+
+        if ai_summary:
+            lines.append(f"    📝 _{ai_summary}_")
+        if ai_insight:
+            lines.append(f"    💡 {ai_insight}")
+
+        if not ai_summary and not ai_insight:
+            raw_summary = entry["summary"].replace("<", "&lt;").replace(">", "&gt;")
+            # HTML 태그 간단 제거
+            import re
+            raw_summary = re.sub(r"&lt;.*?&gt;", "", raw_summary).strip()
+            if len(raw_summary) > 150:
+                raw_summary = raw_summary[:150] + "…"
+            if raw_summary:
+                lines.append(f"    {raw_summary}")
+
+        text = "\n".join(lines)
 
         blocks.append({
             "type": "section",
@@ -116,7 +229,7 @@ def build_slack_blocks(feed_name: str, entries: list[dict]) -> dict:
         "elements": [
             {
                 "type": "mrkdwn",
-                "text": f"🤖 RSS Bot • {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}",
+                "text": f"🤖 RSS Bot + Gemini • {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}",
             }
         ],
     })
@@ -124,6 +237,54 @@ def build_slack_blocks(feed_name: str, entries: list[dict]) -> dict:
     return {"blocks": blocks}
 
 
+def build_top_pick_blocks(top_pick: dict) -> dict:
+    """오늘의 추천 글 Slack 메시지를 생성합니다."""
+    entry = top_pick["entry"]
+    reason = top_pick["reason"]
+
+    text_lines = [
+        f"*<{entry['link']}|{entry['title']}>*",
+        f"_{entry.get('feed_name', '')}_",
+        "",
+    ]
+
+    if entry.get("ai_summary"):
+        text_lines.append(f"📝 {entry['ai_summary']}")
+    if entry.get("ai_insight"):
+        text_lines.append(f"💡 {entry['ai_insight']}")
+    if reason:
+        text_lines.append(f"")
+        text_lines.append(f"🎯 *추천 이유:* {reason}")
+
+    blocks = [
+        {
+            "type": "header",
+            "text": {
+                "type": "plain_text",
+                "text": "⭐ 오늘의 추천 글",
+                "emoji": True,
+            },
+        },
+        {"type": "divider"},
+        {
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": "\n".join(text_lines)},
+        },
+        {
+            "type": "context",
+            "elements": [
+                {
+                    "type": "mrkdwn",
+                    "text": f"Gemini가 오늘의 글을 골랐습니다 • {datetime.now(timezone.utc).strftime('%Y-%m-%d')}",
+                }
+            ],
+        },
+    ]
+
+    return {"blocks": blocks}
+
+
+# ── Slack 전송 ─────────────────────────────────────────────
 def send_to_slack(webhook_url: str, payload: dict) -> bool:
     """Slack Webhook으로 메시지를 전송합니다."""
     try:
@@ -142,6 +303,7 @@ def send_to_slack(webhook_url: str, payload: dict) -> bool:
         return False
 
 
+# ── 메인 ───────────────────────────────────────────────────
 def main():
     config = load_config()
     webhook_url = os.environ.get("SLACK_WEBHOOK_URL", config.get("slack_webhook_url", ""))
@@ -156,14 +318,23 @@ def main():
         print("❌ 구독할 RSS 피드가 없습니다. config.yaml에 feeds를 추가하세요.")
         sys.exit(1)
 
+    emoji_map = config.get("category_emoji", {"default": "📄"})
+
+    # Gemini 초기화
+    gemini_model = init_gemini()
+
     max_items = config.get("max_items_per_feed", 5)
     sent_entries = load_sent_entries()
     total_new = 0
+    all_new_entries = []  # 오늘의 추천 글 선정용
 
     for feed_cfg in feeds:
         url = feed_cfg["url"]
         name = feed_cfg.get("name", url)
-        print(f"\n🔍 피드 확인 중: {name}")
+        category = feed_cfg.get("category", "default")
+        cat_emoji = get_category_emoji(category, emoji_map)
+
+        print(f"\n🔍 피드 확인 중: {cat_emoji} {name}")
 
         entries = parse_feed(url, max_items=max_items)
         if not entries:
@@ -179,10 +350,30 @@ def main():
 
         print(f"   📬 새로운 항목 {len(new_entries)}개 발견!")
 
+        # Gemini 요약 추가
+        if gemini_model:
+            for i, entry in enumerate(new_entries):
+                print(f"   🧠 요약 중 ({i+1}/{len(new_entries)}): {entry['title'][:40]}...")
+                result = summarize_entry(
+                    gemini_model,
+                    entry["title"],
+                    entry["summary"],
+                    entry["link"],
+                )
+                entry["ai_summary"] = result["summary"]
+                entry["ai_insight"] = result["insight"]
+                # Rate limit 방지 (Gemini free tier)
+                if i < len(new_entries) - 1:
+                    time.sleep(1)
+
+        # 오늘의 추천 글 후보에 추가
+        for entry in new_entries:
+            entry["feed_name"] = name
+            all_new_entries.append(entry)
+
         # Slack으로 전송
-        payload = build_slack_blocks(name, new_entries)
+        payload = build_slack_blocks(name, cat_emoji, new_entries)
         if send_to_slack(webhook_url, payload):
-            # 전송 성공 시 DB에 기록
             for entry in new_entries:
                 sent_entries[entry["id"]] = {
                     "title": entry["title"],
@@ -192,6 +383,18 @@ def main():
             print(f"   ✅ 전송 완료!")
         else:
             print(f"   ❌ 전송 실패!")
+
+    # ── 오늘의 추천 글 전송 ──
+    if gemini_model and all_new_entries:
+        print(f"\n⭐ 오늘의 추천 글 선정 중...")
+        top_pick = pick_top_article(gemini_model, all_new_entries)
+        if top_pick:
+            print(f"   🏆 추천: {top_pick['entry']['title']}")
+            payload = build_top_pick_blocks(top_pick)
+            if send_to_slack(webhook_url, payload):
+                print(f"   ✅ 오늘의 추천 글 전송 완료!")
+            else:
+                print(f"   ❌ 오늘의 추천 글 전송 실패!")
 
     # 오래된 항목 정리 (최근 500개만 유지)
     max_history = config.get("max_history", 500)

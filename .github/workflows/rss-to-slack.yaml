@@ -28,6 +28,7 @@ jobs:
       - name: Run RSS to Slack script
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/rss_to_slack.py
 
       - name: Commit updated sent entries
