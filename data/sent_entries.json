@@ -1,0 +1,302 @@
+{
+  "https://news.ycombinator.com/item?id=47461378": {
+    "title": "Ghostling",
+    "sent_at": "2026-03-21T13:47:50.284098+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47461094": {
+    "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+    "sent_at": "2026-03-21T13:47:50.284114+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47460525": {
+    "title": "OpenCode – Open source AI coding agent",
+    "sent_at": "2026-03-21T13:47:50.284117+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47460452": {
+    "title": "A Japanese glossary of chopsticks faux pas (2022)",
+    "sent_at": "2026-03-21T13:47:50.284120+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47459296": {
+    "title": "Our commitment to Windows quality",
+    "sent_at": "2026-03-21T13:47:50.284122+00:00"
+  },
+  "https://techcrunch.com/?p=3104644": {
+    "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+    "sent_at": "2026-03-21T13:47:50.683941+00:00"
+  },
+  "https://techcrunch.com/?p=3104615": {
+    "title": "Elon Musk misled Twitter investors while trying to get out of acquisition, jury says",
+    "sent_at": "2026-03-21T13:47:50.683957+00:00"
+  },
+  "https://techcrunch.com/?p=3104590": {
+    "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+    "sent_at": "2026-03-21T13:47:50.683960+00:00"
+  },
+  "https://techcrunch.com/?post_type=tc_video&p=3104584": {
+    "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+    "sent_at": "2026-03-21T13:47:50.683962+00:00"
+  },
+  "https://techcrunch.com/?p=3104465": {
+    "title": "Amid legal turmoil, Kalshi is temporarily banned in Nevada",
+    "sent_at": "2026-03-21T13:47:50.683964+00:00"
+  },
+  "https://github.blog/?p=94621": {
+    "title": "Rethinking open source mentorship in the AI era",
+    "sent_at": "2026-03-21T13:47:51.234760+00:00"
+  },
+  "https://github.blog/?p=94634": {
+    "title": "How Squad runs coordinated AI agents inside your repository",
+    "sent_at": "2026-03-21T13:47:51.234776+00:00"
+  },
+  "https://github.blog/?p=94538": {
+    "title": "Investing in the people shaping open source and securing the future together",
+    "sent_at": "2026-03-21T13:47:51.234779+00:00"
+  },
+  "https://github.blog/?p=94509": {
+    "title": "GitHub for Beginners: Getting started with GitHub Actions",
+    "sent_at": "2026-03-21T13:47:51.234781+00:00"
+  },
+  "https://github.blog/?p=94451": {
+    "title": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
+    "sent_at": "2026-03-21T13:47:51.234783+00:00"
+  },
+  "https://goddaehee.tistory.com/555": {
+    "title": "MCP vs CLI 2편: 개인은 CLI, 조직은 MCP &mdash; 엔터프라이즈 관점의 반",
+    "sent_at": "2026-03-21T13:47:56.305294+00:00"
+  },
+  "https://goddaehee.tistory.com/554": {
+    "title": "AI가 못 읽던 네이버 블로그, 6단계 폴백 체인으로 뚫는다 &mdash; GPTaku 딥리서치 가이드",
+    "sent_at": "2026-03-21T13:47:56.305310+00:00"
+  },
+  "https://goddaehee.tistory.com/553": {
+    "title": "Agent Skill 오픈 표준(Claude Skills는 Claude 전용이 아니다) - SKILL.md 하나로 Claude, Cursor, Copilot, Gemini 전부 쓰는 방법",
+    "sent_at": "2026-03-21T13:47:56.305314+00:00"
+  },
+  "https://goddaehee.tistory.com/552": {
+    "title": "MiroFish 뜯어보기(1) - 이론편 : 문서 하나로 수천 명의 가상 인간을 시뮬레이션하는 집단 지능 엔진",
+    "sent_at": "2026-03-21T13:47:56.305317+00:00"
+  },
+  "https://goddaehee.tistory.com/551": {
+    "title": "개발자를 위한 MCP 추천(5-2) - Supabase CLI와 MCP 비교 분석 해보기",
+    "sent_at": "2026-03-21T13:47:56.305320+00:00"
+  },
+  "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment": {
+    "title": "How we monitor internal coding agents for misalignment",
+    "sent_at": "2026-03-21T13:47:58.973733+00:00"
+  },
+  "https://openai.com/index/openai-to-acquire-astral": {
+    "title": "OpenAI to acquire Astral",
+    "sent_at": "2026-03-21T13:47:58.973749+00:00"
+  },
+  "https://openai.com/index/introducing-gpt-5-4-mini-and-nano": {
+    "title": "Introducing GPT-5.4 mini and nano",
+    "sent_at": "2026-03-21T13:47:58.973753+00:00"
+  },
+  "https://openai.com/index/japan-teen-safety-blueprint": {
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "sent_at": "2026-03-21T13:47:58.973755+00:00"
+  },
+  "https://openai.com/index/equipping-workers-with-insights-about-compensation": {
+    "title": "Equipping workers with insights about compensation",
+    "sent_at": "2026-03-21T13:47:58.973758+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/": {
+    "title": "Bringing the power of Personal Intelligence to more people",
+    "sent_at": "2026-03-21T13:47:59.585898+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/": {
+    "title": "Our latest investment in open source security for the AI era",
+    "sent_at": "2026-03-21T13:47:59.585913+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/": {
+    "title": "How AI is helping improve heart health in rural Australia",
+    "sent_at": "2026-03-21T13:47:59.585916+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/": {
+    "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+    "sent_at": "2026-03-21T13:47:59.585919+00:00"
+  },
+  "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/": {
+    "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+    "sent_at": "2026-03-21T13:47:59.585921+00:00"
+  },
+  "https://engineering.fb.com/?p=23703": {
+    "title": "Friend Bubbles: Enhancing Social Discovery on Facebook Reels",
+    "sent_at": "2026-03-21T13:48:00.124850+00:00"
+  },
+  "https://engineering.fb.com/?p=23732": {
+    "title": "Ranking Engineer Agent (REA): The Autonomous AI Agent Accelerating Meta’s Ads Ranking Innovation",
+    "sent_at": "2026-03-21T13:48:00.124865+00:00"
+  },
+  "https://engineering.fb.com/?p=23722": {
+    "title": "Patch Me If You Can: AI Codemods for Secure-by-Default Android Apps",
+    "sent_at": "2026-03-21T13:48:00.124868+00:00"
+  },
+  "https://engineering.fb.com/?p=23690": {
+    "title": "How Advanced Browsing Protection Works in Messenger",
+    "sent_at": "2026-03-21T13:48:00.124870+00:00"
+  },
+  "https://engineering.fb.com/?p=23674": {
+    "title": "FFmpeg at Meta: Media Processing at Scale",
+    "sent_at": "2026-03-21T13:48:00.124872+00:00"
+  },
+  "https://blogs.nvidia.com/?p=91623&preview=true&preview_id=91623": {
+    "title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
+    "sent_at": "2026-03-21T13:48:00.675782+00:00"
+  },
+  "https://blogs.nvidia.com/?p=91463": {
+    "title": "Smooth Moves: 90 Frames-Per-Second Virtual Reality Arrives on GeForce NOW",
+    "sent_at": "2026-03-21T13:48:00.675798+00:00"
+  },
+  "https://blogs.nvidia.com/?p=91222": {
+    "title": "From Simulation to Production: How to Build Robots With AI",
+    "sent_at": "2026-03-21T13:48:00.675801+00:00"
+  },
+  "https://blogs.nvidia.com/?p=91090": {
+    "title": "More Than Meets the Eye: NVIDIA RTX-Accelerated Computers Now Connect Directly to Apple Vision Pro",
+    "sent_at": "2026-03-21T13:48:00.675804+00:00"
+  },
+  "https://blogs.nvidia.com/?p=90843": {
+    "title": "NVIDIA, Telecom Leaders Build AI Grids to Optimize Inference on Distributed Networks",
+    "sent_at": "2026-03-21T13:48:00.675806+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune": {
+    "title": "Build a Domain-Specific Embedding Model in Under a Day",
+    "sent_at": "2026-03-21T13:48:01.283011+00:00"
+  },
+  "https://huggingface.co/blog/ibm-granite/granite-libraries": {
+    "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+    "sent_at": "2026-03-21T13:48:01.283027+00:00"
+  },
+  "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026": {
+    "title": "State of Open Source on Hugging Face: Spring 2026",
+    "sent_at": "2026-03-21T13:48:01.283030+00:00"
+  },
+  "https://huggingface.co/blog/Hcompany/holotron-12b": {
+    "title": "Holotron-12B - High Throughput Computer Use Agent",
+    "sent_at": "2026-03-21T13:48:01.283043+00:00"
+  },
+  "https://huggingface.co/blog/storage-buckets": {
+    "title": "Introducing Storage Buckets on the Hugging Face Hub",
+    "sent_at": "2026-03-21T13:48:01.283046+00:00"
+  },
+  "https://engineering.atspotify.com/?p=1FaDH30hqF8M6aMDIsl71b": {
+    "title": "Inside the Archive: The Tech Behind Your 2025 Wrapped Highlights",
+    "sent_at": "2026-03-21T13:48:02.140538+00:00"
+  },
+  "https://engineering.atspotify.com/?p=7N32jBbCV2q36c1trMybW1": {
+    "title": "Our Multi-Agent Architecture for Smarter Advertising",
+    "sent_at": "2026-03-21T13:48:02.140554+00:00"
+  },
+  "https://engineering.atspotify.com/?p=esQIXrFPWjoKkc9B1irH6": {
+    "title": "How We Release the Spotify App: A Look Under the Hood (Part 2)",
+    "sent_at": "2026-03-21T13:48:02.140557+00:00"
+  },
+  "https://engineering.atspotify.com/?p=57Pe0SvWh0KMB5dJV9yu7C": {
+    "title": "Congratulations to the recipients of the 2025 Spotify FOSS Fund",
+    "sent_at": "2026-03-21T13:48:02.140559+00:00"
+  },
+  "https://engineering.atspotify.com/?p=3a4jVRPjVRXateZDYpSqQp": {
+    "title": "Why We Use Separate Tech Stacks for Personalization and Experimentation",
+    "sent_at": "2026-03-21T13:48:02.140562+00:00"
+  },
+  "1wSO33KRdd5aUPAlSVDiqU": {
+    "title": "Powering the agents: Workers AI now runs large models, starting with Kimi K2.5",
+    "sent_at": "2026-03-21T13:48:02.759062+00:00"
+  },
+  "7zfn4cHE2C5bgEo1cWSL4u": {
+    "title": "Introducing Custom Regions for precision data control",
+    "sent_at": "2026-03-21T13:48:02.759077+00:00"
+  },
+  "6V4c3s6W2nqoSNaUeUpqWX": {
+    "title": "Standing up for the open Internet: why we appealed Italy’s \"Piracy Shield\" fine",
+    "sent_at": "2026-03-21T13:48:02.759080+00:00"
+  },
+  "12Trubi4t23iB1Q6AlcjYH": {
+    "title": "From legacy architecture to Cloudflare One",
+    "sent_at": "2026-03-21T13:48:02.759083+00:00"
+  },
+  "3oZLDQYiufcZZYvGXwxpKd": {
+    "title": "Announcing Cloudflare Account Abuse Protection: prevent fraudulent attacks from bots and humans",
+    "sent_at": "2026-03-21T13:48:02.759084+00:00"
+  },
+  "14145bfe5096e96a6f01aa41a78758e848a1320e": {
+    "title": "20 years in the AWS Cloud – how time flies!",
+    "sent_at": "2026-03-21T13:48:03.240767+00:00"
+  },
+  "cf44d6e2135975faf4160c0cf14c849d06d69519": {
+    "title": "Our First 2026 AWS Heroes Cohort Is Here!",
+    "sent_at": "2026-03-21T13:48:03.240784+00:00"
+  },
+  "565f4a73a37b2a9f9b94b135334161d6ecb97641": {
+    "title": "AWS Weekly Roundup: Amazon S3 turns 20, Amazon Route 53 Global Resolver general availability, and more (March 16, 2026)",
+    "sent_at": "2026-03-21T13:48:03.240787+00:00"
+  },
+  "a3996fe388d2e78fc44dd4af61d511e4558c30b7": {
+    "title": "Twenty years of Amazon S3 and building what’s next",
+    "sent_at": "2026-03-21T13:48:03.240790+00:00"
+  },
+  "196b4cd5ec90a1f18c700e9852ebae62a5bd105d": {
+    "title": "Introducing account regional namespaces for Amazon S3 general purpose buckets",
+    "sent_at": "2026-03-21T13:48:03.240792+00:00"
+  },
+  "https://tech.kakao.com/posts/817": {
+    "title": "수억 건의 보안 신호 속 진짜 위협 찾기 — AI로 보안 모니터링의 패러다임을 바꾸다",
+    "sent_at": "2026-03-21T13:48:04.838789+00:00"
+  },
+  "https://tech.kakao.com/posts/816": {
+    "title": "학생에서 개발자로: 로또 구현부터 레거시 개선까지, 서버의 흐름을 배우다",
+    "sent_at": "2026-03-21T13:48:04.838805+00:00"
+  },
+  "https://tech.kakao.com/posts/815": {
+    "title": "학생에서 개발자로: DB, 보안부터 AI까지, 정답보다 합리적인 선택을 배우다",
+    "sent_at": "2026-03-21T13:48:04.838808+00:00"
+  },
+  "https://tech.kakao.com/posts/812": {
+    "title": "한국 문화 이해부터 화면 조작까지: Kanana-V 기능 확장의 모든 것",
+    "sent_at": "2026-03-21T13:48:04.838811+00:00"
+  },
+  "https://tech.kakao.com/posts/814": {
+    "title": "2026 카카오그룹 신입크루 공채 코딩테스트 2차 문제해설",
+    "sent_at": "2026-03-21T13:48:04.838813+00:00"
+  },
+  "https://d2.naver.com/news/0407747": {
+    "title": "FE News 26년 3월 소식을 전해드립니다!",
+    "sent_at": "2026-03-21T13:48:06.543395+00:00"
+  },
+  "https://d2.naver.com/news/2922082": {
+    "title": "FE News 26년 2월 소식을 전해드립니다!",
+    "sent_at": "2026-03-21T13:48:06.543407+00:00"
+  },
+  "https://d2.naver.com/helloworld/6512234": {
+    "title": "스마트스토어센터 Oracle에서 MySQL로의 무중단 전환기",
+    "sent_at": "2026-03-21T13:48:06.543410+00:00"
+  },
+  "https://d2.naver.com/helloworld/4241703": {
+    "title": "네이버 통합검색 AIB 도입과 웹 성능 변화 분석",
+    "sent_at": "2026-03-21T13:48:06.543412+00:00"
+  },
+  "https://d2.naver.com/news/5798505": {
+    "title": "FE News 26년 1월 소식을 전해드립니다!",
+    "sent_at": "2026-03-21T13:48:06.543414+00:00"
+  },
+  "https://toss.tech/article/vulnerability-analysis-automation-2": {
+    "title": "LLM을 이용한 서비스 취약점 분석 자동화 #2",
+    "sent_at": "2026-03-21T13:48:09.229829+00:00"
+  },
+  "https://toss.tech/article/harness-for-team-productivity-eng": {
+    "title": "Embracing the Software 3.0 Era",
+    "sent_at": "2026-03-21T13:48:09.229844+00:00"
+  },
+  "https://toss.tech/article/45787": {
+    "title": "외국인 유저 리서치: 캐나다인 \"B\"씨는 왜 토스 인증에 실패했을까",
+    "sent_at": "2026-03-21T13:48:09.229847+00:00"
+  },
+  "https://toss.tech/article/45391": {
+    "title": "신입 디자이너가 꼭 알아야 할 실험 설계 팁",
+    "sent_at": "2026-03-21T13:48:09.229850+00:00"
+  },
+  "https://toss.tech/article/toss-front-sdk": {
+    "title": "쓰기 쉬운 Toss Front SDK",
+    "sent_at": "2026-03-21T13:48:09.229851+00:00"
+  }
+}
