@@ -1,0 +1,39 @@
+name: RSS Feed to Slack
+
+on:
+  schedule:
+    # 매일 오전 9시 (KST) = UTC 00:00 에 실행
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 수동 실행 가능
+
+permissions:
+  contents: write  # sent_entries.json 커밋을 위해 필요
+
+jobs:
+  rss-to-slack:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run RSS to Slack script
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python scripts/rss_to_slack.py
+
+      - name: Commit updated sent entries
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/sent_entries.json
+          git diff --staged --quiet || git commit -m "chore: update sent entries [skip ci]"
+          git push

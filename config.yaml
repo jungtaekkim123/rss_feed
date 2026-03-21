@@ -1,0 +1,27 @@
+# ── RSS Feed to Slack 설정 ──────────────────────────────────
+
+# Slack Incoming Webhook URL
+# ⚠️ 직접 여기에 넣지 말고 GitHub Secrets (SLACK_WEBHOOK_URL)에 설정하세요.
+# 로컬 테스트 시에만 아래 값을 사용합니다.
+# slack_webhook_url: "https://hooks.slack.com/services/YOUR/WEBHOOK/URL"
+
+# 구독할 RSS 피드 목록
+feeds:
+  - name: "Hacker News - Best"
+    url: "https://hnrss.org/best"
+
+  - name: "TechCrunch"
+    url: "https://techcrunch.com/feed/"
+
+  - name: "GitHub Blog"
+    url: "https://github.blog/feed/"
+
+  # 아래에 원하는 피드를 추가하세요:
+  # - name: "내 블로그"
+  #   url: "https://example.com/rss.xml"
+
+# 피드당 최대 가져올 항목 수
+max_items_per_feed: 5
+
+# 중복 방지 히스토리 최대 보관 수
+max_history: 500
