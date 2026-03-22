@@ -9,6 +9,9 @@ on:
 permissions:
   contents: write  # sent_entries.json 커밋을 위해 필요
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   rss-to-slack:
     runs-on: ubuntu-latest

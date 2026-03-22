@@ -9,6 +9,7 @@ RSS Feed to Slack Notifier (with Gemini AI Summary)
 
 import json
 import os
+import re
 import sys
 import hashlib
 import time
@@ -41,13 +42,15 @@ def init_gemini() -> genai.GenerativeModel | None:
 
 def summarize_entry(model: genai.GenerativeModel, title: str, summary: str, link: str) -> dict:
     """Gemini로 글을 요약하고 인사이트를 생성합니다."""
-    prompt = f"""아래 기술 블로그/뉴스 글의 제목과 내용을 보고, 한국어로 두 가지를 작성해주세요.
+    prompt = f"""아래 기술 블로그/뉴스 글의 제목과 내용을 분석하고, **반드시 한국어로만** 응답하세요.
+영어/일본어/중국어 등 외국어 원문이라도 모든 응답은 한국어로 번역해야 합니다.
 
-1. **요약**: 핵심 내용을 1~2문장으로 간결하게 요약
-2. **인사이트**: "왜 읽어볼 만한지" 또는 "어떤 점이 흥미로운지"를 1문장으로 코멘트
+1. **title_ko**: 원문 제목이 한국어가 아니면 한국어로 자연스럽게 번역. 이미 한국어면 그대로.
+2. **summary**: 핵심 내용을 1~2문장으로 간결하게 한국어 요약.
+3. **insight**: "왜 읽어볼 만한지" 또는 "어떤 점이 흥미로운지"를 1문장으로 한국어 코멘트.
 
 반드시 아래 JSON 형식으로만 응답하세요 (마크다운 코드블록 없이):
-{{"summary": "요약 내용", "insight": "인사이트 내용"}}
+{{"title_ko": "한국어 제목", "summary": "한국어 요약", "insight": "한국어 인사이트"}}
 
 ---
 제목: {title}
@@ -67,12 +70,13 @@ def summarize_entry(model: genai.GenerativeModel, title: str, summary: str, link
 
         result = json.loads(text)
         return {
+            "title_ko": result.get("title_ko", ""),
             "summary": result.get("summary", ""),
             "insight": result.get("insight", ""),
         }
     except (json.JSONDecodeError, Exception) as e:
         print(f"   ⚠️  Gemini 요약 실패: {e}")
-        return {"summary": "", "insight": ""}
+        return {"title_ko": "", "summary": "", "insight": ""}
 
 
 def pick_top_article(model: genai.GenerativeModel, all_entries: list[dict]) -> dict | None:
@@ -178,6 +182,14 @@ def get_category_emoji(category: str, emoji_map: dict) -> str:
     return emoji_map.get(category, emoji_map.get("default", "📄"))
 
 
+def _strip_html(text: str) -> str:
+    """HTML 태그를 제거하고 공백을 정리합니다."""
+    text = re.sub(r"<[^>]+>", "", text)
+    text = re.sub(r"&[a-zA-Z]+;", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
 # ── Slack 메시지 빌드 ──────────────────────────────────────
 def build_slack_blocks(feed_name: str, category_emoji: str, entries: list[dict]) -> dict:
     """Slack Block Kit 형식의 메시지를 생성합니다 (불릿 포맷)."""
@@ -196,22 +208,23 @@ def build_slack_blocks(feed_name: str, category_emoji: str, entries: list[dict])
     for entry in entries:
         title = entry["title"]
         link = entry["link"]
+        ai_title_ko = entry.get("ai_title_ko", "")
         ai_summary = entry.get("ai_summary", "")
         ai_insight = entry.get("ai_insight", "")
 
-        # 불릿 형태로 깔끔하게 구성
-        lines = [f"*<{link}|{title}>*"]
+        # 한국어 제목이 있고 원문과 다르면 함께 표시
+        if ai_title_ko and ai_title_ko != title:
+            lines = [f"*<{link}|{ai_title_ko}>*", f"    _{title}_"]
+        else:
+            lines = [f"*<{link}|{title}>*"]
 
         if ai_summary:
-            lines.append(f"    📝 _{ai_summary}_")
+            lines.append(f"    📝 {ai_summary}")
         if ai_insight:
             lines.append(f"    💡 {ai_insight}")
 
         if not ai_summary and not ai_insight:
-            raw_summary = entry["summary"].replace("<", "&lt;").replace(">", "&gt;")
-            # HTML 태그 간단 제거
-            import re
-            raw_summary = re.sub(r"&lt;.*?&gt;", "", raw_summary).strip()
+            raw_summary = _strip_html(entry["summary"])
             if len(raw_summary) > 150:
                 raw_summary = raw_summary[:150] + "…"
             if raw_summary:
@@ -242,11 +255,11 @@ def build_top_pick_blocks(top_pick: dict) -> dict:
     entry = top_pick["entry"]
     reason = top_pick["reason"]
 
-    text_lines = [
-        f"*<{entry['link']}|{entry['title']}>*",
-        f"_{entry.get('feed_name', '')}_",
-        "",
-    ]
+    display_title = entry.get("ai_title_ko") or entry["title"]
+    text_lines = [f"*<{entry['link']}|{display_title}>*"]
+    if display_title != entry["title"]:
+        text_lines.append(f"_{entry['title']}_")
+    text_lines.extend([f"_{entry.get('feed_name', '')}_", ""])
 
     if entry.get("ai_summary"):
         text_lines.append(f"📝 {entry['ai_summary']}")
@@ -360,6 +373,7 @@ def main():
                     entry["summary"],
                     entry["link"],
                 )
+                entry["ai_title_ko"] = result["title_ko"]
                 entry["ai_summary"] = result["summary"]
                 entry["ai_insight"] = result["insight"]
                 # Rate limit 방지 (Gemini free tier)
