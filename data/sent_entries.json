@@ -338,5 +338,73 @@
   "https://techcrunch.com/?p=3093026": {
     "title": "How fusion power works and the startups pursuing it",
     "sent_at": "2026-03-22T02:04:30.934693+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47482217": {
+    "title": "GrapheneOS will remain usable by anyone without requiring personal information",
+    "sent_at": "2026-03-23T02:05:22.983638+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47480507": {
+    "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+    "sent_at": "2026-03-23T02:05:22.983860+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47479962": {
+    "title": "OpenClaw is a security nightmare dressed up as a daydream",
+    "sent_at": "2026-03-23T02:05:22.983869+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47479751": {
+    "title": "Why I love NixOS",
+    "sent_at": "2026-03-23T02:05:22.983872+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47479183": {
+    "title": "GrapheneOS refuses to comply with new age verification laws for operating system",
+    "sent_at": "2026-03-23T02:05:22.983874+00:00"
+  },
+  "https://techcrunch.com/?p=3104679": {
+    "title": "The SEC drops its four-year-old investigation into EV startup Faraday Future",
+    "sent_at": "2026-03-23T02:05:27.741094+00:00"
+  },
+  "https://techcrunch.com/?p=3104729": {
+    "title": "Do you want to build a robot snowman?",
+    "sent_at": "2026-03-23T02:05:27.741110+00:00"
+  },
+  "https://techcrunch.com/?p=3104724": {
+    "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+    "sent_at": "2026-03-23T02:05:27.741113+00:00"
+  },
+  "https://techcrunch.com/?p=3104720": {
+    "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+    "sent_at": "2026-03-23T02:05:27.741115+00:00"
+  },
+  "https://techcrunch.com/?p=3104608": {
+    "title": "TechCrunch Mobility: Uber everywhere, all at once",
+    "sent_at": "2026-03-23T02:05:27.741118+00:00"
+  },
+  "https://goddaehee.tistory.com/557": {
+    "title": "cmux란? cmux 설치 및 사용해보기 - AI 에이전트를 위해 설계된 터미널(cmux vs tmux 비교)",
+    "sent_at": "2026-03-23T02:05:34.119184+00:00"
+  },
+  "https://goddaehee.tistory.com/556": {
+    "title": "MiroFish 뜯어보기(2) - 실습편 : 문서 하나로 수천 명의 가상 인간을 시뮬레이션하는 집단 지능 엔진 사용해보기(mcp vs cli)",
+    "sent_at": "2026-03-23T02:05:34.119199+00:00"
+  },
+  "https://d2.naver.com/helloworld/1155434": {
+    "title": "C++ std::bit_cast와 reinterpret_cast — 언제 어떤 것을 써야 하는가",
+    "sent_at": "2026-03-23T02:05:40.780188+00:00"
+  },
+  "https://www.threads.com/t/DWM_J-Jk01y": {
+    "title": "@feelfree_ai: 깃허브(GitHub) 주소창에서 'github'을 'gitdiagram'으로만 바꿔보세요. 복잡한 프ᄅ...",
+    "sent_at": "2026-03-23T02:05:55.443642+00:00"
+  },
+  "https://www.threads.com/t/DWLQb4iAOAH": {
+    "title": "@feelfree_ai: 클로드 코드(Claude Code) 쓰시는 분들, 토큰 비용은 60% 줄이고 작업 효율...",
+    "sent_at": "2026-03-23T02:05:55.443659+00:00"
+  },
+  "https://www.threads.com/t/DWKvRB_AdZ0": {
+    "title": "@feelfree_ai: 로컬 GPU 인프라 없이도(Thinker Cloud에서 LoRA), AI가 사용자와 대화할 때마다 실ᄉ...",
+    "sent_at": "2026-03-23T02:05:55.443662+00:00"
+  },
+  "https://www.threads.com/t/DWJB921gXru": {
+    "title": "@feelfree_ai: 터미널 창에서 토스증권 주식을 주문하는 상상, 해보신 적 있나...",
+    "sent_at": "2026-03-23T02:05:55.443664+00:00"
   }
 }
