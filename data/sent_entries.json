@@ -486,5 +486,105 @@
   "https://www.threads.com/t/DWN5pYEgRAJ": {
     "title": "@feelfree_ai: Qwen3-TTS 추론 속도를 최대 5배나 뻥튀기해주는 미친 오픈소스가 나왔네ᄋ...",
     "sent_at": "2026-03-24T01:57:52.707667+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47508745": {
+    "title": "Is anybody else bored of talking about AI?",
+    "sent_at": "2026-03-25T02:03:08.771694+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47508608": {
+    "title": "GitHub is once again down",
+    "sent_at": "2026-03-25T02:03:08.771708+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47508246": {
+    "title": "Goodbye to Sora",
+    "sent_at": "2026-03-25T02:03:08.771712+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47507150": {
+    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+    "sent_at": "2026-03-25T02:03:08.771715+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47506251": {
+    "title": "Arm AGI CPU",
+    "sent_at": "2026-03-25T02:03:08.771718+00:00"
+  },
+  "https://techcrunch.com/?p=3105855": {
+    "title": "Amazon just bought a startup making kid-size humanoid robots",
+    "sent_at": "2026-03-25T02:03:13.360054+00:00"
+  },
+  "https://techcrunch.com/?p=3105854": {
+    "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+    "sent_at": "2026-03-25T02:03:13.360063+00:00"
+  },
+  "https://techcrunch.com/?p=3105827": {
+    "title": "New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching",
+    "sent_at": "2026-03-25T02:03:13.360066+00:00"
+  },
+  "https://techcrunch.com/?p=3104978": {
+    "title": "Lululemon bets Epoch Biodesign can eat its shorts, literally",
+    "sent_at": "2026-03-25T02:03:13.360068+00:00"
+  },
+  "https://techcrunch.com/?p=3105737": {
+    "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+    "sent_at": "2026-03-25T02:03:13.360070+00:00"
+  },
+  "https://github.blog/?p=94665": {
+    "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
+    "sent_at": "2026-03-25T02:03:13.693412+00:00"
+  },
+  "https://goddaehee.tistory.com/560": {
+    "title": "Claude Computer Use 리뷰 : AI가 내 컴퓨터를 조작한다 - 폰에서 지시하면 Mac이 혼자 일한다",
+    "sent_at": "2026-03-25T02:03:20.704200+00:00"
+  },
+  "https://goddaehee.tistory.com/559": {
+    "title": "Claude Channels vs OpenClaw - 텔레그램으로 Claude Code 제어하기(Anthropic이 OpenClaw에 선전포고?)",
+    "sent_at": "2026-03-25T02:03:20.704214+00:00"
+  },
+  "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard": {
+    "title": "Helping developers build safer AI experiences for teens",
+    "sent_at": "2026-03-25T02:03:25.049053+00:00"
+  },
+  "https://openai.com/index/update-on-the-openai-foundation": {
+    "title": "Update on the OpenAI Foundation",
+    "sent_at": "2026-03-25T02:03:25.049068+00:00"
+  },
+  "https://openai.com/index/powering-product-discovery-in-chatgpt": {
+    "title": "Powering product discovery in ChatGPT",
+    "sent_at": "2026-03-25T02:03:25.049071+00:00"
+  },
+  "https://blogs.nvidia.com/?p=91716": {
+    "title": "Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community",
+    "sent_at": "2026-03-25T02:03:26.869510+00:00"
+  },
+  "https://huggingface.co/blog/ServiceNow-AI/eva": {
+    "title": "A New Framework for Evaluating Voice Agents (EVA)",
+    "sent_at": "2026-03-25T02:03:27.352853+00:00"
+  },
+  "1tc7f8AggVLw5D8OmaZri5": {
+    "title": "Sandboxing AI agents, 100x faster",
+    "sent_at": "2026-03-25T02:03:28.765575+00:00"
+  },
+  "https://d2.naver.com/helloworld/7997284": {
+    "title": "C++ 객체 수명과 암묵적 객체 생성",
+    "sent_at": "2026-03-25T02:03:33.618166+00:00"
+  },
+  "https://toss.tech/article/place-metric-review": {
+    "title": "Metric Review, 실행을 이끌다",
+    "sent_at": "2026-03-25T02:03:36.660511+00:00"
+  },
+  "https://www.threads.com/t/DWSCDo-E3SP": {
+    "title": "@feelfree_ai: vLLM으로 모델 서빙하시는 분들, 이번에 공개된 Semantic Router 비전 페이퍼ᄂ...",
+    "sent_at": "2026-03-25T02:03:49.064106+00:00"
+  },
+  "https://www.threads.com/t/DWRDLboAOlm": {
+    "title": "@feelfree_ai: SFT(지도미세조정) 할 때 태스크마다 과적합이 제각각으로 튀는 문제. ᄋ...",
+    "sent_at": "2026-03-25T02:03:49.064115+00:00"
+  },
+  "https://www.threads.com/t/DWQun1Zgn23": {
+    "title": "@feelfree_ai: 서비스나우(ServiceNow)가 AI 에이전트로 고객 문의(Ticket)의 90%를 자율 처리하고 ...",
+    "sent_at": "2026-03-25T02:03:49.064118+00:00"
+  },
+  "https://www.threads.com/t/DWQWtBIAS-Z": {
+    "title": "@feelfree_ai: AI 인프라의 진짜 변화는 '새로운 모델'이 아니라 'GPU를 벗어나는 것'ᄋ...",
+    "sent_at": "2026-03-25T02:03:49.064120+00:00"
   }
 }
