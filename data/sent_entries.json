@@ -682,5 +682,109 @@
   "https://www.threads.com/t/DWSl_FRDC6l": {
     "title": "@feelfree_ai: 나온 지 좀 된 녀석이지만, 아직 모르는 분들이 계실까 봐 다시 가져...",
     "sent_at": "2026-03-26T02:09:34.177442+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47534848": {
+    "title": "We haven't seen the worst of what gambling and prediction markets will do",
+    "sent_at": "2026-03-27T02:09:55.344737+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47531967": {
+    "title": "My minute-by-minute response to the LiteLLM malware attack",
+    "sent_at": "2026-03-27T02:09:55.344754+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47530330": {
+    "title": "Moving from GitHub to Codeberg, for lazy people",
+    "sent_at": "2026-03-27T02:09:55.344758+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47529646": {
+    "title": "European Parliament decided that Chat Control 1.0 must stop",
+    "sent_at": "2026-03-27T02:09:55.344760+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47529609": {
+    "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
+    "sent_at": "2026-03-27T02:09:55.344762+00:00"
+  },
+  "https://techcrunch.com/?p=3106899": {
+    "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+    "sent_at": "2026-03-27T02:09:59.856003+00:00"
+  },
+  "https://techcrunch.com/?p=3106880": {
+    "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+    "sent_at": "2026-03-27T02:09:59.856017+00:00"
+  },
+  "https://techcrunch.com/?p=3106767": {
+    "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+    "sent_at": "2026-03-27T02:09:59.856020+00:00"
+  },
+  "https://techcrunch.com/?p=3106729": {
+    "title": "Wikipedia cracks down on the use of AI in article writing",
+    "sent_at": "2026-03-27T02:09:59.856022+00:00"
+  },
+  "https://techcrunch.com/?p=3106705": {
+    "title": "Mastodon is making its decentralized social network easier to use with its latest revamp",
+    "sent_at": "2026-03-27T02:09:59.856024+00:00"
+  },
+  "https://github.blog/?p=94836": {
+    "title": "What’s coming to our GitHub Actions 2026 security roadmap",
+    "sent_at": "2026-03-27T02:10:01.206089+00:00"
+  },
+  "https://github.blog/?p=94767": {
+    "title": "A year of open source vulnerability trends: CVEs, advisories, and malware",
+    "sent_at": "2026-03-27T02:10:01.206105+00:00"
+  },
+  "https://goddaehee.tistory.com/565": {
+    "title": "&quot;하네스 엔지니어링&quot; - AI 에이전트 시대, 코드보다 중요한 것 : OpenAI vs Anthropic 하네스 전략 비교",
+    "sent_at": "2026-03-27T02:10:08.994617+00:00"
+  },
+  "https://goddaehee.tistory.com/564": {
+    "title": "Claude Code Auto Memory vs Auto Dream 정리 : AI가 잠자면서 기억을 정리한다? Auto Dream 기능의 진실",
+    "sent_at": "2026-03-27T02:10:08.994632+00:00"
+  },
+  "https://goddaehee.tistory.com/563": {
+    "title": "pip install litellm 한 번으로 SSH 키가 털렸다 &mdash; 2026 공급망 공격 분석 : 보안 도구가 감염 벡터가 되다",
+    "sent_at": "2026-03-27T02:10:08.994635+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/": {
+    "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+    "sent_at": "2026-03-27T02:10:14.258012+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/": {
+    "title": "Transform your headphones into a live personal translator on iOS.",
+    "sent_at": "2026-03-27T02:10:14.258028+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/": {
+    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+    "sent_at": "2026-03-27T02:10:14.258031+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/": {
+    "title": "Search Live is expanding globally",
+    "sent_at": "2026-03-27T02:10:14.258034+00:00"
+  },
+  "https://blogs.nvidia.com/?p=91763": {
+    "title": "Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era",
+    "sent_at": "2026-03-27T02:10:15.911668+00:00"
+  },
+  "https://blogs.nvidia.com/?p=91730": {
+    "title": "Game On: Five New Titles Now Streaming on GeForce NOW",
+    "sent_at": "2026-03-27T02:10:15.911684+00:00"
+  },
+  "6bSk27AUeu3Ja7pTySyy0t": {
+    "title": "A one-line Kubernetes fix that saved 600 hours a year",
+    "sent_at": "2026-03-27T02:10:17.546187+00:00"
+  },
+  "80d2d5cbf94f064581ec69fa252c9bb8b47e3f09": {
+    "title": "Customize your AWS Management Console experience with visual settings including account color, region and service visibility",
+    "sent_at": "2026-03-27T02:10:18.023891+00:00"
+  },
+  "https://www.threads.com/t/DWXYUjEiOxO": {
+    "title": "@feelfree_ai: 클로드가 드디어 단순 눈팅을 넘어, 직접 웹사이트 버튼을 누르ᄀ...",
+    "sent_at": "2026-03-27T02:10:35.948747+00:00"
+  },
+  "https://www.threads.com/t/DWWG5tGgQ-h": {
+    "title": "@feelfree_ai: 이미지만 다루는 줄 알았던 Diffusers에 드디어 '텍스트'를 위한 첫 Diffusio...",
+    "sent_at": "2026-03-27T02:10:35.948762+00:00"
+  },
+  "https://www.threads.com/t/DWVLCimAe8s": {
+    "title": "@feelfree_ai: 에러가 나면 AI가 스스로 자기 코드를 고쳐 쓰는 프레임워크가 나왔습니...",
+    "sent_at": "2026-03-27T02:10:35.948765+00:00"
   }
 }
