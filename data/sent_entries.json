@@ -786,5 +786,69 @@
   "https://www.threads.com/t/DWVLCimAe8s": {
     "title": "@feelfree_ai: 에러가 나면 AI가 스스로 자기 코드를 고쳐 쓰는 프레임워크가 나왔습니...",
     "sent_at": "2026-03-27T02:10:35.948765+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47548243": {
+    "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
+    "sent_at": "2026-03-28T02:01:43.722506+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47547009": {
+    "title": "Make macOS consistently bad (unironically)",
+    "sent_at": "2026-03-28T02:01:43.722526+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47544980": {
+    "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+    "sent_at": "2026-03-28T02:01:43.722530+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47543943": {
+    "title": "Desk for people who work at home with a cat",
+    "sent_at": "2026-03-28T02:01:43.722532+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47543139": {
+    "title": "Anatomy of the .claude/ folder",
+    "sent_at": "2026-03-28T02:01:43.722535+00:00"
+  },
+  "https://techcrunch.com/?p=3107286": {
+    "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
+    "sent_at": "2026-03-28T02:01:48.647284+00:00"
+  },
+  "https://techcrunch.com/?p=3107152": {
+    "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+    "sent_at": "2026-03-28T02:01:48.647299+00:00"
+  },
+  "https://techcrunch.com/?p=3106944": {
+    "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+    "sent_at": "2026-03-28T02:01:48.647302+00:00"
+  },
+  "https://techcrunch.com/?p=3106879": {
+    "title": "Waymo’s skyrocketing ridership in one chart",
+    "sent_at": "2026-03-28T02:01:48.647304+00:00"
+  },
+  "https://techcrunch.com/?p=3107097": {
+    "title": "European Commission confirms cyberattack after hackers claim data breach",
+    "sent_at": "2026-03-28T02:01:48.647306+00:00"
+  },
+  "https://goddaehee.tistory.com/566": {
+    "title": "Claude Code 신기능 'claude code Scheduled Tasks' 리뷰 : 알아서 일하는 동료 AI: Claude Code /schedule로 업무 자동화 하기(Cowork 예약 vs Claude Code)",
+    "sent_at": "2026-03-28T02:01:53.981125+00:00"
+  },
+  "https://openai.com/index/stadler": {
+    "title": "STADLER reshapes knowledge work at a 230-year-old company",
+    "sent_at": "2026-03-28T02:01:55.431723+00:00"
+  },
+  "4HOWpzOgT3eVU2wFa4adFU": {
+    "title": "How we use Abstract Syntax Trees (ASTs) to turn Workflows code into visual diagrams",
+    "sent_at": "2026-03-28T02:01:58.455905+00:00"
+  },
+  "https://www.threads.com/t/DWaCz1ogWvs": {
+    "title": "@feelfree_ai: AI가 똑같은 실수를 반복하지 않게 추론 과정(CoT)을 실시간으로 ᄀ...",
+    "sent_at": "2026-03-28T02:02:16.355623+00:00"
+  },
+  "https://www.threads.com/t/DWYfw_UAeps": {
+    "title": "@feelfree_ai: \"평가 지표(Eval)가 무조건 많다고 AI 에이전트가 똑똑해지는 건 아닙니...",
+    "sent_at": "2026-03-28T02:02:16.355641+00:00"
+  },
+  "https://www.threads.com/t/DWXzzBwCK5C": {
+    "title": "@feelfree_ai: 엣지-클라우드 LLM 환경의 고질적인 네트워크 병목 현상, 이제 진ᄍ...",
+    "sent_at": "2026-03-28T02:02:16.355644+00:00"
   }
 }
