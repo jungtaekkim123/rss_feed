@@ -966,5 +966,85 @@
   "https://www.threads.com/t/DWdMC8UAfej": {
     "title": "@feelfree_ai: 논문 PDF만 툭 던져주면 편집 가능한 PPT와 다이어그램으로 싹 바꿔...",
     "sent_at": "2026-03-30T02:23:26.488552+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47577761": {
+    "title": "Fedware: Government apps that spy harder than the apps they ban",
+    "sent_at": "2026-03-31T02:10:38.048490+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47576861": {
+    "title": "New Washington state law bans noncompete agreements",
+    "sent_at": "2026-03-31T02:10:38.048508+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47575616": {
+    "title": "FTC action against Match and OkCupid for deceiving users, sharing personal data",
+    "sent_at": "2026-03-31T02:10:38.048512+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47575403": {
+    "title": "CodingFont: A game to help you pick a coding font",
+    "sent_at": "2026-03-31T02:10:38.048515+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47575212": {
+    "title": "1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot",
+    "sent_at": "2026-03-31T02:10:38.048517+00:00"
+  },
+  "https://techcrunch.com/?p=3107695": {
+    "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
+    "sent_at": "2026-03-31T02:10:42.537459+00:00"
+  },
+  "https://techcrunch.com/?p=3107773": {
+    "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+    "sent_at": "2026-03-31T02:10:42.537475+00:00"
+  },
+  "https://techcrunch.com/?p=3107690": {
+    "title": "Former Coatue partner raises huge $65M seed for enterprise AI agent startup",
+    "sent_at": "2026-03-31T02:10:42.537478+00:00"
+  },
+  "https://techcrunch.com/?p=3107654": {
+    "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+    "sent_at": "2026-03-31T02:10:42.537481+00:00"
+  },
+  "https://techcrunch.com/?p=3107547": {
+    "title": "What we’re looking for in Startup Battlefield 2026 and how to put your best application forward",
+    "sent_at": "2026-03-31T02:10:42.537484+00:00"
+  },
+  "https://github.blog/?p=94754": {
+    "title": "GitHub for Beginners: Getting started with GitHub security",
+    "sent_at": "2026-03-31T02:10:42.846408+00:00"
+  },
+  "https://goddaehee.tistory.com/570": {
+    "title": "&quot;하네스 엔지니터링&quot; gstack(혼자서 팀처럼 개발하기) 리뷰 : Garry Tan의 Claude Code 셋업을 내 프로젝트에 적용하는 법",
+    "sent_at": "2026-03-31T02:10:51.499195+00:00"
+  },
+  "https://goddaehee.tistory.com/569": {
+    "title": "Claude Code 3월 폭풍 업데이트(v2.1.59~87 업데이트) 정리 - 한 달간 20개 릴리스, Auto Memory부터 1M 컨텍스트까지",
+    "sent_at": "2026-03-31T02:10:51.499211+00:00"
+  },
+  "https://openai.com/index/helping-disaster-response-teams-asia": {
+    "title": "Helping disaster response teams turn AI into action across Asia",
+    "sent_at": "2026-03-31T02:10:55.746318+00:00"
+  },
+  "https://engineering.fb.com/?p=23769": {
+    "title": "AI for American-Produced Cement and Concrete",
+    "sent_at": "2026-03-31T02:10:56.514524+00:00"
+  },
+  "6NYXSzUcRxDdj9UP0kouAK": {
+    "title": "Cloudflare Client-Side Security: smarter detection, now open to everyone",
+    "sent_at": "2026-03-31T02:10:58.377741+00:00"
+  },
+  "1d39ee9ff80d8a07f9c2f17df953c467ee3a21af": {
+    "title": "AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more (March 30, 2026)",
+    "sent_at": "2026-03-31T02:10:59.002799+00:00"
+  },
+  "https://www.threads.com/t/DWht9WNgehp": {
+    "title": "@feelfree_ai: 마이크로소프트가 제대로 일 하나 냈습니다. 상업용으로 당장 쓸 수 ...",
+    "sent_at": "2026-03-31T02:11:16.213515+00:00"
+  },
+  "https://www.threads.com/t/DWgqPxfgVW8": {
+    "title": "@feelfree_ai: Codex를 아직도 단순한 '코드 자판기'로만 생각하셨다면 진짜 핵시...",
+    "sent_at": "2026-03-31T02:11:16.213531+00:00"
+  },
+  "https://www.threads.com/t/DWfq4xfga_V": {
+    "title": "@feelfree_ai: AI 공부할 때 제일 뼈맞는 순간, 아마 '수학'이랑 '컴공 기본기' 장...",
+    "sent_at": "2026-03-31T02:11:16.213534+00:00"
   }
 }
