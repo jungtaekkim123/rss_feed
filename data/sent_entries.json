@@ -1046,5 +1046,105 @@
   "https://www.threads.com/t/DWfq4xfga_V": {
     "title": "@feelfree_ai: AI 공부할 때 제일 뼈맞는 순간, 아마 '수학'이랑 '컴공 기본기' 장...",
     "sent_at": "2026-03-31T02:11:16.213534+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47592755": {
+    "title": "OpenAI closes funding round at an $852B valuation",
+    "sent_at": "2026-04-01T02:27:24.268129+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47591928": {
+    "title": "GitHub's Historic Uptime",
+    "sent_at": "2026-04-01T02:27:24.268145+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47591104": {
+    "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
+    "sent_at": "2026-04-01T02:27:24.268148+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47587935": {
+    "title": "Oracle slashes 30k jobs",
+    "sent_at": "2026-04-01T02:27:24.268151+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47587866": {
+    "title": "Microsoft: Copilot is for entertainment purposes only",
+    "sent_at": "2026-04-01T02:27:24.268153+00:00"
+  },
+  "https://techcrunch.com/?p=3108357": {
+    "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+    "sent_at": "2026-04-01T02:27:29.208229+00:00"
+  },
+  "https://techcrunch.com/?p=3108119": {
+    "title": "Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’",
+    "sent_at": "2026-04-01T02:27:29.208244+00:00"
+  },
+  "https://techcrunch.com/?p=3108324": {
+    "title": "Anthropic is having a month",
+    "sent_at": "2026-04-01T02:27:29.208246+00:00"
+  },
+  "https://techcrunch.com/?p=3107777": {
+    "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+    "sent_at": "2026-04-01T02:27:29.208248+00:00"
+  },
+  "https://techcrunch.com/?p=3108227": {
+    "title": "Robotaxi companies refuse to say how often their AVs need remote help",
+    "sent_at": "2026-04-01T02:27:29.208251+00:00"
+  },
+  "https://github.blog/?p=94904": {
+    "title": "Agent-driven development in Copilot Applied Science",
+    "sent_at": "2026-04-01T02:27:29.884629+00:00"
+  },
+  "https://goddaehee.tistory.com/572": {
+    "title": "Claude Code 소스맵 유출 사건 - npm 실수 한 번에 512,000줄 공개, 유출된 Claude Code 소스로 본 미공개 기능 분석",
+    "sent_at": "2026-04-01T02:27:36.798876+00:00"
+  },
+  "https://goddaehee.tistory.com/571": {
+    "title": "openai/codex-plugin-cc(Claude Code용 공식 Codex 플러그인) : Claude가 코딩하고 Codex가 리뷰한다",
+    "sent_at": "2026-04-01T02:27:36.798887+00:00"
+  },
+  "https://openai.com/index/accelerating-the-next-phase-ai": {
+    "title": "Accelerating the next phase of AI",
+    "sent_at": "2026-04-01T02:27:41.590924+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/": {
+    "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+    "sent_at": "2026-04-01T02:27:42.439031+00:00"
+  },
+  "https://engineering.fb.com/?p=23771": {
+    "title": "Meta Adaptive Ranking Model: Bending the Inference Scaling Curve to Serve LLM-Scale Models for Ads",
+    "sent_at": "2026-04-01T02:27:43.317894+00:00"
+  },
+  "https://blogs.nvidia.com/?p=91796": {
+    "title": "Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid",
+    "sent_at": "2026-04-01T02:27:44.006337+00:00"
+  },
+  "https://huggingface.co/blog/ibm-granite/granite-4-vision": {
+    "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+    "sent_at": "2026-04-01T02:27:45.817980+00:00"
+  },
+  "https://huggingface.co/blog/trl-v1": {
+    "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+    "sent_at": "2026-04-01T02:27:45.817993+00:00"
+  },
+  "64lPEfE3ML34AycHER46Tz": {
+    "title": "Introducing Programmable Flow Protection: custom DDoS mitigation logic for Magic Transit customers",
+    "sent_at": "2026-04-01T02:27:47.740097+00:00"
+  },
+  "898da69b3c60854fe86e286985fc553f5a9f65fc": {
+    "title": "Announcing the AWS Sustainability console: Programmatic access, configurable CSV reports, and Scope 1–3 reporting in one place",
+    "sent_at": "2026-04-01T02:27:48.456657+00:00"
+  },
+  "https://toss.tech/article/es-toolkit": {
+    "title": "97% Smaller, 2x Faster: How es-toolkit Reached 10 Million Weekly Downloads",
+    "sent_at": "2026-04-01T02:27:55.508252+00:00"
+  },
+  "https://www.threads.com/t/DWkSER8AWfr": {
+    "title": "@feelfree_ai: 350M 사이즈 모델이 0.8B 모델을 잡았습니다. Liquid AI에서 LFM2.5-350M을 공개했...",
+    "sent_at": "2026-04-01T02:28:07.423923+00:00"
+  },
+  "https://www.threads.com/t/DWjRIK4gZTJ": {
+    "title": "@feelfree_ai: LangGraph, CrewAI, AutoGen... 프레임워크 바뀔 때마다 에이전트 코드 새로 짜는 거 지ᄎ...",
+    "sent_at": "2026-04-01T02:28:07.423935+00:00"
+  },
+  "https://www.threads.com/t/DWiDf2oAZNJ": {
+    "title": "@feelfree_ai: 웹에서 AI 모델을 돌리는 생태계가 또 한 번 크게 바뀔 것 같습니ᄃ...",
+    "sent_at": "2026-04-01T02:28:07.423938+00:00"
   }
 }
