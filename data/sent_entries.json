@@ -1250,5 +1250,101 @@
   "https://www.threads.com/t/DWk8bPCgW4F": {
     "title": "@feelfree_ai: 쓰던 DB 그대로 AI 에이전트를 프로덕션까지 올릴 수 있다면 어떨까ᄋ...",
     "sent_at": "2026-04-02T02:07:38.299898+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47618189": {
+    "title": "Tailscale's new macOS home",
+    "sent_at": "2026-04-03T02:08:34.610413+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47618084": {
+    "title": "Cursor 3",
+    "sent_at": "2026-04-03T02:08:34.610430+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47616361": {
+    "title": "Google releases Gemma 4 open models",
+    "sent_at": "2026-04-03T02:08:34.610434+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47616242": {
+    "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+    "sent_at": "2026-04-03T02:08:34.610436+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47615490": {
+    "title": "Artemis computer running two instances of MS outlook; they can't figure out why",
+    "sent_at": "2026-04-03T02:08:34.610438+00:00"
+  },
+  "https://techcrunch.com/?p=3108999": {
+    "title": "Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets",
+    "sent_at": "2026-04-03T02:08:39.078657+00:00"
+  },
+  "https://techcrunch.com/?p=3109020": {
+    "title": "Telehealth giant Hims & Hers says its customer support system was hacked",
+    "sent_at": "2026-04-03T02:08:39.078696+00:00"
+  },
+  "https://techcrunch.com/?p=3108914": {
+    "title": "Artemis II is NASA’s last moon mission without Silicon Valley",
+    "sent_at": "2026-04-03T02:08:39.078700+00:00"
+  },
+  "https://techcrunch.com/?p=3107868": {
+    "title": "Gateway Capital announces first close of $25M Fund II",
+    "sent_at": "2026-04-03T02:08:39.078702+00:00"
+  },
+  "https://techcrunch.com/?p=3108907": {
+    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+    "sent_at": "2026-04-03T02:08:39.078704+00:00"
+  },
+  "https://goddaehee.tistory.com/575": {
+    "title": "&quot;하네스 엔지니어링&quot; - Everything Claude Code 리뷰 : 혼자서 팀처럼 개발하는 에이전트 셋업(ECC 하네스 셋업으로 생산성 2배 끌어올리기)",
+    "sent_at": "2026-04-03T02:08:46.848018+00:00"
+  },
+  "https://goddaehee.tistory.com/574": {
+    "title": "Claude Code NO_FLICKER(깜빡임 없는 풀스크린 렌더링 모드) 리뷰 : 화면 깜빡임과 스크롤 점프가 정말 사라질까",
+    "sent_at": "2026-04-03T02:08:46.848032+00:00"
+  },
+  "https://openai.com/index/openai-acquires-tbpn": {
+    "title": "OpenAI acquires TBPN",
+    "sent_at": "2026-04-03T02:08:49.728647+00:00"
+  },
+  "https://openai.com/index/codex-flexible-pricing-for-teams": {
+    "title": "Codex now offers more flexible pricing for teams",
+    "sent_at": "2026-04-03T02:08:49.728687+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/": {
+    "title": "New ways to balance cost and reliability in the Gemini API",
+    "sent_at": "2026-04-03T02:08:51.249748+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/": {
+    "title": "Create, edit and share videos at no cost in Google Vids",
+    "sent_at": "2026-04-03T02:08:51.249760+00:00"
+  },
+  "https://engineering.fb.com/?p=23820": {
+    "title": "KernelEvolve: How Meta’s Ranking Engineer Agent Optimizes AI Infrastructure",
+    "sent_at": "2026-04-03T02:08:51.794916+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92019": {
+    "title": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
+    "sent_at": "2026-04-03T02:08:53.240177+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92005": {
+    "title": "Press Start on April: GeForce NOW Brings 10 Games to the Cloud",
+    "sent_at": "2026-04-03T02:08:53.240193+00:00"
+  },
+  "https://huggingface.co/blog/gemma4": {
+    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+    "sent_at": "2026-04-03T02:08:53.791788+00:00"
+  },
+  "635WBzM8GMiVZhyzKFeWMf": {
+    "title": "Why we're rethinking cache for the AI era",
+    "sent_at": "2026-04-03T02:08:55.076578+00:00"
+  },
+  "https://toss.tech/article/Designer": {
+    "title": "토스가 디자인 직무를 2개로 줄인 이유",
+    "sent_at": "2026-04-03T02:09:01.935025+00:00"
+  },
+  "https://www.threads.com/t/DWpd61Tgaju": {
+    "title": "@feelfree_ai: 아키텍처 변경 없이 '훈련 데이터' 하나만으로 체급을 파괴한 모델...",
+    "sent_at": "2026-04-03T02:09:16.036485+00:00"
+  },
+  "https://www.threads.com/t/DWnqvvkAQ-5": {
+    "title": "@feelfree_ai: 최근 난리 났던 클로드(Claude) 소스코드 유출 사태, 도대체 내부 아키텍처...",
+    "sent_at": "2026-04-03T02:09:16.036502+00:00"
   }
 }
