@@ -1402,5 +1402,57 @@
   "https://www.threads.com/t/DWqGf5JgcTe": {
     "title": "@feelfree_ai: AI 에이전트 서비스 준비할 때 은근히 가장 골치 아픈 '개인정보(PII) ᄋ...",
     "sent_at": "2026-04-04T02:01:41.199899+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47642569": {
+    "title": "How many products does Microsoft have named 'Copilot'?",
+    "sent_at": "2026-04-05T02:22:24.948168+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47640728": {
+    "title": "Show HN: A game where you build a GPU",
+    "sent_at": "2026-04-05T02:22:24.948185+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47640380": {
+    "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+    "sent_at": "2026-04-05T02:22:24.948188+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47639976": {
+    "title": "German men 18-45 need military permit for extended stays abroad",
+    "sent_at": "2026-04-05T02:22:24.948191+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47639524": {
+    "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+    "sent_at": "2026-04-05T02:22:24.948193+00:00"
+  },
+  "https://techcrunch.com/?p=3109434": {
+    "title": "Peter Thiel’s big bet on solar-powered cow collars",
+    "sent_at": "2026-04-05T02:22:28.854657+00:00"
+  },
+  "https://techcrunch.com/?p=3109441": {
+    "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
+    "sent_at": "2026-04-05T02:22:28.854673+00:00"
+  },
+  "https://techcrunch.com/?p=3109429": {
+    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+    "sent_at": "2026-04-05T02:22:28.854675+00:00"
+  },
+  "https://techcrunch.com/?p=3109040": {
+    "title": "After fighting malware for decades, this cybersecurity veteran is now hacking drones",
+    "sent_at": "2026-04-05T02:22:28.854677+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92122": {
+    "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+    "sent_at": "2026-04-05T02:22:37.374404+00:00"
+  },
+  "https://www.threads.com/t/DWuzU8QAX5p": {
+    "title": "@feelfree_ai: VLM(시각언어모델) 돌릴 때 램 부족해서 뻗는 일, 이제 확 줄어들 ᄀ...",
+    "sent_at": "2026-04-05T02:22:56.179084+00:00"
+  },
+  "https://www.threads.com/t/DWtRfDjEnrT": {
+    "title": "@feelfree_ai: AI 에이전트 만들 때 시스템 프롬프트에 모든 지시사항을 몽땅 때려 ...",
+    "sent_at": "2026-04-05T02:22:56.179101+00:00"
+  },
+  "https://www.threads.com/t/DWsd0OFEkX0": {
+    "title": "@feelfree_ai: AI 에이전트의 기억(Memory) 세팅, 오라클 DB 하나로 1시간 만에 끝낸 흥미ᄅ...",
+    "sent_at": "2026-04-05T02:22:56.179104+00:00"
   }
 }
