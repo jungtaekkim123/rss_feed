@@ -1454,5 +1454,57 @@
   "https://www.threads.com/t/DWsd0OFEkX0": {
     "title": "@feelfree_ai: AI 에이전트의 기억(Memory) 세팅, 오라클 DB 하나로 1시간 만에 끝낸 흥미ᄅ...",
     "sent_at": "2026-04-05T02:22:56.179104+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47652561": {
+    "title": "Gemma 4 on iPhone",
+    "sent_at": "2026-04-06T02:23:39.403589+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47652400": {
+    "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+    "sent_at": "2026-04-06T02:23:39.403604+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47651703": {
+    "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+    "sent_at": "2026-04-06T02:23:39.403608+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47651540": {
+    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+    "sent_at": "2026-04-06T02:23:39.403610+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47650726": {
+    "title": "Codex pricing to align with API token usage, instead of per-message",
+    "sent_at": "2026-04-06T02:23:39.403612+00:00"
+  },
+  "https://techcrunch.com/?p=3109474": {
+    "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
+    "sent_at": "2026-04-06T02:23:43.864981+00:00"
+  },
+  "https://techcrunch.com/?p=3109466": {
+    "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+    "sent_at": "2026-04-06T02:23:43.864990+00:00"
+  },
+  "https://techcrunch.com/?p=3050440": {
+    "title": "As people look for ways to make new friends, here are the apps promising to help",
+    "sent_at": "2026-04-06T02:23:43.864993+00:00"
+  },
+  "https://techcrunch.com/?p=3109366": {
+    "title": "TechCrunch Mobility: ‘A stunning lack of transparency’",
+    "sent_at": "2026-04-06T02:23:43.864996+00:00"
+  },
+  "https://techcrunch.com/?p=3109456": {
+    "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+    "sent_at": "2026-04-06T02:23:43.864998+00:00"
+  },
+  "https://www.threads.com/t/DWxPJmrE4Uh": {
+    "title": "@feelfree_ai: AI 에이전트 만드실 때 '메모리' 관리 어떻게 하시나요? 파편화된 메모리...",
+    "sent_at": "2026-04-06T02:24:16.858754+00:00"
+  },
+  "https://www.threads.com/t/DWv_PRWAVAz": {
+    "title": "@feelfree_ai: AI한테 아직도 \"코드 포맷팅 해\"라고 프롬프트 치시나요? 🤦‍♂️ CLAUDE.md에 배...",
+    "sent_at": "2026-04-06T02:24:16.858769+00:00"
+  },
+  "https://www.threads.com/t/DWvICMEAXuf": {
+    "title": "@feelfree_ai: 밤새 돌려놓은 모델, 아침에 눈떴는데 Loss가 NaN 떠있을 때의 그 허타...",
+    "sent_at": "2026-04-06T02:24:16.858773+00:00"
   }
 }
