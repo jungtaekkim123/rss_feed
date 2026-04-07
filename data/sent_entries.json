@@ -1506,5 +1506,93 @@
   "https://www.threads.com/t/DWvICMEAXuf": {
     "title": "@feelfree_ai: 밤새 돌려놓은 모델, 아침에 눈떴는데 Loss가 NaN 떠있을 때의 그 허타...",
     "sent_at": "2026-04-06T02:24:16.858773+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47664912": {
+    "title": "The cult of vibe coding is dogfooding run amok",
+    "sent_at": "2026-04-07T02:11:14.369774+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47664186": {
+    "title": "Battle for Wesnoth: open-source, turn-based strategy game",
+    "sent_at": "2026-04-07T02:11:14.369785+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47662857": {
+    "title": "81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone",
+    "sent_at": "2026-04-07T02:11:14.369789+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47662234": {
+    "title": "A cryptography engineer's perspective on quantum computing timelines",
+    "sent_at": "2026-04-07T02:11:14.369791+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47661439": {
+    "title": "I won't download your app. The web version is a-ok",
+    "sent_at": "2026-04-07T02:11:14.369793+00:00"
+  },
+  "https://techcrunch.com/?p=3109755": {
+    "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+    "sent_at": "2026-04-07T02:11:18.892087+00:00"
+  },
+  "https://techcrunch.com/?p=3109825": {
+    "title": "Gas prices aren’t the only factor fueling used EV sales",
+    "sent_at": "2026-04-07T02:11:18.892096+00:00"
+  },
+  "https://techcrunch.com/?p=3109710": {
+    "title": "Google quietly launched an AI dictation app that works offline",
+    "sent_at": "2026-04-07T02:11:18.892100+00:00"
+  },
+  "https://techcrunch.com/?p=3109672": {
+    "title": "Netflix is expanding into kids’ games with a new stand-alone app",
+    "sent_at": "2026-04-07T02:11:18.892102+00:00"
+  },
+  "https://techcrunch.com/?p=3109676": {
+    "title": "Why safety regulators closed their investigation into Tesla’s remote parking feature",
+    "sent_at": "2026-04-07T02:11:18.892104+00:00"
+  },
+  "https://github.blog/?p=95067": {
+    "title": "GitHub Copilot CLI combines model families for a second opinion",
+    "sent_at": "2026-04-07T02:11:19.188492+00:00"
+  },
+  "https://openai.com/index/introducing-openai-safety-fellowship": {
+    "title": "Announcing the OpenAI Safety Fellowship",
+    "sent_at": "2026-04-07T02:11:27.840134+00:00"
+  },
+  "https://openai.com/index/industrial-policy-for-the-intelligence-age": {
+    "title": "Industrial policy for the Intelligence Age",
+    "sent_at": "2026-04-07T02:11:27.840149+00:00"
+  },
+  "https://engineering.fb.com/?p=23840": {
+    "title": "How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines",
+    "sent_at": "2026-04-07T02:11:28.418926+00:00"
+  },
+  "https://huggingface.co/blog/introducing-gradio-server": {
+    "title": "Any Custom Frontend with Gradio's Backend",
+    "sent_at": "2026-04-07T02:11:29.070527+00:00"
+  },
+  "https://engineering.atspotify.com/?p=49rr6P570qnmmCh52czdP1": {
+    "title": "Let’s Talk Agentic Development: Spotify x Anthropic Live",
+    "sent_at": "2026-04-07T02:11:29.707513+00:00"
+  },
+  "5wIrgcYpkdmQZSnU1skUjM": {
+    "title": "How we built Organizations to help enterprises manage Cloudflare at scale",
+    "sent_at": "2026-04-07T02:11:31.749576+00:00"
+  },
+  "ebe7e793c3577df742e335aff396ea71bb052df1": {
+    "title": "AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)",
+    "sent_at": "2026-04-07T02:11:32.160870+00:00"
+  },
+  "https://www.threads.com/t/DWzz9aMiFnH": {
+    "title": "@feelfree_ai: LLM 추론 속도 올리려고 정확도 타협하던 건 이제 옛말이 될지도 모...",
+    "sent_at": "2026-04-07T02:11:50.992764+00:00"
+  },
+  "https://www.threads.com/t/DWyhiMJCMld": {
+    "title": "@feelfree_ai: NVIDIA의 강력한 음성 인식 모델 'Parakeet ASR'을 이제 명령어 한 줄로 내...",
+    "sent_at": "2026-04-07T02:11:50.992776+00:00"
+  },
+  "https://www.threads.com/t/DWx_7llAuaM": {
+    "title": "@feelfree_ai: AI 에이전트가 진화하려면 모델 가중치만 업데이트하면 될까요? 랭ᄎ...",
+    "sent_at": "2026-04-07T02:11:50.992779+00:00"
+  },
+  "https://www.threads.com/t/DWxjvwAiYKa": {
+    "title": "@feelfree_ai: 클로드 코드 유출 사태를 보고, 아예 본인이 100% 통제 가능한 코딩 CLI ᄐ...",
+    "sent_at": "2026-04-07T02:11:50.992782+00:00"
   }
 }
