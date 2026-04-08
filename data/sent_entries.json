@@ -1594,5 +1594,69 @@
   "https://www.threads.com/t/DWxjvwAiYKa": {
     "title": "@feelfree_ai: 클로드 코드 유출 사태를 보고, 아예 본인이 100% 통제 가능한 코딩 CLI ᄐ...",
     "sent_at": "2026-04-07T02:11:50.992782+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47679258": {
+    "title": "System Card: Claude Mythos Preview [pdf]",
+    "sent_at": "2026-04-08T02:12:01.407595+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47679121": {
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "sent_at": "2026-04-08T02:12:01.407613+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47678573": {
+    "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+    "sent_at": "2026-04-08T02:12:01.407616+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47677853": {
+    "title": "GLM-5.1: Towards Long-Horizon Tasks",
+    "sent_at": "2026-04-08T02:12:01.407619+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47676509": {
+    "title": "Lunar Flyby",
+    "sent_at": "2026-04-08T02:12:01.407621+00:00"
+  },
+  "https://techcrunch.com/?p=3110230": {
+    "title": "I can’t help rooting for tiny open source AI model maker Arcee",
+    "sent_at": "2026-04-08T02:12:06.016968+00:00"
+  },
+  "https://techcrunch.com/?p=3110181": {
+    "title": "VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups",
+    "sent_at": "2026-04-08T02:12:06.016983+00:00"
+  },
+  "https://techcrunch.com/?p=3110274": {
+    "title": "Iranian hackers are targeting American critical infrastructure, US agencies warn",
+    "sent_at": "2026-04-08T02:12:06.016987+00:00"
+  },
+  "https://techcrunch.com/?p=3110209": {
+    "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
+    "sent_at": "2026-04-08T02:12:06.016989+00:00"
+  },
+  "https://techcrunch.com/?p=3110172": {
+    "title": "Intel signs on to Elon Musk’s Terafab chips project",
+    "sent_at": "2026-04-08T02:12:06.016991+00:00"
+  },
+  "1vlCZshPEwWazkAnJsxN44": {
+    "title": "Cloudflare targets 2029 for full post-quantum security",
+    "sent_at": "2026-04-08T02:12:16.853388+00:00"
+  },
+  "529e67e573627282bf7f126c45a7ecd4b2c338dc": {
+    "title": "Launching S3 Files, making S3 buckets accessible as file systems",
+    "sent_at": "2026-04-08T02:12:17.465644+00:00"
+  },
+  "https://toss.tech/article/layers-of-your-time": {
+    "title": "Layers of your time : 토스와 함께한 시간을 기념하기",
+    "sent_at": "2026-04-08T02:12:23.945989+00:00"
+  },
+  "https://www.threads.com/t/DW2PmTvEuS6": {
+    "title": "@feelfree_ai: 이제 단 8GB VRAM만 있으면 구글 Gemma 4를 내 방 PC에서 직접 파인튜닝할 ...",
+    "sent_at": "2026-04-08T02:12:36.221476+00:00"
+  },
+  "https://www.threads.com/t/DW05mRAAYS_": {
+    "title": "@feelfree_ai: 나온 지 꽤 됐는데, 혹시 실무에서 Claude Code 'AutoDream' 쓰고 계신 분 있나요? ...",
+    "sent_at": "2026-04-08T02:12:36.221494+00:00"
+  },
+  "https://www.threads.com/t/DW0SFFxgXNN": {
+    "title": "@feelfree_ai: 이제 수백 페이지짜리 논문이나 매뉴얼을 보며 고통받지 않으셔도 되...",
+    "sent_at": "2026-04-08T02:12:36.221497+00:00"
   }
 }
