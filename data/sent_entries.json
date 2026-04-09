@@ -1658,5 +1658,85 @@
   "https://www.threads.com/t/DW0SFFxgXNN": {
     "title": "@feelfree_ai: 이제 수백 페이지짜리 논문이나 매뉴얼을 보며 고통받지 않으셔도 되...",
     "sent_at": "2026-04-08T02:12:36.221497+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47693679": {
+    "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+    "sent_at": "2026-04-09T02:05:27.851765+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47691730": {
+    "title": "I ported Mac OS X to the Nintendo Wii",
+    "sent_at": "2026-04-09T02:05:27.851779+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47690977": {
+    "title": "Microsoft terminates VeraCrypt account, halting Windows updates",
+    "sent_at": "2026-04-09T02:05:27.851782+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47689648": {
+    "title": "ML promises to be profoundly weird",
+    "sent_at": "2026-04-09T02:05:27.851785+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47689237": {
+    "title": "US cities are axing Flock Safety surveillance technology",
+    "sent_at": "2026-04-09T02:05:27.851788+00:00"
+  },
+  "https://techcrunch.com/?p=3110668": {
+    "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
+    "sent_at": "2026-04-09T02:05:32.316749+00:00"
+  },
+  "https://techcrunch.com/?p=3110358": {
+    "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+    "sent_at": "2026-04-09T02:05:32.316761+00:00"
+  },
+  "https://techcrunch.com/?p=3110530": {
+    "title": "Poke makes using AI agents as easy as sending a text",
+    "sent_at": "2026-04-09T02:05:32.316764+00:00"
+  },
+  "https://techcrunch.com/?p=3110421": {
+    "title": "Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions",
+    "sent_at": "2026-04-09T02:05:32.316766+00:00"
+  },
+  "https://techcrunch.com/?p=3110560": {
+    "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+    "sent_at": "2026-04-09T02:05:32.316768+00:00"
+  },
+  "https://github.blog/?p=95093": {
+    "title": "GitHub Universe is back: We want you to take the stage",
+    "sent_at": "2026-04-09T02:05:32.646114+00:00"
+  },
+  "https://openai.com/index/next-phase-of-enterprise-ai": {
+    "title": "The next phase of enterprise AI",
+    "sent_at": "2026-04-09T02:05:40.813234+00:00"
+  },
+  "https://openai.com/index/introducing-child-safety-blueprint": {
+    "title": "Introducing the Child Safety Blueprint",
+    "sent_at": "2026-04-09T02:05:40.813244+00:00"
+  },
+  "https://engineering.fb.com/?p=23871": {
+    "title": "Trust But Canary: Configuration Safety at Scale",
+    "sent_at": "2026-04-09T02:05:41.400145+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/altk-evolve": {
+    "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+    "sent_at": "2026-04-09T02:05:43.236200+00:00"
+  },
+  "https://huggingface.co/blog/safetensors-joins-pytorch-foundation": {
+    "title": "Safetensors is Joining the PyTorch Foundation",
+    "sent_at": "2026-04-09T02:05:43.236211+00:00"
+  },
+  "120kAbSMAaPQdCnfDgfd81": {
+    "title": "From bytecode to bytes: automated magic packet generation",
+    "sent_at": "2026-04-09T02:05:44.489501+00:00"
+  },
+  "https://www.threads.com/t/DW49h4QAQx-": {
+    "title": "@feelfree_ai: 어제 Claude Code로 잡은 버그, 오늘 OpenClaw에 또 설명하느라 지치셨나요? AI 에ᄋ...",
+    "sent_at": "2026-04-09T02:06:02.869462+00:00"
+  },
+  "https://www.threads.com/t/DW3WhSJArKW": {
+    "title": "@feelfree_ai: 내 스마트폰이 알아서 메시지에 답장하고 화면을 터치하며 앱을 조자...",
+    "sent_at": "2026-04-09T02:06:02.869477+00:00"
+  },
+  "https://www.threads.com/t/DW2tWXDEcJS": {
+    "title": "@feelfree_ai: RAG나 긴 컨텍스트 LLM을 돌릴 때 첫 응답(TTFT)이 느려서 답답하셨다ᄆ...",
+    "sent_at": "2026-04-09T02:06:02.869480+00:00"
   }
 }
