@@ -1738,5 +1738,101 @@
   "https://www.threads.com/t/DW2tWXDEcJS": {
     "title": "@feelfree_ai: RAG나 긴 컨텍스트 LLM을 돌릴 때 첫 응답(TTFT)이 느려서 답답하셨다ᄆ...",
     "sent_at": "2026-04-09T02:06:02.869480+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47708818": {
+    "title": "Native Instant Space Switching on macOS",
+    "sent_at": "2026-04-10T02:25:01.496311+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47706268": {
+    "title": "EFF is leaving X",
+    "sent_at": "2026-04-10T02:25:01.496328+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47705952": {
+    "title": "The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy",
+    "sent_at": "2026-04-10T02:25:01.496332+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47703419": {
+    "title": "Meta removes ads for social media addiction litigation",
+    "sent_at": "2026-04-10T02:25:01.496335+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47701233": {
+    "title": "Claude mixes up who said what",
+    "sent_at": "2026-04-10T02:25:01.496337+00:00"
+  },
+  "https://techcrunch.com/?p=3111194": {
+    "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
+    "sent_at": "2026-04-10T02:25:06.241642+00:00"
+  },
+  "https://techcrunch.com/?p=3111133": {
+    "title": "ChatGPT finally offers $100/month Pro plan",
+    "sent_at": "2026-04-10T02:25:06.241664+00:00"
+  },
+  "https://techcrunch.com/?p=3111114": {
+    "title": "EFF is the latest organization to leave X",
+    "sent_at": "2026-04-10T02:25:06.241670+00:00"
+  },
+  "https://techcrunch.com/?p=3111154": {
+    "title": "What founders can learn from Anjuna’s layoffs and recovery",
+    "sent_at": "2026-04-10T02:25:06.241674+00:00"
+  },
+  "https://techcrunch.com/?p=3110991": {
+    "title": "Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs",
+    "sent_at": "2026-04-10T02:25:06.241678+00:00"
+  },
+  "https://github.blog/?p=95150": {
+    "title": "GitHub availability report: March 2026",
+    "sent_at": "2026-04-10T02:25:06.684242+00:00"
+  },
+  "https://goddaehee.tistory.com/577": {
+    "title": "Hermes Agent 리뷰 : 쓸수록 똑똑해지는 AI 에이전트(자가학습 메커니즘) - Hermes Agent로 반복 업무 자동화하기",
+    "sent_at": "2026-04-10T02:25:13.575640+00:00"
+  },
+  "https://goddaehee.tistory.com/576": {
+    "title": "Claude Code 신기능 'Ultraplan' 리뷰 - 터미널 멈춤 없는 클라우드 플래닝(로컬 Plan Mode vs 클라우드 플래닝)",
+    "sent_at": "2026-04-10T02:25:13.575655+00:00"
+  },
+  "https://openai.com/index/cyberagent": {
+    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+    "sent_at": "2026-04-10T02:25:17.275088+00:00"
+  },
+  "https://openai.com/index/full-fan-mode-contest-terms-conditions": {
+    "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+    "sent_at": "2026-04-10T02:25:17.275104+00:00"
+  },
+  "https://engineering.fb.com/?p=23856": {
+    "title": "Escaping the Fork: How Meta Modernized WebRTC Across 50+ Use Cases",
+    "sent_at": "2026-04-10T02:25:18.067980+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92248": {
+    "title": "Strength and Destiny Collide: ‘Samson: A Tyndalston Story’ Arrives in the Cloud",
+    "sent_at": "2026-04-10T02:25:18.549279+00:00"
+  },
+  "https://huggingface.co/blog/waypoint-1-5": {
+    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+    "sent_at": "2026-04-10T02:25:20.271216+00:00"
+  },
+  "https://huggingface.co/blog/multimodal-sentence-transformers": {
+    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "sent_at": "2026-04-10T02:25:20.271232+00:00"
+  },
+  "https://toss.tech/article/toss_front": {
+    "title": "하마터면 못생겨질 뻔했다 - 토스 프론트 2 제작기",
+    "sent_at": "2026-04-10T02:25:28.281183+00:00"
+  },
+  "https://www.threads.com/t/DW7wGMqCHlM": {
+    "title": "@feelfree_ai: 이제 프로덕션 레벨에 AI 에이전트를 배포하는 게 한결 수월해지겠ᄂ...",
+    "sent_at": "2026-04-10T02:25:41.217666+00:00"
+  },
+  "https://www.threads.com/t/DW7ZtD5geXZ": {
+    "title": "@feelfree_ai: 고작 450M 파라미터로 웹 브라우저에서 바로 돌아가는 시각 모델, 이거 시...",
+    "sent_at": "2026-04-10T02:25:41.217682+00:00"
+  },
+  "https://www.threads.com/t/DW5_TkLASZn": {
+    "title": "@feelfree_ai: 아무 도메인이나 다 찌를 수 있는 샌드박스, 과연 진짜 안전한 샌...",
+    "sent_at": "2026-04-10T02:25:41.217685+00:00"
+  },
+  "https://www.threads.com/t/DW5t03ogcTX": {
+    "title": "@feelfree_ai: 수백 페이지짜리 문서 던져주면 기존 RAG가 엉뚱한 소리 하는 거, 다드...",
+    "sent_at": "2026-04-10T02:25:41.217687+00:00"
   }
 }
