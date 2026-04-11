@@ -1834,5 +1834,89 @@
   "https://www.threads.com/t/DW5t03ogcTX": {
     "title": "@feelfree_ai: 수백 페이지짜리 문서 던져주면 기존 RAG가 엉뚱한 소리 하는 거, 다드...",
     "sent_at": "2026-04-10T02:25:41.217687+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47724352": {
+    "title": "Filing the corners off my MacBooks",
+    "sent_at": "2026-04-11T02:05:07.050832+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47720419": {
+    "title": "Industrial design files for Keychron keyboards and mice",
+    "sent_at": "2026-04-11T02:05:07.050850+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47719942": {
+    "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+    "sent_at": "2026-04-11T02:05:07.050854+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47719740": {
+    "title": "1D Chess",
+    "sent_at": "2026-04-11T02:05:07.050857+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47719602": {
+    "title": "You can't trust macOS Privacy and Security settings",
+    "sent_at": "2026-04-11T02:05:07.050859+00:00"
+  },
+  "https://techcrunch.com/?p=3111631": {
+    "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission",
+    "sent_at": "2026-04-11T02:05:11.578578+00:00"
+  },
+  "https://techcrunch.com/?p=3111361": {
+    "title": "How to watch NASA’s Artemis II splash back down to Earth",
+    "sent_at": "2026-04-11T02:05:11.578595+00:00"
+  },
+  "https://techcrunch.com/?p=3111432": {
+    "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+    "sent_at": "2026-04-11T02:05:11.578598+00:00"
+  },
+  "https://techcrunch.com/?p=3111445": {
+    "title": "Battery recycler Ascend Elements files for bankruptcy",
+    "sent_at": "2026-04-11T02:05:11.578600+00:00"
+  },
+  "https://techcrunch.com/?p=3111370": {
+    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+    "sent_at": "2026-04-11T02:05:11.578603+00:00"
+  },
+  "https://github.blog/?p=95185": {
+    "title": "GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI",
+    "sent_at": "2026-04-11T02:05:12.047226+00:00"
+  },
+  "https://openai.com/academy/custom-gpts": {
+    "title": "Using custom GPTs",
+    "sent_at": "2026-04-11T02:05:25.809606+00:00"
+  },
+  "https://openai.com/academy/customer-success": {
+    "title": "ChatGPT for customer success teams",
+    "sent_at": "2026-04-11T02:05:25.809622+00:00"
+  },
+  "https://openai.com/academy/applications-of-ai": {
+    "title": "Applications of AI at OpenAI",
+    "sent_at": "2026-04-11T02:05:25.809625+00:00"
+  },
+  "https://openai.com/academy/search-and-deep-research": {
+    "title": "Research with ChatGPT",
+    "sent_at": "2026-04-11T02:05:25.809628+00:00"
+  },
+  "https://openai.com/academy/data-analysis": {
+    "title": "Analyzing data with ChatGPT",
+    "sent_at": "2026-04-11T02:05:25.809631+00:00"
+  },
+  "14NmmkLAEg9hFIbB9bosqh": {
+    "title": "500 Tbps of capacity: 16 years of scaling our global network",
+    "sent_at": "2026-04-11T02:05:28.382164+00:00"
+  },
+  "https://www.threads.com/t/DW-HF0yAhs-": {
+    "title": "@feelfree_ai: LLM 서빙하실 때 KV 캐시 때문에 GPU 메모리가 꽉 차서 답답하셨던 분들,...",
+    "sent_at": "2026-04-11T02:05:47.716192+00:00"
+  },
+  "https://www.threads.com/t/DW9B8maFNZP": {
+    "title": "@feelfree_ai: Unsloth로 예쁘게 깎은 Gemma 4 모델 하나로 1만 달러 상금을 챙길 기회가 ᄉ...",
+    "sent_at": "2026-04-11T02:05:47.716210+00:00"
+  },
+  "https://www.threads.com/t/DW8ZQloCJJt": {
+    "title": "@feelfree_ai: 한 달 전쯤 올라왔던 건데, 다시 봐도 Nvidia AITune은 진짜 실무자들 가...",
+    "sent_at": "2026-04-11T02:05:47.716214+00:00"
+  },
+  "https://www.threads.com/t/DW791NiEyLD": {
+    "title": "@feelfree_ai: 가장 비싼 모델(Opus)의 성능을 중간 모델(Sonnet)의 가격으로 뽑아낼 ᄉ...",
+    "sent_at": "2026-04-11T02:05:47.716216+00:00"
   }
 }
