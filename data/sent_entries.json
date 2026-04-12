@@ -1918,5 +1918,73 @@
   "https://www.threads.com/t/DW791NiEyLD": {
     "title": "@feelfree_ai: 가장 비싼 모델(Opus)의 성능을 중간 모델(Sonnet)의 가격으로 뽑아낼 ᄉ...",
     "sent_at": "2026-04-11T02:05:47.716216+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47732020": {
+    "title": "Small models also found the vulnerabilities that Mythos found",
+    "sent_at": "2026-04-12T02:27:15.674323+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47730407": {
+    "title": "South Korea introduces universal basic mobile data access",
+    "sent_at": "2026-04-12T02:27:15.674337+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47730194": {
+    "title": "Cirrus Labs to join OpenAI",
+    "sent_at": "2026-04-12T02:27:15.674340+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47728653": {
+    "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
+    "sent_at": "2026-04-12T02:27:15.674343+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47727960": {
+    "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
+    "sent_at": "2026-04-12T02:27:15.674345+00:00"
+  },
+  "https://techcrunch.com/?p=3111689": {
+    "title": "Kalshi wins temporary pause in Arizona criminal case",
+    "sent_at": "2026-04-12T02:27:19.056178+00:00"
+  },
+  "https://techcrunch.com/?p=3111686": {
+    "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
+    "sent_at": "2026-04-12T02:27:19.056188+00:00"
+  },
+  "https://techcrunch.com/?p=3111667": {
+    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+    "sent_at": "2026-04-12T02:27:19.056191+00:00"
+  },
+  "https://techcrunch.com/?p=3111572": {
+    "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
+    "sent_at": "2026-04-12T02:27:19.056194+00:00"
+  },
+  "https://openai.com/academy/getting-started": {
+    "title": "Getting started with ChatGPT",
+    "sent_at": "2026-04-12T02:27:30.782880+00:00"
+  },
+  "https://openai.com/academy/brainstorming": {
+    "title": "Brainstorming with ChatGPT",
+    "sent_at": "2026-04-12T02:27:30.782891+00:00"
+  },
+  "https://openai.com/academy/writing": {
+    "title": "Writing with ChatGPT",
+    "sent_at": "2026-04-12T02:27:30.782894+00:00"
+  },
+  "https://openai.com/academy/research": {
+    "title": "ChatGPT for research",
+    "sent_at": "2026-04-12T02:27:30.782897+00:00"
+  },
+  "https://openai.com/academy/responsible-and-safe-use": {
+    "title": "Responsible and safe use of AI",
+    "sent_at": "2026-04-12T02:27:30.782900+00:00"
+  },
+  "https://www.threads.com/t/DXAx2qpAWwB": {
+    "title": "@feelfree_ai: 이제 파인튜닝 없이 제로샷으로 이미지 분할(Segmentation)과 깊이 추정까ᄌ...",
+    "sent_at": "2026-04-12T02:27:51.943064+00:00"
+  },
+  "https://www.threads.com/t/DW_UpsNAdGL": {
+    "title": "@feelfree_ai: 웹사이트 URL 하나면 깔끔한 Next.js 코드로 완벽히 복제해 주는 오픈소...",
+    "sent_at": "2026-04-12T02:27:51.943075+00:00"
+  },
+  "https://www.threads.com/t/DW-kSNRgVln": {
+    "title": "@feelfree_ai: 단순 PDF 문서를 파싱하는데 굳이 무겁고 비싼 AI 모델을 쓸 필요ᄀ...",
+    "sent_at": "2026-04-12T02:27:51.943079+00:00"
   }
 }
