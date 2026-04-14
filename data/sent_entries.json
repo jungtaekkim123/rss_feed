@@ -1,4 +1,96 @@
 {
+  "https://www.threads.com/t/DXD48C-ARRx": {
+    "title": "@feelfree_ai: AI 업계의 불편한 진실, 팀원 대다수가 제품 개발이 아닌 인프라 'ᄇ...",
+    "sent_at": "2026-04-14T02:26:50.625800+00:00"
+  },
+  "https://www.threads.com/t/DXEYGE7Ads3": {
+    "title": "@feelfree_ai: TPU 문서만 던져줬는데 커널 속도가 4배나 빨라졌습니다. 단순히 ᄉ...",
+    "sent_at": "2026-04-14T02:26:50.625797+00:00"
+  },
+  "https://www.threads.com/t/DXF8ZB8iQP4": {
+    "title": "@feelfree_ai: GPT-4o-mini, 네모트론-120B, Qwen3.5-27B, 제미나이 플래시 라이트까지 전부 압살해버...",
+    "sent_at": "2026-04-14T02:26:50.625782+00:00"
+  },
+  "https://d2.naver.com/news/2009415": {
+    "title": "[사전 안내] 첫 번째 'NAVER SECURITY SEMINAR'가 열립니다.",
+    "sent_at": "2026-04-14T02:26:37.672212+00:00"
+  },
+  "2ae783c62455555449dd97fa9eb4b9730eb5f041": {
+    "title": "AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)",
+    "sent_at": "2026-04-14T02:26:34.069823+00:00"
+  },
+  "3j8ROSAUomMNPrmru3f2U9": {
+    "title": "Dynamic, identity-aware, and secure Sandbox auth",
+    "sent_at": "2026-04-14T02:26:33.435411+00:00"
+  },
+  "7jXMXMjQUIpjGzJdPadO4a": {
+    "title": "Agents have their own computers with Sandboxes GA",
+    "sent_at": "2026-04-14T02:26:33.435408+00:00"
+  },
+  "2OYAJUdGLODlCXKKdCZMeG": {
+    "title": "Durable Objects in Dynamic Workers: Give each AI-generated app its own database",
+    "sent_at": "2026-04-14T02:26:33.435405+00:00"
+  },
+  "5r3Nx1IDtp6B6GRDHqQyWL": {
+    "title": "Building a CLI for all of Cloudflare",
+    "sent_at": "2026-04-14T02:26:33.435390+00:00"
+  },
+  "https://openai.com/academy/finance": {
+    "title": "ChatGPT for finance teams",
+    "sent_at": "2026-04-14T02:26:27.177098+00:00"
+  },
+  "https://openai.com/academy/operations": {
+    "title": "ChatGPT for operations teams",
+    "sent_at": "2026-04-14T02:26:27.177094+00:00"
+  },
+  "https://openai.com/index/cloudflare-openai-agent-cloud": {
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "sent_at": "2026-04-14T02:26:27.177078+00:00"
+  },
+  "https://github.blog/?p=95207": {
+    "title": "GitHub for Beginners: Getting started with GitHub Pages",
+    "sent_at": "2026-04-14T02:26:17.166987+00:00"
+  },
+  "https://techcrunch.com/?p=3111913": {
+    "title": "Thousands of rare concert recordings are landing on the Internet Archive — listen now",
+    "sent_at": "2026-04-14T02:26:16.672180+00:00"
+  },
+  "https://techcrunch.com/?p=3111969": {
+    "title": "Microsoft is officially killing its Outlook Lite app next month",
+    "sent_at": "2026-04-14T02:26:16.672178+00:00"
+  },
+  "https://techcrunch.com/?p=3111958": {
+    "title": "Uber and Nuro begin testing premium robotaxi service in San Francisco",
+    "sent_at": "2026-04-14T02:26:16.672176+00:00"
+  },
+  "https://techcrunch.com/?p=3112057": {
+    "title": "OpenAI has bought AI personal finance startup Hiro",
+    "sent_at": "2026-04-14T02:26:16.672172+00:00"
+  },
+  "https://techcrunch.com/?p=3112039": {
+    "title": "An Amazon warehouse worker died on the job at Oregon facility",
+    "sent_at": "2026-04-14T02:26:16.672157+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47753472": {
+    "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+    "sent_at": "2026-04-14T02:26:11.763190+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47753689": {
+    "title": "Building a CLI for all of Cloudflare",
+    "sent_at": "2026-04-14T02:26:11.763187+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47754379": {
+    "title": "The Future of Everything Is Lies, I Guess: Safety",
+    "sent_at": "2026-04-14T02:26:11.763185+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47755629": {
+    "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+    "sent_at": "2026-04-14T02:26:11.763181+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47757495": {
+    "title": "GitHub Stacked PRs",
+    "sent_at": "2026-04-14T02:26:11.763164+00:00"
+  },
   "https://www.threads.com/t/DXBL44kgScG": {
     "title": "@feelfree_ai: VRAM 4GB 일반 PC 환경에서 돌아가는 가볍고 강력한 오픈소스 TTS 써보셔...",
     "sent_at": "2026-04-13T02:32:49.432910+00:00"
@@ -1906,97 +1998,5 @@
   "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune": {
     "title": "Build a Domain-Specific Embedding Model in Under a Day",
     "sent_at": "2026-03-21T13:48:01.283011+00:00"
-  },
-  "https://blogs.nvidia.com/?p=90843": {
-    "title": "NVIDIA, Telecom Leaders Build AI Grids to Optimize Inference on Distributed Networks",
-    "sent_at": "2026-03-21T13:48:00.675806+00:00"
-  },
-  "https://blogs.nvidia.com/?p=91090": {
-    "title": "More Than Meets the Eye: NVIDIA RTX-Accelerated Computers Now Connect Directly to Apple Vision Pro",
-    "sent_at": "2026-03-21T13:48:00.675804+00:00"
-  },
-  "https://blogs.nvidia.com/?p=91222": {
-    "title": "From Simulation to Production: How to Build Robots With AI",
-    "sent_at": "2026-03-21T13:48:00.675801+00:00"
-  },
-  "https://blogs.nvidia.com/?p=91463": {
-    "title": "Smooth Moves: 90 Frames-Per-Second Virtual Reality Arrives on GeForce NOW",
-    "sent_at": "2026-03-21T13:48:00.675798+00:00"
-  },
-  "https://blogs.nvidia.com/?p=91623&preview=true&preview_id=91623": {
-    "title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
-    "sent_at": "2026-03-21T13:48:00.675782+00:00"
-  },
-  "https://engineering.fb.com/?p=23674": {
-    "title": "FFmpeg at Meta: Media Processing at Scale",
-    "sent_at": "2026-03-21T13:48:00.124872+00:00"
-  },
-  "https://engineering.fb.com/?p=23690": {
-    "title": "How Advanced Browsing Protection Works in Messenger",
-    "sent_at": "2026-03-21T13:48:00.124870+00:00"
-  },
-  "https://engineering.fb.com/?p=23722": {
-    "title": "Patch Me If You Can: AI Codemods for Secure-by-Default Android Apps",
-    "sent_at": "2026-03-21T13:48:00.124868+00:00"
-  },
-  "https://engineering.fb.com/?p=23732": {
-    "title": "Ranking Engineer Agent (REA): The Autonomous AI Agent Accelerating Meta’s Ads Ranking Innovation",
-    "sent_at": "2026-03-21T13:48:00.124865+00:00"
-  },
-  "https://engineering.fb.com/?p=23703": {
-    "title": "Friend Bubbles: Enhancing Social Discovery on Facebook Reels",
-    "sent_at": "2026-03-21T13:48:00.124850+00:00"
-  },
-  "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/": {
-    "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
-    "sent_at": "2026-03-21T13:47:59.585921+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/": {
-    "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
-    "sent_at": "2026-03-21T13:47:59.585919+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/": {
-    "title": "How AI is helping improve heart health in rural Australia",
-    "sent_at": "2026-03-21T13:47:59.585916+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/": {
-    "title": "Our latest investment in open source security for the AI era",
-    "sent_at": "2026-03-21T13:47:59.585913+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/": {
-    "title": "Bringing the power of Personal Intelligence to more people",
-    "sent_at": "2026-03-21T13:47:59.585898+00:00"
-  },
-  "https://openai.com/index/equipping-workers-with-insights-about-compensation": {
-    "title": "Equipping workers with insights about compensation",
-    "sent_at": "2026-03-21T13:47:58.973758+00:00"
-  },
-  "https://openai.com/index/japan-teen-safety-blueprint": {
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "sent_at": "2026-03-21T13:47:58.973755+00:00"
-  },
-  "https://openai.com/index/introducing-gpt-5-4-mini-and-nano": {
-    "title": "Introducing GPT-5.4 mini and nano",
-    "sent_at": "2026-03-21T13:47:58.973753+00:00"
-  },
-  "https://openai.com/index/openai-to-acquire-astral": {
-    "title": "OpenAI to acquire Astral",
-    "sent_at": "2026-03-21T13:47:58.973749+00:00"
-  },
-  "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment": {
-    "title": "How we monitor internal coding agents for misalignment",
-    "sent_at": "2026-03-21T13:47:58.973733+00:00"
-  },
-  "https://goddaehee.tistory.com/551": {
-    "title": "개발자를 위한 MCP 추천(5-2) - Supabase CLI와 MCP 비교 분석 해보기",
-    "sent_at": "2026-03-21T13:47:56.305320+00:00"
-  },
-  "https://goddaehee.tistory.com/552": {
-    "title": "MiroFish 뜯어보기(1) - 이론편 : 문서 하나로 수천 명의 가상 인간을 시뮬레이션하는 집단 지능 엔진",
-    "sent_at": "2026-03-21T13:47:56.305317+00:00"
-  },
-  "https://goddaehee.tistory.com/553": {
-    "title": "Agent Skill 오픈 표준(Claude Skills는 Claude 전용이 아니다) - SKILL.md 하나로 Claude, Cursor, Copilot, Gemini 전부 쓰는 방법",
-    "sent_at": "2026-03-21T13:47:56.305314+00:00"
   }
 }
