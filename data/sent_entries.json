@@ -1,4 +1,104 @@
 {
+  "https://www.threads.com/t/DXGUGnqAYuV": {
+    "title": "@feelfree_ai: 내 컴퓨터 안에 묻혀있는 수많은 파일들, 이제 키보드 말고 '목소ᄅ...",
+    "sent_at": "2026-04-15T02:24:54.238172+00:00"
+  },
+  "https://www.threads.com/t/DXGzj2-AaOt": {
+    "title": "@feelfree_ai: FastAPI로 MCP 서버 구축하실 때, 라우팅 구조가 묘하게 겉도는 느낌 받으시...",
+    "sent_at": "2026-04-15T02:24:54.238170+00:00"
+  },
+  "https://www.threads.com/t/DXHH3tFD5Ne": {
+    "title": "@feelfree_ai: 벡터 DB 돌리다 메모리 압박에 시달려보셨다면 반가울 소식입니다....",
+    "sent_at": "2026-04-15T02:24:54.238167+00:00"
+  },
+  "https://www.threads.com/t/DXIjngRgZNC": {
+    "title": "@feelfree_ai: AI 에이전트를 아직도 단순 while 루프로 짜고 계신가요? 자칫하면 고객...",
+    "sent_at": "2026-04-15T02:24:54.238158+00:00"
+  },
+  "c1d08c79b319f945ee2c245891d0ca4ffb6a45ac": {
+    "title": "AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity",
+    "sent_at": "2026-04-15T02:24:34.373942+00:00"
+  },
+  "iAIJH3zvDaXoiDMugrwOv": {
+    "title": "Secure private networking for everyone: users, nodes, agents, Workers — introducing Cloudflare Mesh",
+    "sent_at": "2026-04-15T02:24:33.985047+00:00"
+  },
+  "6pXy7tbG2SlwZZPQuO14Rq": {
+    "title": "Managed OAuth for Access: make internal apps agent-ready in one click",
+    "sent_at": "2026-04-15T02:24:33.985045+00:00"
+  },
+  "73AaroR7GH8sXdbfIV99Fl": {
+    "title": "Scaling MCP adoption: Our reference architecture for simpler, safer and cheaper enterprise deployments of MCP",
+    "sent_at": "2026-04-15T02:24:33.985042+00:00"
+  },
+  "4cMjGGRR98LV3HgGdwgWrf": {
+    "title": "Securing non-human identities: automated revocation, OAuth, and scoped permissions",
+    "sent_at": "2026-04-15T02:24:33.985033+00:00"
+  },
+  "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/": {
+    "title": "Bringing people together at AI for the Economy Forum",
+    "sent_at": "2026-04-15T02:24:28.979434+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/": {
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "sent_at": "2026-04-15T02:24:28.979426+00:00"
+  },
+  "https://openai.com/academy/healthcare": {
+    "title": "Healthcare",
+    "sent_at": "2026-04-15T02:24:27.446635+00:00"
+  },
+  "https://openai.com/index/scaling-trusted-access-for-cyber-defense": {
+    "title": "Trusted access for the next era of cyber defense",
+    "sent_at": "2026-04-15T02:24:27.446627+00:00"
+  },
+  "https://github.blog/?p=95258": {
+    "title": "How exposed is your code? Find out in minutes—for free",
+    "sent_at": "2026-04-15T02:24:16.611478+00:00"
+  },
+  "https://github.blog/?p=95266": {
+    "title": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
+    "sent_at": "2026-04-15T02:24:16.611470+00:00"
+  },
+  "https://techcrunch.com/?p=3112274": {
+    "title": "YouTube livestreams will now hold back ads during peak engagement to protect the vibe",
+    "sent_at": "2026-04-15T02:24:15.198421+00:00"
+  },
+  "https://techcrunch.com/?p=3112315": {
+    "title": "London gets closer to its first robotaxi service as Waymo begins testing",
+    "sent_at": "2026-04-15T02:24:15.198418+00:00"
+  },
+  "https://techcrunch.com/?p=3112327": {
+    "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+    "sent_at": "2026-04-15T02:24:15.198415+00:00"
+  },
+  "https://techcrunch.com/?p=3112348": {
+    "title": "Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites",
+    "sent_at": "2026-04-15T02:24:15.198410+00:00"
+  },
+  "https://techcrunch.com/?p=3112415": {
+    "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
+    "sent_at": "2026-04-15T02:24:15.198397+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47766550": {
+    "title": "The future of everything is lies, I guess: Work",
+    "sent_at": "2026-04-15T02:24:10.654736+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47768133": {
+    "title": "Claude Code Routines",
+    "sent_at": "2026-04-15T02:24:10.654734+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47768195": {
+    "title": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
+    "sent_at": "2026-04-15T02:24:10.654732+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47768813": {
+    "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
+    "sent_at": "2026-04-15T02:24:10.654728+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47769796": {
+    "title": "Tell HN: Fiverr left customer files public and searchable",
+    "sent_at": "2026-04-15T02:24:10.654718+00:00"
+  },
   "https://www.threads.com/t/DXD48C-ARRx": {
     "title": "@feelfree_ai: AI 업계의 불편한 진실, 팀원 대다수가 제품 개발이 아닌 인프라 'ᄇ...",
     "sent_at": "2026-04-14T02:26:50.625800+00:00"
@@ -1898,105 +1998,5 @@
   "https://d2.naver.com/news/0407747": {
     "title": "FE News 26년 3월 소식을 전해드립니다!",
     "sent_at": "2026-03-21T13:48:06.543395+00:00"
-  },
-  "https://tech.kakao.com/posts/814": {
-    "title": "2026 카카오그룹 신입크루 공채 코딩테스트 2차 문제해설",
-    "sent_at": "2026-03-21T13:48:04.838813+00:00"
-  },
-  "https://tech.kakao.com/posts/812": {
-    "title": "한국 문화 이해부터 화면 조작까지: Kanana-V 기능 확장의 모든 것",
-    "sent_at": "2026-03-21T13:48:04.838811+00:00"
-  },
-  "https://tech.kakao.com/posts/815": {
-    "title": "학생에서 개발자로: DB, 보안부터 AI까지, 정답보다 합리적인 선택을 배우다",
-    "sent_at": "2026-03-21T13:48:04.838808+00:00"
-  },
-  "https://tech.kakao.com/posts/816": {
-    "title": "학생에서 개발자로: 로또 구현부터 레거시 개선까지, 서버의 흐름을 배우다",
-    "sent_at": "2026-03-21T13:48:04.838805+00:00"
-  },
-  "https://tech.kakao.com/posts/817": {
-    "title": "수억 건의 보안 신호 속 진짜 위협 찾기 — AI로 보안 모니터링의 패러다임을 바꾸다",
-    "sent_at": "2026-03-21T13:48:04.838789+00:00"
-  },
-  "196b4cd5ec90a1f18c700e9852ebae62a5bd105d": {
-    "title": "Introducing account regional namespaces for Amazon S3 general purpose buckets",
-    "sent_at": "2026-03-21T13:48:03.240792+00:00"
-  },
-  "a3996fe388d2e78fc44dd4af61d511e4558c30b7": {
-    "title": "Twenty years of Amazon S3 and building what’s next",
-    "sent_at": "2026-03-21T13:48:03.240790+00:00"
-  },
-  "565f4a73a37b2a9f9b94b135334161d6ecb97641": {
-    "title": "AWS Weekly Roundup: Amazon S3 turns 20, Amazon Route 53 Global Resolver general availability, and more (March 16, 2026)",
-    "sent_at": "2026-03-21T13:48:03.240787+00:00"
-  },
-  "cf44d6e2135975faf4160c0cf14c849d06d69519": {
-    "title": "Our First 2026 AWS Heroes Cohort Is Here!",
-    "sent_at": "2026-03-21T13:48:03.240784+00:00"
-  },
-  "14145bfe5096e96a6f01aa41a78758e848a1320e": {
-    "title": "20 years in the AWS Cloud – how time flies!",
-    "sent_at": "2026-03-21T13:48:03.240767+00:00"
-  },
-  "3oZLDQYiufcZZYvGXwxpKd": {
-    "title": "Announcing Cloudflare Account Abuse Protection: prevent fraudulent attacks from bots and humans",
-    "sent_at": "2026-03-21T13:48:02.759084+00:00"
-  },
-  "12Trubi4t23iB1Q6AlcjYH": {
-    "title": "From legacy architecture to Cloudflare One",
-    "sent_at": "2026-03-21T13:48:02.759083+00:00"
-  },
-  "6V4c3s6W2nqoSNaUeUpqWX": {
-    "title": "Standing up for the open Internet: why we appealed Italy’s \"Piracy Shield\" fine",
-    "sent_at": "2026-03-21T13:48:02.759080+00:00"
-  },
-  "7zfn4cHE2C5bgEo1cWSL4u": {
-    "title": "Introducing Custom Regions for precision data control",
-    "sent_at": "2026-03-21T13:48:02.759077+00:00"
-  },
-  "1wSO33KRdd5aUPAlSVDiqU": {
-    "title": "Powering the agents: Workers AI now runs large models, starting with Kimi K2.5",
-    "sent_at": "2026-03-21T13:48:02.759062+00:00"
-  },
-  "https://engineering.atspotify.com/?p=3a4jVRPjVRXateZDYpSqQp": {
-    "title": "Why We Use Separate Tech Stacks for Personalization and Experimentation",
-    "sent_at": "2026-03-21T13:48:02.140562+00:00"
-  },
-  "https://engineering.atspotify.com/?p=57Pe0SvWh0KMB5dJV9yu7C": {
-    "title": "Congratulations to the recipients of the 2025 Spotify FOSS Fund",
-    "sent_at": "2026-03-21T13:48:02.140559+00:00"
-  },
-  "https://engineering.atspotify.com/?p=esQIXrFPWjoKkc9B1irH6": {
-    "title": "How We Release the Spotify App: A Look Under the Hood (Part 2)",
-    "sent_at": "2026-03-21T13:48:02.140557+00:00"
-  },
-  "https://engineering.atspotify.com/?p=7N32jBbCV2q36c1trMybW1": {
-    "title": "Our Multi-Agent Architecture for Smarter Advertising",
-    "sent_at": "2026-03-21T13:48:02.140554+00:00"
-  },
-  "https://engineering.atspotify.com/?p=1FaDH30hqF8M6aMDIsl71b": {
-    "title": "Inside the Archive: The Tech Behind Your 2025 Wrapped Highlights",
-    "sent_at": "2026-03-21T13:48:02.140538+00:00"
-  },
-  "https://huggingface.co/blog/storage-buckets": {
-    "title": "Introducing Storage Buckets on the Hugging Face Hub",
-    "sent_at": "2026-03-21T13:48:01.283046+00:00"
-  },
-  "https://huggingface.co/blog/Hcompany/holotron-12b": {
-    "title": "Holotron-12B - High Throughput Computer Use Agent",
-    "sent_at": "2026-03-21T13:48:01.283043+00:00"
-  },
-  "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026": {
-    "title": "State of Open Source on Hugging Face: Spring 2026",
-    "sent_at": "2026-03-21T13:48:01.283030+00:00"
-  },
-  "https://huggingface.co/blog/ibm-granite/granite-libraries": {
-    "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
-    "sent_at": "2026-03-21T13:48:01.283027+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune": {
-    "title": "Build a Domain-Specific Embedding Model in Under a Day",
-    "sent_at": "2026-03-21T13:48:01.283011+00:00"
   }
 }
