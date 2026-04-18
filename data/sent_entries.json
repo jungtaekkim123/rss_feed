@@ -1,4 +1,92 @@
 {
+  "https://www.threads.com/t/DXOUc7BAXC3": {
+    "title": "@feelfree_ai: ￼ Claude Code 쓰면서 토큰 75%를 그냥 버리고 계실지도 모릅니다. 'Caveman'이라느...",
+    "sent_at": "2026-04-18T02:10:36.578548+00:00"
+  },
+  "https://www.threads.com/t/DXQIKOgAZNx": {
+    "title": "@feelfree_ai: 똑같은 용량을 쓰면서 속도는 17%나 더 빨라질 수 있을까요? 클ᄅ...",
+    "sent_at": "2026-04-18T02:10:36.578531+00:00"
+  },
+  "3VGCjw0ivWk7RfPbPZ9k9H": {
+    "title": "Agents that remember: introducing Agent Memory",
+    "sent_at": "2026-04-18T02:10:19.541224+00:00"
+  },
+  "5zArX1DmYGvf4WM0go16wb": {
+    "title": "Unweight: how we compressed an LLM 22% without sacrificing quality",
+    "sent_at": "2026-04-18T02:10:19.541222+00:00"
+  },
+  "4Gi8lGLqjdsjywAFEKLLYW": {
+    "title": "Redirects for AI Training enforces canonical content",
+    "sent_at": "2026-04-18T02:10:19.541219+00:00"
+  },
+  "1vrgbarIDanwhi6j2m6oNM": {
+    "title": "Shared Dictionaries: compression that keeps up with the agentic web",
+    "sent_at": "2026-04-18T02:10:19.541216+00:00"
+  },
+  "5t83bTn7Vt1EudTxQQ97NY": {
+    "title": "Introducing the Agent Readiness score. Is your site agent-ready?",
+    "sent_at": "2026-04-18T02:10:19.541201+00:00"
+  },
+  "https://huggingface.co/blog/ecom-rlve": {
+    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+    "sent_at": "2026-04-18T02:10:14.111932+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-ocr-v2": {
+    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+    "sent_at": "2026-04-18T02:10:14.111917+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/": {
+    "title": "7 ways to travel smarter this summer, with help from Google",
+    "sent_at": "2026-04-18T02:10:12.256866+00:00"
+  },
+  "https://github.blog/?p=95362": {
+    "title": "Bringing more transparency to GitHub’s status page",
+    "sent_at": "2026-04-18T02:10:04.955698+00:00"
+  },
+  "https://github.blog/?p=95403": {
+    "title": "Building an emoji list generator with the GitHub Copilot CLI",
+    "sent_at": "2026-04-18T02:10:04.955682+00:00"
+  },
+  "https://techcrunch.com/?p=3113711": {
+    "title": "‘Tokenmaxxing’ is making developers less productive than they think",
+    "sent_at": "2026-04-18T02:10:03.663080+00:00"
+  },
+  "https://techcrunch.com/?p=3113763": {
+    "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+    "sent_at": "2026-04-18T02:10:03.663078+00:00"
+  },
+  "https://techcrunch.com/?p=3113890": {
+    "title": "Man who hacked US Supreme Court filing system sentenced to probation",
+    "sent_at": "2026-04-18T02:10:03.663076+00:00"
+  },
+  "https://techcrunch.com/?p=3113889": {
+    "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+    "sent_at": "2026-04-18T02:10:03.663072+00:00"
+  },
+  "https://techcrunch.com/?p=3113492": {
+    "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+    "sent_at": "2026-04-18T02:10:03.663057+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47806725": {
+    "title": "Claude Design",
+    "sent_at": "2026-04-18T02:09:59.145659+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47807006": {
+    "title": "Measuring Claude 4.7's tokenizer costs",
+    "sent_at": "2026-04-18T02:09:59.145656+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47807209": {
+    "title": "NASA Force",
+    "sent_at": "2026-04-18T02:09:59.145654+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47808268": {
+    "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+    "sent_at": "2026-04-18T02:09:59.145650+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47808913": {
+    "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+    "sent_at": "2026-04-18T02:09:59.145630+00:00"
+  },
   "https://www.threads.com/t/DXL5o02AYB5": {
     "title": "@feelfree_ai: 범용 AI를 가볍게 이겨버리는 맞춤형 모델, 이게 바로 우리가 파인튜...",
     "sent_at": "2026-04-17T02:27:58.277129+00:00"
@@ -1910,93 +1998,5 @@
   "https://github.blog/?p=94234": {
     "title": "Updates to GitHub Copilot interaction data usage policy",
     "sent_at": "2026-03-26T02:08:59.664847+00:00"
-  },
-  "https://techcrunch.com/?p=3105376": {
-    "title": "Who’s driving Waymo’s self-driving cars? Sometimes, the police.",
-    "sent_at": "2026-03-26T02:08:59.327097+00:00"
-  },
-  "https://techcrunch.com/?p=3106239": {
-    "title": "Convicted spyware chief hints that Greece’s government was behind dozens of phone hacks",
-    "sent_at": "2026-03-26T02:08:59.327095+00:00"
-  },
-  "https://techcrunch.com/?p=3106279": {
-    "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
-    "sent_at": "2026-03-26T02:08:59.327093+00:00"
-  },
-  "https://techcrunch.com/?p=3106318": {
-    "title": "Delve did the security compliance on LiteLLM, an AI project hit by malware",
-    "sent_at": "2026-03-26T02:08:59.327089+00:00"
-  },
-  "https://techcrunch.com/?p=3106190": {
-    "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
-    "sent_at": "2026-03-26T02:08:59.327071+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47517701": {
-    "title": "Apple Just Lost Me",
-    "sent_at": "2026-03-26T02:08:54.761424+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47519519": {
-    "title": "Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote",
-    "sent_at": "2026-03-26T02:08:54.761422+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47520505": {
-    "title": "Meta and YouTube found negligent in landmark social media addiction case",
-    "sent_at": "2026-03-26T02:08:54.761419+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47522709": {
-    "title": "The EU still wants to scan  your private messages and photos",
-    "sent_at": "2026-03-26T02:08:54.761415+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47523330": {
-    "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-    "sent_at": "2026-03-26T02:08:54.761399+00:00"
-  },
-  "https://www.threads.com/t/DWQWtBIAS-Z": {
-    "title": "@feelfree_ai: AI 인프라의 진짜 변화는 '새로운 모델'이 아니라 'GPU를 벗어나는 것'ᄋ...",
-    "sent_at": "2026-03-25T02:03:49.064120+00:00"
-  },
-  "https://www.threads.com/t/DWQun1Zgn23": {
-    "title": "@feelfree_ai: 서비스나우(ServiceNow)가 AI 에이전트로 고객 문의(Ticket)의 90%를 자율 처리하고 ...",
-    "sent_at": "2026-03-25T02:03:49.064118+00:00"
-  },
-  "https://www.threads.com/t/DWRDLboAOlm": {
-    "title": "@feelfree_ai: SFT(지도미세조정) 할 때 태스크마다 과적합이 제각각으로 튀는 문제. ᄋ...",
-    "sent_at": "2026-03-25T02:03:49.064115+00:00"
-  },
-  "https://www.threads.com/t/DWSCDo-E3SP": {
-    "title": "@feelfree_ai: vLLM으로 모델 서빙하시는 분들, 이번에 공개된 Semantic Router 비전 페이퍼ᄂ...",
-    "sent_at": "2026-03-25T02:03:49.064106+00:00"
-  },
-  "https://toss.tech/article/place-metric-review": {
-    "title": "Metric Review, 실행을 이끌다",
-    "sent_at": "2026-03-25T02:03:36.660511+00:00"
-  },
-  "https://d2.naver.com/helloworld/7997284": {
-    "title": "C++ 객체 수명과 암묵적 객체 생성",
-    "sent_at": "2026-03-25T02:03:33.618166+00:00"
-  },
-  "1tc7f8AggVLw5D8OmaZri5": {
-    "title": "Sandboxing AI agents, 100x faster",
-    "sent_at": "2026-03-25T02:03:28.765575+00:00"
-  },
-  "https://huggingface.co/blog/ServiceNow-AI/eva": {
-    "title": "A New Framework for Evaluating Voice Agents (EVA)",
-    "sent_at": "2026-03-25T02:03:27.352853+00:00"
-  },
-  "https://blogs.nvidia.com/?p=91716": {
-    "title": "Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community",
-    "sent_at": "2026-03-25T02:03:26.869510+00:00"
-  },
-  "https://openai.com/index/powering-product-discovery-in-chatgpt": {
-    "title": "Powering product discovery in ChatGPT",
-    "sent_at": "2026-03-25T02:03:25.049071+00:00"
-  },
-  "https://openai.com/index/update-on-the-openai-foundation": {
-    "title": "Update on the OpenAI Foundation",
-    "sent_at": "2026-03-25T02:03:25.049068+00:00"
-  },
-  "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard": {
-    "title": "Helping developers build safer AI experiences for teens",
-    "sent_at": "2026-03-25T02:03:25.049053+00:00"
   }
 }
