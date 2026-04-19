@@ -1,4 +1,64 @@
 {
+  "https://www.threads.com/t/DXQ4zBMgF9W": {
+    "title": "@feelfree_ai: 1,000만 개 문서로 RAG 돌리는 데 메모리 4GB면 충분하다는 게 믿겨지시나...",
+    "sent_at": "2026-04-19T02:32:40.819082+00:00"
+  },
+  "https://www.threads.com/t/DXRUKEeDqdW": {
+    "title": "@feelfree_ai: 단일 노드 환경에서도 vLLM 처리량을 2.5배나 끌어올린 완벽한 PD(Prefil...",
+    "sent_at": "2026-04-19T02:32:40.819079+00:00"
+  },
+  "https://www.threads.com/t/DXRqYTrEuKX": {
+    "title": "@feelfree_ai: Faiss 쓰면서 데이터 추가할 때마다 재인덱싱 하느라 번거로우셨다면, ᄀ...",
+    "sent_at": "2026-04-19T02:32:40.819076+00:00"
+  },
+  "https://www.threads.com/t/DXSv6aMATZw": {
+    "title": "@feelfree_ai: 월스트리트 전문가들이 쓰는 AI 코딩 툴은 좀 다를까요? LangChain 스포ᄐ...",
+    "sent_at": "2026-04-19T02:32:40.819060+00:00"
+  },
+  "https://d2.naver.com/helloworld/7997284": {
+    "title": "C++ 객체 수명과 암묵적 객체 생성",
+    "sent_at": "2026-04-19T02:32:26.363785+00:00"
+  },
+  "https://techcrunch.com/?p=3113812": {
+    "title": "The App Store is booming again, and AI may be why",
+    "sent_at": "2026-04-19T02:32:12.195788+00:00"
+  },
+  "https://techcrunch.com/?p=3113969": {
+    "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+    "sent_at": "2026-04-19T02:32:12.195786+00:00"
+  },
+  "https://techcrunch.com/?p=3113979": {
+    "title": "AI chip startup Cerebras files for IPO",
+    "sent_at": "2026-04-19T02:32:12.195784+00:00"
+  },
+  "https://techcrunch.com/?p=3113983": {
+    "title": "VC Ron Conway says he has a ‘rare form of cancer’",
+    "sent_at": "2026-04-19T02:32:12.195780+00:00"
+  },
+  "https://techcrunch.com/?p=3113986": {
+    "title": "Tesla brings its robotaxi service to Dallas and Houston",
+    "sent_at": "2026-04-19T02:32:12.195765+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47815774": {
+    "title": "Migrating from DigitalOcean to Hetzner",
+    "sent_at": "2026-04-19T02:32:07.681031+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47816960": {
+    "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+    "sent_at": "2026-04-19T02:32:07.681029+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47817132": {
+    "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+    "sent_at": "2026-04-19T02:32:07.681026+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47818305": {
+    "title": "Traders placed over $1B in perfectly timed bets on the Iran war",
+    "sent_at": "2026-04-19T02:32:07.681022+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47818700": {
+    "title": "Thoughts and feelings around Claude Design",
+    "sent_at": "2026-04-19T02:32:07.681006+00:00"
+  },
   "https://www.threads.com/t/DXOUc7BAXC3": {
     "title": "@feelfree_ai: ￼ Claude Code 쓰면서 토큰 75%를 그냥 버리고 계실지도 모릅니다. 'Caveman'이라느...",
     "sent_at": "2026-04-18T02:10:36.578548+00:00"
@@ -1938,65 +1998,5 @@
   "https://news.ycombinator.com/item?id=47531967": {
     "title": "My minute-by-minute response to the LiteLLM malware attack",
     "sent_at": "2026-03-27T02:09:55.344754+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47534848": {
-    "title": "We haven't seen the worst of what gambling and prediction markets will do",
-    "sent_at": "2026-03-27T02:09:55.344737+00:00"
-  },
-  "https://www.threads.com/t/DWSl_FRDC6l": {
-    "title": "@feelfree_ai: 나온 지 좀 된 녀석이지만, 아직 모르는 분들이 계실까 봐 다시 가져...",
-    "sent_at": "2026-03-26T02:09:34.177442+00:00"
-  },
-  "https://www.threads.com/t/DWSzE23gCGQ": {
-    "title": "@feelfree_ai: 🚨 3월 23일 이후 LiteLLM이나 Ouroboros 설치하신 분들, 지금 당장 API 키부터 ᄌ...",
-    "sent_at": "2026-03-26T02:09:34.177439+00:00"
-  },
-  "https://www.threads.com/t/DWTMgWZjHY_": {
-    "title": "@feelfree_ai: 로컬 디스크 용량 때문에 초대형 데이터셋 다운로드를 망설였던 ...",
-    "sent_at": "2026-03-26T02:09:34.177436+00:00"
-  },
-  "https://www.threads.com/t/DWUqDhnE52p": {
-    "title": "@feelfree_ai: 바이트댄스에서 에이전트 런타임 'DeerFlow 2.0'을 100% 오픈소스로 공개했스...",
-    "sent_at": "2026-03-26T02:09:34.177418+00:00"
-  },
-  "061dd44e999bc015e035bfdc76b2e31f62155a34": {
-    "title": "Announcing Amazon Aurora PostgreSQL serverless database creation in seconds",
-    "sent_at": "2026-03-26T02:09:15.523148+00:00"
-  },
-  "https://blogs.nvidia.com/?p=90446": {
-    "title": "Blowing Off Steam: How Power-Flexible AI Factories Can Stabilize the Global Energy Grid",
-    "sent_at": "2026-03-26T02:09:13.295635+00:00"
-  },
-  "https://blogs.nvidia.com/?p=91731": {
-    "title": "The Future of AI Is Open and Proprietary",
-    "sent_at": "2026-03-26T02:09:13.295619+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/": {
-    "title": "Lyria 3 Pro: Create longer tracks in more Google products",
-    "sent_at": "2026-03-26T02:09:11.414775+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/": {
-    "title": "Build with Lyria 3, our newest music generation model",
-    "sent_at": "2026-03-26T02:09:11.414760+00:00"
-  },
-  "https://openai.com/index/safety-bug-bounty": {
-    "title": "Introducing the OpenAI Safety Bug Bounty program",
-    "sent_at": "2026-03-26T02:09:09.901132+00:00"
-  },
-  "https://openai.com/index/our-approach-to-the-model-spec": {
-    "title": "Inside our approach to the Model Spec",
-    "sent_at": "2026-03-26T02:09:09.901115+00:00"
-  },
-  "https://goddaehee.tistory.com/561": {
-    "title": "Claude 신기능 리뷰 - 대화중 인터랙티브(차트&middot;다이어그램&middot;시각화) 자료 실시간 생성 기능 리뷰 : 말 한마디로 웹앱이 나오는 시대",
-    "sent_at": "2026-03-26T02:09:06.991012+00:00"
-  },
-  "https://goddaehee.tistory.com/562": {
-    "title": "Claude Code 신기능 'Auto mode' 리뷰 : 승인 팝업 없이 Claude Code 쓰는 법 (--dangerously-skip-permissions 없이 자동 실행)",
-    "sent_at": "2026-03-26T02:09:06.990993+00:00"
-  },
-  "https://github.blog/?p=94234": {
-    "title": "Updates to GitHub Copilot interaction data usage policy",
-    "sent_at": "2026-03-26T02:08:59.664847+00:00"
   }
 }
