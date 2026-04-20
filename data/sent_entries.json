@@ -1,4 +1,60 @@
 {
+  "https://www.threads.com/t/DXTFW_zgVrY": {
+    "title": "@feelfree_ai: 이제 터미널에서 깃허브 이슈만 던져주면, AI가 알아서 코드를 수정하...",
+    "sent_at": "2026-04-20T02:32:58.834335+00:00"
+  },
+  "https://www.threads.com/t/DXTkXYPivpD": {
+    "title": "@feelfree_ai: AI 프로젝트 할 때마다 무거운 벡터 DB 세팅하기 부담스러우신분들 이...",
+    "sent_at": "2026-04-20T02:32:58.834333+00:00"
+  },
+  "https://www.threads.com/t/DXUHx9_lJHW": {
+    "title": "@feelfree_ai: 글로만 읽어서는 좀처럼 머릿속에 그려지지 않던 GPU와 LLM의 내부 도...",
+    "sent_at": "2026-04-20T02:32:58.834329+00:00"
+  },
+  "https://www.threads.com/t/DXVY7f7gTMr": {
+    "title": "@feelfree_ai: LLM 서비스 운영하면서 제일 부담되는 게 결국 API 비용이죠 이번에 RAG ...",
+    "sent_at": "2026-04-20T02:32:58.834313+00:00"
+  },
+  "https://techcrunch.com/?p=3114010": {
+    "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+    "sent_at": "2026-04-20T02:32:24.335449+00:00"
+  },
+  "https://techcrunch.com/?p=3114025": {
+    "title": "Robots beat human records at Beijing half-marathon",
+    "sent_at": "2026-04-20T02:32:24.335447+00:00"
+  },
+  "https://techcrunch.com/?p=3114024": {
+    "title": "Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch",
+    "sent_at": "2026-04-20T02:32:24.335445+00:00"
+  },
+  "https://techcrunch.com/?p=3114032": {
+    "title": "The 12-month window",
+    "sent_at": "2026-04-20T02:32:24.335443+00:00"
+  },
+  "https://techcrunch.com/?p=3114050": {
+    "title": "OpenAI’s existential questions",
+    "sent_at": "2026-04-20T02:32:24.335398+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47824463": {
+    "title": "Vercel April 2026 security incident",
+    "sent_at": "2026-04-20T02:32:19.816558+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47824945": {
+    "title": "Notion leaks email addresses of all editors of any public page",
+    "sent_at": "2026-04-20T02:32:19.816555+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47824976": {
+    "title": "Vercel says internal systems hit in breach",
+    "sent_at": "2026-04-20T02:32:19.816553+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47826100": {
+    "title": "The Bromine Chokepoint",
+    "sent_at": "2026-04-20T02:32:19.816551+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47827383": {
+    "title": "Swiss authorities want to reduce dependency on Microsoft",
+    "sent_at": "2026-04-20T02:32:19.816534+00:00"
+  },
   "https://www.threads.com/t/DXQ4zBMgF9W": {
     "title": "@feelfree_ai: 1,000만 개 문서로 RAG 돌리는 데 메모리 4GB면 충분하다는 게 믿겨지시나...",
     "sent_at": "2026-04-19T02:32:40.819082+00:00"
@@ -1942,61 +1998,5 @@
   "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/": {
     "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
     "sent_at": "2026-03-27T02:10:14.258012+00:00"
-  },
-  "https://goddaehee.tistory.com/563": {
-    "title": "pip install litellm 한 번으로 SSH 키가 털렸다 &mdash; 2026 공급망 공격 분석 : 보안 도구가 감염 벡터가 되다",
-    "sent_at": "2026-03-27T02:10:08.994635+00:00"
-  },
-  "https://goddaehee.tistory.com/564": {
-    "title": "Claude Code Auto Memory vs Auto Dream 정리 : AI가 잠자면서 기억을 정리한다? Auto Dream 기능의 진실",
-    "sent_at": "2026-03-27T02:10:08.994632+00:00"
-  },
-  "https://goddaehee.tistory.com/565": {
-    "title": "&quot;하네스 엔지니어링&quot; - AI 에이전트 시대, 코드보다 중요한 것 : OpenAI vs Anthropic 하네스 전략 비교",
-    "sent_at": "2026-03-27T02:10:08.994617+00:00"
-  },
-  "https://github.blog/?p=94767": {
-    "title": "A year of open source vulnerability trends: CVEs, advisories, and malware",
-    "sent_at": "2026-03-27T02:10:01.206105+00:00"
-  },
-  "https://github.blog/?p=94836": {
-    "title": "What’s coming to our GitHub Actions 2026 security roadmap",
-    "sent_at": "2026-03-27T02:10:01.206089+00:00"
-  },
-  "https://techcrunch.com/?p=3106705": {
-    "title": "Mastodon is making its decentralized social network easier to use with its latest revamp",
-    "sent_at": "2026-03-27T02:09:59.856024+00:00"
-  },
-  "https://techcrunch.com/?p=3106729": {
-    "title": "Wikipedia cracks down on the use of AI in article writing",
-    "sent_at": "2026-03-27T02:09:59.856022+00:00"
-  },
-  "https://techcrunch.com/?p=3106767": {
-    "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
-    "sent_at": "2026-03-27T02:09:59.856020+00:00"
-  },
-  "https://techcrunch.com/?p=3106880": {
-    "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
-    "sent_at": "2026-03-27T02:09:59.856017+00:00"
-  },
-  "https://techcrunch.com/?p=3106899": {
-    "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
-    "sent_at": "2026-03-27T02:09:59.856003+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47529609": {
-    "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
-    "sent_at": "2026-03-27T02:09:55.344762+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47529646": {
-    "title": "European Parliament decided that Chat Control 1.0 must stop",
-    "sent_at": "2026-03-27T02:09:55.344760+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47530330": {
-    "title": "Moving from GitHub to Codeberg, for lazy people",
-    "sent_at": "2026-03-27T02:09:55.344758+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47531967": {
-    "title": "My minute-by-minute response to the LiteLLM malware attack",
-    "sent_at": "2026-03-27T02:09:55.344754+00:00"
   }
 }
