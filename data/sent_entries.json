@@ -1,4 +1,80 @@
 {
+  "https://www.threads.com/t/DXYf893kjA3": {
+    "title": "@feelfree_ai: \"AI 에이전트, 개발이 다가 아닙니다. 진짜 문제는 '배포'에 있죠.\" 에이저...",
+    "sent_at": "2026-04-22T02:26:38.325223+00:00"
+  },
+  "https://www.threads.com/t/DXZG_zmEgXP": {
+    "title": "@feelfree_ai: 잘 쓰던 Claude Code를 아예 직접 만든 커스텀 에이전트로 대체해버린 흐...",
+    "sent_at": "2026-04-22T02:26:38.325210+00:00"
+  },
+  "https://tech.kakao.com/posts/819": {
+    "title": "카나나 스칼라 1회 세미나 현장 스케치",
+    "sent_at": "2026-04-22T02:26:23.807286+00:00"
+  },
+  "6qZ5scXbRymHWaQGBZcqe": {
+    "title": "Moving past bots vs. humans",
+    "sent_at": "2026-04-22T02:26:22.222763+00:00"
+  },
+  "https://huggingface.co/blog/cybersecurity-openness": {
+    "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+    "sent_at": "2026-04-22T02:26:20.702932+00:00"
+  },
+  "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard": {
+    "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+    "sent_at": "2026-04-22T02:26:20.702923+00:00"
+  },
+  "https://engineering.fb.com/?p=23909": {
+    "title": "Modernizing the Facebook Groups Search to Unlock the Power of Community Knowledge",
+    "sent_at": "2026-04-22T02:26:18.759980+00:00"
+  },
+  "https://blog.google/products/ads-commerce/ads-advisor-google-ads/": {
+    "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+    "sent_at": "2026-04-22T02:26:18.288539+00:00"
+  },
+  "https://openai.com/index/scaling-codex-to-enterprises-worldwide": {
+    "title": "Scaling Codex to enterprises worldwide",
+    "sent_at": "2026-04-22T02:26:17.633251+00:00"
+  },
+  "https://techcrunch.com/?p=3114713": {
+    "title": "Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion",
+    "sent_at": "2026-04-22T02:26:08.121008+00:00"
+  },
+  "https://techcrunch.com/?p=3114958": {
+    "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+    "sent_at": "2026-04-22T02:26:08.121005+00:00"
+  },
+  "https://techcrunch.com/?p=3114961": {
+    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+    "sent_at": "2026-04-22T02:26:08.121003+00:00"
+  },
+  "https://techcrunch.com/?p=3114951": {
+    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+    "sent_at": "2026-04-22T02:26:08.121000+00:00"
+  },
+  "https://techcrunch.com/?p=3114892": {
+    "title": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
+    "sent_at": "2026-04-22T02:26:08.120984+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47847324": {
+    "title": "Tim Cook's Impeccable Timing",
+    "sent_at": "2026-04-22T02:26:03.416010+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47851948": {
+    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+    "sent_at": "2026-04-22T02:26:03.416007+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47852177": {
+    "title": "Framework Laptop 13 Pro",
+    "sent_at": "2026-04-22T02:26:03.416005+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47852835": {
+    "title": "ChatGPT Images 2.0",
+    "sent_at": "2026-04-22T02:26:03.416001+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47854477": {
+    "title": "Claude Code to be removed from Anthropic's Pro plan?",
+    "sent_at": "2026-04-22T02:26:03.415986+00:00"
+  },
   "https://www.threads.com/t/DXV7pOLgYH8": {
     "title": "@feelfree_ai: LLM이 LLM을 평가하는 'LLM-as-Judge', 인간과의 평가 일치율을 무려 85%까지 끄...",
     "sent_at": "2026-04-21T02:28:41.706918+00:00"
@@ -1922,81 +1998,5 @@
   "https://news.ycombinator.com/item?id=47565316": {
     "title": "Neovim 0.12.0",
     "sent_at": "2026-03-30T02:22:53.851508+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47566442": {
-    "title": "The Cognitive Dark Forest",
-    "sent_at": "2026-03-30T02:22:53.851505+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47566865": {
-    "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-    "sent_at": "2026-03-30T02:22:53.851488+00:00"
-  },
-  "https://www.threads.com/t/DWasn25AQDB": {
-    "title": "@feelfree_ai: 로봇 AI 분야에 거대한 종합 선물 세트가 풀렸습니다. Allen AI가 로봇 ...",
-    "sent_at": "2026-03-29T02:13:21.178418+00:00"
-  },
-  "https://www.threads.com/t/DWco16hgfm6": {
-    "title": "@feelfree_ai: MMLU 점수만 높고 막상 일 시켜보면 버벅거리는 AI, 이제 진짜 실무 느...",
-    "sent_at": "2026-03-29T02:13:21.178403+00:00"
-  },
-  "https://huggingface.co/blog/liberate-your-openclaw": {
-    "title": "Liberate your OpenClaw",
-    "sent_at": "2026-03-29T02:13:02.906732+00:00"
-  },
-  "https://goddaehee.tistory.com/567": {
-    "title": "OpenAI Codex 서브에이전트 - awesome-codex-subagents : 136개 Codex SubAgents 모음( TOML 에이전트 컬렉션 )",
-    "sent_at": "2026-03-29T02:12:56.452546+00:00"
-  },
-  "https://techcrunch.com/?p=2936857": {
-    "title": "These iPad apps will make you wish you had more free time",
-    "sent_at": "2026-03-29T02:12:50.419166+00:00"
-  },
-  "https://techcrunch.com/?p=3107357": {
-    "title": "Elon Musk’s last co-founder reportedly leaves xAI",
-    "sent_at": "2026-03-29T02:12:50.419165+00:00"
-  },
-  "https://techcrunch.com/?p=3107363": {
-    "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-    "sent_at": "2026-03-29T02:12:50.419162+00:00"
-  },
-  "https://techcrunch.com/?p=3107368": {
-    "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
-    "sent_at": "2026-03-29T02:12:50.419160+00:00"
-  },
-  "https://techcrunch.com/?p=3107020": {
-    "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-    "sent_at": "2026-03-29T02:12:50.419145+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47554773": {
-    "title": "AI overly affirms users asking for personal advice",
-    "sent_at": "2026-03-29T02:12:45.574106+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47555090": {
-    "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-    "sent_at": "2026-03-29T02:12:45.574104+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47555556": {
-    "title": "I decompiled the White House's new app",
-    "sent_at": "2026-03-29T02:12:45.574101+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47556729": {
-    "title": "Founder of GitLab battles cancer by founding companies",
-    "sent_at": "2026-03-29T02:12:45.574097+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47557960": {
-    "title": "CSS is DOOMed",
-    "sent_at": "2026-03-29T02:12:45.574071+00:00"
-  },
-  "https://www.threads.com/t/DWXzzBwCK5C": {
-    "title": "@feelfree_ai: 엣지-클라우드 LLM 환경의 고질적인 네트워크 병목 현상, 이제 진ᄍ...",
-    "sent_at": "2026-03-28T02:02:16.355644+00:00"
-  },
-  "https://www.threads.com/t/DWYfw_UAeps": {
-    "title": "@feelfree_ai: \"평가 지표(Eval)가 무조건 많다고 AI 에이전트가 똑똑해지는 건 아닙니...",
-    "sent_at": "2026-03-28T02:02:16.355641+00:00"
-  },
-  "https://www.threads.com/t/DWaCz1ogWvs": {
-    "title": "@feelfree_ai: AI가 똑같은 실수를 반복하지 않게 추론 과정(CoT)을 실시간으로 ᄀ...",
-    "sent_at": "2026-03-28T02:02:16.355623+00:00"
   }
 }
