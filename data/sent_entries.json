@@ -1,4 +1,112 @@
 {
+  "https://www.threads.com/t/DXddFodgeYr": {
+    "title": "@feelfree_ai: LLM은 그저 똑똑한 '뇌'일 뿐입니다. 진짜 스스로 일하는 AI 에이전트...",
+    "sent_at": "2026-04-24T02:31:02.537350+00:00"
+  },
+  "https://www.threads.com/t/DXeFWghE4wf": {
+    "title": "@feelfree_ai: 이제 사람 한 명 없이 AI 에이전트로만 회사를 굴릴 수 있게 됐습ᄂ...",
+    "sent_at": "2026-04-24T02:31:02.537348+00:00"
+  },
+  "https://www.threads.com/t/DXfswjtAVFo": {
+    "title": "@feelfree_ai: 온디바이스 AI가 유독 버벅거리는 이유? 뜻이 완벽히 같아도 단어가 10...",
+    "sent_at": "2026-04-24T02:31:02.537332+00:00"
+  },
+  "https://toss.tech/article/post-quantum-cryptography": {
+    "title": "양자컴퓨터 시대에 대비한 양자내성암호 적용, 왜 10년 먼저 서비스에 적용했을까?",
+    "sent_at": "2026-04-24T02:30:51.108514+00:00"
+  },
+  "https://toss.tech/article/da-assistant-panda": {
+    "title": "토스플레이스 데이터봇 ‘판다(PANDA)’를 소개합니다 : 모든 팀원이 데이터 전문가처럼 일하는 방법",
+    "sent_at": "2026-04-24T02:30:51.108512+00:00"
+  },
+  "https://toss.tech/article/operating-starrocks-1": {
+    "title": "StarRocks 운영기: Resource Group으로 멀티테넌트 워크로드 격리하기",
+    "sent_at": "2026-04-24T02:30:51.108496+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92391": {
+    "title": "Making Sense of the Early Universe",
+    "sent_at": "2026-04-24T02:30:39.880493+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92667": {
+    "title": "Tag, You’re It: GeForce NOW Levels Up Game Discovery With Xbox Game Pass and Ubisoft+ Labels",
+    "sent_at": "2026-04-24T02:30:39.880491+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92703": {
+    "title": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
+    "sent_at": "2026-04-24T02:30:39.880475+00:00"
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/": {
+    "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+    "sent_at": "2026-04-24T02:30:36.731243+00:00"
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/": {
+    "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+    "sent_at": "2026-04-24T02:30:36.731227+00:00"
+  },
+  "https://openai.com/academy/codex-plugins-and-skills": {
+    "title": "Plugins and skills",
+    "sent_at": "2026-04-24T02:30:35.086675+00:00"
+  },
+  "https://openai.com/academy/top-10-use-cases-codex-for-work": {
+    "title": "Top 10 uses for Codex at work",
+    "sent_at": "2026-04-24T02:30:35.086673+00:00"
+  },
+  "https://openai.com/academy/codex-automations": {
+    "title": "Automations",
+    "sent_at": "2026-04-24T02:30:35.086671+00:00"
+  },
+  "https://openai.com/index/gpt-5-5-system-card": {
+    "title": "GPT-5.5 System Card",
+    "sent_at": "2026-04-24T02:30:35.086668+00:00"
+  },
+  "https://openai.com/index/introducing-gpt-5-5": {
+    "title": "Introducing GPT-5.5",
+    "sent_at": "2026-04-24T02:30:35.086652+00:00"
+  },
+  "https://goddaehee.tistory.com/583": {
+    "title": "Claude Code 'Claude Design' 리뷰(1) : Figma 대체재인가, 보완재인가 - 디자인 시스템 설정부터 Claude Code 핸드오프까지",
+    "sent_at": "2026-04-24T02:30:27.677379+00:00"
+  },
+  "https://techcrunch.com/?p=3115915": {
+    "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+    "sent_at": "2026-04-24T02:30:21.420139+00:00"
+  },
+  "https://techcrunch.com/?p=3092894": {
+    "title": "These are the countries moving to ban social media for children",
+    "sent_at": "2026-04-24T02:30:21.420136+00:00"
+  },
+  "https://techcrunch.com/?p=3116004": {
+    "title": "Redwood Materials loses COO amid layoffs, restructuring",
+    "sent_at": "2026-04-24T02:30:21.420134+00:00"
+  },
+  "https://techcrunch.com/?p=3116048": {
+    "title": "Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation",
+    "sent_at": "2026-04-24T02:30:21.420132+00:00"
+  },
+  "https://techcrunch.com/?p=3116079": {
+    "title": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
+    "sent_at": "2026-04-24T02:30:21.420116+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47878208": {
+    "title": "'Hairdryer used to trick weather sensor' to win Polymarket bet",
+    "sent_at": "2026-04-24T02:30:16.792274+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47878633": {
+    "title": "Palantir employees are starting to wonder if they're the bad guys",
+    "sent_at": "2026-04-24T02:30:16.792272+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47878905": {
+    "title": "An update on recent Claude Code quality reports",
+    "sent_at": "2026-04-24T02:30:16.792270+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47879092": {
+    "title": "GPT-5.5",
+    "sent_at": "2026-04-24T02:30:16.792266+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47879986": {
+    "title": "Meta to cut 10% of jobs",
+    "sent_at": "2026-04-24T02:30:16.792250+00:00"
+  },
   "https://www.threads.com/t/DXasvuEAfUA": {
     "title": "@feelfree_ai: 지금까지 오픈소스 AI 가드 모델들이 전부 '엉뚱한 곳'을 보고 있어...",
     "sent_at": "2026-04-23T02:30:19.036574+00:00"
@@ -1890,113 +1998,5 @@
   "https://www.threads.com/t/DWjRIK4gZTJ": {
     "title": "@feelfree_ai: LangGraph, CrewAI, AutoGen... 프레임워크 바뀔 때마다 에이전트 코드 새로 짜는 거 지ᄎ...",
     "sent_at": "2026-04-01T02:28:07.423935+00:00"
-  },
-  "https://www.threads.com/t/DWkSER8AWfr": {
-    "title": "@feelfree_ai: 350M 사이즈 모델이 0.8B 모델을 잡았습니다. Liquid AI에서 LFM2.5-350M을 공개했...",
-    "sent_at": "2026-04-01T02:28:07.423923+00:00"
-  },
-  "https://toss.tech/article/es-toolkit": {
-    "title": "97% Smaller, 2x Faster: How es-toolkit Reached 10 Million Weekly Downloads",
-    "sent_at": "2026-04-01T02:27:55.508252+00:00"
-  },
-  "898da69b3c60854fe86e286985fc553f5a9f65fc": {
-    "title": "Announcing the AWS Sustainability console: Programmatic access, configurable CSV reports, and Scope 1–3 reporting in one place",
-    "sent_at": "2026-04-01T02:27:48.456657+00:00"
-  },
-  "64lPEfE3ML34AycHER46Tz": {
-    "title": "Introducing Programmable Flow Protection: custom DDoS mitigation logic for Magic Transit customers",
-    "sent_at": "2026-04-01T02:27:47.740097+00:00"
-  },
-  "https://huggingface.co/blog/trl-v1": {
-    "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
-    "sent_at": "2026-04-01T02:27:45.817993+00:00"
-  },
-  "https://huggingface.co/blog/ibm-granite/granite-4-vision": {
-    "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-    "sent_at": "2026-04-01T02:27:45.817980+00:00"
-  },
-  "https://blogs.nvidia.com/?p=91796": {
-    "title": "Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid",
-    "sent_at": "2026-04-01T02:27:44.006337+00:00"
-  },
-  "https://engineering.fb.com/?p=23771": {
-    "title": "Meta Adaptive Ranking Model: Bending the Inference Scaling Curve to Serve LLM-Scale Models for Ads",
-    "sent_at": "2026-04-01T02:27:43.317894+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/": {
-    "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
-    "sent_at": "2026-04-01T02:27:42.439031+00:00"
-  },
-  "https://openai.com/index/accelerating-the-next-phase-ai": {
-    "title": "Accelerating the next phase of AI",
-    "sent_at": "2026-04-01T02:27:41.590924+00:00"
-  },
-  "https://goddaehee.tistory.com/571": {
-    "title": "openai/codex-plugin-cc(Claude Code용 공식 Codex 플러그인) : Claude가 코딩하고 Codex가 리뷰한다",
-    "sent_at": "2026-04-01T02:27:36.798887+00:00"
-  },
-  "https://goddaehee.tistory.com/572": {
-    "title": "Claude Code 소스맵 유출 사건 - npm 실수 한 번에 512,000줄 공개, 유출된 Claude Code 소스로 본 미공개 기능 분석",
-    "sent_at": "2026-04-01T02:27:36.798876+00:00"
-  },
-  "https://github.blog/?p=94904": {
-    "title": "Agent-driven development in Copilot Applied Science",
-    "sent_at": "2026-04-01T02:27:29.884629+00:00"
-  },
-  "https://techcrunch.com/?p=3108227": {
-    "title": "Robotaxi companies refuse to say how often their AVs need remote help",
-    "sent_at": "2026-04-01T02:27:29.208251+00:00"
-  },
-  "https://techcrunch.com/?p=3107777": {
-    "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-    "sent_at": "2026-04-01T02:27:29.208248+00:00"
-  },
-  "https://techcrunch.com/?p=3108324": {
-    "title": "Anthropic is having a month",
-    "sent_at": "2026-04-01T02:27:29.208246+00:00"
-  },
-  "https://techcrunch.com/?p=3108119": {
-    "title": "Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’",
-    "sent_at": "2026-04-01T02:27:29.208244+00:00"
-  },
-  "https://techcrunch.com/?p=3108357": {
-    "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
-    "sent_at": "2026-04-01T02:27:29.208229+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47587866": {
-    "title": "Microsoft: Copilot is for entertainment purposes only",
-    "sent_at": "2026-04-01T02:27:24.268153+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47587935": {
-    "title": "Oracle slashes 30k jobs",
-    "sent_at": "2026-04-01T02:27:24.268151+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47591104": {
-    "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
-    "sent_at": "2026-04-01T02:27:24.268148+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47591928": {
-    "title": "GitHub's Historic Uptime",
-    "sent_at": "2026-04-01T02:27:24.268145+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47592755": {
-    "title": "OpenAI closes funding round at an $852B valuation",
-    "sent_at": "2026-04-01T02:27:24.268129+00:00"
-  },
-  "https://www.threads.com/t/DWfq4xfga_V": {
-    "title": "@feelfree_ai: AI 공부할 때 제일 뼈맞는 순간, 아마 '수학'이랑 '컴공 기본기' 장...",
-    "sent_at": "2026-03-31T02:11:16.213534+00:00"
-  },
-  "https://www.threads.com/t/DWgqPxfgVW8": {
-    "title": "@feelfree_ai: Codex를 아직도 단순한 '코드 자판기'로만 생각하셨다면 진짜 핵시...",
-    "sent_at": "2026-03-31T02:11:16.213531+00:00"
-  },
-  "https://www.threads.com/t/DWht9WNgehp": {
-    "title": "@feelfree_ai: 마이크로소프트가 제대로 일 하나 냈습니다. 상업용으로 당장 쓸 수 ...",
-    "sent_at": "2026-03-31T02:11:16.213515+00:00"
-  },
-  "1d39ee9ff80d8a07f9c2f17df953c467ee3a21af": {
-    "title": "AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more (March 30, 2026)",
-    "sent_at": "2026-03-31T02:10:59.002799+00:00"
   }
 }
