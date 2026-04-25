@@ -1,4 +1,72 @@
 {
+  "https://www.threads.com/t/DXgipDwgZHx": {
+    "title": "@feelfree_ai: 이제 AI가 내 컴퓨터를 직접 조작하는 걸 넘어, 스스로 '기술'을 배워...",
+    "sent_at": "2026-04-25T02:12:28.446145+00:00"
+  },
+  "https://www.threads.com/t/DXiD-12AS8O": {
+    "title": "@feelfree_ai: 클로드로 보고서 만드시는 분들, 이거 꼭 저장하세요. 맥킨지 스타이...",
+    "sent_at": "2026-04-25T02:12:28.446133+00:00"
+  },
+  "https://huggingface.co/blog/transformersjs-chrome-extension": {
+    "title": "How to Use Transformers.js in a Chrome Extension",
+    "sent_at": "2026-04-25T02:12:10.376014+00:00"
+  },
+  "https://huggingface.co/blog/deepseekv4": {
+    "title": "DeepSeek-V4: a million-token context that agents can actually use",
+    "sent_at": "2026-04-25T02:12:10.376003+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/": {
+    "title": "8 Gemini tips for organizing your space (and life)",
+    "sent_at": "2026-04-25T02:12:07.911893+00:00"
+  },
+  "https://goddaehee.tistory.com/584": {
+    "title": "OpenAI GPT-5.5 리뷰 : 에이전틱 AI의 새 기준인가, 가격 2배 인상의 정당화인가 - 벤치마크부터 환각률까지",
+    "sent_at": "2026-04-25T02:12:06.060653+00:00"
+  },
+  "https://goddaehee.tistory.com/585": {
+    "title": "Claude Code 'ultrareview'란 : 멀티 에이전트 코드 리뷰, 어떻게 작동하나 - 회당 $5~$20 추가 과금은 합리적 일까",
+    "sent_at": "2026-04-25T02:12:06.060642+00:00"
+  },
+  "https://techcrunch.com/?p=3116243": {
+    "title": "Meta’s loss is Thinking Machines’ gain",
+    "sent_at": "2026-04-25T02:11:58.256858+00:00"
+  },
+  "https://techcrunch.com/?p=3116124": {
+    "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
+    "sent_at": "2026-04-25T02:11:58.256856+00:00"
+  },
+  "https://techcrunch.com/?p=3116339": {
+    "title": "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
+    "sent_at": "2026-04-25T02:11:58.256853+00:00"
+  },
+  "https://techcrunch.com/?p=3116276": {
+    "title": "Palantir is reportedly helping the IRS investigate financial crimes",
+    "sent_at": "2026-04-25T02:11:58.256850+00:00"
+  },
+  "https://techcrunch.com/?p=3116240": {
+    "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
+    "sent_at": "2026-04-25T02:11:58.256834+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47888372": {
+    "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
+    "sent_at": "2026-04-25T02:11:53.784189+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47890799": {
+    "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+    "sent_at": "2026-04-25T02:11:53.784186+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47891019": {
+    "title": "Norway set to become latest country to ban social media for under 16s",
+    "sent_at": "2026-04-25T02:11:53.784184+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47892019": {
+    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
+    "sent_at": "2026-04-25T02:11:53.784180+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47892074": {
+    "title": "Google plans to invest up to $40B in Anthropic",
+    "sent_at": "2026-04-25T02:11:53.784166+00:00"
+  },
   "https://www.threads.com/t/DXddFodgeYr": {
     "title": "@feelfree_ai: LLM은 그저 똑똑한 '뇌'일 뿐입니다. 진짜 스스로 일하는 AI 에이전트...",
     "sent_at": "2026-04-24T02:31:02.537350+00:00"
@@ -1930,73 +1998,5 @@
   "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/": {
     "title": "The latest AI news we announced in March 2026",
     "sent_at": "2026-04-02T02:07:12.996828+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/": {
-    "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
-    "sent_at": "2026-04-02T02:07:12.996815+00:00"
-  },
-  "https://openai.com/index/gradient-labs": {
-    "title": "Gradient Labs gives every bank customer an AI account manager",
-    "sent_at": "2026-04-02T02:07:11.389026+00:00"
-  },
-  "https://goddaehee.tistory.com/573": {
-    "title": "OpenAI Codex 공식 유즈케이스 12가지 살펴보기 : Codex로 뭘 할 수 있나? 공식 12가지 사례 한국어 정리",
-    "sent_at": "2026-04-02T02:07:06.967070+00:00"
-  },
-  "https://github.blog/?p=94908": {
-    "title": "Run multiple agents at once with /fleet in Copilot CLI",
-    "sent_at": "2026-04-02T02:07:00.404483+00:00"
-  },
-  "https://github.blog/?p=94975": {
-    "title": "Securing the open source supply chain across GitHub",
-    "sent_at": "2026-04-02T02:07:00.404475+00:00"
-  },
-  "https://techcrunch.com/?p=3108510": {
-    "title": "A new dating app, Sonder, has a deliberately annoying sign-up process (and it’s working)",
-    "sent_at": "2026-04-02T02:06:58.694216+00:00"
-  },
-  "https://techcrunch.com/?p=3108558": {
-    "title": "‘System failure’ paralyzes Baidu robotaxis in China",
-    "sent_at": "2026-04-02T02:06:58.694212+00:00"
-  },
-  "https://techcrunch.com/?p=3108438": {
-    "title": "The reputation of troubled YC startup Delve has gotten even worse",
-    "sent_at": "2026-04-02T02:06:58.694208+00:00"
-  },
-  "https://techcrunch.com/?p=3108632": {
-    "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-    "sent_at": "2026-04-02T02:06:58.694203+00:00"
-  },
-  "https://techcrunch.com/?p=3108668": {
-    "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
-    "sent_at": "2026-04-02T02:06:58.694193+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47598511": {
-    "title": "I quit. The clankers won",
-    "sent_at": "2026-04-02T02:06:54.111946+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47602832": {
-    "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
-    "sent_at": "2026-04-02T02:06:54.111944+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47603657": {
-    "title": "Live: Artemis II Launch Day Updates",
-    "sent_at": "2026-04-02T02:06:54.111942+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47606840": {
-    "title": "DRAM pricing is killing the hobbyist SBC market",
-    "sent_at": "2026-04-02T02:06:54.111939+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47607447": {
-    "title": "Artemis II lifts off: four astronauts begin 10-day lunar mission",
-    "sent_at": "2026-04-02T02:06:54.111929+00:00"
-  },
-  "https://www.threads.com/t/DWiDf2oAZNJ": {
-    "title": "@feelfree_ai: 웹에서 AI 모델을 돌리는 생태계가 또 한 번 크게 바뀔 것 같습니ᄃ...",
-    "sent_at": "2026-04-01T02:28:07.423938+00:00"
-  },
-  "https://www.threads.com/t/DWjRIK4gZTJ": {
-    "title": "@feelfree_ai: LangGraph, CrewAI, AutoGen... 프레임워크 바뀔 때마다 에이전트 코드 새로 짜는 거 지ᄎ...",
-    "sent_at": "2026-04-01T02:28:07.423935+00:00"
   }
 }
