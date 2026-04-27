@@ -1,4 +1,76 @@
 {
+  "https://www.threads.com/t/DXlYLPxgfVn": {
+    "title": "@feelfree_ai: LLM 시스템 단까지 딥하게 파보고 싶은데 마땅한 자료가 없어 목마르ᄉ...",
+    "sent_at": "2026-04-27T02:37:18.608334+00:00"
+  },
+  "https://www.threads.com/t/DXmB1EWAepp": {
+    "title": "@feelfree_ai: API 비용 폭탄, 이제 노드 단위로 추적하세요. 전에 한 번 올렸던 팁...",
+    "sent_at": "2026-04-27T02:37:18.608330+00:00"
+  },
+  "https://www.threads.com/t/DXnElnHE7e8": {
+    "title": "@feelfree_ai: AI 에이전트가 코딩할 때마다 낭비되던 API 비용과 시간, 엔비디아가 가...",
+    "sent_at": "2026-04-27T02:37:18.608314+00:00"
+  },
+  "https://d2.naver.com/news/6428522": {
+    "title": "FE News 26년 4월 소식을 전해드립니다!",
+    "sent_at": "2026-04-27T02:37:05.734886+00:00"
+  },
+  "https://openai.com/academy/codex-how-to-start": {
+    "title": "How to get started with Codex",
+    "sent_at": "2026-04-27T02:36:58.321022+00:00"
+  },
+  "https://openai.com/index/our-principles": {
+    "title": "Our principles",
+    "sent_at": "2026-04-27T02:36:58.321009+00:00"
+  },
+  "https://goddaehee.tistory.com/586": {
+    "title": "Claude API 신기능 : Advisor Strategy(어드바이저 전략) - 비용은 낮추고 성능은 올리는 Advisor Tool API",
+    "sent_at": "2026-04-27T02:36:52.308445+00:00"
+  },
+  "https://goddaehee.tistory.com/587": {
+    "title": "Claude Opus 4.7 설정 최적화 - 달라진 것, 주의할 것, 지금 바꿀 것 (effort 레벨부터 Extended Thinking 등)",
+    "sent_at": "2026-04-27T02:36:52.308428+00:00"
+  },
+  "https://techcrunch.com/?p=3116489": {
+    "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+    "sent_at": "2026-04-27T02:36:44.521257+00:00"
+  },
+  "https://techcrunch.com/?p=3116367": {
+    "title": "TechCrunch Mobility: Elon’s admission",
+    "sent_at": "2026-04-27T02:36:44.521255+00:00"
+  },
+  "https://techcrunch.com/?p=3116501": {
+    "title": "What Tim Cook built",
+    "sent_at": "2026-04-27T02:36:44.521252+00:00"
+  },
+  "https://techcrunch.com/?p=3116505": {
+    "title": "Amazon’s new podcast strategy: Monetize everything",
+    "sent_at": "2026-04-27T02:36:44.521249+00:00"
+  },
+  "https://techcrunch.com/?p=3116504": {
+    "title": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder",
+    "sent_at": "2026-04-27T02:36:44.521232+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47911780": {
+    "title": "GoDaddy gave a domain to a stranger without any documentation",
+    "sent_at": "2026-04-27T02:36:39.917212+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47912645": {
+    "title": "Waymo says can't avoid bike lanes because riders want to be dropped off in them",
+    "sent_at": "2026-04-27T02:36:39.917210+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47913650": {
+    "title": "AI should elevate your thinking, not replace it",
+    "sent_at": "2026-04-27T02:36:39.917207+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47914165": {
+    "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+    "sent_at": "2026-04-27T02:36:39.917204+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47914350": {
+    "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+    "sent_at": "2026-04-27T02:36:39.917187+00:00"
+  },
   "https://www.threads.com/t/DXii8IUCgG0": {
     "title": "@feelfree_ai: 단 33초 만에 '매달 4년 치'의 컴퓨팅 시간을 아껴버린 해외 개발팀ᄋ...",
     "sent_at": "2026-04-26T02:35:38.494373+00:00"
@@ -1926,77 +1998,5 @@
   "635WBzM8GMiVZhyzKFeWMf": {
     "title": "Why we're rethinking cache for the AI era",
     "sent_at": "2026-04-03T02:08:55.076578+00:00"
-  },
-  "https://huggingface.co/blog/gemma4": {
-    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-    "sent_at": "2026-04-03T02:08:53.791788+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92005": {
-    "title": "Press Start on April: GeForce NOW Brings 10 Games to the Cloud",
-    "sent_at": "2026-04-03T02:08:53.240193+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92019": {
-    "title": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
-    "sent_at": "2026-04-03T02:08:53.240177+00:00"
-  },
-  "https://engineering.fb.com/?p=23820": {
-    "title": "KernelEvolve: How Meta’s Ranking Engineer Agent Optimizes AI Infrastructure",
-    "sent_at": "2026-04-03T02:08:51.794916+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/": {
-    "title": "Create, edit and share videos at no cost in Google Vids",
-    "sent_at": "2026-04-03T02:08:51.249760+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/": {
-    "title": "New ways to balance cost and reliability in the Gemini API",
-    "sent_at": "2026-04-03T02:08:51.249748+00:00"
-  },
-  "https://openai.com/index/codex-flexible-pricing-for-teams": {
-    "title": "Codex now offers more flexible pricing for teams",
-    "sent_at": "2026-04-03T02:08:49.728687+00:00"
-  },
-  "https://openai.com/index/openai-acquires-tbpn": {
-    "title": "OpenAI acquires TBPN",
-    "sent_at": "2026-04-03T02:08:49.728647+00:00"
-  },
-  "https://goddaehee.tistory.com/574": {
-    "title": "Claude Code NO_FLICKER(깜빡임 없는 풀스크린 렌더링 모드) 리뷰 : 화면 깜빡임과 스크롤 점프가 정말 사라질까",
-    "sent_at": "2026-04-03T02:08:46.848032+00:00"
-  },
-  "https://goddaehee.tistory.com/575": {
-    "title": "&quot;하네스 엔지니어링&quot; - Everything Claude Code 리뷰 : 혼자서 팀처럼 개발하는 에이전트 셋업(ECC 하네스 셋업으로 생산성 2배 끌어올리기)",
-    "sent_at": "2026-04-03T02:08:46.848018+00:00"
-  },
-  "https://techcrunch.com/?p=3108907": {
-    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-    "sent_at": "2026-04-03T02:08:39.078704+00:00"
-  },
-  "https://techcrunch.com/?p=3107868": {
-    "title": "Gateway Capital announces first close of $25M Fund II",
-    "sent_at": "2026-04-03T02:08:39.078702+00:00"
-  },
-  "https://techcrunch.com/?p=3108914": {
-    "title": "Artemis II is NASA’s last moon mission without Silicon Valley",
-    "sent_at": "2026-04-03T02:08:39.078700+00:00"
-  },
-  "https://techcrunch.com/?p=3109020": {
-    "title": "Telehealth giant Hims & Hers says its customer support system was hacked",
-    "sent_at": "2026-04-03T02:08:39.078696+00:00"
-  },
-  "https://techcrunch.com/?p=3108999": {
-    "title": "Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets",
-    "sent_at": "2026-04-03T02:08:39.078657+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47615490": {
-    "title": "Artemis computer running two instances of MS outlook; they can't figure out why",
-    "sent_at": "2026-04-03T02:08:34.610438+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47616242": {
-    "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
-    "sent_at": "2026-04-03T02:08:34.610436+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47616361": {
-    "title": "Google releases Gemma 4 open models",
-    "sent_at": "2026-04-03T02:08:34.610434+00:00"
   }
 }
