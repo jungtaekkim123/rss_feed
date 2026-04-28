@@ -1,4 +1,96 @@
 {
+  "https://www.threads.com/t/DXnvDxCgQY6": {
+    "title": "@feelfree_ai: 화이트해커가 며칠씩 매달리던 MS 윈도우 취약점, 이제 AI가 단 '몇 초' ...",
+    "sent_at": "2026-04-28T02:45:22.279897+00:00"
+  },
+  "https://www.threads.com/t/DXoRoQcCqZ-": {
+    "title": "@feelfree_ai: ChatGPT가 내 말을 못 알아들어서 10분 내내 프롬프트만 고쳐본 경험, ᄃ...",
+    "sent_at": "2026-04-28T02:45:22.279894+00:00"
+  },
+  "https://www.threads.com/t/DXp4l8wAaZB": {
+    "title": "@feelfree_ai: 1.2B 소형 모델이 7B 모델을 실제 로봇 조작에서 4배 격차(81% vs 20%)로 압사...",
+    "sent_at": "2026-04-28T02:45:22.279880+00:00"
+  },
+  "https://toss.tech/article/post-quantum-cryptography-eng": {
+    "title": "Why We Adopted Post-Quantum Cryptography a Decade Before Quantum Computers Arrive",
+    "sent_at": "2026-04-28T02:45:11.375725+00:00"
+  },
+  "a923d5c5d00735b29f125108fe5f865ed6f9c6f6": {
+    "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
+    "sent_at": "2026-04-28T02:45:04.886866+00:00"
+  },
+  "https://huggingface.co/blog/openai-privacy-filter-web-apps": {
+    "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+    "sent_at": "2026-04-28T02:45:02.837894+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging": {
+    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "sent_at": "2026-04-28T02:45:02.837877+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/": {
+    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+    "sent_at": "2026-04-28T02:45:00.568209+00:00"
+  },
+  "https://openai.com/index/choco": {
+    "title": "Choco automates food distribution with AI agents",
+    "sent_at": "2026-04-28T02:44:59.923442+00:00"
+  },
+  "https://openai.com/index/open-source-codex-orchestration-symphony": {
+    "title": "An open-source spec for orchestration: Symphony",
+    "sent_at": "2026-04-28T02:44:59.923439+00:00"
+  },
+  "https://openai.com/index/next-phase-of-microsoft-partnership": {
+    "title": "The next phase of the Microsoft OpenAI partnership",
+    "sent_at": "2026-04-28T02:44:59.923436+00:00"
+  },
+  "https://openai.com/index/openai-available-at-fedramp-moderate": {
+    "title": "OpenAI available at FedRAMP Moderate",
+    "sent_at": "2026-04-28T02:44:59.923422+00:00"
+  },
+  "https://github.blog/?p=95572": {
+    "title": "GitHub Copilot is moving to usage-based billing",
+    "sent_at": "2026-04-28T02:44:46.756802+00:00"
+  },
+  "https://techcrunch.com/?p=3116614": {
+    "title": "Hacker who allegedly carried out cyberattacks for China is extradited to US",
+    "sent_at": "2026-04-28T02:44:46.329860+00:00"
+  },
+  "https://techcrunch.com/?p=3116624": {
+    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+    "sent_at": "2026-04-28T02:44:46.329857+00:00"
+  },
+  "https://techcrunch.com/?p=3116576": {
+    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+    "sent_at": "2026-04-28T02:44:46.329855+00:00"
+  },
+  "https://techcrunch.com/?p=3116710": {
+    "title": "Consumers lost $2.1B to social media scams in 2025, FTC reports",
+    "sent_at": "2026-04-28T02:44:46.329852+00:00"
+  },
+  "https://techcrunch.com/?p=3116754": {
+    "title": "Letterboxd, the social platform for film buffs, reportedly looking for new owner",
+    "sent_at": "2026-04-28T02:44:46.329839+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47923357": {
+    "title": "GitHub Copilot is moving to usage-based billing",
+    "sent_at": "2026-04-28T02:44:41.629255+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47924775": {
+    "title": "GitHub is having issues now",
+    "sent_at": "2026-04-28T02:44:41.629253+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47924877": {
+    "title": "Super ZSNES – GPU Powered SNES Emulator",
+    "sent_at": "2026-04-28T02:44:41.629251+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47926861": {
+    "title": "Is my blue your blue?",
+    "sent_at": "2026-04-28T02:44:41.629247+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47928828": {
+    "title": "To my students",
+    "sent_at": "2026-04-28T02:44:41.629230+00:00"
+  },
   "https://www.threads.com/t/DXlYLPxgfVn": {
     "title": "@feelfree_ai: LLM 시스템 단까지 딥하게 파보고 싶은데 마땅한 자료가 없어 목마르ᄉ...",
     "sent_at": "2026-04-27T02:37:18.608334+00:00"
@@ -1906,97 +1998,5 @@
   "https://techcrunch.com/?p=3109434": {
     "title": "Peter Thiel’s big bet on solar-powered cow collars",
     "sent_at": "2026-04-05T02:22:28.854657+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47639524": {
-    "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
-    "sent_at": "2026-04-05T02:22:24.948193+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47639976": {
-    "title": "German men 18-45 need military permit for extended stays abroad",
-    "sent_at": "2026-04-05T02:22:24.948191+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47640380": {
-    "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-    "sent_at": "2026-04-05T02:22:24.948188+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47640728": {
-    "title": "Show HN: A game where you build a GPU",
-    "sent_at": "2026-04-05T02:22:24.948185+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47642569": {
-    "title": "How many products does Microsoft have named 'Copilot'?",
-    "sent_at": "2026-04-05T02:22:24.948168+00:00"
-  },
-  "https://www.threads.com/t/DWqGf5JgcTe": {
-    "title": "@feelfree_ai: AI 에이전트 서비스 준비할 때 은근히 가장 골치 아픈 '개인정보(PII) ᄋ...",
-    "sent_at": "2026-04-04T02:01:41.199899+00:00"
-  },
-  "https://www.threads.com/t/DWq5p1vAS80": {
-    "title": "@feelfree_ai: Claude Code, 혹시 프롬프트만 몇 번 쳐보고 방치 중이신가요? 솔직히 우ᄅ...",
-    "sent_at": "2026-04-04T02:01:41.199884+00:00"
-  },
-  "dae8904c0ba35b1ce9b8bd93ce1d5fc6ca60dead": {
-    "title": "Amazon Bedrock Guardrails supports cross-account safeguards with centralized control and management",
-    "sent_at": "2026-04-04T02:01:25.266357+00:00"
-  },
-  "https://github.blog/?p=94994": {
-    "title": "The uphill climb of making diff lines performant",
-    "sent_at": "2026-04-04T02:01:14.477916+00:00"
-  },
-  "https://techcrunch.com/?p=3109304": {
-    "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
-    "sent_at": "2026-04-04T02:01:13.927311+00:00"
-  },
-  "https://techcrunch.com/?p=3109307": {
-    "title": "Tesla’s Texas factory workforce reportedly shrunk 22% in 2025",
-    "sent_at": "2026-04-04T02:01:13.927309+00:00"
-  },
-  "https://techcrunch.com/?p=3109338": {
-    "title": "The anonymous social app that thinks it can work in Saudi Arabia",
-    "sent_at": "2026-04-04T02:01:13.927307+00:00"
-  },
-  "https://techcrunch.com/?p=3109364": {
-    "title": "Lucid blames dip in Q1 sales on seat supplier issue",
-    "sent_at": "2026-04-04T02:01:13.927303+00:00"
-  },
-  "https://techcrunch.com/?p=3109207": {
-    "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-    "sent_at": "2026-04-04T02:01:13.927289+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47627056": {
-    "title": "Marc Andreessen is wrong about introspection",
-    "sent_at": "2026-04-04T02:01:09.151044+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47628326": {
-    "title": "F-15E jet shot down over Iran",
-    "sent_at": "2026-04-04T02:01:09.151042+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47629433": {
-    "title": "iNaturalist",
-    "sent_at": "2026-04-04T02:01:09.151039+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47631118": {
-    "title": "Artemis II crew take “spectacular” image of Earth",
-    "sent_at": "2026-04-04T02:01:09.151036+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47631732": {
-    "title": "Oracle Files H-1B Visa Petitions Amid Mass Layoffs",
-    "sent_at": "2026-04-04T02:01:09.151019+00:00"
-  },
-  "https://www.threads.com/t/DWnqvvkAQ-5": {
-    "title": "@feelfree_ai: 최근 난리 났던 클로드(Claude) 소스코드 유출 사태, 도대체 내부 아키텍처...",
-    "sent_at": "2026-04-03T02:09:16.036502+00:00"
-  },
-  "https://www.threads.com/t/DWpd61Tgaju": {
-    "title": "@feelfree_ai: 아키텍처 변경 없이 '훈련 데이터' 하나만으로 체급을 파괴한 모델...",
-    "sent_at": "2026-04-03T02:09:16.036485+00:00"
-  },
-  "https://toss.tech/article/Designer": {
-    "title": "토스가 디자인 직무를 2개로 줄인 이유",
-    "sent_at": "2026-04-03T02:09:01.935025+00:00"
-  },
-  "635WBzM8GMiVZhyzKFeWMf": {
-    "title": "Why we're rethinking cache for the AI era",
-    "sent_at": "2026-04-03T02:08:55.076578+00:00"
   }
 }
