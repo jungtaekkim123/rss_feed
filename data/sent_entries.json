@@ -1,4 +1,112 @@
 {
+  "https://www.threads.com/t/DXqQZAHioGu": {
+    "title": "@feelfree_ai: 올해 쏟아진 최신 로컬 오디오 AI 모델들, 무료 코랩 환경에서 바로 ᄃ...",
+    "sent_at": "2026-04-29T02:45:05.588190+00:00"
+  },
+  "https://www.threads.com/t/DXq7bmpgcnn": {
+    "title": "@feelfree_ai: API 키 없이 로컬 CPU만으로 1.5ms 만에 코드를 찾아내는 MCP 서버가 나왔습...",
+    "sent_at": "2026-04-29T02:45:05.588187+00:00"
+  },
+  "https://www.threads.com/t/DXsIzklgSde": {
+    "title": "@feelfree_ai: 스마트폰에 LLM 8개를 넣었는데 전체 용량이 720MB. 심지어 초당 40토큰 ...",
+    "sent_at": "2026-04-29T02:45:05.588184+00:00"
+  },
+  "https://www.threads.com/t/DXskPhGgl5e": {
+    "title": "@feelfree_ai: 엔비디아가 고작 25GB 램에서 바로 돌아가는 30B 멀티모달 오픈 모델을...",
+    "sent_at": "2026-04-29T02:45:05.588167+00:00"
+  },
+  "https://d2.naver.com/helloworld/2017402": {
+    "title": "비개발자의 AI 협업 도전기 — 생산성 측정하려다 서버까지 띄운 9일",
+    "sent_at": "2026-04-29T02:44:50.646884+00:00"
+  },
+  "028f27f264e6053f27b2c197fb8abb5d987bb874": {
+    "title": "Top announcements of the What’s Next with AWS, 2026",
+    "sent_at": "2026-04-29T02:44:45.335100+00:00"
+  },
+  "4jvdljnVwrZbZB9dFtXWhO": {
+    "title": "Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions",
+    "sent_at": "2026-04-29T02:44:44.937288+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence": {
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "sent_at": "2026-04-29T02:44:43.500149+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92723": {
+    "title": "Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived",
+    "sent_at": "2026-04-29T02:44:43.108694+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92732": {
+    "title": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
+    "sent_at": "2026-04-29T02:44:43.108681+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/": {
+    "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+    "sent_at": "2026-04-29T02:44:41.540286+00:00"
+  },
+  "https://openai.com/index/openai-on-aws": {
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "sent_at": "2026-04-29T02:44:41.195502+00:00"
+  },
+  "https://openai.com/index/our-commitment-to-community-safety": {
+    "title": "Our commitment to community safety",
+    "sent_at": "2026-04-29T02:44:41.195483+00:00"
+  },
+  "https://goddaehee.tistory.com/588": {
+    "title": "GPT Image2 이미지 잘 만드는 법 : GPT Image2로 한글 썸네일과 인포그래픽까지 끝내기(이미지 프롬프트 패턴, 예시 모음)",
+    "sent_at": "2026-04-29T02:44:34.411648+00:00"
+  },
+  "https://github.blog/?p=95627": {
+    "title": "An update on GitHub availability",
+    "sent_at": "2026-04-29T02:44:27.854867+00:00"
+  },
+  "https://github.blog/?p=95594": {
+    "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
+    "sent_at": "2026-04-29T02:44:27.854863+00:00"
+  },
+  "https://github.blog/?p=95615": {
+    "title": "GitHub for Beginners: Getting started with Markdown",
+    "sent_at": "2026-04-29T02:44:27.854843+00:00"
+  },
+  "https://techcrunch.com/?p=3117039": {
+    "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+    "sent_at": "2026-04-29T02:44:25.442801+00:00"
+  },
+  "https://techcrunch.com/?p=3117054": {
+    "title": "Match Group invests $100M in Sniffies, a cruising app for gay men",
+    "sent_at": "2026-04-29T02:44:25.442800+00:00"
+  },
+  "https://techcrunch.com/?p=3117138": {
+    "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+    "sent_at": "2026-04-29T02:44:25.442798+00:00"
+  },
+  "https://techcrunch.com/?p=3117152": {
+    "title": "Amazon is already offering new OpenAI products on AWS",
+    "sent_at": "2026-04-29T02:44:25.442794+00:00"
+  },
+  "https://techcrunch.com/?p=3117278": {
+    "title": "At his OpenAI trial, Musk relitigates an old friendship",
+    "sent_at": "2026-04-29T02:44:25.442778+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47935853": {
+    "title": "Your phone is about to stop being yours",
+    "sent_at": "2026-04-29T02:44:20.885343+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47936156": {
+    "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+    "sent_at": "2026-04-29T02:44:20.885341+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47938097": {
+    "title": "Claude.ai unavailable and elevated errors on the API",
+    "sent_at": "2026-04-29T02:44:20.885338+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47939579": {
+    "title": "Ghostty is leaving GitHub",
+    "sent_at": "2026-04-29T02:44:20.885334+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47940921": {
+    "title": "Before GitHub",
+    "sent_at": "2026-04-29T02:44:20.885317+00:00"
+  },
   "https://www.threads.com/t/DXnvDxCgQY6": {
     "title": "@feelfree_ai: 화이트해커가 며칠씩 매달리던 MS 윈도우 취약점, 이제 AI가 단 '몇 초' ...",
     "sent_at": "2026-04-28T02:45:22.279897+00:00"
@@ -1890,113 +1998,5 @@
   "https://techcrunch.com/?p=3109825": {
     "title": "Gas prices aren’t the only factor fueling used EV sales",
     "sent_at": "2026-04-07T02:11:18.892096+00:00"
-  },
-  "https://techcrunch.com/?p=3109755": {
-    "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
-    "sent_at": "2026-04-07T02:11:18.892087+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47661439": {
-    "title": "I won't download your app. The web version is a-ok",
-    "sent_at": "2026-04-07T02:11:14.369793+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47662234": {
-    "title": "A cryptography engineer's perspective on quantum computing timelines",
-    "sent_at": "2026-04-07T02:11:14.369791+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47662857": {
-    "title": "81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone",
-    "sent_at": "2026-04-07T02:11:14.369789+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47664186": {
-    "title": "Battle for Wesnoth: open-source, turn-based strategy game",
-    "sent_at": "2026-04-07T02:11:14.369785+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47664912": {
-    "title": "The cult of vibe coding is dogfooding run amok",
-    "sent_at": "2026-04-07T02:11:14.369774+00:00"
-  },
-  "https://www.threads.com/t/DWvICMEAXuf": {
-    "title": "@feelfree_ai: 밤새 돌려놓은 모델, 아침에 눈떴는데 Loss가 NaN 떠있을 때의 그 허타...",
-    "sent_at": "2026-04-06T02:24:16.858773+00:00"
-  },
-  "https://www.threads.com/t/DWv_PRWAVAz": {
-    "title": "@feelfree_ai: AI한테 아직도 \"코드 포맷팅 해\"라고 프롬프트 치시나요? 🤦‍♂️ CLAUDE.md에 배...",
-    "sent_at": "2026-04-06T02:24:16.858769+00:00"
-  },
-  "https://www.threads.com/t/DWxPJmrE4Uh": {
-    "title": "@feelfree_ai: AI 에이전트 만드실 때 '메모리' 관리 어떻게 하시나요? 파편화된 메모리...",
-    "sent_at": "2026-04-06T02:24:16.858754+00:00"
-  },
-  "https://techcrunch.com/?p=3109456": {
-    "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
-    "sent_at": "2026-04-06T02:23:43.864998+00:00"
-  },
-  "https://techcrunch.com/?p=3109366": {
-    "title": "TechCrunch Mobility: ‘A stunning lack of transparency’",
-    "sent_at": "2026-04-06T02:23:43.864996+00:00"
-  },
-  "https://techcrunch.com/?p=3050440": {
-    "title": "As people look for ways to make new friends, here are the apps promising to help",
-    "sent_at": "2026-04-06T02:23:43.864993+00:00"
-  },
-  "https://techcrunch.com/?p=3109466": {
-    "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-    "sent_at": "2026-04-06T02:23:43.864990+00:00"
-  },
-  "https://techcrunch.com/?p=3109474": {
-    "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
-    "sent_at": "2026-04-06T02:23:43.864981+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47650726": {
-    "title": "Codex pricing to align with API token usage, instead of per-message",
-    "sent_at": "2026-04-06T02:23:39.403612+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47651540": {
-    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
-    "sent_at": "2026-04-06T02:23:39.403610+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47651703": {
-    "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
-    "sent_at": "2026-04-06T02:23:39.403608+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47652400": {
-    "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
-    "sent_at": "2026-04-06T02:23:39.403604+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47652561": {
-    "title": "Gemma 4 on iPhone",
-    "sent_at": "2026-04-06T02:23:39.403589+00:00"
-  },
-  "https://www.threads.com/t/DWsd0OFEkX0": {
-    "title": "@feelfree_ai: AI 에이전트의 기억(Memory) 세팅, 오라클 DB 하나로 1시간 만에 끝낸 흥미ᄅ...",
-    "sent_at": "2026-04-05T02:22:56.179104+00:00"
-  },
-  "https://www.threads.com/t/DWtRfDjEnrT": {
-    "title": "@feelfree_ai: AI 에이전트 만들 때 시스템 프롬프트에 모든 지시사항을 몽땅 때려 ...",
-    "sent_at": "2026-04-05T02:22:56.179101+00:00"
-  },
-  "https://www.threads.com/t/DWuzU8QAX5p": {
-    "title": "@feelfree_ai: VLM(시각언어모델) 돌릴 때 램 부족해서 뻗는 일, 이제 확 줄어들 ᄀ...",
-    "sent_at": "2026-04-05T02:22:56.179084+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92122": {
-    "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
-    "sent_at": "2026-04-05T02:22:37.374404+00:00"
-  },
-  "https://techcrunch.com/?p=3109040": {
-    "title": "After fighting malware for decades, this cybersecurity veteran is now hacking drones",
-    "sent_at": "2026-04-05T02:22:28.854677+00:00"
-  },
-  "https://techcrunch.com/?p=3109429": {
-    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-    "sent_at": "2026-04-05T02:22:28.854675+00:00"
-  },
-  "https://techcrunch.com/?p=3109441": {
-    "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
-    "sent_at": "2026-04-05T02:22:28.854673+00:00"
-  },
-  "https://techcrunch.com/?p=3109434": {
-    "title": "Peter Thiel’s big bet on solar-powered cow collars",
-    "sent_at": "2026-04-05T02:22:28.854657+00:00"
   }
 }
