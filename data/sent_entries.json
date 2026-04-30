@@ -1,4 +1,84 @@
 {
+  "https://www.threads.com/t/DXs462HDnSK": {
+    "title": "@feelfree_ai: 거대한 스승 모델(Teacher) 없이도, 초소형 AI 스스로 추론 능력을 극대ᄒ...",
+    "sent_at": "2026-04-30T02:46:15.038538+00:00"
+  },
+  "https://www.threads.com/t/DXtbPiYCC8q": {
+    "title": "@feelfree_ai: 임베딩 모델을 교체할 때마다 발생하는 수백만 원의 재처리 비용...",
+    "sent_at": "2026-04-30T02:46:15.038535+00:00"
+  },
+  "https://www.threads.com/t/DXtvx46D07d": {
+    "title": "@feelfree_ai: SNS에서 스쳐 지나가는 진짜 인사이트들, 매번 캡처만 하다가 놓쳐서 ᄋ...",
+    "sent_at": "2026-04-30T02:46:15.038532+00:00"
+  },
+  "https://www.threads.com/t/DXu7VxZiN9O": {
+    "title": "@feelfree_ai: 구글이 공식 Agent Skills 깃허브 레포를 오픈했습니다. 에이전트가 특저...",
+    "sent_at": "2026-04-30T02:46:15.038519+00:00"
+  },
+  "AFvlhoSnkPLdXbRwjUsCU": {
+    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "sent_at": "2026-04-30T02:45:56.134050+00:00"
+  },
+  "https://huggingface.co/blog/inference-providers-deepinfra": {
+    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "sent_at": "2026-04-30T02:45:54.665305+00:00"
+  },
+  "https://huggingface.co/blog/ibm-granite/granite-4-1": {
+    "title": "Granite 4.1 LLMs: How They’re Built",
+    "sent_at": "2026-04-30T02:45:54.665301+00:00"
+  },
+  "https://huggingface.co/blog/evaleval/eval-costs-bottleneck": {
+    "title": "AI evals are becoming the new compute bottleneck",
+    "sent_at": "2026-04-30T02:45:54.665291+00:00"
+  },
+  "https://openai.com/index/cybersecurity-in-the-intelligence-age": {
+    "title": "Cybersecurity in the Intelligence Age",
+    "sent_at": "2026-04-30T02:45:50.668254+00:00"
+  },
+  "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age": {
+    "title": "Building the compute infrastructure for the Intelligence Age",
+    "sent_at": "2026-04-30T02:45:50.668242+00:00"
+  },
+  "https://techcrunch.com/?p=3117680": {
+    "title": "Meta is still burning money on AR/VR",
+    "sent_at": "2026-04-30T02:45:41.618549+00:00"
+  },
+  "https://techcrunch.com/?p=3117736": {
+    "title": "On the stand, Elon Musk can’t escape his own tweets",
+    "sent_at": "2026-04-30T02:45:41.618547+00:00"
+  },
+  "https://techcrunch.com/?p=3117638": {
+    "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+    "sent_at": "2026-04-30T02:45:41.618545+00:00"
+  },
+  "https://techcrunch.com/?p=3117647": {
+    "title": "Amazon’s cloud business is surging — and so is its capital spending",
+    "sent_at": "2026-04-30T02:45:41.618542+00:00"
+  },
+  "https://techcrunch.com/?p=3117406": {
+    "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
+    "sent_at": "2026-04-30T02:45:41.618530+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47949642": {
+    "title": "Mistral Medium 3.5",
+    "sent_at": "2026-04-30T02:45:36.811776+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47949939": {
+    "title": "Cursor Camp",
+    "sent_at": "2026-04-30T02:45:36.811771+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47950091": {
+    "title": "Online age verification is the hill to die on",
+    "sent_at": "2026-04-30T02:45:36.811767+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47952181": {
+    "title": "Copy Fail",
+    "sent_at": "2026-04-30T02:45:36.811762+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47952722": {
+    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+    "sent_at": "2026-04-30T02:45:36.811744+00:00"
+  },
   "https://www.threads.com/t/DXqQZAHioGu": {
     "title": "@feelfree_ai: 올해 쏟아진 최신 로컬 오디오 AI 모델들, 무료 코랩 환경에서 바로 ᄃ...",
     "sent_at": "2026-04-29T02:45:05.588190+00:00"
@@ -1918,85 +1998,5 @@
   "https://news.ycombinator.com/item?id=47676509": {
     "title": "Lunar Flyby",
     "sent_at": "2026-04-08T02:12:01.407621+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47677853": {
-    "title": "GLM-5.1: Towards Long-Horizon Tasks",
-    "sent_at": "2026-04-08T02:12:01.407619+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47678573": {
-    "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
-    "sent_at": "2026-04-08T02:12:01.407616+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47679121": {
-    "title": "Project Glasswing: Securing critical software for the AI era",
-    "sent_at": "2026-04-08T02:12:01.407613+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47679258": {
-    "title": "System Card: Claude Mythos Preview [pdf]",
-    "sent_at": "2026-04-08T02:12:01.407595+00:00"
-  },
-  "https://www.threads.com/t/DWxjvwAiYKa": {
-    "title": "@feelfree_ai: 클로드 코드 유출 사태를 보고, 아예 본인이 100% 통제 가능한 코딩 CLI ᄐ...",
-    "sent_at": "2026-04-07T02:11:50.992782+00:00"
-  },
-  "https://www.threads.com/t/DWx_7llAuaM": {
-    "title": "@feelfree_ai: AI 에이전트가 진화하려면 모델 가중치만 업데이트하면 될까요? 랭ᄎ...",
-    "sent_at": "2026-04-07T02:11:50.992779+00:00"
-  },
-  "https://www.threads.com/t/DWyhiMJCMld": {
-    "title": "@feelfree_ai: NVIDIA의 강력한 음성 인식 모델 'Parakeet ASR'을 이제 명령어 한 줄로 내...",
-    "sent_at": "2026-04-07T02:11:50.992776+00:00"
-  },
-  "https://www.threads.com/t/DWzz9aMiFnH": {
-    "title": "@feelfree_ai: LLM 추론 속도 올리려고 정확도 타협하던 건 이제 옛말이 될지도 모...",
-    "sent_at": "2026-04-07T02:11:50.992764+00:00"
-  },
-  "ebe7e793c3577df742e335aff396ea71bb052df1": {
-    "title": "AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)",
-    "sent_at": "2026-04-07T02:11:32.160870+00:00"
-  },
-  "5wIrgcYpkdmQZSnU1skUjM": {
-    "title": "How we built Organizations to help enterprises manage Cloudflare at scale",
-    "sent_at": "2026-04-07T02:11:31.749576+00:00"
-  },
-  "https://engineering.atspotify.com/?p=49rr6P570qnmmCh52czdP1": {
-    "title": "Let’s Talk Agentic Development: Spotify x Anthropic Live",
-    "sent_at": "2026-04-07T02:11:29.707513+00:00"
-  },
-  "https://huggingface.co/blog/introducing-gradio-server": {
-    "title": "Any Custom Frontend with Gradio's Backend",
-    "sent_at": "2026-04-07T02:11:29.070527+00:00"
-  },
-  "https://engineering.fb.com/?p=23840": {
-    "title": "How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines",
-    "sent_at": "2026-04-07T02:11:28.418926+00:00"
-  },
-  "https://openai.com/index/industrial-policy-for-the-intelligence-age": {
-    "title": "Industrial policy for the Intelligence Age",
-    "sent_at": "2026-04-07T02:11:27.840149+00:00"
-  },
-  "https://openai.com/index/introducing-openai-safety-fellowship": {
-    "title": "Announcing the OpenAI Safety Fellowship",
-    "sent_at": "2026-04-07T02:11:27.840134+00:00"
-  },
-  "https://github.blog/?p=95067": {
-    "title": "GitHub Copilot CLI combines model families for a second opinion",
-    "sent_at": "2026-04-07T02:11:19.188492+00:00"
-  },
-  "https://techcrunch.com/?p=3109676": {
-    "title": "Why safety regulators closed their investigation into Tesla’s remote parking feature",
-    "sent_at": "2026-04-07T02:11:18.892104+00:00"
-  },
-  "https://techcrunch.com/?p=3109672": {
-    "title": "Netflix is expanding into kids’ games with a new stand-alone app",
-    "sent_at": "2026-04-07T02:11:18.892102+00:00"
-  },
-  "https://techcrunch.com/?p=3109710": {
-    "title": "Google quietly launched an AI dictation app that works offline",
-    "sent_at": "2026-04-07T02:11:18.892100+00:00"
-  },
-  "https://techcrunch.com/?p=3109825": {
-    "title": "Gas prices aren’t the only factor fueling used EV sales",
-    "sent_at": "2026-04-07T02:11:18.892096+00:00"
   }
 }
