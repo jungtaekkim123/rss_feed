@@ -1,4 +1,80 @@
 {
+  "https://www.threads.com/t/DXyBXb6AW_4": {
+    "title": "@feelfree_ai: 남들 다 프롬프트 깎고 있을 때, 스탠포드에서는 AI의 '인프라 권력'...",
+    "sent_at": "2026-05-02T02:34:09.945932+00:00"
+  },
+  "https://www.threads.com/t/DXyiy7dgRGl": {
+    "title": "@feelfree_ai: GPU 없이 CPU만으로 LLM 추론을? 그것도 8개짜리 H20 서버보다 빠르다니, 인프ᄅ...",
+    "sent_at": "2026-05-02T02:34:09.945929+00:00"
+  },
+  "https://www.threads.com/t/DXzCpJ9gQFo": {
+    "title": "@feelfree_ai: 파라미터의 63%가 임베딩 레이어 하나에 다 몰려있다면 믿어지시나요? 자...",
+    "sent_at": "2026-05-02T02:34:09.945926+00:00"
+  },
+  "https://www.threads.com/t/DX0KnW5gby3": {
+    "title": "@feelfree_ai: 'AI 코딩 에이전트'만을 위해 설계된 전용 백엔드 프로젝트가 있스...",
+    "sent_at": "2026-05-02T02:34:09.945907+00:00"
+  },
+  "4JZIrwtIvEd4qwAd4JAThB": {
+    "title": "Introducing Dynamic Workflows: durable execution that follows the tenant",
+    "sent_at": "2026-05-02T02:33:49.304824+00:00"
+  },
+  "6EfXlJEx6OJ21w9NlnS59D": {
+    "title": "Code Orange: Fail Small is complete. The result is a stronger Cloudflare network",
+    "sent_at": "2026-05-02T02:33:49.304810+00:00"
+  },
+  "https://engineering.atspotify.com/?p=2zovdZH0l6DqvR2015Vw6b": {
+    "title": "Building a Natural Language Interface to the Spotify Ads API with Claude Code Plugins",
+    "sent_at": "2026-05-02T02:33:47.320589+00:00"
+  },
+  "https://engineering.fb.com/?p=23929": {
+    "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
+    "sent_at": "2026-05-02T02:33:46.144246+00:00"
+  },
+  "https://goddaehee.tistory.com/589": {
+    "title": "Hermes Agent(2) : 보조 모델(Auxiliary Model) 분리 - 비싼 메인 모델 대신 보조 모델 따로 쓰는 법",
+    "sent_at": "2026-05-02T02:33:44.013933+00:00"
+  },
+  "https://techcrunch.com/?p=3118436": {
+    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "sent_at": "2026-05-02T02:33:37.089278+00:00"
+  },
+  "https://techcrunch.com/?p=3118467": {
+    "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
+    "sent_at": "2026-05-02T02:33:37.089277+00:00"
+  },
+  "https://techcrunch.com/?p=3118513": {
+    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "sent_at": "2026-05-02T02:33:37.089274+00:00"
+  },
+  "https://techcrunch.com/?p=3118531": {
+    "title": "Musely secures $360M from General Catalyst without giving up equity",
+    "sent_at": "2026-05-02T02:33:37.089271+00:00"
+  },
+  "https://techcrunch.com/?p=3118564": {
+    "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+    "sent_at": "2026-05-02T02:33:37.089252+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47977134": {
+    "title": "The gay jailbreak technique",
+    "sent_at": "2026-05-02T02:33:32.558377+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47977383": {
+    "title": "AI uses less water than the public thinks",
+    "sent_at": "2026-05-02T02:33:32.558374+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47977748": {
+    "title": "New research suggests people can communicate and practice skills while dreaming",
+    "sent_at": "2026-05-02T02:33:32.558372+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47978370": {
+    "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+    "sent_at": "2026-05-02T02:33:32.558368+00:00"
+  },
+  "https://news.ycombinator.com/item?id=47979583": {
+    "title": "Ti-84 Evo",
+    "sent_at": "2026-05-02T02:33:32.558349+00:00"
+  },
   "https://www.threads.com/t/DXvdAblAXvW": {
     "title": "@feelfree_ai: 모든 AI 모델에 똑같은 프롬프트를 쓰고 계신다면 손해입니다. LangCha...",
     "sent_at": "2026-05-01T02:53:09.777359+00:00"
@@ -1922,81 +1998,5 @@
   "https://techcrunch.com/?p=3111154": {
     "title": "What founders can learn from Anjuna’s layoffs and recovery",
     "sent_at": "2026-04-10T02:25:06.241674+00:00"
-  },
-  "https://techcrunch.com/?p=3111114": {
-    "title": "EFF is the latest organization to leave X",
-    "sent_at": "2026-04-10T02:25:06.241670+00:00"
-  },
-  "https://techcrunch.com/?p=3111133": {
-    "title": "ChatGPT finally offers $100/month Pro plan",
-    "sent_at": "2026-04-10T02:25:06.241664+00:00"
-  },
-  "https://techcrunch.com/?p=3111194": {
-    "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
-    "sent_at": "2026-04-10T02:25:06.241642+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47701233": {
-    "title": "Claude mixes up who said what",
-    "sent_at": "2026-04-10T02:25:01.496337+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47703419": {
-    "title": "Meta removes ads for social media addiction litigation",
-    "sent_at": "2026-04-10T02:25:01.496335+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47705952": {
-    "title": "The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy",
-    "sent_at": "2026-04-10T02:25:01.496332+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47706268": {
-    "title": "EFF is leaving X",
-    "sent_at": "2026-04-10T02:25:01.496328+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47708818": {
-    "title": "Native Instant Space Switching on macOS",
-    "sent_at": "2026-04-10T02:25:01.496311+00:00"
-  },
-  "https://www.threads.com/t/DW2tWXDEcJS": {
-    "title": "@feelfree_ai: RAG나 긴 컨텍스트 LLM을 돌릴 때 첫 응답(TTFT)이 느려서 답답하셨다ᄆ...",
-    "sent_at": "2026-04-09T02:06:02.869480+00:00"
-  },
-  "https://www.threads.com/t/DW3WhSJArKW": {
-    "title": "@feelfree_ai: 내 스마트폰이 알아서 메시지에 답장하고 화면을 터치하며 앱을 조자...",
-    "sent_at": "2026-04-09T02:06:02.869477+00:00"
-  },
-  "https://www.threads.com/t/DW49h4QAQx-": {
-    "title": "@feelfree_ai: 어제 Claude Code로 잡은 버그, 오늘 OpenClaw에 또 설명하느라 지치셨나요? AI 에ᄋ...",
-    "sent_at": "2026-04-09T02:06:02.869462+00:00"
-  },
-  "120kAbSMAaPQdCnfDgfd81": {
-    "title": "From bytecode to bytes: automated magic packet generation",
-    "sent_at": "2026-04-09T02:05:44.489501+00:00"
-  },
-  "https://huggingface.co/blog/safetensors-joins-pytorch-foundation": {
-    "title": "Safetensors is Joining the PyTorch Foundation",
-    "sent_at": "2026-04-09T02:05:43.236211+00:00"
-  },
-  "https://huggingface.co/blog/ibm-research/altk-evolve": {
-    "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
-    "sent_at": "2026-04-09T02:05:43.236200+00:00"
-  },
-  "https://engineering.fb.com/?p=23871": {
-    "title": "Trust But Canary: Configuration Safety at Scale",
-    "sent_at": "2026-04-09T02:05:41.400145+00:00"
-  },
-  "https://openai.com/index/introducing-child-safety-blueprint": {
-    "title": "Introducing the Child Safety Blueprint",
-    "sent_at": "2026-04-09T02:05:40.813244+00:00"
-  },
-  "https://openai.com/index/next-phase-of-enterprise-ai": {
-    "title": "The next phase of enterprise AI",
-    "sent_at": "2026-04-09T02:05:40.813234+00:00"
-  },
-  "https://github.blog/?p=95093": {
-    "title": "GitHub Universe is back: We want you to take the stage",
-    "sent_at": "2026-04-09T02:05:32.646114+00:00"
-  },
-  "https://techcrunch.com/?p=3110560": {
-    "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
-    "sent_at": "2026-04-09T02:05:32.316768+00:00"
   }
 }
