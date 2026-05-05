@@ -1,4 +1,76 @@
 {
+  "https://www.threads.com/t/DX5yonkgfks": {
+    "title": "@feelfree_ai: AI 코딩의 진짜 병목은 AI 성능이 아니라, 다름 아닌 내 '손가락'이어...",
+    "sent_at": "2026-05-05T02:36:03.466312+00:00"
+  },
+  "https://www.threads.com/t/DX62zxPgev4": {
+    "title": "@feelfree_ai: RAG에서 문서를 기가 막히게 찾아줘도 AI가 헛소리를 하는 진짜 이유, 아...",
+    "sent_at": "2026-05-05T02:36:03.466308+00:00"
+  },
+  "https://www.threads.com/t/DX8CaGXAQ1x": {
+    "title": "@feelfree_ai: 비싼 글카 업글 없이 OS 병목만 걷어냈는데 LLM 속도가 42.4%나 빨라ᄌ...",
+    "sent_at": "2026-05-05T02:36:03.466293+00:00"
+  },
+  "656a82dafcb1e3f48716570ca94d240d4ca3addb": {
+    "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
+    "sent_at": "2026-05-05T02:35:43.721240+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/": {
+    "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+    "sent_at": "2026-05-05T02:35:40.426391+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/": {
+    "title": "The latest AI news we announced in April 2026",
+    "sent_at": "2026-05-05T02:35:40.426379+00:00"
+  },
+  "https://openai.com/index/delivering-low-latency-voice-ai-at-scale": {
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "sent_at": "2026-05-05T02:35:38.725150+00:00"
+  },
+  "https://github.blog/?p=95662": {
+    "title": "Register now for OpenClaw: After Hours @ GitHub",
+    "sent_at": "2026-05-05T02:35:29.558595+00:00"
+  },
+  "https://techcrunch.com/?p=3118922": {
+    "title": "Katie Haun raises $1B for new venture funds",
+    "sent_at": "2026-05-05T02:35:29.076928+00:00"
+  },
+  "https://techcrunch.com/?p=3118889": {
+    "title": "Image AI models now drive app growth, beating chatbot upgrades",
+    "sent_at": "2026-05-05T02:35:29.076925+00:00"
+  },
+  "https://techcrunch.com/?p=3118909": {
+    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+    "sent_at": "2026-05-05T02:35:29.076922+00:00"
+  },
+  "https://techcrunch.com/?p=3119046": {
+    "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+    "sent_at": "2026-05-05T02:35:29.076919+00:00"
+  },
+  "https://techcrunch.com/?p=3119092": {
+    "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+    "sent_at": "2026-05-05T02:35:29.076903+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48011603": {
+    "title": "Stop big tech from making users behave in ways they don't want to",
+    "sent_at": "2026-05-05T02:35:24.215750+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48011689": {
+    "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+    "sent_at": "2026-05-05T02:35:24.215745+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48012022": {
+    "title": "Days without GitHub incidents",
+    "sent_at": "2026-05-05T02:35:24.215740+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48012735": {
+    "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+    "sent_at": "2026-05-05T02:35:24.215734+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48013919": {
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "sent_at": "2026-05-05T02:35:24.215686+00:00"
+  },
   "https://www.threads.com/t/DX3FKDHAaCk": {
     "title": "@feelfree_ai: LLM 에이전트 쓰시는 분들, 이거 하나면 AI가 내 전담 공인중개사가 되...",
     "sent_at": "2026-05-04T02:42:38.291722+00:00"
@@ -1926,77 +1998,5 @@
   "https://openai.com/academy/responsible-and-safe-use": {
     "title": "Responsible and safe use of AI",
     "sent_at": "2026-04-12T02:27:30.782900+00:00"
-  },
-  "https://openai.com/academy/research": {
-    "title": "ChatGPT for research",
-    "sent_at": "2026-04-12T02:27:30.782897+00:00"
-  },
-  "https://openai.com/academy/writing": {
-    "title": "Writing with ChatGPT",
-    "sent_at": "2026-04-12T02:27:30.782894+00:00"
-  },
-  "https://openai.com/academy/brainstorming": {
-    "title": "Brainstorming with ChatGPT",
-    "sent_at": "2026-04-12T02:27:30.782891+00:00"
-  },
-  "https://openai.com/academy/getting-started": {
-    "title": "Getting started with ChatGPT",
-    "sent_at": "2026-04-12T02:27:30.782880+00:00"
-  },
-  "https://techcrunch.com/?p=3111572": {
-    "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
-    "sent_at": "2026-04-12T02:27:19.056194+00:00"
-  },
-  "https://techcrunch.com/?p=3111667": {
-    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-    "sent_at": "2026-04-12T02:27:19.056191+00:00"
-  },
-  "https://techcrunch.com/?p=3111686": {
-    "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
-    "sent_at": "2026-04-12T02:27:19.056188+00:00"
-  },
-  "https://techcrunch.com/?p=3111689": {
-    "title": "Kalshi wins temporary pause in Arizona criminal case",
-    "sent_at": "2026-04-12T02:27:19.056178+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47727960": {
-    "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
-    "sent_at": "2026-04-12T02:27:15.674345+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47728653": {
-    "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
-    "sent_at": "2026-04-12T02:27:15.674343+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47730194": {
-    "title": "Cirrus Labs to join OpenAI",
-    "sent_at": "2026-04-12T02:27:15.674340+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47730407": {
-    "title": "South Korea introduces universal basic mobile data access",
-    "sent_at": "2026-04-12T02:27:15.674337+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47732020": {
-    "title": "Small models also found the vulnerabilities that Mythos found",
-    "sent_at": "2026-04-12T02:27:15.674323+00:00"
-  },
-  "https://www.threads.com/t/DW791NiEyLD": {
-    "title": "@feelfree_ai: 가장 비싼 모델(Opus)의 성능을 중간 모델(Sonnet)의 가격으로 뽑아낼 ᄉ...",
-    "sent_at": "2026-04-11T02:05:47.716216+00:00"
-  },
-  "https://www.threads.com/t/DW8ZQloCJJt": {
-    "title": "@feelfree_ai: 한 달 전쯤 올라왔던 건데, 다시 봐도 Nvidia AITune은 진짜 실무자들 가...",
-    "sent_at": "2026-04-11T02:05:47.716214+00:00"
-  },
-  "https://www.threads.com/t/DW9B8maFNZP": {
-    "title": "@feelfree_ai: Unsloth로 예쁘게 깎은 Gemma 4 모델 하나로 1만 달러 상금을 챙길 기회가 ᄉ...",
-    "sent_at": "2026-04-11T02:05:47.716210+00:00"
-  },
-  "https://www.threads.com/t/DW-HF0yAhs-": {
-    "title": "@feelfree_ai: LLM 서빙하실 때 KV 캐시 때문에 GPU 메모리가 꽉 차서 답답하셨던 분들,...",
-    "sent_at": "2026-04-11T02:05:47.716192+00:00"
-  },
-  "14NmmkLAEg9hFIbB9bosqh": {
-    "title": "500 Tbps of capacity: 16 years of scaling our global network",
-    "sent_at": "2026-04-11T02:05:28.382164+00:00"
   }
 }
