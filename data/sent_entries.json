@@ -1,4 +1,100 @@
 {
+  "https://www.threads.com/t/DX8dAggjzVp": {
+    "title": "@feelfree_ai: 무료 캐글 GPU로 최신 LLM을 직접 깎아볼 수 있는 아주 직관적인 튜...",
+    "sent_at": "2026-05-06T02:40:18.277409+00:00"
+  },
+  "https://www.threads.com/t/DX8xHe5gTaP": {
+    "title": "@feelfree_ai: AI 에이전트 워크플로우의 모든 단계에 굳이 비싸고 무거운 모델을 또...",
+    "sent_at": "2026-05-06T02:40:18.277407+00:00"
+  },
+  "https://www.threads.com/t/DX-MwxTE8VZ": {
+    "title": "@feelfree_ai: Gemma 4, 똑똑함은 그대로인데 속도만 최대 3배 빨라졌습니다. MTP(Multi-Token...",
+    "sent_at": "2026-05-06T02:40:18.277404+00:00"
+  },
+  "https://www.threads.com/t/DX-YGlngId-": {
+    "title": "@feelfree_ai: 텍스트 변환 없이 AI들끼리 텔레파시처럼 '생각(Latent)'을 직접 주고...",
+    "sent_at": "2026-05-06T02:40:18.277390+00:00"
+  },
+  "ba26c662eba8f9ea247af282ca8ea98a5007c81b": {
+    "title": "Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)",
+    "sent_at": "2026-05-06T02:39:57.869268+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92822": {
+    "title": "NVIDIA and ServiceNow Partner on New Autonomous AI Agents for Enterprises",
+    "sent_at": "2026-05-06T02:39:55.482357+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/": {
+    "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+    "sent_at": "2026-05-06T02:39:54.596570+00:00"
+  },
+  "https://openai.com/index/openai-pwc-finance-collaboration": {
+    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+    "sent_at": "2026-05-06T02:39:53.926024+00:00"
+  },
+  "https://openai.com/index/new-ways-to-buy-chatgpt-ads": {
+    "title": "New ways to buy ChatGPT ads",
+    "sent_at": "2026-05-06T02:39:53.926021+00:00"
+  },
+  "https://openai.com/index/gpt-5-5-instant": {
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "sent_at": "2026-05-06T02:39:53.926018+00:00"
+  },
+  "https://openai.com/index/gpt-5-5-instant-system-card": {
+    "title": "GPT-5.5 Instant System Card",
+    "sent_at": "2026-05-06T02:39:53.926001+00:00"
+  },
+  "https://goddaehee.tistory.com/594": {
+    "title": "Claude Code 4월 업데이트(v2.1.89~126 업데이트) 정리",
+    "sent_at": "2026-05-06T02:39:47.044618+00:00"
+  },
+  "https://goddaehee.tistory.com/595": {
+    "title": "OpenAI on AWS : AWS Bedrock으로 향한 GPT와 Codex 전략 - OpenAI가 Azure 독점을 벗어났다",
+    "sent_at": "2026-05-06T02:39:47.044602+00:00"
+  },
+  "https://github.blog/?p=95708": {
+    "title": "Welcome to Maintainer Month: Celebrating the people behind the code",
+    "sent_at": "2026-05-06T02:39:40.279451+00:00"
+  },
+  "https://techcrunch.com/?p=3119464": {
+    "title": "Lucid Motors doesn’t know how many EVs it will build this year",
+    "sent_at": "2026-05-06T02:39:39.773353+00:00"
+  },
+  "https://techcrunch.com/?p=3119445": {
+    "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+    "sent_at": "2026-05-06T02:39:39.773351+00:00"
+  },
+  "https://techcrunch.com/?p=3119474": {
+    "title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
+    "sent_at": "2026-05-06T02:39:39.773348+00:00"
+  },
+  "https://techcrunch.com/?p=3119050": {
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "sent_at": "2026-05-06T02:39:39.773345+00:00"
+  },
+  "https://techcrunch.com/?p=3119465": {
+    "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
+    "sent_at": "2026-05-06T02:39:39.773329+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48023861": {
+    "title": "Three Inverse Laws of AI",
+    "sent_at": "2026-05-06T02:39:34.880703+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48024540": {
+    "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+    "sent_at": "2026-05-06T02:39:34.880700+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48024859": {
+    "title": "Computer Use is 45x more expensive than structured APIs",
+    "sent_at": "2026-05-06T02:39:34.880698+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48025687": {
+    "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
+    "sent_at": "2026-05-06T02:39:34.880695+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48027897": {
+    "title": ".de TLD offline due to DNSSEC?",
+    "sent_at": "2026-05-06T02:39:34.880680+00:00"
+  },
   "https://www.threads.com/t/DX5yonkgfks": {
     "title": "@feelfree_ai: AI 코딩의 진짜 병목은 AI 성능이 아니라, 다름 아닌 내 '손가락'이어...",
     "sent_at": "2026-05-05T02:36:03.466312+00:00"
@@ -1902,101 +1998,5 @@
   "https://news.ycombinator.com/item?id=47757495": {
     "title": "GitHub Stacked PRs",
     "sent_at": "2026-04-14T02:26:11.763164+00:00"
-  },
-  "https://www.threads.com/t/DXBL44kgScG": {
-    "title": "@feelfree_ai: VRAM 4GB 일반 PC 환경에서 돌아가는 가볍고 강력한 오픈소스 TTS 써보셔...",
-    "sent_at": "2026-04-13T02:32:49.432910+00:00"
-  },
-  "https://www.threads.com/t/DXC8JpPih-b": {
-    "title": "@feelfree_ai: LLM만 덜렁 쓰면 실제 업무에 적용하기 턱없이 부족하다는 거, 다ᄃ...",
-    "sent_at": "2026-04-13T02:32:49.432907+00:00"
-  },
-  "https://www.threads.com/t/DXDTsxDgV0K": {
-    "title": "@feelfree_ai: 데이터셋 다운받고 다시 올리느라 시간 버리던 일, 이제 안 하셔도 되...",
-    "sent_at": "2026-04-13T02:32:49.432892+00:00"
-  },
-  "4dZj0C0XnS9BJQnxy2QkzY": {
-    "title": "Welcome to Agents Week",
-    "sent_at": "2026-04-13T02:32:32.084699+00:00"
-  },
-  "https://openai.com/index/axios-developer-tool-compromise": {
-    "title": "Our response to the Axios developer tool compromise",
-    "sent_at": "2026-04-13T02:32:30.222086+00:00"
-  },
-  "https://openai.com/academy/marketing": {
-    "title": "ChatGPT for marketing teams",
-    "sent_at": "2026-04-13T02:32:30.222082+00:00"
-  },
-  "https://openai.com/academy/projects": {
-    "title": "Using projects in ChatGPT",
-    "sent_at": "2026-04-13T02:32:30.222066+00:00"
-  },
-  "https://goddaehee.tistory.com/579": {
-    "title": "k-skill 리뷰 - 한국인이 만든 생활 밀착형 AI 에이전트(Claude Code로 KTX 예매까지 자동화하는 법)",
-    "sent_at": "2026-04-13T02:32:23.023711+00:00"
-  },
-  "https://goddaehee.tistory.com/578": {
-    "title": "PM Skills 분석 : 8개 PM 플러그인과 36개 워크플로우 - PM Skills Marketplace로 혼자서 PM 팀처럼 일하기",
-    "sent_at": "2026-04-13T02:32:23.023706+00:00"
-  },
-  "https://goddaehee.tistory.com/580": {
-    "title": "free-code 설치 및 사용 방법 : OpenAI Codex를 Claude Code 터미널 감각으로 붙이는 법",
-    "sent_at": "2026-04-13T02:32:23.023675+00:00"
-  },
-  "https://techcrunch.com/?p=2973217": {
-    "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-    "sent_at": "2026-04-13T02:32:14.526173+00:00"
-  },
-  "https://techcrunch.com/?p=3111457": {
-    "title": "TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?",
-    "sent_at": "2026-04-13T02:32:14.526171+00:00"
-  },
-  "https://techcrunch.com/?p=3111704": {
-    "title": "X says it’s reducing payments to clickbait accounts",
-    "sent_at": "2026-04-13T02:32:14.526168+00:00"
-  },
-  "https://techcrunch.com/?p=3111709": {
-    "title": "Apple reportedly testing four designs for upcoming smart glasses",
-    "sent_at": "2026-04-13T02:32:14.526165+00:00"
-  },
-  "https://techcrunch.com/?p=3111711": {
-    "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-    "sent_at": "2026-04-13T02:32:14.526150+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47742200": {
-    "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-    "sent_at": "2026-04-13T02:32:10.082646+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47742680": {
-    "title": "Apple has removed most of the towns and villages in Lebanon from Apple maps?",
-    "sent_at": "2026-04-13T02:32:10.082644+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47743553": {
-    "title": "Viktor Orbán concedes defeat after 'painful' election result",
-    "sent_at": "2026-04-13T02:32:10.082641+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47743628": {
-    "title": "The peril of laziness lost",
-    "sent_at": "2026-04-13T02:32:10.082637+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47743730": {
-    "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
-    "sent_at": "2026-04-13T02:32:10.082620+00:00"
-  },
-  "https://www.threads.com/t/DW-kSNRgVln": {
-    "title": "@feelfree_ai: 단순 PDF 문서를 파싱하는데 굳이 무겁고 비싼 AI 모델을 쓸 필요ᄀ...",
-    "sent_at": "2026-04-12T02:27:51.943079+00:00"
-  },
-  "https://www.threads.com/t/DW_UpsNAdGL": {
-    "title": "@feelfree_ai: 웹사이트 URL 하나면 깔끔한 Next.js 코드로 완벽히 복제해 주는 오픈소...",
-    "sent_at": "2026-04-12T02:27:51.943075+00:00"
-  },
-  "https://www.threads.com/t/DXAx2qpAWwB": {
-    "title": "@feelfree_ai: 이제 파인튜닝 없이 제로샷으로 이미지 분할(Segmentation)과 깊이 추정까ᄌ...",
-    "sent_at": "2026-04-12T02:27:51.943064+00:00"
-  },
-  "https://openai.com/academy/responsible-and-safe-use": {
-    "title": "Responsible and safe use of AI",
-    "sent_at": "2026-04-12T02:27:30.782900+00:00"
   }
 }
