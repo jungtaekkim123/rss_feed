@@ -1,4 +1,120 @@
 {
+  "https://www.threads.com/t/DX-zlSJEpby": {
+    "title": "@feelfree_ai: AI가 자기 지갑에서 알아서 돈을 꺼내 유료 API를 결제하고 일합니다. 나...",
+    "sent_at": "2026-05-07T02:42:41.947341+00:00"
+  },
+  "https://www.threads.com/t/DX_V6PPCBQ3": {
+    "title": "@feelfree_ai: 딥시크(DeepSeek v4) 아키텍처를 사람이 아닌 'AI 에이전트'가 처음부터 끝까...",
+    "sent_at": "2026-05-07T02:42:41.947339+00:00"
+  },
+  "https://www.threads.com/t/DX_xVKTgEOb": {
+    "title": "@feelfree_ai: 비영어권 음성 AI 개발할 때 다들 쉬쉬하며 뒤에서 하던 '3개월짜리 사...",
+    "sent_at": "2026-05-07T02:42:41.947334+00:00"
+  },
+  "https://www.threads.com/t/DYA87n9Ezqe": {
+    "title": "@feelfree_ai: 요즘 LLM 강화학습(RL) 세팅할 때 어떤 프레임워크 써야 할지 막막하ᄉ...",
+    "sent_at": "2026-05-07T02:42:41.947294+00:00"
+  },
+  "https://d2.naver.com/news/4911787": {
+    "title": "FE News 26년 5월 소식을 전해드립니다.",
+    "sent_at": "2026-05-07T02:42:26.705151+00:00"
+  },
+  "https://tech.kakao.com/posts/821": {
+    "title": "음성 AI 모델을 프로덕션에 올리기까지: Kanana-O 서빙 최적화 여정",
+    "sent_at": "2026-05-07T02:42:24.780994+00:00"
+  },
+  "54f2c0bbf94c80ee2544a7a26bd493c5f8947aa5": {
+    "title": "The AWS MCP Server is now generally available",
+    "sent_at": "2026-05-07T02:42:22.584341+00:00"
+  },
+  "2MckFmlh9Epgpruqa9MXRh": {
+    "title": "When DNSSEC goes wrong: how we responded to the .de TLD outage",
+    "sent_at": "2026-05-07T02:42:22.093698+00:00"
+  },
+  "https://huggingface.co/blog/open-asr-leaderboard-private-data": {
+    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "sent_at": "2026-05-07T02:42:19.703655+00:00"
+  },
+  "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections": {
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "sent_at": "2026-05-07T02:42:19.703639+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92837": {
+    "title": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
+    "sent_at": "2026-05-07T02:42:17.980966+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/gardening-tips/": {
+    "title": "5 gardening tips you can try right in Search",
+    "sent_at": "2026-05-07T02:42:17.294777+00:00"
+  },
+  "https://openai.com/index/introducing-b2b-signals": {
+    "title": "How frontier enterprises are building an AI advantage",
+    "sent_at": "2026-05-07T02:42:16.647654+00:00"
+  },
+  "https://openai.com/index/uber": {
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "sent_at": "2026-05-07T02:42:16.647652+00:00"
+  },
+  "https://openai.com/index/singular-bank": {
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "sent_at": "2026-05-07T02:42:16.647648+00:00"
+  },
+  "https://openai.com/index/introducing-chatgpt-futures-class-of-2026": {
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "sent_at": "2026-05-07T02:42:16.647632+00:00"
+  },
+  "https://goddaehee.tistory.com/596": {
+    "title": "Codex CLI 입문(1) : OpenAI Codex CLI 빠른 시작 - codex 설치, 인증 하기",
+    "sent_at": "2026-05-07T02:42:12.277171+00:00"
+  },
+  "https://goddaehee.tistory.com/597": {
+    "title": "Codex CLI 입문(2) : OpenAI Codex 핵심 개념 4가지 - Prompting, Memories, Sandboxing, Models",
+    "sent_at": "2026-05-07T02:42:12.277156+00:00"
+  },
+  "https://github.blog/?p=95757": {
+    "title": "Validating agentic behavior when “correct” isn’t deterministic",
+    "sent_at": "2026-05-07T02:42:05.425788+00:00"
+  },
+  "https://techcrunch.com/?p=3119893": {
+    "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
+    "sent_at": "2026-05-07T02:42:04.976112+00:00"
+  },
+  "https://techcrunch.com/?p=3119918": {
+    "title": "Is xAI a neocloud now?",
+    "sent_at": "2026-05-07T02:42:04.976110+00:00"
+  },
+  "https://techcrunch.com/?p=3119920": {
+    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+    "sent_at": "2026-05-07T02:42:04.976107+00:00"
+  },
+  "https://techcrunch.com/?p=3119906": {
+    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+    "sent_at": "2026-05-07T02:42:04.976104+00:00"
+  },
+  "https://techcrunch.com/?p=3119821": {
+    "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+    "sent_at": "2026-05-07T02:42:04.976088+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48034587": {
+    "title": "Red Squares – GitHub outages as contributions",
+    "sent_at": "2026-05-07T02:42:00.217400+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48037128": {
+    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+    "sent_at": "2026-05-07T02:42:00.217397+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48037555": {
+    "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+    "sent_at": "2026-05-07T02:42:00.217394+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48037986": {
+    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+    "sent_at": "2026-05-07T02:42:00.217390+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48038001": {
+    "title": "Appearing productive in the workplace",
+    "sent_at": "2026-05-07T02:42:00.217373+00:00"
+  },
   "https://www.threads.com/t/DX8dAggjzVp": {
     "title": "@feelfree_ai: 무료 캐글 GPU로 최신 LLM을 직접 깎아볼 수 있는 아주 직관적인 튜...",
     "sent_at": "2026-05-06T02:40:18.277409+00:00"
@@ -1882,121 +1998,5 @@
   "https://techcrunch.com/?p=3112348": {
     "title": "Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites",
     "sent_at": "2026-04-15T02:24:15.198410+00:00"
-  },
-  "https://techcrunch.com/?p=3112415": {
-    "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
-    "sent_at": "2026-04-15T02:24:15.198397+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47766550": {
-    "title": "The future of everything is lies, I guess: Work",
-    "sent_at": "2026-04-15T02:24:10.654736+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47768133": {
-    "title": "Claude Code Routines",
-    "sent_at": "2026-04-15T02:24:10.654734+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47768195": {
-    "title": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
-    "sent_at": "2026-04-15T02:24:10.654732+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47768813": {
-    "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
-    "sent_at": "2026-04-15T02:24:10.654728+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47769796": {
-    "title": "Tell HN: Fiverr left customer files public and searchable",
-    "sent_at": "2026-04-15T02:24:10.654718+00:00"
-  },
-  "https://www.threads.com/t/DXD48C-ARRx": {
-    "title": "@feelfree_ai: AI 업계의 불편한 진실, 팀원 대다수가 제품 개발이 아닌 인프라 'ᄇ...",
-    "sent_at": "2026-04-14T02:26:50.625800+00:00"
-  },
-  "https://www.threads.com/t/DXEYGE7Ads3": {
-    "title": "@feelfree_ai: TPU 문서만 던져줬는데 커널 속도가 4배나 빨라졌습니다. 단순히 ᄉ...",
-    "sent_at": "2026-04-14T02:26:50.625797+00:00"
-  },
-  "https://www.threads.com/t/DXF8ZB8iQP4": {
-    "title": "@feelfree_ai: GPT-4o-mini, 네모트론-120B, Qwen3.5-27B, 제미나이 플래시 라이트까지 전부 압살해버...",
-    "sent_at": "2026-04-14T02:26:50.625782+00:00"
-  },
-  "https://d2.naver.com/news/2009415": {
-    "title": "[사전 안내] 첫 번째 'NAVER SECURITY SEMINAR'가 열립니다.",
-    "sent_at": "2026-04-14T02:26:37.672212+00:00"
-  },
-  "2ae783c62455555449dd97fa9eb4b9730eb5f041": {
-    "title": "AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)",
-    "sent_at": "2026-04-14T02:26:34.069823+00:00"
-  },
-  "3j8ROSAUomMNPrmru3f2U9": {
-    "title": "Dynamic, identity-aware, and secure Sandbox auth",
-    "sent_at": "2026-04-14T02:26:33.435411+00:00"
-  },
-  "7jXMXMjQUIpjGzJdPadO4a": {
-    "title": "Agents have their own computers with Sandboxes GA",
-    "sent_at": "2026-04-14T02:26:33.435408+00:00"
-  },
-  "2OYAJUdGLODlCXKKdCZMeG": {
-    "title": "Durable Objects in Dynamic Workers: Give each AI-generated app its own database",
-    "sent_at": "2026-04-14T02:26:33.435405+00:00"
-  },
-  "5r3Nx1IDtp6B6GRDHqQyWL": {
-    "title": "Building a CLI for all of Cloudflare",
-    "sent_at": "2026-04-14T02:26:33.435390+00:00"
-  },
-  "https://openai.com/academy/finance": {
-    "title": "ChatGPT for finance teams",
-    "sent_at": "2026-04-14T02:26:27.177098+00:00"
-  },
-  "https://openai.com/academy/operations": {
-    "title": "ChatGPT for operations teams",
-    "sent_at": "2026-04-14T02:26:27.177094+00:00"
-  },
-  "https://openai.com/index/cloudflare-openai-agent-cloud": {
-    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-    "sent_at": "2026-04-14T02:26:27.177078+00:00"
-  },
-  "https://github.blog/?p=95207": {
-    "title": "GitHub for Beginners: Getting started with GitHub Pages",
-    "sent_at": "2026-04-14T02:26:17.166987+00:00"
-  },
-  "https://techcrunch.com/?p=3111913": {
-    "title": "Thousands of rare concert recordings are landing on the Internet Archive — listen now",
-    "sent_at": "2026-04-14T02:26:16.672180+00:00"
-  },
-  "https://techcrunch.com/?p=3111969": {
-    "title": "Microsoft is officially killing its Outlook Lite app next month",
-    "sent_at": "2026-04-14T02:26:16.672178+00:00"
-  },
-  "https://techcrunch.com/?p=3111958": {
-    "title": "Uber and Nuro begin testing premium robotaxi service in San Francisco",
-    "sent_at": "2026-04-14T02:26:16.672176+00:00"
-  },
-  "https://techcrunch.com/?p=3112057": {
-    "title": "OpenAI has bought AI personal finance startup Hiro",
-    "sent_at": "2026-04-14T02:26:16.672172+00:00"
-  },
-  "https://techcrunch.com/?p=3112039": {
-    "title": "An Amazon warehouse worker died on the job at Oregon facility",
-    "sent_at": "2026-04-14T02:26:16.672157+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47753472": {
-    "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-    "sent_at": "2026-04-14T02:26:11.763190+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47753689": {
-    "title": "Building a CLI for all of Cloudflare",
-    "sent_at": "2026-04-14T02:26:11.763187+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47754379": {
-    "title": "The Future of Everything Is Lies, I Guess: Safety",
-    "sent_at": "2026-04-14T02:26:11.763185+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47755629": {
-    "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-    "sent_at": "2026-04-14T02:26:11.763181+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47757495": {
-    "title": "GitHub Stacked PRs",
-    "sent_at": "2026-04-14T02:26:11.763164+00:00"
   }
 }
