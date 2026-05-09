@@ -1,4 +1,80 @@
 {
+  "https://www.threads.com/t/DYEVOwLgX4g": {
+    "title": "@feelfree_ai: 퍼플렉시티가 자체 추론 엔진 'ROSE'를 들고 나왔습니다. 임베딩 모ᄃ...",
+    "sent_at": "2026-05-09T02:41:45.374818+00:00"
+  },
+  "https://www.threads.com/t/DYE6TKOAYBq": {
+    "title": "@feelfree_ai: SQL 1도 몰라도 3분 만에 우리 회사 전용 데이터 분석가를 만들 수 있...",
+    "sent_at": "2026-05-09T02:41:45.374815+00:00"
+  },
+  "https://www.threads.com/t/DYGNXLCAvEK": {
+    "title": "@feelfree_ai: 엔비디아 GR00T를 더블 스코어(86.8% vs 40%)로 압도한 한국 팀의 로봇 AI가 조...",
+    "sent_at": "2026-05-09T02:41:45.374800+00:00"
+  },
+  "https://huggingface.co/blog/allenai/emo": {
+    "title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "sent_at": "2026-05-09T02:41:25.973742+00:00"
+  },
+  "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b": {
+    "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+    "sent_at": "2026-05-09T02:41:25.973727+00:00"
+  },
+  "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/": {
+    "title": "See what happens when creative legends use AI to make ads for small businesses.",
+    "sent_at": "2026-05-09T02:41:23.521849+00:00"
+  },
+  "https://openai.com/index/running-codex-safely": {
+    "title": "Running Codex safely at OpenAI",
+    "sent_at": "2026-05-09T02:41:22.891553+00:00"
+  },
+  "https://github.blog/?p=95797": {
+    "title": "How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations",
+    "sent_at": "2026-05-09T02:41:13.298602+00:00"
+  },
+  "https://github.blog/?p=95805": {
+    "title": "Why age assurance laws matter for developers",
+    "sent_at": "2026-05-09T02:41:13.298587+00:00"
+  },
+  "https://techcrunch.com/?p=3120740": {
+    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+    "sent_at": "2026-05-09T02:41:11.331533+00:00"
+  },
+  "https://techcrunch.com/?p=3120919": {
+    "title": "Intel’s comeback story is even wilder than it seems",
+    "sent_at": "2026-05-09T02:41:11.331531+00:00"
+  },
+  "https://techcrunch.com/?p=3120926": {
+    "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
+    "sent_at": "2026-05-09T02:41:11.331528+00:00"
+  },
+  "https://techcrunch.com/?p=3120961": {
+    "title": "San Francisco’s housing market has lost its mind",
+    "sent_at": "2026-05-09T02:41:11.331525+00:00"
+  },
+  "https://techcrunch.com/?p=3120983": {
+    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+    "sent_at": "2026-05-09T02:41:11.331510+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48062178": {
+    "title": "A web page that shows you everything the browser told it without asking",
+    "sent_at": "2026-05-09T02:41:06.478432+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48063199": {
+    "title": "Google Cloud Fraud Defence is just WEI repackaged",
+    "sent_at": "2026-05-09T02:41:06.478430+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48065360": {
+    "title": "Cartoon Network Flash Games",
+    "sent_at": "2026-05-09T02:41:06.478428+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48066524": {
+    "title": "AI is breaking two vulnerability cultures",
+    "sent_at": "2026-05-09T02:41:06.478424+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48067119": {
+    "title": "Google broke reCAPTCHA for de-googled Android users",
+    "sent_at": "2026-05-09T02:41:06.478408+00:00"
+  },
   "https://www.threads.com/t/DYBYbqBDnW-": {
     "title": "@feelfree_ai: 무겁고 맘대로 수정도 안 되는 AI 코딩 에이전트에 지치셨다면, 이 'Pi A...",
     "sent_at": "2026-05-08T02:47:25.395527+00:00"
@@ -1922,81 +1998,5 @@
   "3r2ykMs0LTSPwVHmVWldCy": {
     "title": "Project Think: building the next generation of AI agents on Cloudflare",
     "sent_at": "2026-04-16T02:31:38.624004+00:00"
-  },
-  "oXDvwP79G3OGr3XDAFwmD": {
-    "title": "Register domains wherever you build: Cloudflare Registrar API now in beta",
-    "sent_at": "2026-04-16T02:31:38.624001+00:00"
-  },
-  "4KNkr1nK6i3lbBEBRWnt5z": {
-    "title": "Introducing Agent Lee - a new interface to the Cloudflare stack",
-    "sent_at": "2026-04-16T02:31:38.623990+00:00"
-  },
-  "https://engineering.atspotify.com/?p=57Pe0SvWh0KMB5dJV9yu7C": {
-    "title": "Congratulations to the recipients of the 2025 Spotify FOSS Fund",
-    "sent_at": "2026-04-16T02:31:33.429333+00:00"
-  },
-  "https://engineering.atspotify.com/?p=esQIXrFPWjoKkc9B1irH6": {
-    "title": "How We Release the Spotify App: A Look Under the Hood (Part 2)",
-    "sent_at": "2026-04-16T02:31:33.429331+00:00"
-  },
-  "https://engineering.atspotify.com/?p=7N32jBbCV2q36c1trMybW1": {
-    "title": "Our Multi-Agent Architecture for Smarter Advertising",
-    "sent_at": "2026-04-16T02:31:33.429328+00:00"
-  },
-  "https://engineering.atspotify.com/?p=1FaDH30hqF8M6aMDIsl71b": {
-    "title": "Inside the Archive: The Tech Behind Your 2025 Wrapped Highlights",
-    "sent_at": "2026-04-16T02:31:33.429318+00:00"
-  },
-  "https://huggingface.co/blog/Hcompany/holotab": {
-    "title": "Meet HoloTab by HCompany. Your AI browser companion.",
-    "sent_at": "2026-04-16T02:31:29.252105+00:00"
-  },
-  "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis": {
-    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-    "sent_at": "2026-04-16T02:31:29.252095+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92302": {
-    "title": "New Adobe Premiere Color Grading Mode Accelerated on NVIDIA GPUs",
-    "sent_at": "2026-04-16T02:31:27.697123+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92229": {
-    "title": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
-    "sent_at": "2026-04-16T02:31:27.697113+00:00"
-  },
-  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/": {
-    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-    "sent_at": "2026-04-16T02:31:26.051111+00:00"
-  },
-  "https://openai.com/academy/prompting": {
-    "title": "Prompting fundamentals",
-    "sent_at": "2026-04-16T02:31:25.603983+00:00"
-  },
-  "https://openai.com/index/the-next-evolution-of-the-agents-sdk": {
-    "title": "The next evolution of the Agents SDK",
-    "sent_at": "2026-04-16T02:31:25.603971+00:00"
-  },
-  "https://github.blog/?p=95283": {
-    "title": "Developer policy update: Intermediary liability, copyright, and transparency",
-    "sent_at": "2026-04-16T02:31:13.011008+00:00"
-  },
-  "https://github.blog/?p=95327": {
-    "title": "Build a personal organization command center with GitHub Copilot CLI",
-    "sent_at": "2026-04-16T02:31:13.010998+00:00"
-  },
-  "https://techcrunch.com/?p=3112660": {
-    "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-    "sent_at": "2026-04-16T02:31:11.641783+00:00"
-  },
-  "https://techcrunch.com/?p=3112942": {
-    "title": "Monarch Tractor’s collapse ends with an acquisition by Caterpillar",
-    "sent_at": "2026-04-16T02:31:11.641781+00:00"
-  },
-  "https://techcrunch.com/?p=3112945": {
-    "title": "Wait, could they still actually break up Live Nation?",
-    "sent_at": "2026-04-16T02:31:11.641778+00:00"
-  },
-  "https://techcrunch.com/?p=3112976": {
-    "title": "Ford EV and tech chief leaving automaker",
-    "sent_at": "2026-04-16T02:31:11.641775+00:00"
   }
 }
