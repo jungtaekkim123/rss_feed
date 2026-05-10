@@ -1,4 +1,72 @@
 {
+  "https://www.threads.com/t/DYGh8DOkkU1": {
+    "title": "@feelfree_ai: 로컬 LLM 속도가 장비 교체 없이 2배나 빨라지는 역대급 업데이트가 고...",
+    "sent_at": "2026-05-10T02:47:05.860996+00:00"
+  },
+  "https://www.threads.com/t/DYG62-RgSwR": {
+    "title": "@feelfree_ai: AI가 모든 걸 다 기억하면 똑똑해질까요? 오히려 쓸데없는 노이즈마...",
+    "sent_at": "2026-05-10T02:47:05.860994+00:00"
+  },
+  "https://www.threads.com/t/DYHex1WAdP5": {
+    "title": "@feelfree_ai: RAG나 AI 에이전트 만드실 때 귀찮았던 문서 전처리, Firecrawl에서 로컬 파...",
+    "sent_at": "2026-05-10T02:47:05.860991+00:00"
+  },
+  "https://www.threads.com/t/DYJEPyMAYOp": {
+    "title": "@feelfree_ai: 결국 AI 에이전트의 다음 단계는 '채팅창'이 아니라 '생성형 UI'가 되...",
+    "sent_at": "2026-05-10T02:47:05.860974+00:00"
+  },
+  "https://engineering.atspotify.com/?p=7N32jBbCV2q36c1trMybW1": {
+    "title": "Our Multi-Agent Architecture for Smarter Advertising",
+    "sent_at": "2026-05-10T02:46:43.567180+00:00"
+  },
+  "https://engineering.atspotify.com/?p=1FaDH30hqF8M6aMDIsl71b": {
+    "title": "Inside the Archive: The Tech Behind Your 2025 Wrapped Highlights",
+    "sent_at": "2026-05-10T02:46:43.567163+00:00"
+  },
+  "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper": {
+    "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+    "sent_at": "2026-05-10T02:46:40.920125+00:00"
+  },
+  "https://techcrunch.com/?p=3120223": {
+    "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
+    "sent_at": "2026-05-10T02:46:27.805788+00:00"
+  },
+  "https://techcrunch.com/?p=3121041": {
+    "title": "GM agrees to pay $12.75M in California driver privacy settlement",
+    "sent_at": "2026-05-10T02:46:27.805786+00:00"
+  },
+  "https://techcrunch.com/?p=3121044": {
+    "title": "Fintech startup Parker files for bankruptcy",
+    "sent_at": "2026-05-10T02:46:27.805784+00:00"
+  },
+  "https://techcrunch.com/?p=2973217": {
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "sent_at": "2026-05-10T02:46:27.805780+00:00"
+  },
+  "https://techcrunch.com/?p=3121027": {
+    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+    "sent_at": "2026-05-10T02:46:27.805764+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48074952": {
+    "title": "The hypocrisy of cyberlibertarianism",
+    "sent_at": "2026-05-10T02:46:23.127919+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48075144": {
+    "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
+    "sent_at": "2026-05-10T02:46:23.127916+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48075366": {
+    "title": "Distributing Mac software is increasing my cortisol levels",
+    "sent_at": "2026-05-10T02:46:23.127913+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48076173": {
+    "title": "I’ve banned query strings",
+    "sent_at": "2026-05-10T02:46:23.127909+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48077126": {
+    "title": "Meta's embrace of A.I. is making its employees miserable",
+    "sent_at": "2026-05-10T02:46:23.127891+00:00"
+  },
   "https://www.threads.com/t/DYEVOwLgX4g": {
     "title": "@feelfree_ai: 퍼플렉시티가 자체 추론 엔진 'ROSE'를 들고 나왔습니다. 임베딩 모ᄃ...",
     "sent_at": "2026-05-09T02:41:45.374818+00:00"
@@ -1930,73 +1998,5 @@
   "https://techcrunch.com/?p=3113506": {
     "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
     "sent_at": "2026-04-17T02:27:13.646400+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47792718": {
-    "title": "The future of everything is lies, I guess: Where do we go from here?",
-    "sent_at": "2026-04-17T02:27:09.089899+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47792764": {
-    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-    "sent_at": "2026-04-17T02:27:09.089896+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47793411": {
-    "title": "Claude Opus 4.7",
-    "sent_at": "2026-04-17T02:27:09.089893+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47796469": {
-    "title": "Codex for almost everything",
-    "sent_at": "2026-04-17T02:27:09.089889+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47796830": {
-    "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
-    "sent_at": "2026-04-17T02:27:09.089871+00:00"
-  },
-  "https://www.threads.com/t/DXI5S6hAHlQ": {
-    "title": "@feelfree_ai: AI 에이전트한테 클라우드 인프라 제어권을 통째로 주면 생기는 일...",
-    "sent_at": "2026-04-16T02:32:02.471354+00:00"
-  },
-  "https://www.threads.com/t/DXJTUCHgSAN": {
-    "title": "@feelfree_ai: 제미나이 2.5 플래시로 클로드 오퍼스 4.6의 결과물을 평가해 SOTA를 찍으...",
-    "sent_at": "2026-04-16T02:32:02.471351+00:00"
-  },
-  "https://www.threads.com/t/DXK4MWJEVnP": {
-    "title": "@feelfree_ai: 단 9GB VRAM만 있으면 내 PC에서도 구글 Gemma 4를 직접 강화학습(RL) 시켜보...",
-    "sent_at": "2026-04-16T02:32:02.471341+00:00"
-  },
-  "https://d2.naver.com/news/6236639": {
-    "title": "NAVER SECURITY SEMINAR 참가 신청을 시작합니다!",
-    "sent_at": "2026-04-16T02:31:47.766278+00:00"
-  },
-  "https://tech.kakao.com/posts/814": {
-    "title": "2026 카카오그룹 신입크루 공채 코딩테스트 2차 문제해설",
-    "sent_at": "2026-04-16T02:31:45.398111+00:00"
-  },
-  "https://tech.kakao.com/posts/812": {
-    "title": "한국 문화 이해부터 화면 조작까지: Kanana-V 기능 확장의 모든 것",
-    "sent_at": "2026-04-16T02:31:45.398109+00:00"
-  },
-  "https://tech.kakao.com/posts/815": {
-    "title": "학생에서 개발자로: DB, 보안부터 AI까지, 정답보다 합리적인 선택을 배우다",
-    "sent_at": "2026-04-16T02:31:45.398107+00:00"
-  },
-  "https://tech.kakao.com/posts/816": {
-    "title": "학생에서 개발자로: 로또 구현부터 레거시 개선까지, 서버의 흐름을 배우다",
-    "sent_at": "2026-04-16T02:31:45.398104+00:00"
-  },
-  "https://tech.kakao.com/posts/817": {
-    "title": "수억 건의 보안 신호 속 진짜 위협 찾기 — AI로 보안 모니터링의 패러다임을 바꾸다",
-    "sent_at": "2026-04-16T02:31:45.398095+00:00"
-  },
-  "5R3ZpKlSDaSxbIwmpXwWYJ": {
-    "title": "Rearchitecting the Workflows control plane for the agentic era",
-    "sent_at": "2026-04-16T02:31:38.624009+00:00"
-  },
-  "160lCssR1GA8lEUV718ev5": {
-    "title": "Browser Run: give your agents a browser",
-    "sent_at": "2026-04-16T02:31:38.624007+00:00"
-  },
-  "3r2ykMs0LTSPwVHmVWldCy": {
-    "title": "Project Think: building the next generation of AI agents on Cloudflare",
-    "sent_at": "2026-04-16T02:31:38.624004+00:00"
   }
 }
