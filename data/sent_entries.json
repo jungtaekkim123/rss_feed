@@ -1,4 +1,76 @@
 {
+  "https://www.threads.com/t/DYJ1xg_gUYS": {
+    "title": "@feelfree_ai: 요즘 거대 모델만 쫓다가 지치셨나요? 굳이 무거운 LLM 안 써도 충분ᄒ...",
+    "sent_at": "2026-05-11T02:56:22.326108+00:00"
+  },
+  "https://www.threads.com/t/DYLQGSvEUeB": {
+    "title": "@feelfree_ai: LLM이 생성한 알 수 없는 코드, 내 노트북에서 무작정 돌리기 찝찝ᄒ...",
+    "sent_at": "2026-05-11T02:56:22.326093+00:00"
+  },
+  "https://d2.naver.com/news/6236639": {
+    "title": "NAVER SECURITY SEMINAR 참가 신청을 시작합니다!",
+    "sent_at": "2026-05-11T02:56:09.539987+00:00"
+  },
+  "https://tech.kakao.com/posts/816": {
+    "title": "학생에서 개발자로: 로또 구현부터 레거시 개선까지, 서버의 흐름을 배우다",
+    "sent_at": "2026-05-11T02:56:07.320739+00:00"
+  },
+  "https://tech.kakao.com/posts/817": {
+    "title": "수억 건의 보안 신호 속 진짜 위협 찾기 — AI로 보안 모니터링의 패러다임을 바꾸다",
+    "sent_at": "2026-05-11T02:56:07.320725+00:00"
+  },
+  "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck": {
+    "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+    "sent_at": "2026-05-11T02:56:02.004018+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92900": {
+    "title": "‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates",
+    "sent_at": "2026-05-11T02:56:01.230472+00:00"
+  },
+  "https://goddaehee.tistory.com/598": {
+    "title": "Codex CLI 입문(3) : Codex Subagents와 Workflows 사용 방법 - 큰 작업을 나누어 처리하는 방법",
+    "sent_at": "2026-05-11T02:55:54.022296+00:00"
+  },
+  "https://techcrunch.com/?p=3121081": {
+    "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+    "sent_at": "2026-05-11T02:55:47.896415+00:00"
+  },
+  "https://techcrunch.com/?p=3120994": {
+    "title": "TechCrunch Mobility: Lime’s IPO gamble",
+    "sent_at": "2026-05-11T02:55:47.896413+00:00"
+  },
+  "https://techcrunch.com/?p=3121083": {
+    "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
+    "sent_at": "2026-05-11T02:55:47.896411+00:00"
+  },
+  "https://techcrunch.com/?p=3121096": {
+    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+    "sent_at": "2026-05-11T02:55:47.896408+00:00"
+  },
+  "https://techcrunch.com/?p=3121099": {
+    "title": "Get ready for the whisper-filled office of the future",
+    "sent_at": "2026-05-11T02:55:47.896392+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48085314": {
+    "title": "YC's Biggest Scandals",
+    "sent_at": "2026-05-11T02:55:43.038171+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48085384": {
+    "title": "Remind HN: Today is Mother's Day, call your moms",
+    "sent_at": "2026-05-11T02:55:43.038168+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48085821": {
+    "title": "Local AI needs to be the norm",
+    "sent_at": "2026-05-11T02:55:43.038166+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48086082": {
+    "title": "Incident Report: CVE-2024-YIKES",
+    "sent_at": "2026-05-11T02:55:43.038162+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48086190": {
+    "title": "Hardware Attestation as Monopoly Enabler",
+    "sent_at": "2026-05-11T02:55:43.038145+00:00"
+  },
   "https://www.threads.com/t/DYGh8DOkkU1": {
     "title": "@feelfree_ai: 로컬 LLM 속도가 장비 교체 없이 2배나 빨라지는 역대급 업데이트가 고...",
     "sent_at": "2026-05-10T02:47:05.860996+00:00"
@@ -1926,77 +1998,5 @@
   "4l8kYFerKsLkZH2ZVaOoYf": {
     "title": "AI Search: the search primitive for your agents",
     "sent_at": "2026-04-17T02:27:38.035120+00:00"
-  },
-  "71xNLfh83S7Fg78QEcgdhf": {
-    "title": "Building the foundation for running extra-large language models",
-    "sent_at": "2026-04-17T02:27:38.035117+00:00"
-  },
-  "2vIUFXJLJcMgjgY6jFnQ7G": {
-    "title": "Cloudflare’s AI Platform: an inference layer designed for agents",
-    "sent_at": "2026-04-17T02:27:38.035099+00:00"
-  },
-  "https://huggingface.co/blog/train-multimodal-sentence-transformers": {
-    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
-    "sent_at": "2026-04-17T02:27:32.506237+00:00"
-  },
-  "https://huggingface.co/blog/transformers-to-mlx": {
-    "title": "The PR you would have opened yourself",
-    "sent_at": "2026-04-17T02:27:32.506221+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92373": {
-    "title": "No Need for Space Gear — Capcom’s ‘PRAGMATA’ Joins GeForce NOW on Launch Day",
-    "sent_at": "2026-04-17T02:27:30.771773+00:00"
-  },
-  "https://engineering.fb.com/?p=23883": {
-    "title": "Post-Quantum Cryptography Migration at Meta: Framework, Lessons, and Takeaways",
-    "sent_at": "2026-04-17T02:27:30.299567+00:00"
-  },
-  "https://engineering.fb.com/?p=23898": {
-    "title": "Capacity Efficiency at Meta: How Unified AI Agents Optimize Performance at Hyperscale",
-    "sent_at": "2026-04-17T02:27:30.299553+00:00"
-  },
-  "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/": {
-    "title": "New ways to create personalized images in the Gemini app",
-    "sent_at": "2026-04-17T02:27:28.913444+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/": {
-    "title": "A new way to explore the web with AI Mode in Chrome",
-    "sent_at": "2026-04-17T02:27:28.913429+00:00"
-  },
-  "https://openai.com/index/accelerating-cyber-defense-ecosystem": {
-    "title": "Accelerating the cyber defense ecosystem that protects us all",
-    "sent_at": "2026-04-17T02:27:27.405347+00:00"
-  },
-  "https://openai.com/index/introducing-gpt-rosalind": {
-    "title": "Introducing GPT-Rosalind for life sciences research",
-    "sent_at": "2026-04-17T02:27:27.405344+00:00"
-  },
-  "https://openai.com/index/codex-for-almost-everything": {
-    "title": "Codex for (almost) everything",
-    "sent_at": "2026-04-17T02:27:27.405327+00:00"
-  },
-  "https://github.blog/?p=95074": {
-    "title": "How GitHub uses eBPF to improve deployment safety",
-    "sent_at": "2026-04-17T02:27:14.013273+00:00"
-  },
-  "https://techcrunch.com/?p=3113359": {
-    "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-    "sent_at": "2026-04-17T02:27:13.646425+00:00"
-  },
-  "https://techcrunch.com/?p=3113423": {
-    "title": "Upscale AI in talks to raise at $2B valuation, says report",
-    "sent_at": "2026-04-17T02:27:13.646422+00:00"
-  },
-  "https://techcrunch.com/?p=3113435": {
-    "title": "Netflix co-founder and chair Reed Hastings to leave board",
-    "sent_at": "2026-04-17T02:27:13.646419+00:00"
-  },
-  "https://techcrunch.com/?p=3113490": {
-    "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
-    "sent_at": "2026-04-17T02:27:13.646415+00:00"
-  },
-  "https://techcrunch.com/?p=3113506": {
-    "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-    "sent_at": "2026-04-17T02:27:13.646400+00:00"
   }
 }
