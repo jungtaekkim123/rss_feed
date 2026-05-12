@@ -1,4 +1,108 @@
 {
+  "https://www.threads.com/t/DYL9eTUAT_R": {
+    "title": "@feelfree_ai: AI가 매번 컨텍스트를 까먹고 리셋되는 거, 코덱스(Codex) 스레드 자동화...",
+    "sent_at": "2026-05-12T02:48:28.985539+00:00"
+  },
+  "https://www.threads.com/t/DYMUzLoE158": {
+    "title": "@feelfree_ai: AI 코딩 어시스턴트에게 파일 단위로 코드를 던져줄 필요가 없네요. ᄏ...",
+    "sent_at": "2026-05-12T02:48:28.985515+00:00"
+  },
+  "https://www.threads.com/t/DYMuTB-ga4K": {
+    "title": "@feelfree_ai: 실무에서 AI 쓸 때 제일 답답한 게 \"어제 뽑은 그 톤앤매너 그대로 다...",
+    "sent_at": "2026-05-12T02:48:28.985512+00:00"
+  },
+  "https://www.threads.com/t/DYN7vICkQhv": {
+    "title": "@feelfree_ai: 스마트폰에 쏙 들어가는 1B 사이즈 비전 언어 모델(VLM)이 나왔는데, 여...",
+    "sent_at": "2026-05-12T02:48:28.985496+00:00"
+  },
+  "e766e11e0b7ecce0c6e076380bc94198db92c151": {
+    "title": "AWS Weekly Roundup: Amazon Bedrock AgentCore payments, Agent Toolkit for AWS, and more (May 11, 2026)",
+    "sent_at": "2026-05-12T02:48:08.844990+00:00"
+  },
+  "https://huggingface.co/blog/amazon/foundation-model-building-blocks": {
+    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "sent_at": "2026-05-12T02:48:06.702776+00:00"
+  },
+  "https://engineering.fb.com/?p=23883": {
+    "title": "Post-Quantum Cryptography Migration at Meta: Framework, Lessons, and Takeaways",
+    "sent_at": "2026-05-12T02:48:05.546356+00:00"
+  },
+  "https://engineering.fb.com/?p=23898": {
+    "title": "Capacity Efficiency at Meta: How Unified AI Agents Optimize Performance at Hyperscale",
+    "sent_at": "2026-05-12T02:48:05.546353+00:00"
+  },
+  "https://engineering.fb.com/?p=23959": {
+    "title": "Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable",
+    "sent_at": "2026-05-12T02:48:05.546336+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/": {
+    "title": "The new AI-powered Google Finance is expanding to Europe.",
+    "sent_at": "2026-05-12T02:48:02.658432+00:00"
+  },
+  "https://openai.com/index/openai-launches-the-deployment-company": {
+    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+    "sent_at": "2026-05-12T02:48:01.881238+00:00"
+  },
+  "https://openai.com/index/openai-campus-network-student-club-interest-form": {
+    "title": "OpenAI Campus Network: Student club interest form",
+    "sent_at": "2026-05-12T02:48:01.881236+00:00"
+  },
+  "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai": {
+    "title": "How enterprises are scaling AI",
+    "sent_at": "2026-05-12T02:48:01.881233+00:00"
+  },
+  "https://openai.com/signals/research/2026q1-update": {
+    "title": "How ChatGPT adoption broadened in early 2026",
+    "sent_at": "2026-05-12T02:48:01.881219+00:00"
+  },
+  "https://goddaehee.tistory.com/599": {
+    "title": "Codex CLI 입문(4) : AGENTS.md와 Rules 설정 방법 - Codex에게 팀 규칙과 권한을 알려주는 방법",
+    "sent_at": "2026-05-12T02:47:55.572910+00:00"
+  },
+  "https://github.blog/?p=95866": {
+    "title": "GitHub for Beginners: Getting started with OSS contributions",
+    "sent_at": "2026-05-12T02:47:49.379779+00:00"
+  },
+  "https://techcrunch.com/?p=3121166": {
+    "title": "Bravo is creating unscripted microdramas for the Peacock app",
+    "sent_at": "2026-05-12T02:47:48.709631+00:00"
+  },
+  "https://techcrunch.com/?p=3121198": {
+    "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
+    "sent_at": "2026-05-12T02:47:48.709628+00:00"
+  },
+  "https://techcrunch.com/?p=3121314": {
+    "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
+    "sent_at": "2026-05-12T02:47:48.709624+00:00"
+  },
+  "https://techcrunch.com/?p=3121370": {
+    "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+    "sent_at": "2026-05-12T02:47:48.709621+00:00"
+  },
+  "https://techcrunch.com/?p=3121483": {
+    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+    "sent_at": "2026-05-12T02:47:48.709605+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48096692": {
+    "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+    "sent_at": "2026-05-12T02:47:43.850337+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48098261": {
+    "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+    "sent_at": "2026-05-12T02:47:43.850335+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48098537": {
+    "title": "Can someone please explain whether Cloudflare blackmailed Canonical?",
+    "sent_at": "2026-05-12T02:47:43.850333+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48100500": {
+    "title": "GitLab announces workforce reduction and end of their CREDIT values",
+    "sent_at": "2026-05-12T02:47:43.850330+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48100706": {
+    "title": "Postmortem: TanStack npm supply-chain compromise",
+    "sent_at": "2026-05-12T02:47:43.850314+00:00"
+  },
   "https://www.threads.com/t/DYJ1xg_gUYS": {
     "title": "@feelfree_ai: 요즘 거대 모델만 쫓다가 지치셨나요? 굳이 무거운 LLM 안 써도 충분ᄒ...",
     "sent_at": "2026-05-11T02:56:22.326108+00:00"
@@ -1894,109 +1998,5 @@
   "1vrgbarIDanwhi6j2m6oNM": {
     "title": "Shared Dictionaries: compression that keeps up with the agentic web",
     "sent_at": "2026-04-18T02:10:19.541216+00:00"
-  },
-  "5t83bTn7Vt1EudTxQQ97NY": {
-    "title": "Introducing the Agent Readiness score. Is your site agent-ready?",
-    "sent_at": "2026-04-18T02:10:19.541201+00:00"
-  },
-  "https://huggingface.co/blog/ecom-rlve": {
-    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
-    "sent_at": "2026-04-18T02:10:14.111932+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/nemotron-ocr-v2": {
-    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
-    "sent_at": "2026-04-18T02:10:14.111917+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/": {
-    "title": "7 ways to travel smarter this summer, with help from Google",
-    "sent_at": "2026-04-18T02:10:12.256866+00:00"
-  },
-  "https://github.blog/?p=95362": {
-    "title": "Bringing more transparency to GitHub’s status page",
-    "sent_at": "2026-04-18T02:10:04.955698+00:00"
-  },
-  "https://github.blog/?p=95403": {
-    "title": "Building an emoji list generator with the GitHub Copilot CLI",
-    "sent_at": "2026-04-18T02:10:04.955682+00:00"
-  },
-  "https://techcrunch.com/?p=3113711": {
-    "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-    "sent_at": "2026-04-18T02:10:03.663080+00:00"
-  },
-  "https://techcrunch.com/?p=3113763": {
-    "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-    "sent_at": "2026-04-18T02:10:03.663078+00:00"
-  },
-  "https://techcrunch.com/?p=3113890": {
-    "title": "Man who hacked US Supreme Court filing system sentenced to probation",
-    "sent_at": "2026-04-18T02:10:03.663076+00:00"
-  },
-  "https://techcrunch.com/?p=3113889": {
-    "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-    "sent_at": "2026-04-18T02:10:03.663072+00:00"
-  },
-  "https://techcrunch.com/?p=3113492": {
-    "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-    "sent_at": "2026-04-18T02:10:03.663057+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47806725": {
-    "title": "Claude Design",
-    "sent_at": "2026-04-18T02:09:59.145659+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47807006": {
-    "title": "Measuring Claude 4.7's tokenizer costs",
-    "sent_at": "2026-04-18T02:09:59.145656+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47807209": {
-    "title": "NASA Force",
-    "sent_at": "2026-04-18T02:09:59.145654+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47808268": {
-    "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
-    "sent_at": "2026-04-18T02:09:59.145650+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47808913": {
-    "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
-    "sent_at": "2026-04-18T02:09:59.145630+00:00"
-  },
-  "https://www.threads.com/t/DXL5o02AYB5": {
-    "title": "@feelfree_ai: 범용 AI를 가볍게 이겨버리는 맞춤형 모델, 이게 바로 우리가 파인튜...",
-    "sent_at": "2026-04-17T02:27:58.277129+00:00"
-  },
-  "https://www.threads.com/t/DXMRcegkZZP": {
-    "title": "@feelfree_ai: 올해는 3D 생성 AI의 해가 될 거 같습니다. 진짜 발전 속도가 무섭스...",
-    "sent_at": "2026-04-17T02:27:58.277126+00:00"
-  },
-  "https://www.threads.com/t/DXMvgLggVfx": {
-    "title": "@feelfree_ai: Qwen3.6-35B-A3B 모델이 방금 풀렸습니다. 로컬 환경이나 적은 리소스로 ᄉ...",
-    "sent_at": "2026-04-17T02:27:58.277123+00:00"
-  },
-  "https://www.threads.com/t/DXNw03RgfxL": {
-    "title": "@feelfree_ai: 무려 150배 빨라졌는데 운전은 더 잘합니다. 자율주행에 굳이 무거ᄋ...",
-    "sent_at": "2026-04-17T02:27:58.277106+00:00"
-  },
-  "https://toss.tech/article/flink-realtime-frequency-capping": {
-    "title": "Apache Flink + RocksDB 튜닝으로 광고 Frequency Capping 실시간 집계를 일주일까지 확장하기",
-    "sent_at": "2026-04-17T02:27:46.051673+00:00"
-  },
-  "https://d2.naver.com/helloworld/1155434": {
-    "title": "C++ std::bit_cast와 reinterpret_cast — 언제 어떤 것을 써야 하는가",
-    "sent_at": "2026-04-17T02:27:42.669017+00:00"
-  },
-  "74610d9ecb5b04f2353a6abb813e02c40360e272": {
-    "title": "Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock",
-    "sent_at": "2026-04-17T02:27:38.475665+00:00"
-  },
-  "2sshzOlmGVsrtBz2mgeceE": {
-    "title": "Artifacts: versioned storage that speaks Git",
-    "sent_at": "2026-04-17T02:27:38.035125+00:00"
-  },
-  "1IGJnHwj5QVRJm9iCdEqYV": {
-    "title": "Deploy Postgres and MySQL databases with PlanetScale + Workers",
-    "sent_at": "2026-04-17T02:27:38.035122+00:00"
-  },
-  "4l8kYFerKsLkZH2ZVaOoYf": {
-    "title": "AI Search: the search primitive for your agents",
-    "sent_at": "2026-04-17T02:27:38.035120+00:00"
   }
 }
