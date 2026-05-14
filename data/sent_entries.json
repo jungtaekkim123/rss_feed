@@ -1,4 +1,84 @@
 {
+  "https://www.threads.com/t/DYRMh4EDpOk": {
+    "title": "@feelfree_ai: 텍스트 한 줄로 비디오, 오디오, 이미지, PDF까지 싹 다 뒤져서 찾아주는 ᄉ...",
+    "sent_at": "2026-05-14T02:56:05.807855+00:00"
+  },
+  "https://www.threads.com/t/DYRsG_TEVD5": {
+    "title": "@feelfree_ai: 수많은 API 스키마를 새로 가르치는 대신, AI 에이전트에게 그냥 가장 이...",
+    "sent_at": "2026-05-14T02:56:05.807852+00:00"
+  },
+  "https://www.threads.com/t/DYTKy3_AWjK": {
+    "title": "@feelfree_ai: AI 에이전트 오류 찾느라 시간 쏟는 일, 이제 꽤 줄어들 것 같습니다...",
+    "sent_at": "2026-05-14T02:56:05.807835+00:00"
+  },
+  "https://toss.tech/article/toss-tpm": {
+    "title": "AI 시대, 성과 내는 조직일수록 토스식 TPM이 필요한 이유",
+    "sent_at": "2026-05-14T02:55:54.524040+00:00"
+  },
+  "6hwTzVHKEOlPBwzj6rWnRM": {
+    "title": "Browser Run: now running on Cloudflare Containers, it’s faster and more scalable",
+    "sent_at": "2026-05-14T02:55:47.188737+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92941": {
+    "title": "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
+    "sent_at": "2026-05-14T02:55:44.718029+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92933": {
+    "title": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
+    "sent_at": "2026-05-14T02:55:44.718012+00:00"
+  },
+  "https://engineering.fb.com/?p=23982": {
+    "title": "Reel Friends: Building Social Discovery that Scales to Billions",
+    "sent_at": "2026-05-14T02:55:43.019928+00:00"
+  },
+  "https://openai.com/index/building-codex-windows-sandbox": {
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "sent_at": "2026-05-14T02:55:42.100746+00:00"
+  },
+  "https://github.blog/?p=95893": {
+    "title": "Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them)",
+    "sent_at": "2026-05-14T02:55:30.329835+00:00"
+  },
+  "https://techcrunch.com/?p=3122252": {
+    "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
+    "sent_at": "2026-05-14T02:55:29.765010+00:00"
+  },
+  "https://techcrunch.com/?p=3121840": {
+    "title": "This is what some of the world’s largest banks of malware look like stacked as hard drives",
+    "sent_at": "2026-05-14T02:55:29.765008+00:00"
+  },
+  "https://techcrunch.com/?p=3120267": {
+    "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+    "sent_at": "2026-05-14T02:55:29.765006+00:00"
+  },
+  "https://techcrunch.com/?p=3122344": {
+    "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+    "sent_at": "2026-05-14T02:55:29.765003+00:00"
+  },
+  "https://techcrunch.com/?p=3122395": {
+    "title": "Notion just turned its workspace into a hub for AI agents",
+    "sent_at": "2026-05-14T02:55:29.764988+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48121266": {
+    "title": "Leaving GitHub for Forgejo",
+    "sent_at": "2026-05-14T02:55:24.872032+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48122635": {
+    "title": "Setting up a free *.city.state.us locality domain (2025)",
+    "sent_at": "2026-05-14T02:55:24.872030+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48123015": {
+    "title": "Open Source Resistance: keep OSS alive on company time",
+    "sent_at": "2026-05-14T02:55:24.872028+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48123198": {
+    "title": "Kickstarter is forced to ban adult content by payment processors",
+    "sent_at": "2026-05-14T02:55:24.872024+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48126848": {
+    "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+    "sent_at": "2026-05-14T02:55:24.872008+00:00"
+  },
   "https://www.threads.com/t/DYOv5fbgbzV": {
     "title": "@feelfree_ai: 정확도 손실 없이 LLM 학습 속도가 25% 더 빨라졌습니다. 엔비디아와...",
     "sent_at": "2026-05-13T02:53:52.311552+00:00"
@@ -1918,85 +1998,5 @@
   "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise": {
     "title": "OpenAI helps Hyatt advance AI among colleagues",
     "sent_at": "2026-04-21T02:28:16.469486+00:00"
-  },
-  "https://github.blog/?p=95374": {
-    "title": "Highlights from Git 2.54",
-    "sent_at": "2026-04-21T02:28:09.172859+00:00"
-  },
-  "https://github.blog/?p=95440": {
-    "title": "Changes to GitHub Copilot Individual plans",
-    "sent_at": "2026-04-21T02:28:09.172838+00:00"
-  },
-  "https://techcrunch.com/?p=3114338": {
-    "title": "Google Photos adds new touch-up tools for ‘quick’ fixes",
-    "sent_at": "2026-04-21T02:28:07.815154+00:00"
-  },
-  "https://techcrunch.com/?p=3114374": {
-    "title": "Tim Cook stepping down as Apple CEO, John Ternus taking over",
-    "sent_at": "2026-04-21T02:28:07.815151+00:00"
-  },
-  "https://techcrunch.com/?p=3114079": {
-    "title": "Google rolls out Gemini in Chrome in 7 new countries",
-    "sent_at": "2026-04-21T02:28:07.815149+00:00"
-  },
-  "https://techcrunch.com/?p=3114441": {
-    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-    "sent_at": "2026-04-21T02:28:07.815144+00:00"
-  },
-  "https://techcrunch.com/?p=3114475": {
-    "title": "Who is John Ternus, the incoming Apple CEO?",
-    "sent_at": "2026-04-21T02:28:07.815129+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47835928": {
-    "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-    "sent_at": "2026-04-21T02:28:03.329235+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47836730": {
-    "title": "We accepted surveillance as default",
-    "sent_at": "2026-04-21T02:28:03.329233+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47837611": {
-    "title": "At long last, InfoWars is ours",
-    "sent_at": "2026-04-21T02:28:03.329230+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47839951": {
-    "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
-    "sent_at": "2026-04-21T02:28:03.329226+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47840219": {
-    "title": "John Ternus to become Apple CEO",
-    "sent_at": "2026-04-21T02:28:03.329208+00:00"
-  },
-  "https://www.threads.com/t/DXTFW_zgVrY": {
-    "title": "@feelfree_ai: 이제 터미널에서 깃허브 이슈만 던져주면, AI가 알아서 코드를 수정하...",
-    "sent_at": "2026-04-20T02:32:58.834335+00:00"
-  },
-  "https://www.threads.com/t/DXTkXYPivpD": {
-    "title": "@feelfree_ai: AI 프로젝트 할 때마다 무거운 벡터 DB 세팅하기 부담스러우신분들 이...",
-    "sent_at": "2026-04-20T02:32:58.834333+00:00"
-  },
-  "https://www.threads.com/t/DXUHx9_lJHW": {
-    "title": "@feelfree_ai: 글로만 읽어서는 좀처럼 머릿속에 그려지지 않던 GPU와 LLM의 내부 도...",
-    "sent_at": "2026-04-20T02:32:58.834329+00:00"
-  },
-  "https://www.threads.com/t/DXVY7f7gTMr": {
-    "title": "@feelfree_ai: LLM 서비스 운영하면서 제일 부담되는 게 결국 API 비용이죠 이번에 RAG ...",
-    "sent_at": "2026-04-20T02:32:58.834313+00:00"
-  },
-  "https://techcrunch.com/?p=3114010": {
-    "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
-    "sent_at": "2026-04-20T02:32:24.335449+00:00"
-  },
-  "https://techcrunch.com/?p=3114025": {
-    "title": "Robots beat human records at Beijing half-marathon",
-    "sent_at": "2026-04-20T02:32:24.335447+00:00"
-  },
-  "https://techcrunch.com/?p=3114024": {
-    "title": "Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch",
-    "sent_at": "2026-04-20T02:32:24.335445+00:00"
-  },
-  "https://techcrunch.com/?p=3114032": {
-    "title": "The 12-month window",
-    "sent_at": "2026-04-20T02:32:24.335443+00:00"
   }
 }
