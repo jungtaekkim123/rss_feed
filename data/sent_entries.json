@@ -1,4 +1,96 @@
 {
+  "https://www.threads.com/t/DYTtdppAVsV": {
+    "title": "@feelfree_ai: 유저 상황에 맞춰 알아서 최적의 AI를 픽해주는 똑똑한 라우터가 ᄂ...",
+    "sent_at": "2026-05-15T02:56:20.298100+00:00"
+  },
+  "https://www.threads.com/t/DYURRyBgTcf": {
+    "title": "@feelfree_ai: LLM 생태계에 흥미로운 아키텍처가 등장했습니다. 텍스트 디퓨전(Diffu...",
+    "sent_at": "2026-05-15T02:56:20.298096+00:00"
+  },
+  "https://www.threads.com/t/DYVqHKjEafl": {
+    "title": "@feelfree_ai: 아직도 감에 의존해서 프롬프트를 한 땀 한 땀 수정하고 계신가요?...",
+    "sent_at": "2026-05-15T02:56:20.298078+00:00"
+  },
+  "2f1f31f9e3d26fa79258a31cdbc2605196a7149e": {
+    "title": "Amazon Bedrock introduces new advanced prompt optimization and migration tool",
+    "sent_at": "2026-05-15T02:56:00.786804+00:00"
+  },
+  "65sE8zefBt1cYbclYLhqjA": {
+    "title": "Our billing pipeline was suddenly slow. The culprit was a hidden bottleneck in ClickHouse",
+    "sent_at": "2026-05-15T02:56:00.333500+00:00"
+  },
+  "https://huggingface.co/blog/continuous_async": {
+    "title": "Unlocking asynchronicity in continuous batching",
+    "sent_at": "2026-05-15T02:55:59.048401+00:00"
+  },
+  "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2": {
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "sent_at": "2026-05-15T02:55:59.048382+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92959": {
+    "title": "Sea You in the Cloud: ‘Subnautica 2’ Early Access Dives Onto GeForce NOW",
+    "sent_at": "2026-05-15T02:55:57.573915+00:00"
+  },
+  "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack": {
+    "title": "Our response to the TanStack npm supply chain attack",
+    "sent_at": "2026-05-15T02:55:56.483796+00:00"
+  },
+  "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations": {
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "sent_at": "2026-05-15T02:55:56.483792+00:00"
+  },
+  "https://openai.com/index/work-with-codex-from-anywhere": {
+    "title": "Work with Codex from anywhere",
+    "sent_at": "2026-05-15T02:55:56.483774+00:00"
+  },
+  "https://github.blog/?p=96052": {
+    "title": "From latency to instant: Modernizing GitHub Issues navigation performance",
+    "sent_at": "2026-05-15T02:55:43.562181+00:00"
+  },
+  "https://github.blog/?p=96106": {
+    "title": "GitHub availability report: April 2026",
+    "sent_at": "2026-05-15T02:55:43.562161+00:00"
+  },
+  "https://techcrunch.com/?p=3122714": {
+    "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
+    "sent_at": "2026-05-15T02:55:42.199202+00:00"
+  },
+  "https://techcrunch.com/?p=3122579": {
+    "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
+    "sent_at": "2026-05-15T02:55:42.199200+00:00"
+  },
+  "https://techcrunch.com/?p=3122704": {
+    "title": "OpenAI says Codex is coming to your phone",
+    "sent_at": "2026-05-15T02:55:42.199197+00:00"
+  },
+  "https://techcrunch.com/?p=3122877": {
+    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "sent_at": "2026-05-15T02:55:42.199193+00:00"
+  },
+  "https://techcrunch.com/?p=3122645": {
+    "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+    "sent_at": "2026-05-15T02:55:42.199177+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48138136": {
+    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+    "sent_at": "2026-05-15T02:55:37.663331+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48138268": {
+    "title": "New Nginx Exploit",
+    "sent_at": "2026-05-15T02:55:37.663328+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48139148": {
+    "title": "AI is making me dumb",
+    "sent_at": "2026-05-15T02:55:37.663326+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48139219": {
+    "title": "First public macOS kernel memory corruption exploit on Apple M5",
+    "sent_at": "2026-05-15T02:55:37.663322+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48140922": {
+    "title": "New arXiv policy: 1-year ban for hallucinated references",
+    "sent_at": "2026-05-15T02:55:37.663305+00:00"
+  },
   "https://www.threads.com/t/DYRMh4EDpOk": {
     "title": "@feelfree_ai: 텍스트 한 줄로 비디오, 오디오, 이미지, PDF까지 싹 다 뒤져서 찾아주는 ᄉ...",
     "sent_at": "2026-05-14T02:56:05.807855+00:00"
@@ -1906,97 +1998,5 @@
   "https://blog.google/products/ads-commerce/ads-advisor-google-ads/": {
     "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
     "sent_at": "2026-04-22T02:26:18.288539+00:00"
-  },
-  "https://openai.com/index/scaling-codex-to-enterprises-worldwide": {
-    "title": "Scaling Codex to enterprises worldwide",
-    "sent_at": "2026-04-22T02:26:17.633251+00:00"
-  },
-  "https://techcrunch.com/?p=3114713": {
-    "title": "Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion",
-    "sent_at": "2026-04-22T02:26:08.121008+00:00"
-  },
-  "https://techcrunch.com/?p=3114958": {
-    "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
-    "sent_at": "2026-04-22T02:26:08.121005+00:00"
-  },
-  "https://techcrunch.com/?p=3114961": {
-    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-    "sent_at": "2026-04-22T02:26:08.121003+00:00"
-  },
-  "https://techcrunch.com/?p=3114951": {
-    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
-    "sent_at": "2026-04-22T02:26:08.121000+00:00"
-  },
-  "https://techcrunch.com/?p=3114892": {
-    "title": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
-    "sent_at": "2026-04-22T02:26:08.120984+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47847324": {
-    "title": "Tim Cook's Impeccable Timing",
-    "sent_at": "2026-04-22T02:26:03.416010+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47851948": {
-    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-    "sent_at": "2026-04-22T02:26:03.416007+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47852177": {
-    "title": "Framework Laptop 13 Pro",
-    "sent_at": "2026-04-22T02:26:03.416005+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47852835": {
-    "title": "ChatGPT Images 2.0",
-    "sent_at": "2026-04-22T02:26:03.416001+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47854477": {
-    "title": "Claude Code to be removed from Anthropic's Pro plan?",
-    "sent_at": "2026-04-22T02:26:03.415986+00:00"
-  },
-  "https://www.threads.com/t/DXV7pOLgYH8": {
-    "title": "@feelfree_ai: LLM이 LLM을 평가하는 'LLM-as-Judge', 인간과의 평가 일치율을 무려 85%까지 끄...",
-    "sent_at": "2026-04-21T02:28:41.706918+00:00"
-  },
-  "https://www.threads.com/t/DXWehg_gU2I": {
-    "title": "@feelfree_ai: Claude Code로 코딩할 때 자꾸 꼬인다면? 원인은 결국 '넘겨짚기'에 있ᄉ...",
-    "sent_at": "2026-04-21T02:28:41.706915+00:00"
-  },
-  "https://www.threads.com/t/DXW9mcrEpZr": {
-    "title": "@feelfree_ai: 오픈소스 진영의 발전 속도가 정말 무섭습니다. Qwen의 차세대 플래...",
-    "sent_at": "2026-04-21T02:28:41.706912+00:00"
-  },
-  "https://www.threads.com/t/DXX_BWGDTIg": {
-    "title": "@feelfree_ai: 0.5B 초소형 VLM이 시각장애인이 찍은 복잡한 사진(VizWiz)을 이해하는 ...",
-    "sent_at": "2026-04-21T02:28:41.706895+00:00"
-  },
-  "7ede0be548a2a16163211e9928eb15724ac9e296": {
-    "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
-    "sent_at": "2026-04-21T02:28:22.593566+00:00"
-  },
-  "6dkWF56UtSkU9dWfFUxiCn": {
-    "title": "Orchestrating AI Code Review at scale",
-    "sent_at": "2026-04-21T02:28:22.170062+00:00"
-  },
-  "4z7ZJ5ZbY3e3YwJtkg6NiD": {
-    "title": "The AI engineering stack we built internally — on the platform we ship",
-    "sent_at": "2026-04-21T02:28:22.170059+00:00"
-  },
-  "25CSwW9eXDM4FJOdVPLf8f": {
-    "title": "Building the agentic cloud: everything we launched during Agents Week 2026",
-    "sent_at": "2026-04-21T02:28:22.170044+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas": {
-    "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
-    "sent_at": "2026-04-21T02:28:18.852575+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92414": {
-    "title": "NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026",
-    "sent_at": "2026-04-21T02:28:18.455535+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92424": {
-    "title": "Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP",
-    "sent_at": "2026-04-21T02:28:18.455520+00:00"
-  },
-  "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise": {
-    "title": "OpenAI helps Hyatt advance AI among colleagues",
-    "sent_at": "2026-04-21T02:28:16.469486+00:00"
   }
 }
