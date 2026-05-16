@@ -1,4 +1,76 @@
 {
+  "https://www.threads.com/t/DYV-vycjKKw": {
+    "title": "@feelfree_ai: 구글 크롬북 시대는 끝났네요. 새로운 데스크톱 '알루미늄 OS'가 통...",
+    "sent_at": "2026-05-16T02:44:47.809361+00:00"
+  },
+  "https://www.threads.com/t/DYWn6XwE06t": {
+    "title": "@feelfree_ai: LLM 성능 올린다고 무작정 더 큰 모델을 찾거나 파인튜닝부터 고미...",
+    "sent_at": "2026-05-16T02:44:47.809358+00:00"
+  },
+  "https://www.threads.com/t/DYXBIwVjNKk": {
+    "title": "@feelfree_ai: 1B도 안 되는 0.6B 초소형 모델이 고난도 수학(AIME)에서 26%를 뚫었네요. 비...",
+    "sent_at": "2026-05-16T02:44:47.809342+00:00"
+  },
+  "https://openai.com/index/sea-david-chen": {
+    "title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "sent_at": "2026-05-16T02:44:27.740268+00:00"
+  },
+  "https://openai.com/index/databricks": {
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "sent_at": "2026-05-16T02:44:27.740264+00:00"
+  },
+  "https://openai.com/index/personal-finance-chatgpt": {
+    "title": "A new personal finance experience in ChatGPT",
+    "sent_at": "2026-05-16T02:44:27.740251+00:00"
+  },
+  "https://github.blog/?p=96112": {
+    "title": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
+    "sent_at": "2026-05-16T02:44:09.499823+00:00"
+  },
+  "https://github.blog/?p=96092": {
+    "title": "Building a general-purpose accessibility agent—and what we learned in the process",
+    "sent_at": "2026-05-16T02:44:09.499784+00:00"
+  },
+  "https://techcrunch.com/?p=3123083": {
+    "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
+    "sent_at": "2026-05-16T02:44:07.656458+00:00"
+  },
+  "https://techcrunch.com/?p=3123049": {
+    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+    "sent_at": "2026-05-16T02:44:07.656455+00:00"
+  },
+  "https://techcrunch.com/?p=3123092": {
+    "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
+    "sent_at": "2026-05-16T02:44:07.656453+00:00"
+  },
+  "https://techcrunch.com/?p=3123082": {
+    "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
+    "sent_at": "2026-05-16T02:44:07.656450+00:00"
+  },
+  "https://techcrunch.com/?p=3122332": {
+    "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
+    "sent_at": "2026-05-16T02:44:07.656437+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48150900": {
+    "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+    "sent_at": "2026-05-16T02:44:02.938371+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48151383": {
+    "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+    "sent_at": "2026-05-16T02:44:02.938369+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48152553": {
+    "title": "ABC News has taken all FiveThirtyEight articles offline",
+    "sent_at": "2026-05-16T02:44:02.938366+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48152994": {
+    "title": "California bill would require patches or refunds when online games shut down",
+    "sent_at": "2026-05-16T02:44:02.938362+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48153379": {
+    "title": "I believe there are entire companies right now under AI psychosis",
+    "sent_at": "2026-05-16T02:44:02.938345+00:00"
+  },
   "https://www.threads.com/t/DYTtdppAVsV": {
     "title": "@feelfree_ai: 유저 상황에 맞춰 알아서 최적의 AI를 픽해주는 똑똑한 라우터가 ᄂ...",
     "sent_at": "2026-05-15T02:56:20.298100+00:00"
@@ -1926,77 +1998,5 @@
   "https://goddaehee.tistory.com/582": {
     "title": "DESIGN.md : Google Stitch가 도입한 DESIGN.md - DESIGN.md 도입 배경부터 적용해보기(VoltAgent awesome-design-md 컬렉션 활용 가이드)",
     "sent_at": "2026-04-23T02:29:43.641919+00:00"
-  },
-  "https://techcrunch.com/?p=3115507": {
-    "title": "LinkedIn’s CEO is moving on; please hold your tearful video tributes",
-    "sent_at": "2026-04-23T02:29:36.197359+00:00"
-  },
-  "https://techcrunch.com/?p=3115489": {
-    "title": "Hands on with X’s new AI-powered custom feeds",
-    "sent_at": "2026-04-23T02:29:36.197357+00:00"
-  },
-  "https://techcrunch.com/?p=3115597": {
-    "title": "Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’",
-    "sent_at": "2026-04-23T02:29:36.197353+00:00"
-  },
-  "https://techcrunch.com/?p=3115439": {
-    "title": "Google updates Workspace to make AI your new office intern",
-    "sent_at": "2026-04-23T02:29:36.197350+00:00"
-  },
-  "https://techcrunch.com/?p=3115599": {
-    "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
-    "sent_at": "2026-04-23T02:29:36.197331+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47864393": {
-    "title": "Scoring Show HN submissions for AI design patterns",
-    "sent_at": "2026-04-23T02:29:31.630073+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47865868": {
-    "title": "Alberta startup sells no-tech tractors for half price",
-    "sent_at": "2026-04-23T02:29:31.630043+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47866697": {
-    "title": "We found a stable Firefox identifier linking all your private Tor identities",
-    "sent_at": "2026-04-23T02:29:31.630040+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47866913": {
-    "title": "Over-editing refers to a model modifying code beyond what is necessary",
-    "sent_at": "2026-04-23T02:29:31.630035+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47868867": {
-    "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-    "sent_at": "2026-04-23T02:29:31.630017+00:00"
-  },
-  "https://www.threads.com/t/DXYf893kjA3": {
-    "title": "@feelfree_ai: \"AI 에이전트, 개발이 다가 아닙니다. 진짜 문제는 '배포'에 있죠.\" 에이저...",
-    "sent_at": "2026-04-22T02:26:38.325223+00:00"
-  },
-  "https://www.threads.com/t/DXZG_zmEgXP": {
-    "title": "@feelfree_ai: 잘 쓰던 Claude Code를 아예 직접 만든 커스텀 에이전트로 대체해버린 흐...",
-    "sent_at": "2026-04-22T02:26:38.325210+00:00"
-  },
-  "https://tech.kakao.com/posts/819": {
-    "title": "카나나 스칼라 1회 세미나 현장 스케치",
-    "sent_at": "2026-04-22T02:26:23.807286+00:00"
-  },
-  "6qZ5scXbRymHWaQGBZcqe": {
-    "title": "Moving past bots vs. humans",
-    "sent_at": "2026-04-22T02:26:22.222763+00:00"
-  },
-  "https://huggingface.co/blog/cybersecurity-openness": {
-    "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-    "sent_at": "2026-04-22T02:26:20.702932+00:00"
-  },
-  "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard": {
-    "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-    "sent_at": "2026-04-22T02:26:20.702923+00:00"
-  },
-  "https://engineering.fb.com/?p=23909": {
-    "title": "Modernizing the Facebook Groups Search to Unlock the Power of Community Knowledge",
-    "sent_at": "2026-04-22T02:26:18.759980+00:00"
-  },
-  "https://blog.google/products/ads-commerce/ads-advisor-google-ads/": {
-    "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-    "sent_at": "2026-04-22T02:26:18.288539+00:00"
   }
 }
