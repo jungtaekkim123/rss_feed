@@ -1,4 +1,84 @@
 {
+  "https://www.threads.com/t/DYYlxctAUpp": {
+    "title": "@feelfree_ai: 파인튜닝할 때마다 모델이 원래 알던 똑똑한 지식들, 싹 다 날ᄅ...",
+    "sent_at": "2026-05-17T02:54:07.759643+00:00"
+  },
+  "https://www.threads.com/t/DYZCaRSAUSy": {
+    "title": "@feelfree_ai: 고작 26M 파라미터로 10배 넘게 큰 모델들을 이겨버린 펑션콜 전용 ...",
+    "sent_at": "2026-05-17T02:54:07.759641+00:00"
+  },
+  "https://www.threads.com/t/DYZb5xHATc3": {
+    "title": "@feelfree_ai: AI가 알아서 취약점을 찾고 실제 해킹까지 뚫어버리는 시대, 생각ᄇ...",
+    "sent_at": "2026-05-17T02:54:07.759638+00:00"
+  },
+  "https://www.threads.com/t/DYa87puASUb": {
+    "title": "@feelfree_ai: LLM 토큰 비용 반토막 내는 비결, 프롬프트 깎기가 아니라 '검색 아키...",
+    "sent_at": "2026-05-17T02:54:07.759622+00:00"
+  },
+  "https://tech.kakao.com/posts/819": {
+    "title": "카나나 스칼라 1회 세미나 현장 스케치",
+    "sent_at": "2026-05-17T02:53:50.684622+00:00"
+  },
+  "https://engineering.fb.com/?p=23909": {
+    "title": "Modernizing the Facebook Groups Search to Unlock the Power of Community Knowledge",
+    "sent_at": "2026-05-17T02:53:45.365344+00:00"
+  },
+  "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
+    "title": "How data science teams use Codex",
+    "sent_at": "2026-05-17T02:53:44.523730+00:00"
+  },
+  "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex": {
+    "title": "How business operations teams use Codex",
+    "sent_at": "2026-05-17T02:53:44.523726+00:00"
+  },
+  "https://openai.com/index/malta-chatgpt-plus-partnership": {
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "sent_at": "2026-05-17T02:53:44.523709+00:00"
+  },
+  "https://goddaehee.tistory.com/602": {
+    "title": "Codex CLI 입문(7) : Claude Code 사용자를 위한 Codex 전환 가이드 - CLAUDE.md&middot;슬래시 명령&middot;MCP 완전 마이그레이션",
+    "sent_at": "2026-05-17T02:53:36.278054+00:00"
+  },
+  "https://techcrunch.com/?p=3123362": {
+    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+    "sent_at": "2026-05-17T02:53:29.121993+00:00"
+  },
+  "https://techcrunch.com/?p=3111720": {
+    "title": "The offline desk gadget that actually got me to sit up straight",
+    "sent_at": "2026-05-17T02:53:29.121990+00:00"
+  },
+  "https://techcrunch.com/?p=3123369": {
+    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+    "sent_at": "2026-05-17T02:53:29.121988+00:00"
+  },
+  "https://techcrunch.com/?p=3123174": {
+    "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+    "sent_at": "2026-05-17T02:53:29.121985+00:00"
+  },
+  "https://techcrunch.com/?p=3123375": {
+    "title": "The haves and have nots of the AI gold rush",
+    "sent_at": "2026-05-17T02:53:29.121968+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48158400": {
+    "title": "Moving away from Tailwind, and learning to structure my CSS",
+    "sent_at": "2026-05-17T02:53:24.595880+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48158494": {
+    "title": "Fecal transplants for autism deliver success in clinical trials (2019)",
+    "sent_at": "2026-05-17T02:53:24.595878+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48159241": {
+    "title": "Accelerando (2005)",
+    "sent_at": "2026-05-17T02:53:24.595875+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48159445": {
+    "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+    "sent_at": "2026-05-17T02:53:24.595871+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48161861": {
+    "title": "HTML Lists",
+    "sent_at": "2026-05-17T02:53:24.595858+00:00"
+  },
   "https://www.threads.com/t/DYV-vycjKKw": {
     "title": "@feelfree_ai: 구글 크롬북 시대는 끝났네요. 새로운 데스크톱 '알루미늄 OS'가 통...",
     "sent_at": "2026-05-16T02:44:47.809361+00:00"
@@ -1918,85 +1998,5 @@
   "https://news.ycombinator.com/item?id=47879092": {
     "title": "GPT-5.5",
     "sent_at": "2026-04-24T02:30:16.792266+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47879986": {
-    "title": "Meta to cut 10% of jobs",
-    "sent_at": "2026-04-24T02:30:16.792250+00:00"
-  },
-  "https://www.threads.com/t/DXasvuEAfUA": {
-    "title": "@feelfree_ai: 지금까지 오픈소스 AI 가드 모델들이 전부 '엉뚱한 곳'을 보고 있어...",
-    "sent_at": "2026-04-23T02:30:19.036574+00:00"
-  },
-  "https://www.threads.com/t/DXbOFbDAdze": {
-    "title": "@feelfree_ai: Ollama나 llama.cpp에 의존하지 않고, 밑바닥부터 로컬 LLM 추론 엔진을 직저...",
-    "sent_at": "2026-04-23T02:30:19.036571+00:00"
-  },
-  "https://www.threads.com/t/DXbqueFDRBP": {
-    "title": "@feelfree_ai: 프롬프트 하나만 던져주면 AI가 스스로 논문을 읽고 GPU에서 모델을 ᄒ...",
-    "sent_at": "2026-04-23T02:30:19.036567+00:00"
-  },
-  "https://www.threads.com/t/DXc66xBgb7o": {
-    "title": "@feelfree_ai: 18GB 램만 있으면 내 컴퓨터에서 397B급 성능을 내는 코딩 AI를 돌릴...",
-    "sent_at": "2026-04-23T02:30:19.036549+00:00"
-  },
-  "https://d2.naver.com/helloworld/6475419": {
-    "title": "네이버 검색의 대규모 메트릭 저장소, VictoriaMetrics 운영기",
-    "sent_at": "2026-04-23T02:30:02.527483+00:00"
-  },
-  "https://tech.kakao.com/posts/820": {
-    "title": "카카오톡 예약하기에서 그려 본 캘린더",
-    "sent_at": "2026-04-23T02:30:00.146309+00:00"
-  },
-  "2StUNK716oSircL9mJUjrg": {
-    "title": "Making Rust Workers reliable: panic and abort recovery in wasm‑bindgen",
-    "sent_at": "2026-04-23T02:29:58.099552+00:00"
-  },
-  "https://engineering.atspotify.com/?p=2XiYdNve9swVNDcDJPhV65": {
-    "title": "Background Coding Agents: Supercharging Downstream Consumer Dataset Migrations (Honk, Part 4)",
-    "sent_at": "2026-04-23T02:29:57.294670+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/gemma4": {
-    "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
-    "sent_at": "2026-04-23T02:29:56.073863+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92454": {
-    "title": "NVIDIA and Google Cloud Collaborate to Advance Agentic and Physical AI",
-    "sent_at": "2026-04-23T02:29:55.560373+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92462": {
-    "title": "From Rainforests to Recycling Plants: 5 Ways NVIDIA AI Is Protecting the Planet",
-    "sent_at": "2026-04-23T02:29:55.560354+00:00"
-  },
-  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/": {
-    "title": "We're launching two specialized TPUs for the agentic era.",
-    "sent_at": "2026-04-23T02:29:53.473531+00:00"
-  },
-  "https://openai.com/index/introducing-openai-privacy-filter": {
-    "title": "Introducing OpenAI Privacy Filter",
-    "sent_at": "2026-04-23T02:29:52.977570+00:00"
-  },
-  "https://openai.com/index/speeding-up-agentic-workflows-with-websockets": {
-    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-    "sent_at": "2026-04-23T02:29:52.977567+00:00"
-  },
-  "https://openai.com/index/introducing-workspace-agents-in-chatgpt": {
-    "title": "Introducing workspace agents in ChatGPT",
-    "sent_at": "2026-04-23T02:29:52.977564+00:00"
-  },
-  "https://openai.com/academy/workspace-agents": {
-    "title": "Workspace agents",
-    "sent_at": "2026-04-23T02:29:52.977559+00:00"
-  },
-  "https://openai.com/index/making-chatgpt-better-for-clinicians": {
-    "title": "Making ChatGPT better for clinicians",
-    "sent_at": "2026-04-23T02:29:52.977540+00:00"
-  },
-  "https://goddaehee.tistory.com/581": {
-    "title": "&quot;하네스 엔지니어링&quot; - Superpowers 리뷰 : 7단계 워크플로우와 14개 스킬 라이브러리 - 브레인스토밍부터 코드리뷰까지",
-    "sent_at": "2026-04-23T02:29:43.641939+00:00"
-  },
-  "https://goddaehee.tistory.com/582": {
-    "title": "DESIGN.md : Google Stitch가 도입한 DESIGN.md - DESIGN.md 도입 배경부터 적용해보기(VoltAgent awesome-design-md 컬렉션 활용 가이드)",
-    "sent_at": "2026-04-23T02:29:43.641919+00:00"
   }
 }
