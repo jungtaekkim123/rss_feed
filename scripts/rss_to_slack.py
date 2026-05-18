@@ -36,8 +36,37 @@ def init_gemini() -> genai.GenerativeModel | None:
         print("⚠️  GEMINI_API_KEY가 없습니다. 요약 없이 원문 전송합니다.")
         return None
 
-    genai.configure(api_key=api_key)
-    return genai.GenerativeModel("gemini-2.0-flash")
+    try:
+        genai.configure(api_key=api_key)
+        return genai.GenerativeModel(
+            "gemini-2.0-flash",
+            generation_config={
+                "response_mime_type": "application/json",
+                "temperature": 0.2,
+            },
+        )
+    except Exception as e:
+        print(f"⚠️  Gemini 초기화 실패: {e}. 요약 없이 원문 전송합니다.")
+        return None
+
+
+def _extract_json_object(text: str) -> dict:
+    """Gemini 응답에서 JSON 객체만 안전하게 추출합니다."""
+    text = text.strip()
+    if text.startswith("```"):
+        text = text.split("\n", 1)[1] if "\n" in text else text[3:]
+    if text.endswith("```"):
+        text = text[:-3]
+    text = text.strip()
+
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        start = text.find("{")
+        end = text.rfind("}")
+        if start != -1 and end != -1 and start < end:
+            return json.loads(text[start : end + 1])
+        raise
 
 
 def summarize_entry(model: genai.GenerativeModel, title: str, summary: str, link: str) -> dict:
@@ -60,15 +89,7 @@ def summarize_entry(model: genai.GenerativeModel, title: str, summary: str, link
     try:
         response = model.generate_content(prompt)
         text = response.text.strip()
-
-        # 마크다운 코드블록 제거
-        if text.startswith("```"):
-            text = text.split("\n", 1)[1] if "\n" in text else text[3:]
-        if text.endswith("```"):
-            text = text[:-3]
-        text = text.strip()
-
-        result = json.loads(text)
+        result = _extract_json_object(text)
         return {
             "title_ko": result.get("title_ko", ""),
             "summary": result.get("summary", ""),
@@ -100,14 +121,7 @@ def pick_top_article(model: genai.GenerativeModel, all_entries: list[dict]) -> d
     try:
         response = model.generate_content(prompt)
         text = response.text.strip()
-
-        if text.startswith("```"):
-            text = text.split("\n", 1)[1] if "\n" in text else text[3:]
-        if text.endswith("```"):
-            text = text[:-3]
-        text = text.strip()
-
-        result = json.loads(text)
+        result = _extract_json_object(text)
         idx = int(result.get("index", 0))
         if 0 <= idx < len(all_entries):
             return {
@@ -191,8 +205,36 @@ def _strip_html(text: str) -> str:
 
 
 # ── Slack 메시지 빌드 ──────────────────────────────────────
-def build_slack_blocks(feed_name: str, category_emoji: str, entries: list[dict]) -> dict:
-    """Slack Block Kit 형식의 메시지를 생성합니다 (불릿 포맷)."""
+def build_slack_block(feed_name: str, category_emoji: str, entry: dict) -> dict:
+    """Slack Block Kit 형식의 단일 기사 메시지를 생성합니다.
+
+    Slack Incoming Webhook은 전송 결과로 message ts를 돌려주지 않으므로
+    자동 thread reply 생성은 어렵습니다. 대신 기사마다 별도 최상위
+    메시지로 보내서 각 기사별 Slack thread를 열 수 있게 합니다.
+    """
+    title = entry["title"]
+    link = entry["link"]
+    ai_title_ko = entry.get("ai_title_ko", "")
+    ai_summary = entry.get("ai_summary", "")
+    ai_insight = entry.get("ai_insight", "")
+
+    display_title = ai_title_ko or title
+    lines = [f"*<{link}|{display_title}>*"]
+    if ai_title_ko and ai_title_ko != title:
+        lines.append(f"_{title}_")
+
+    if ai_summary:
+        lines.append(f"📝 {ai_summary}")
+    if ai_insight:
+        lines.append(f"💡 {ai_insight}")
+
+    if not ai_summary and not ai_insight:
+        raw_summary = _strip_html(entry["summary"])
+        if len(raw_summary) > 220:
+            raw_summary = raw_summary[:220] + "…"
+        if raw_summary:
+            lines.append(raw_summary)
+
     blocks = [
         {
             "type": "header",
@@ -202,53 +244,22 @@ def build_slack_blocks(feed_name: str, category_emoji: str, entries: list[dict])
                 "emoji": True,
             },
         },
-        {"type": "divider"},
+        {
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": "\n".join(lines)},
+        },
+        {
+            "type": "context",
+            "elements": [
+                {
+                    "type": "mrkdwn",
+                    "text": f"🤖 RSS Bot + Gemini • {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}",
+                }
+            ],
+        },
     ]
 
-    for entry in entries:
-        title = entry["title"]
-        link = entry["link"]
-        ai_title_ko = entry.get("ai_title_ko", "")
-        ai_summary = entry.get("ai_summary", "")
-        ai_insight = entry.get("ai_insight", "")
-
-        # 한국어 제목이 있고 원문과 다르면 함께 표시
-        if ai_title_ko and ai_title_ko != title:
-            lines = [f"*<{link}|{ai_title_ko}>*", f"    _{title}_"]
-        else:
-            lines = [f"*<{link}|{title}>*"]
-
-        if ai_summary:
-            lines.append(f"    📝 {ai_summary}")
-        if ai_insight:
-            lines.append(f"    💡 {ai_insight}")
-
-        if not ai_summary and not ai_insight:
-            raw_summary = _strip_html(entry["summary"])
-            if len(raw_summary) > 150:
-                raw_summary = raw_summary[:150] + "…"
-            if raw_summary:
-                lines.append(f"    {raw_summary}")
-
-        text = "\n".join(lines)
-
-        blocks.append({
-            "type": "section",
-            "text": {"type": "mrkdwn", "text": text},
-        })
-
-    blocks.append({
-        "type": "context",
-        "elements": [
-            {
-                "type": "mrkdwn",
-                "text": f"🤖 RSS Bot + Gemini • {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}",
-            }
-        ],
-    })
-
     return {"blocks": blocks}
-
 
 def build_top_pick_blocks(top_pick: dict) -> dict:
     """오늘의 추천 글 Slack 메시지를 생성합니다."""
@@ -385,18 +396,25 @@ def main():
             entry["feed_name"] = name
             all_new_entries.append(entry)
 
-        # Slack으로 전송
-        payload = build_slack_blocks(name, cat_emoji, new_entries)
-        if send_to_slack(webhook_url, payload):
-            for entry in new_entries:
+        # Slack으로 전송: 기사마다 별도 최상위 메시지로 보내
+        # 각 기사별로 독립적인 Slack thread를 열 수 있게 합니다.
+        sent_count = 0
+        for entry in new_entries:
+            payload = build_slack_block(name, cat_emoji, entry)
+            if send_to_slack(webhook_url, payload):
                 sent_entries[entry["id"]] = {
                     "title": entry["title"],
                     "sent_at": datetime.now(timezone.utc).isoformat(),
                 }
-            total_new += len(new_entries)
-            print(f"   ✅ 전송 완료!")
-        else:
-            print(f"   ❌ 전송 실패!")
+                total_new += 1
+                sent_count += 1
+                print(f"   ✅ 전송 완료: {entry['title'][:60]}")
+                time.sleep(0.3)
+            else:
+                print(f"   ❌ 전송 실패: {entry['title'][:60]}")
+
+        if sent_count:
+            save_sent_entries(sent_entries)
 
     # ── 오늘의 추천 글 전송 ──
     if gemini_model and all_new_entries:
