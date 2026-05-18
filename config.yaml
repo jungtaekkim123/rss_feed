@@ -9,10 +9,6 @@
 # category: 카테고리별 이모지 태깅에 사용됩니다.
 feeds:
   # ── 뉴스 & 커뮤니티 ──
-  - name: "Hacker News - Best"
-    url: "https://hnrss.org/best"
-    category: "news"
-
   - name: "TechCrunch"
     url: "https://techcrunch.com/feed/"
     category: "news"
@@ -72,10 +68,6 @@ feeds:
   # ── 한국 기술 블로그 ──
   - name: "우아한형제들 기술블로그"
     url: "https://techblog.woowahan.com/feed/"
-    category: "korean"
-
-  - name: "카카오 기술블로그"
-    url: "https://tech.kakao.com/feed/"
     category: "korean"
 
   - name: "네이버 D2"
