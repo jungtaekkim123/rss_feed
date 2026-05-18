@@ -1,4 +1,76 @@
 {
+  "https://www.threads.com/t/DYbycaygVKt": {
+    "title": "@feelfree_ai: 프롬프트 수정 없이 Claude API 비용을 80%나 줄였습니다. AI 코딩 툴 쓸 ᄄ...",
+    "sent_at": "2026-05-18T03:31:25.290465+00:00"
+  },
+  "https://www.threads.com/t/DYcN4PhAbs6": {
+    "title": "@feelfree_ai: 엔비디아가 단일 GPU(RTX 5090) 하나로 돌아가는 월드 모델을 오픈소스로 ...",
+    "sent_at": "2026-05-18T03:31:25.290462+00:00"
+  },
+  "https://www.threads.com/t/DYdRqaqipg_": {
+    "title": "@feelfree_ai: Codex가 똑똑한 건 알겠는데, 막상 실무(PRD)에 투입하면 자꾸 엉뚱...",
+    "sent_at": "2026-05-18T03:31:25.290459+00:00"
+  },
+  "https://www.threads.com/t/DYdtFgrCZvj": {
+    "title": "@feelfree_ai: M4 Pro에서 온디바이스 AI 돌릴 때, 기존 클라우드 최적화 방식을 쓰면 ...",
+    "sent_at": "2026-05-18T03:31:25.290443+00:00"
+  },
+  "https://d2.naver.com/helloworld/6475419": {
+    "title": "네이버 검색의 대규모 메트릭 저장소, VictoriaMetrics 운영기",
+    "sent_at": "2026-05-18T03:31:10.522467+00:00"
+  },
+  "https://tech.kakao.com/posts/820": {
+    "title": "카카오톡 예약하기에서 그려 본 캘린더",
+    "sent_at": "2026-05-18T03:31:07.984200+00:00"
+  },
+  "https://engineering.atspotify.com/?p=2XiYdNve9swVNDcDJPhV65": {
+    "title": "Background Coding Agents: Supercharging Downstream Consumer Dataset Migrations (Honk, Part 4)",
+    "sent_at": "2026-05-18T03:31:04.106687+00:00"
+  },
+  "https://goddaehee.tistory.com/603": {
+    "title": "Codex CLI 입문(8) : 슬래시 명령어 정리 - Codex 슬래시 명령어 사용방법",
+    "sent_at": "2026-05-18T03:30:57.588525+00:00"
+  },
+  "https://techcrunch.com/?p=3123351": {
+    "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
+    "sent_at": "2026-05-18T03:30:46.058811+00:00"
+  },
+  "https://techcrunch.com/?p=3123336": {
+    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+    "sent_at": "2026-05-18T03:30:46.058809+00:00"
+  },
+  "https://techcrunch.com/?p=3123381": {
+    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+    "sent_at": "2026-05-18T03:30:46.058806+00:00"
+  },
+  "https://techcrunch.com/?p=3123393": {
+    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+    "sent_at": "2026-05-18T03:30:46.058803+00:00"
+  },
+  "https://techcrunch.com/?p=3123397": {
+    "title": "Apple’s Siri revamp could include auto-deleting chats",
+    "sent_at": "2026-05-18T03:30:46.058789+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48168708": {
+    "title": "WHO declares Ebola outbreak a global health emergency",
+    "sent_at": "2026-05-18T03:30:41.524284+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48168856": {
+    "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+    "sent_at": "2026-05-18T03:30:41.524282+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48169874": {
+    "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+    "sent_at": "2026-05-18T03:30:41.524280+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48170798": {
+    "title": "At least 25 Flock cameras have been destroyed in five states since April 2025",
+    "sent_at": "2026-05-18T03:30:41.524276+00:00"
+  },
+  "https://news.ycombinator.com/item?id=48170810": {
+    "title": "Meta deletes popular 1M follower account after Kuwaiti request",
+    "sent_at": "2026-05-18T03:30:41.524260+00:00"
+  },
   "https://www.threads.com/t/DYYlxctAUpp": {
     "title": "@feelfree_ai: 파인튜닝할 때마다 모델이 원래 알던 똑똑한 지식들, 싹 다 날ᄅ...",
     "sent_at": "2026-05-17T02:54:07.759643+00:00"
@@ -1926,77 +1998,5 @@
   "https://blogs.nvidia.com/?p=92667": {
     "title": "Tag, You’re It: GeForce NOW Levels Up Game Discovery With Xbox Game Pass and Ubisoft+ Labels",
     "sent_at": "2026-04-24T02:30:39.880491+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92703": {
-    "title": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
-    "sent_at": "2026-04-24T02:30:39.880475+00:00"
-  },
-  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/": {
-    "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-    "sent_at": "2026-04-24T02:30:36.731243+00:00"
-  },
-  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/": {
-    "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-    "sent_at": "2026-04-24T02:30:36.731227+00:00"
-  },
-  "https://openai.com/academy/codex-plugins-and-skills": {
-    "title": "Plugins and skills",
-    "sent_at": "2026-04-24T02:30:35.086675+00:00"
-  },
-  "https://openai.com/academy/top-10-use-cases-codex-for-work": {
-    "title": "Top 10 uses for Codex at work",
-    "sent_at": "2026-04-24T02:30:35.086673+00:00"
-  },
-  "https://openai.com/academy/codex-automations": {
-    "title": "Automations",
-    "sent_at": "2026-04-24T02:30:35.086671+00:00"
-  },
-  "https://openai.com/index/gpt-5-5-system-card": {
-    "title": "GPT-5.5 System Card",
-    "sent_at": "2026-04-24T02:30:35.086668+00:00"
-  },
-  "https://openai.com/index/introducing-gpt-5-5": {
-    "title": "Introducing GPT-5.5",
-    "sent_at": "2026-04-24T02:30:35.086652+00:00"
-  },
-  "https://goddaehee.tistory.com/583": {
-    "title": "Claude Code 'Claude Design' 리뷰(1) : Figma 대체재인가, 보완재인가 - 디자인 시스템 설정부터 Claude Code 핸드오프까지",
-    "sent_at": "2026-04-24T02:30:27.677379+00:00"
-  },
-  "https://techcrunch.com/?p=3115915": {
-    "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-    "sent_at": "2026-04-24T02:30:21.420139+00:00"
-  },
-  "https://techcrunch.com/?p=3092894": {
-    "title": "These are the countries moving to ban social media for children",
-    "sent_at": "2026-04-24T02:30:21.420136+00:00"
-  },
-  "https://techcrunch.com/?p=3116004": {
-    "title": "Redwood Materials loses COO amid layoffs, restructuring",
-    "sent_at": "2026-04-24T02:30:21.420134+00:00"
-  },
-  "https://techcrunch.com/?p=3116048": {
-    "title": "Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation",
-    "sent_at": "2026-04-24T02:30:21.420132+00:00"
-  },
-  "https://techcrunch.com/?p=3116079": {
-    "title": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
-    "sent_at": "2026-04-24T02:30:21.420116+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47878208": {
-    "title": "'Hairdryer used to trick weather sensor' to win Polymarket bet",
-    "sent_at": "2026-04-24T02:30:16.792274+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47878633": {
-    "title": "Palantir employees are starting to wonder if they're the bad guys",
-    "sent_at": "2026-04-24T02:30:16.792272+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47878905": {
-    "title": "An update on recent Claude Code quality reports",
-    "sent_at": "2026-04-24T02:30:16.792270+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47879092": {
-    "title": "GPT-5.5",
-    "sent_at": "2026-04-24T02:30:16.792266+00:00"
   }
 }
