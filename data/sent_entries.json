@@ -1,4 +1,96 @@
 {
+  "https://www.threads.com/t/DYgYyvtj_7C": {
+    "title": "@feelfree_ai: ColBERT나 PyLate 쓰실 때 느린 속도와 엄청난 메모리 소모 때문에 답답하ᄉ...",
+    "sent_at": "2026-05-20T03:25:11.126705+00:00"
+  },
+  "https://www.threads.com/t/DYg0Qmwgc5q": {
+    "title": "@feelfree_ai: 사람을 위한 피그마 가이드만 있던 대한민국 정부 표준 디자인(KRD...",
+    "sent_at": "2026-05-20T03:25:10.563497+00:00"
+  },
+  "https://www.threads.com/t/DYiLYQYE8K9": {
+    "title": "@feelfree_ai: RAG에서 검색 품질을 올리려면 리랭커(Reranker)가 필수지만, 항상 지ᄋ...",
+    "sent_at": "2026-05-20T03:25:10.013828+00:00"
+  },
+  "https://www.threads.com/t/DYiv2RnCsgl": {
+    "title": "@feelfree_ai: 무조건 체급만 키우던 시대는 지났나 봅니다. 바이트댄스가 고작 3B ᄉ...",
+    "sent_at": "2026-05-20T03:25:09.441219+00:00"
+  },
+  "https://toss.tech/article/post-quantum-cryptography": {
+    "title": "양자컴퓨터 시대에 대비한 양자내성암호 적용, 왜 10년 먼저 서비스에 적용했을까?",
+    "sent_at": "2026-05-20T03:24:53.548589+00:00"
+  },
+  "https://toss.tech/article/da-assistant-panda": {
+    "title": "토스플레이스 데이터봇 ‘판다(PANDA)’를 소개합니다 : 모든 팀원이 데이터 전문가처럼 일하는 방법",
+    "sent_at": "2026-05-20T03:24:52.946777+00:00"
+  },
+  "https://toss.tech/article/operating-starrocks-1": {
+    "title": "StarRocks 운영기: Resource Group으로 멀티테넌트 워크로드 격리하기",
+    "sent_at": "2026-05-20T03:24:52.413050+00:00"
+  },
+  "2atb0Whie0RvOXQHBoBrKH": {
+    "title": "Announcing Claude Managed Agents on Cloudflare",
+    "sent_at": "2026-05-20T03:24:44.335445+00:00"
+  },
+  "https://huggingface.co/blog/ettin-reranker": {
+    "title": "Introducing the Ettin Reranker Family",
+    "sent_at": "2026-05-20T03:24:41.957763+00:00"
+  },
+  "https://huggingface.co/blog/allenai/olmoearth-v1-1": {
+    "title": "OlmoEarth v1.1: A more efficient family of models",
+    "sent_at": "2026-05-20T03:24:41.401439+00:00"
+  },
+  "https://blogs.nvidia.com/?p=93030": {
+    "title": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
+    "sent_at": "2026-05-20T03:24:39.267825+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/": {
+    "title": "Gemini 3.5: frontier intelligence with action",
+    "sent_at": "2026-05-20T03:24:37.562821+00:00"
+  },
+  "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/": {
+    "title": "I/O 2026: Welcome to the agentic Gemini era",
+    "sent_at": "2026-05-20T03:24:37.009724+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/workspace/workspace-updates/": {
+    "title": "New ways to create and get things done in Google Workspace",
+    "sent_at": "2026-05-20T03:24:36.457868+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/": {
+    "title": "How AI Mode is changing the way people search in the U.S.",
+    "sent_at": "2026-05-20T03:24:35.900014+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/": {
+    "title": "I/O 2026",
+    "sent_at": "2026-05-20T03:24:35.343022+00:00"
+  },
+  "https://openai.com/index/advancing-content-provenance": {
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "sent_at": "2026-05-20T03:24:30.079648+00:00"
+  },
+  "https://goddaehee.tistory.com/604": {
+    "title": "Google AI SEO 최적화 가이드 리뷰 : AI 검색 시대, 하던 SEO를 잘 하면 된다( AEO&middot;GEO는 SEO의 다른 이름이다)",
+    "sent_at": "2026-05-20T03:24:25.441496+00:00"
+  },
+  "https://techcrunch.com/?p=3124254": {
+    "title": "Mach Industries just spent $50M to solve a major defense tech problem",
+    "sent_at": "2026-05-20T03:24:17.800094+00:00"
+  },
+  "https://techcrunch.com/?p=3124293": {
+    "title": "Discord enables end-to-end encrypted voice and video calling for every user",
+    "sent_at": "2026-05-20T03:24:17.243422+00:00"
+  },
+  "https://techcrunch.com/?p=3123772": {
+    "title": "How to use Google’s new AI agents to go beyond your standard searches",
+    "sent_at": "2026-05-20T03:24:16.663012+00:00"
+  },
+  "https://techcrunch.com/?p=3123167": {
+    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+    "sent_at": "2026-05-20T03:24:16.110784+00:00"
+  },
+  "https://techcrunch.com/?p=3123458": {
+    "title": "Google just declared itself a contender in AI design at IO 2026",
+    "sent_at": "2026-05-20T03:24:15.553764+00:00"
+  },
   "https://www.threads.com/t/DYeQ_XbAey2": {
     "title": "@feelfree_ai: RAG 파이프라인 구축할 때 임베딩, 리랭킹 서버 다 따로 세팅하느라 골...",
     "sent_at": "2026-05-19T03:00:00.700959+00:00"
@@ -1906,97 +1998,5 @@
   "https://news.ycombinator.com/item?id=47911780": {
     "title": "GoDaddy gave a domain to a stranger without any documentation",
     "sent_at": "2026-04-27T02:36:39.917212+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47912645": {
-    "title": "Waymo says can't avoid bike lanes because riders want to be dropped off in them",
-    "sent_at": "2026-04-27T02:36:39.917210+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47913650": {
-    "title": "AI should elevate your thinking, not replace it",
-    "sent_at": "2026-04-27T02:36:39.917207+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47914165": {
-    "title": "I bought Friendster for $30k – Here's what I'm doing with it",
-    "sent_at": "2026-04-27T02:36:39.917204+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47914350": {
-    "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-    "sent_at": "2026-04-27T02:36:39.917187+00:00"
-  },
-  "https://www.threads.com/t/DXii8IUCgG0": {
-    "title": "@feelfree_ai: 단 33초 만에 '매달 4년 치'의 컴퓨팅 시간을 아껴버린 해외 개발팀ᄋ...",
-    "sent_at": "2026-04-26T02:35:38.494373+00:00"
-  },
-  "https://www.threads.com/t/DXjQo7egYep": {
-    "title": "@feelfree_ai: 툴 바꿀 때마다 기억상실증에 걸리는 AI 코딩 에이전트, 이제 '이동...",
-    "sent_at": "2026-04-26T02:35:38.494370+00:00"
-  },
-  "https://www.threads.com/t/DXk5BqVgYPP": {
-    "title": "@feelfree_ai: LangGraph로 분산 아키텍처를 구축할 때 서브그래프 상태 관리가 은근ᄒ...",
-    "sent_at": "2026-04-26T02:35:38.494351+00:00"
-  },
-  "https://techcrunch.com/?p=3116411": {
-    "title": "Why Cohere is merging with Aleph Alpha",
-    "sent_at": "2026-04-26T02:35:06.693159+00:00"
-  },
-  "https://techcrunch.com/?p=3116224": {
-    "title": "The climate tech IPO window could finally be cracking open",
-    "sent_at": "2026-04-26T02:35:06.693157+00:00"
-  },
-  "https://techcrunch.com/?p=3116460": {
-    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-    "sent_at": "2026-04-26T02:35:06.693155+00:00"
-  },
-  "https://techcrunch.com/?p=3116464": {
-    "title": "Maine’s governor vetoes data center moratorium",
-    "sent_at": "2026-04-26T02:35:06.693152+00:00"
-  },
-  "https://techcrunch.com/?p=3116468": {
-    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-    "sent_at": "2026-04-26T02:35:06.693135+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47899053": {
-    "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-    "sent_at": "2026-04-26T02:35:02.102461+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47899844": {
-    "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-    "sent_at": "2026-04-26T02:35:02.102459+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47902416": {
-    "title": "Niri 26.04: Scrollable-tiling Wayland compositor",
-    "sent_at": "2026-04-26T02:35:02.102456+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47904568": {
-    "title": "The AI industry is discovering that the public hates it",
-    "sent_at": "2026-04-26T02:35:02.102452+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47905283": {
-    "title": "Trump fires NSF's oversight board",
-    "sent_at": "2026-04-26T02:35:02.102434+00:00"
-  },
-  "https://www.threads.com/t/DXgipDwgZHx": {
-    "title": "@feelfree_ai: 이제 AI가 내 컴퓨터를 직접 조작하는 걸 넘어, 스스로 '기술'을 배워...",
-    "sent_at": "2026-04-25T02:12:28.446145+00:00"
-  },
-  "https://www.threads.com/t/DXiD-12AS8O": {
-    "title": "@feelfree_ai: 클로드로 보고서 만드시는 분들, 이거 꼭 저장하세요. 맥킨지 스타이...",
-    "sent_at": "2026-04-25T02:12:28.446133+00:00"
-  },
-  "https://huggingface.co/blog/transformersjs-chrome-extension": {
-    "title": "How to Use Transformers.js in a Chrome Extension",
-    "sent_at": "2026-04-25T02:12:10.376014+00:00"
-  },
-  "https://huggingface.co/blog/deepseekv4": {
-    "title": "DeepSeek-V4: a million-token context that agents can actually use",
-    "sent_at": "2026-04-25T02:12:10.376003+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/": {
-    "title": "8 Gemini tips for organizing your space (and life)",
-    "sent_at": "2026-04-25T02:12:07.911893+00:00"
-  },
-  "https://goddaehee.tistory.com/584": {
-    "title": "OpenAI GPT-5.5 리뷰 : 에이전틱 AI의 새 기준인가, 가격 2배 인상의 정당화인가 - 벤치마크부터 환각률까지",
-    "sent_at": "2026-04-25T02:12:06.060653+00:00"
   }
 }
