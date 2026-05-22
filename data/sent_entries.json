@@ -1,4 +1,68 @@
 {
+  "https://www.threads.com/t/DYliWLPiSC9": {
+    "title": "@feelfree_ai: 내가 만든 LLM API가 탈옥(Jailbreak)에 안전한지 자동으로 점검해볼 수 이...",
+    "sent_at": "2026-05-22T03:29:46.553846+00:00"
+  },
+  "https://www.threads.com/t/DYmUk4zgciv": {
+    "title": "@feelfree_ai: 30개가 넘는 클로드(Claude) 스킬을 직접 다 써보고 '진짜 현업에서 먹ᄒ...",
+    "sent_at": "2026-05-22T03:29:46.153362+00:00"
+  },
+  "https://www.threads.com/t/DYnzZkHgQ_2": {
+    "title": "@feelfree_ai: 모델이 스스로 추론을 반복하며 정답을 다듬도록 훈련시킨 뒤, ...",
+    "sent_at": "2026-05-22T03:29:45.755634+00:00"
+  },
+  "https://toss.tech/article/cross-functional-tpm-tip": {
+    "title": "Cross Functional 기술 문제 풀기 위한 역량 성장 Tip",
+    "sent_at": "2026-05-22T03:29:34.642228+00:00"
+  },
+  "6jEQvtyNrxoxhmH9OfOBvX": {
+    "title": "Announcing Claude Compliance API support with Cloudflare CASB",
+    "sent_at": "2026-05-22T03:29:28.659213+00:00"
+  },
+  "https://blogs.nvidia.com/?p=93181": {
+    "title": "License to Stream: ‘007 First Light’ Coming to GeForce NOW With an Ultimate Bundle",
+    "sent_at": "2026-05-22T03:29:26.100099+00:00"
+  },
+  "https://blogs.nvidia.com/?p=93175": {
+    "title": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
+    "sent_at": "2026-05-22T03:29:25.682227+00:00"
+  },
+  "https://openai.com/index/adventhealth": {
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "sent_at": "2026-05-22T03:29:23.442112+00:00"
+  },
+  "https://goddaehee.tistory.com/606": {
+    "title": "Antigravity 2.0 설치&middot;입문(1) : 처음 시작하는 분들을 위한 Antigravity 2.0, IDE, CLI 설치 해보기(간단하게 구조&middot;기능 살펴보기)",
+    "sent_at": "2026-05-22T03:29:19.231602+00:00"
+  },
+  "https://github.blog/?p=96232": {
+    "title": "Building GitHub’s next chapter in accessibility",
+    "sent_at": "2026-05-22T03:29:12.066729+00:00"
+  },
+  "https://github.blog/?p=96169": {
+    "title": "Beyond the engine: 10 open source projects shaping how games actually get made",
+    "sent_at": "2026-05-22T03:29:11.670078+00:00"
+  },
+  "https://techcrunch.com/?p=3125098": {
+    "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
+    "sent_at": "2026-05-22T03:29:09.940246+00:00"
+  },
+  "https://techcrunch.com/?p=3125315": {
+    "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
+    "sent_at": "2026-05-22T03:29:09.077007+00:00"
+  },
+  "https://techcrunch.com/?p=3125161": {
+    "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+    "sent_at": "2026-05-22T03:29:08.691547+00:00"
+  },
+  "https://techcrunch.com/?p=3125364": {
+    "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+    "sent_at": "2026-05-22T03:29:08.306389+00:00"
+  },
+  "https://techcrunch.com/?p=3125074": {
+    "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+    "sent_at": "2026-05-22T03:29:07.900963+00:00"
+  },
   "https://www.threads.com/t/DYjSPD1k-If": {
     "title": "@feelfree_ai: AI 매일 쓰면서도 정작 어떻게 작동하는지 물어보면 말문 막히느...",
     "sent_at": "2026-05-21T03:30:50.132054+00:00"
@@ -1934,69 +1998,5 @@
   "https://toss.tech/article/post-quantum-cryptography-eng": {
     "title": "Why We Adopted Post-Quantum Cryptography a Decade Before Quantum Computers Arrive",
     "sent_at": "2026-04-28T02:45:11.375725+00:00"
-  },
-  "a923d5c5d00735b29f125108fe5f865ed6f9c6f6": {
-    "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
-    "sent_at": "2026-04-28T02:45:04.886866+00:00"
-  },
-  "https://huggingface.co/blog/openai-privacy-filter-web-apps": {
-    "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-    "sent_at": "2026-04-28T02:45:02.837894+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging": {
-    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-    "sent_at": "2026-04-28T02:45:02.837877+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/": {
-    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-    "sent_at": "2026-04-28T02:45:00.568209+00:00"
-  },
-  "https://openai.com/index/choco": {
-    "title": "Choco automates food distribution with AI agents",
-    "sent_at": "2026-04-28T02:44:59.923442+00:00"
-  },
-  "https://openai.com/index/open-source-codex-orchestration-symphony": {
-    "title": "An open-source spec for orchestration: Symphony",
-    "sent_at": "2026-04-28T02:44:59.923439+00:00"
-  },
-  "https://openai.com/index/next-phase-of-microsoft-partnership": {
-    "title": "The next phase of the Microsoft OpenAI partnership",
-    "sent_at": "2026-04-28T02:44:59.923436+00:00"
-  },
-  "https://openai.com/index/openai-available-at-fedramp-moderate": {
-    "title": "OpenAI available at FedRAMP Moderate",
-    "sent_at": "2026-04-28T02:44:59.923422+00:00"
-  },
-  "https://github.blog/?p=95572": {
-    "title": "GitHub Copilot is moving to usage-based billing",
-    "sent_at": "2026-04-28T02:44:46.756802+00:00"
-  },
-  "https://techcrunch.com/?p=3116614": {
-    "title": "Hacker who allegedly carried out cyberattacks for China is extradited to US",
-    "sent_at": "2026-04-28T02:44:46.329860+00:00"
-  },
-  "https://techcrunch.com/?p=3116624": {
-    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
-    "sent_at": "2026-04-28T02:44:46.329857+00:00"
-  },
-  "https://techcrunch.com/?p=3116576": {
-    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-    "sent_at": "2026-04-28T02:44:46.329855+00:00"
-  },
-  "https://techcrunch.com/?p=3116710": {
-    "title": "Consumers lost $2.1B to social media scams in 2025, FTC reports",
-    "sent_at": "2026-04-28T02:44:46.329852+00:00"
-  },
-  "https://techcrunch.com/?p=3116754": {
-    "title": "Letterboxd, the social platform for film buffs, reportedly looking for new owner",
-    "sent_at": "2026-04-28T02:44:46.329839+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47923357": {
-    "title": "GitHub Copilot is moving to usage-based billing",
-    "sent_at": "2026-04-28T02:44:41.629255+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47924775": {
-    "title": "GitHub is having issues now",
-    "sent_at": "2026-04-28T02:44:41.629253+00:00"
   }
 }
