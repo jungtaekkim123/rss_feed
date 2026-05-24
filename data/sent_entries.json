@@ -1,4 +1,40 @@
 {
+  "https://www.threads.com/t/DYq5ph1jcvi": {
+    "title": "@feelfree_ai: 구글이 새로 공개한 Gemma 4 온디바이스 런타임 (LiteRT-LM) 성능 데이터를 ᄇ...",
+    "sent_at": "2026-05-24T03:26:34.787235+00:00"
+  },
+  "https://www.threads.com/t/DYri31biOWw": {
+    "title": "@feelfree_ai: 구글이 실제 서비스에 바로 적용할 수 있는 프로덕션 레벨의 AI 에이...",
+    "sent_at": "2026-05-24T03:26:34.223193+00:00"
+  },
+  "https://www.threads.com/t/DYs77pfAWHv": {
+    "title": "@feelfree_ai: 훈련이 끝나는 순간 과거에 갇혀버리는 LLM에게 드디어 실시간으로 ...",
+    "sent_at": "2026-05-24T03:26:33.661584+00:00"
+  },
+  "https://toss.tech/article/post-quantum-cryptography-eng": {
+    "title": "Why We Adopted Post-Quantum Cryptography a Decade Before Quantum Computers Arrive",
+    "sent_at": "2026-05-24T03:26:21.551552+00:00"
+  },
+  "https://techcrunch.com/?p=3125279": {
+    "title": "Elon Musk has given up on solar power (on Earth)",
+    "sent_at": "2026-05-24T03:26:07.093931+00:00"
+  },
+  "https://techcrunch.com/?p=3125590": {
+    "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
+    "sent_at": "2026-05-24T03:26:06.420118+00:00"
+  },
+  "https://techcrunch.com/?p=3125548": {
+    "title": "Ferrari is using IBM’s AI to create F1 superfans",
+    "sent_at": "2026-05-24T03:26:05.858632+00:00"
+  },
+  "https://techcrunch.com/?p=3123789": {
+    "title": "These special phone and app features can help protect you from spyware",
+    "sent_at": "2026-05-24T03:26:05.300039+00:00"
+  },
+  "https://techcrunch.com/?p=3125780": {
+    "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+    "sent_at": "2026-05-24T03:26:04.746435+00:00"
+  },
   "https://www.threads.com/t/DYo-D8nALbm": {
     "title": "@feelfree_ai: 거대 LLM 학습 필수 기술인 μP의 진짜 비밀, 알고 보니 복잡한 수식ᄇ...",
     "sent_at": "2026-05-23T02:49:03.964997+00:00"
@@ -1962,41 +1998,5 @@
   "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence": {
     "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
     "sent_at": "2026-04-29T02:44:43.500149+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92723": {
-    "title": "Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived",
-    "sent_at": "2026-04-29T02:44:43.108694+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92732": {
-    "title": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
-    "sent_at": "2026-04-29T02:44:43.108681+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/": {
-    "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-    "sent_at": "2026-04-29T02:44:41.540286+00:00"
-  },
-  "https://openai.com/index/openai-on-aws": {
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "sent_at": "2026-04-29T02:44:41.195502+00:00"
-  },
-  "https://openai.com/index/our-commitment-to-community-safety": {
-    "title": "Our commitment to community safety",
-    "sent_at": "2026-04-29T02:44:41.195483+00:00"
-  },
-  "https://goddaehee.tistory.com/588": {
-    "title": "GPT Image2 이미지 잘 만드는 법 : GPT Image2로 한글 썸네일과 인포그래픽까지 끝내기(이미지 프롬프트 패턴, 예시 모음)",
-    "sent_at": "2026-04-29T02:44:34.411648+00:00"
-  },
-  "https://github.blog/?p=95627": {
-    "title": "An update on GitHub availability",
-    "sent_at": "2026-04-29T02:44:27.854867+00:00"
-  },
-  "https://github.blog/?p=95594": {
-    "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
-    "sent_at": "2026-04-29T02:44:27.854863+00:00"
-  },
-  "https://github.blog/?p=95615": {
-    "title": "GitHub for Beginners: Getting started with Markdown",
-    "sent_at": "2026-04-29T02:44:27.854843+00:00"
   }
 }
