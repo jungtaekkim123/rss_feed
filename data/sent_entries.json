@@ -1,4 +1,40 @@
 {
+  "https://www.threads.com/t/DYteh2uAHh0": {
+    "title": "@feelfree_ai: Claude Code와 MCP 조합으로 이제 터미널에서 보안 취약점을 자율적으로 탐...",
+    "sent_at": "2026-05-25T03:37:55.356583+00:00"
+  },
+  "https://www.threads.com/t/DYuHtdgiuCC": {
+    "title": "@feelfree_ai: 엔비디아가 모델 구조 변경이나 추가 학습 없이, '어텐션 마스크' 조ᄌ...",
+    "sent_at": "2026-05-25T03:37:54.934314+00:00"
+  },
+  "https://www.threads.com/t/DYvFdvvCE3v": {
+    "title": "@feelfree_ai: 처음부터 다시 학습시키지 않고도, 기존 Llama나 Qwen 같은 트랜스포머 모...",
+    "sent_at": "2026-05-25T03:37:54.502177+00:00"
+  },
+  "https://www.threads.com/t/DYvuq5Cj7KA": {
+    "title": "@feelfree_ai: 최근 가장 핫한 딥시크(DeepSeek)의 핵심 기술인 Sparse Attention(DSA)을 바닥부...",
+    "sent_at": "2026-05-25T03:37:54.084747+00:00"
+  },
+  "https://techcrunch.com/?p=3122419": {
+    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+    "sent_at": "2026-05-25T03:37:20.500860+00:00"
+  },
+  "https://techcrunch.com/?p=3125639": {
+    "title": "TechCrunch Mobility: Robotaxi reality check",
+    "sent_at": "2026-05-25T03:37:20.058704+00:00"
+  },
+  "https://techcrunch.com/?p=3120725": {
+    "title": "6 kitchen gadgets that make adulting feel easier",
+    "sent_at": "2026-05-25T03:37:19.646903+00:00"
+  },
+  "https://techcrunch.com/?p=3125127": {
+    "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
+    "sent_at": "2026-05-25T03:37:19.235425+00:00"
+  },
+  "https://techcrunch.com/?p=3125822": {
+    "title": "Everyone is navigating AI security in real time — even Google",
+    "sent_at": "2026-05-25T03:37:18.827804+00:00"
+  },
   "https://www.threads.com/t/DYq5ph1jcvi": {
     "title": "@feelfree_ai: 구글이 새로 공개한 Gemma 4 온디바이스 런타임 (LiteRT-LM) 성능 데이터를 ᄇ...",
     "sent_at": "2026-05-24T03:26:34.787235+00:00"
@@ -1962,41 +1998,5 @@
   "https://news.ycombinator.com/item?id=47952181": {
     "title": "Copy Fail",
     "sent_at": "2026-04-30T02:45:36.811762+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47952722": {
-    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-    "sent_at": "2026-04-30T02:45:36.811744+00:00"
-  },
-  "https://www.threads.com/t/DXqQZAHioGu": {
-    "title": "@feelfree_ai: 올해 쏟아진 최신 로컬 오디오 AI 모델들, 무료 코랩 환경에서 바로 ᄃ...",
-    "sent_at": "2026-04-29T02:45:05.588190+00:00"
-  },
-  "https://www.threads.com/t/DXq7bmpgcnn": {
-    "title": "@feelfree_ai: API 키 없이 로컬 CPU만으로 1.5ms 만에 코드를 찾아내는 MCP 서버가 나왔습...",
-    "sent_at": "2026-04-29T02:45:05.588187+00:00"
-  },
-  "https://www.threads.com/t/DXsIzklgSde": {
-    "title": "@feelfree_ai: 스마트폰에 LLM 8개를 넣었는데 전체 용량이 720MB. 심지어 초당 40토큰 ...",
-    "sent_at": "2026-04-29T02:45:05.588184+00:00"
-  },
-  "https://www.threads.com/t/DXskPhGgl5e": {
-    "title": "@feelfree_ai: 엔비디아가 고작 25GB 램에서 바로 돌아가는 30B 멀티모달 오픈 모델을...",
-    "sent_at": "2026-04-29T02:45:05.588167+00:00"
-  },
-  "https://d2.naver.com/helloworld/2017402": {
-    "title": "비개발자의 AI 협업 도전기 — 생산성 측정하려다 서버까지 띄운 9일",
-    "sent_at": "2026-04-29T02:44:50.646884+00:00"
-  },
-  "028f27f264e6053f27b2c197fb8abb5d987bb874": {
-    "title": "Top announcements of the What’s Next with AWS, 2026",
-    "sent_at": "2026-04-29T02:44:45.335100+00:00"
-  },
-  "4jvdljnVwrZbZB9dFtXWhO": {
-    "title": "Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions",
-    "sent_at": "2026-04-29T02:44:44.937288+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence": {
-    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-    "sent_at": "2026-04-29T02:44:43.500149+00:00"
   }
 }
