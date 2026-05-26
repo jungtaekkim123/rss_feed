@@ -1,4 +1,52 @@
 {
+  "https://d2.naver.com/helloworld/2017402": {
+    "title": "비개발자의 AI 협업 도전기 — 생산성 측정하려다 서버까지 띄운 9일",
+    "sent_at": "2026-05-26T02:56:51.011207+00:00"
+  },
+  "0ee7dfc37504dc5243ef8d11d0d6403603ea0b17": {
+    "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
+    "sent_at": "2026-05-26T02:56:48.252710+00:00"
+  },
+  "https://huggingface.co/blog/agent-glossary": {
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "sent_at": "2026-05-26T02:56:46.364016+00:00"
+  },
+  "https://openai.com/index/grupo-folha-grupo-uol-partnership": {
+    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "sent_at": "2026-05-26T02:56:44.423428+00:00"
+  },
+  "https://goddaehee.tistory.com/608": {
+    "title": "Antigravity CLI(agy)로 넘어가는 기초 사용법과 마이그레이션 : Gemini CLI 종료(2026년 6월 18일)",
+    "sent_at": "2026-05-26T02:56:39.862096+00:00"
+  },
+  "https://goddaehee.tistory.com/609": {
+    "title": "Codex Mac App 가이드(2) : Codex App 원격 제어 방법 : 모바일 제어 부터 다른 기기 제어, SSH 원격 연결까지",
+    "sent_at": "2026-05-26T02:56:39.411092+00:00"
+  },
+  "https://github.blog/?p=96273": {
+    "title": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
+    "sent_at": "2026-05-26T02:56:31.423561+00:00"
+  },
+  "https://techcrunch.com/?p=3125848": {
+    "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+    "sent_at": "2026-05-26T02:56:30.793965+00:00"
+  },
+  "https://techcrunch.com/?p=3125834": {
+    "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+    "sent_at": "2026-05-26T02:56:30.361292+00:00"
+  },
+  "https://techcrunch.com/?p=3122173": {
+    "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+    "sent_at": "2026-05-26T02:56:29.918439+00:00"
+  },
+  "https://techcrunch.com/?p=3125866": {
+    "title": "The pope’s AI encyclical isn’t really about AI",
+    "sent_at": "2026-05-26T02:56:29.475164+00:00"
+  },
+  "https://techcrunch.com/?p=3125761": {
+    "title": "What ClickUp’s mass layoff tells us about the future of work",
+    "sent_at": "2026-05-26T02:56:29.031040+00:00"
+  },
   "https://www.threads.com/t/DYteh2uAHh0": {
     "title": "@feelfree_ai: Claude Code와 MCP 조합으로 이제 터미널에서 보안 취약점을 자율적으로 탐...",
     "sent_at": "2026-05-25T03:37:55.356583+00:00"
@@ -1950,53 +1998,5 @@
   "https://huggingface.co/blog/ibm-granite/granite-4-1": {
     "title": "Granite 4.1 LLMs: How They’re Built",
     "sent_at": "2026-04-30T02:45:54.665301+00:00"
-  },
-  "https://huggingface.co/blog/evaleval/eval-costs-bottleneck": {
-    "title": "AI evals are becoming the new compute bottleneck",
-    "sent_at": "2026-04-30T02:45:54.665291+00:00"
-  },
-  "https://openai.com/index/cybersecurity-in-the-intelligence-age": {
-    "title": "Cybersecurity in the Intelligence Age",
-    "sent_at": "2026-04-30T02:45:50.668254+00:00"
-  },
-  "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age": {
-    "title": "Building the compute infrastructure for the Intelligence Age",
-    "sent_at": "2026-04-30T02:45:50.668242+00:00"
-  },
-  "https://techcrunch.com/?p=3117680": {
-    "title": "Meta is still burning money on AR/VR",
-    "sent_at": "2026-04-30T02:45:41.618549+00:00"
-  },
-  "https://techcrunch.com/?p=3117736": {
-    "title": "On the stand, Elon Musk can’t escape his own tweets",
-    "sent_at": "2026-04-30T02:45:41.618547+00:00"
-  },
-  "https://techcrunch.com/?p=3117638": {
-    "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-    "sent_at": "2026-04-30T02:45:41.618545+00:00"
-  },
-  "https://techcrunch.com/?p=3117647": {
-    "title": "Amazon’s cloud business is surging — and so is its capital spending",
-    "sent_at": "2026-04-30T02:45:41.618542+00:00"
-  },
-  "https://techcrunch.com/?p=3117406": {
-    "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
-    "sent_at": "2026-04-30T02:45:41.618530+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47949642": {
-    "title": "Mistral Medium 3.5",
-    "sent_at": "2026-04-30T02:45:36.811776+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47949939": {
-    "title": "Cursor Camp",
-    "sent_at": "2026-04-30T02:45:36.811771+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47950091": {
-    "title": "Online age verification is the hill to die on",
-    "sent_at": "2026-04-30T02:45:36.811767+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47952181": {
-    "title": "Copy Fail",
-    "sent_at": "2026-04-30T02:45:36.811762+00:00"
   }
 }
