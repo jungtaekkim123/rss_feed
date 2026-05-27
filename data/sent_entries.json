@@ -1,4 +1,44 @@
 {
+  "https://www.threads.com/t/DYyeDvVkluA": {
+    "title": "@feelfree_ai: 에이전트 오래 돌릴 때 토큰 질질 새는 문제, 텐센트가 이번에 공...",
+    "sent_at": "2026-05-27T03:36:52.045297+00:00"
+  },
+  "https://www.threads.com/t/DYy8ovskvme": {
+    "title": "@feelfree_ai: 새로운 태스크를 가르칠 때 모델이 기존 능력을 망각하는 진짜 ᄋ...",
+    "sent_at": "2026-05-27T03:36:51.543597+00:00"
+  },
+  "https://www.threads.com/t/DYzfnreAcX5": {
+    "title": "@feelfree_ai: AI 에이전트가 사고 칠까 봐 도입을 망설이던 기업들이 딱 반길 마...",
+    "sent_at": "2026-05-27T03:36:51.050712+00:00"
+  },
+  "https://www.threads.com/t/DY0cx5Fk7Vp": {
+    "title": "@feelfree_ai: Unsloth Studio에서 이제 GPT 5.5랑 클로드 4.7 같은 외부 API 모델도 한 곳에 묶어ᄉ...",
+    "sent_at": "2026-05-27T03:36:50.548637+00:00"
+  },
+  "https://blogs.nvidia.com/?p=93322": {
+    "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
+    "sent_at": "2026-05-27T03:36:29.910643+00:00"
+  },
+  "https://techcrunch.com/?p=3126251": {
+    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+    "sent_at": "2026-05-27T03:36:18.039981+00:00"
+  },
+  "https://techcrunch.com/?p=3126172": {
+    "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
+    "sent_at": "2026-05-27T03:36:17.488787+00:00"
+  },
+  "https://techcrunch.com/?p=3126199": {
+    "title": "Trump administration permits Volvo to keep selling connected cars in the US",
+    "sent_at": "2026-05-27T03:36:17.011799+00:00"
+  },
+  "https://techcrunch.com/?p=3107547": {
+    "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
+    "sent_at": "2026-05-27T03:36:16.516919+00:00"
+  },
+  "https://techcrunch.com/?p=3126250": {
+    "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
+    "sent_at": "2026-05-27T03:36:16.028307+00:00"
+  },
   "https://d2.naver.com/helloworld/2017402": {
     "title": "비개발자의 AI 협업 도전기 — 생산성 측정하려다 서버까지 띄운 9일",
     "sent_at": "2026-05-26T02:56:51.011207+00:00"
@@ -1958,45 +1998,5 @@
   "https://news.ycombinator.com/item?id=47965060": {
     "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
     "sent_at": "2026-05-01T02:52:26.439379+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47965108": {
-    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-    "sent_at": "2026-05-01T02:52:26.439376+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47967262": {
-    "title": "LinkedIn is scanning browser extensions",
-    "sent_at": "2026-05-01T02:52:26.439372+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47967786": {
-    "title": "Can I disable all data collection from my vehicle?",
-    "sent_at": "2026-05-01T02:52:26.439355+00:00"
-  },
-  "https://www.threads.com/t/DXs462HDnSK": {
-    "title": "@feelfree_ai: 거대한 스승 모델(Teacher) 없이도, 초소형 AI 스스로 추론 능력을 극대ᄒ...",
-    "sent_at": "2026-04-30T02:46:15.038538+00:00"
-  },
-  "https://www.threads.com/t/DXtbPiYCC8q": {
-    "title": "@feelfree_ai: 임베딩 모델을 교체할 때마다 발생하는 수백만 원의 재처리 비용...",
-    "sent_at": "2026-04-30T02:46:15.038535+00:00"
-  },
-  "https://www.threads.com/t/DXtvx46D07d": {
-    "title": "@feelfree_ai: SNS에서 스쳐 지나가는 진짜 인사이트들, 매번 캡처만 하다가 놓쳐서 ᄋ...",
-    "sent_at": "2026-04-30T02:46:15.038532+00:00"
-  },
-  "https://www.threads.com/t/DXu7VxZiN9O": {
-    "title": "@feelfree_ai: 구글이 공식 Agent Skills 깃허브 레포를 오픈했습니다. 에이전트가 특저...",
-    "sent_at": "2026-04-30T02:46:15.038519+00:00"
-  },
-  "AFvlhoSnkPLdXbRwjUsCU": {
-    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-    "sent_at": "2026-04-30T02:45:56.134050+00:00"
-  },
-  "https://huggingface.co/blog/inference-providers-deepinfra": {
-    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-    "sent_at": "2026-04-30T02:45:54.665305+00:00"
-  },
-  "https://huggingface.co/blog/ibm-granite/granite-4-1": {
-    "title": "Granite 4.1 LLMs: How They’re Built",
-    "sent_at": "2026-04-30T02:45:54.665301+00:00"
   }
 }
