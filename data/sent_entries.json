@@ -1,4 +1,72 @@
 {
+  "1dbcfe788aeef8c99f13abab87cac5b8c7c70477": {
+    "title": "Meet Our Newest AWS Heroes – May 2026",
+    "sent_at": "2026-05-28T02:56:00.185687+00:00"
+  },
+  "5VkjKrKCgZPffHiZoeDsKW": {
+    "title": "Iran's Internet is partially restored, Cloudflare Radar data shows",
+    "sent_at": "2026-05-28T02:55:59.492437+00:00"
+  },
+  "https://huggingface.co/blog/delta-weight-sync": {
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "sent_at": "2026-05-28T02:55:58.055772+00:00"
+  },
+  "https://huggingface.co/blog/local-reachy-mini-conversation": {
+    "title": "Reachy Mini goes fully local",
+    "sent_at": "2026-05-28T02:55:57.683676+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/itbench-aa": {
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "sent_at": "2026-05-28T02:55:57.314461+00:00"
+  },
+  "https://blogs.nvidia.com/?p=92977": {
+    "title": "AI Factories: The New Infrastructure of Intelligence",
+    "sent_at": "2026-05-28T02:55:54.404530+00:00"
+  },
+  "https://engineering.fb.com/?p=23988": {
+    "title": "SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems",
+    "sent_at": "2026-05-28T02:55:53.675385+00:00"
+  },
+  "https://openai.com/index/election-safeguards-2026": {
+    "title": "Election information and safeguards in 2026",
+    "sent_at": "2026-05-28T02:55:52.702023+00:00"
+  },
+  "https://openai.com/index/warp": {
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "sent_at": "2026-05-28T02:55:52.327774+00:00"
+  },
+  "https://openai.com/index/building-self-improving-tax-agents-with-codex": {
+    "title": "Building self-improving tax agents with Codex",
+    "sent_at": "2026-05-28T02:55:51.942422+00:00"
+  },
+  "https://openai.com/index/cisco": {
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "sent_at": "2026-05-28T02:55:51.569406+00:00"
+  },
+  "https://goddaehee.tistory.com/610": {
+    "title": "Gemini in Chrome 사용방법 - Gemini in Chrome vs 확장 프로그램 : 탭 전환 없이 멀티탭 교차 분석",
+    "sent_at": "2026-05-28T02:55:45.613798+00:00"
+  },
+  "https://techcrunch.com/?p=3126638": {
+    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+    "sent_at": "2026-05-28T02:55:38.822729+00:00"
+  },
+  "https://techcrunch.com/?p=3126771": {
+    "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+    "sent_at": "2026-05-28T02:55:38.451395+00:00"
+  },
+  "https://techcrunch.com/?p=3126775": {
+    "title": "Rivian will deliver the first R2 SUVs on June 9",
+    "sent_at": "2026-05-28T02:55:38.077002+00:00"
+  },
+  "https://techcrunch.com/?p=3126837": {
+    "title": "Why Google’s AI can’t spell Google (or anything else)",
+    "sent_at": "2026-05-28T02:55:37.695611+00:00"
+  },
+  "https://techcrunch.com/?p=3126937": {
+    "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
+    "sent_at": "2026-05-28T02:55:37.311502+00:00"
+  },
   "https://www.threads.com/t/DYyeDvVkluA": {
     "title": "@feelfree_ai: 에이전트 오래 돌릴 때 토큰 질질 새는 문제, 텐센트가 이번에 공...",
     "sent_at": "2026-05-27T03:36:52.045297+00:00"
@@ -1930,73 +1998,5 @@
   "https://www.threads.com/t/DXvdAblAXvW": {
     "title": "@feelfree_ai: 모든 AI 모델에 똑같은 프롬프트를 쓰고 계신다면 손해입니다. LangCha...",
     "sent_at": "2026-05-01T02:53:09.777359+00:00"
-  },
-  "https://www.threads.com/t/DXv-iMbAVEC": {
-    "title": "@feelfree_ai: 사내용 AI 챗봇 구축, 이제 맨땅에 헤딩하지 마세요. 슬랙, 구글 드라...",
-    "sent_at": "2026-05-01T02:53:09.777356+00:00"
-  },
-  "https://www.threads.com/t/DXws9mGgdFA": {
-    "title": "@feelfree_ai: AI 에이전트 속도를 10배 높인 비결은 거대 모델이 아니라 'sLLM'이었습...",
-    "sent_at": "2026-05-01T02:53:09.777353+00:00"
-  },
-  "https://www.threads.com/t/DXxkwzuDDUf": {
-    "title": "@feelfree_ai: 내 ChatGPT 대화가 모델 학습에 쓰이는 게 찜찜하셨던 분들, 바로 어제 ...",
-    "sent_at": "2026-05-01T02:53:09.777336+00:00"
-  },
-  "45CJNnEddFGu89vwZzAJEl": {
-    "title": "Post-quantum encryption for Cloudflare IPsec is generally available",
-    "sent_at": "2026-05-01T02:52:44.860716+00:00"
-  },
-  "https://engineering.atspotify.com/?p=49rr6P570qnmmCh52czdP1": {
-    "title": "Let’s Talk Agentic Development: Spotify x Anthropic Live",
-    "sent_at": "2026-05-01T02:52:44.068504+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92775": {
-    "title": "It’s Gonna Be May: 16 Games Hit the Cloud This Month, With More NVIDIA GeForce RTX 5080 Power",
-    "sent_at": "2026-05-01T02:52:43.038538+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92588": {
-    "title": "Nemotron Labs: What OpenClaw Agents Mean for Every Organization",
-    "sent_at": "2026-05-01T02:52:43.038521+00:00"
-  },
-  "https://openai.com/index/where-the-goblins-came-from": {
-    "title": "Where the goblins came from",
-    "sent_at": "2026-05-01T02:52:40.920781+00:00"
-  },
-  "https://openai.com/index/advanced-account-security": {
-    "title": "Introducing Advanced Account Security",
-    "sent_at": "2026-05-01T02:52:40.920765+00:00"
-  },
-  "https://github.blog/?p=95654": {
-    "title": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
-    "sent_at": "2026-05-01T02:52:31.348782+00:00"
-  },
-  "https://techcrunch.com/?p=3118257": {
-    "title": "Apple was surprised by AI-driven demand for Macs",
-    "sent_at": "2026-05-01T02:52:31.049370+00:00"
-  },
-  "https://techcrunch.com/?p=3118328": {
-    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-    "sent_at": "2026-05-01T02:52:31.049368+00:00"
-  },
-  "https://techcrunch.com/?p=3118287": {
-    "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
-    "sent_at": "2026-05-01T02:52:31.049365+00:00"
-  },
-  "https://techcrunch.com/?p=3118284": {
-    "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
-    "sent_at": "2026-05-01T02:52:31.049361+00:00"
-  },
-  "https://techcrunch.com/?p=3118178": {
-    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-    "sent_at": "2026-05-01T02:52:31.049340+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47964617": {
-    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-    "sent_at": "2026-05-01T02:52:26.439381+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47965060": {
-    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-    "sent_at": "2026-05-01T02:52:26.439379+00:00"
   }
 }
