@@ -1,4 +1,64 @@
 {
+  "https://www.threads.com/t/DY6W2WbgtbY": {
+    "title": "@feelfree_ai: 매번 수작업으로 코딩 에이전트 평가 환경 구축하느라 고생하셨ᄃ...",
+    "sent_at": "2026-05-30T02:53:02.465625+00:00"
+  },
+  "https://engineering.atspotify.com/?p=2zovdZH0l6DqvR2015Vw6b": {
+    "title": "Building a Natural Language Interface to the Spotify Ads API with Claude Code Plugins",
+    "sent_at": "2026-05-30T02:52:46.530660+00:00"
+  },
+  "https://huggingface.co/blog/torch-profiler": {
+    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+    "sent_at": "2026-05-30T02:52:45.308564+00:00"
+  },
+  "https://engineering.fb.com/?p=23929": {
+    "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
+    "sent_at": "2026-05-30T02:52:44.136283+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/": {
+    "title": "Check out real-life AI prototypes from the Futures Lab.",
+    "sent_at": "2026-05-30T02:52:43.476546+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/": {
+    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+    "sent_at": "2026-05-30T02:52:43.069714+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/": {
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "sent_at": "2026-05-30T02:52:42.654016+00:00"
+  },
+  "https://openai.com/index/trustworthy-third-party-evaluations-foundations": {
+    "title": "A shared playbook for trustworthy third party evaluations",
+    "sent_at": "2026-05-30T02:52:39.714152+00:00"
+  },
+  "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense": {
+    "title": "Strengthening societal resilience with Rosalind Biodefense",
+    "sent_at": "2026-05-30T02:52:39.298356+00:00"
+  },
+  "https://openai.com/index/braintrust": {
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "sent_at": "2026-05-30T02:52:38.884750+00:00"
+  },
+  "https://openai.com/index/boston-childrens-hospital": {
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "sent_at": "2026-05-30T02:52:38.452803+00:00"
+  },
+  "https://techcrunch.com/?p=3127904": {
+    "title": "Coders are refusing to work without AI — and that could come back to bite them",
+    "sent_at": "2026-05-30T02:52:18.456742+00:00"
+  },
+  "https://techcrunch.com/?p=3127933": {
+    "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
+    "sent_at": "2026-05-30T02:52:18.047333+00:00"
+  },
+  "https://techcrunch.com/?p=3124796": {
+    "title": "I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides",
+    "sent_at": "2026-05-30T02:52:17.632339+00:00"
+  },
+  "https://techcrunch.com/?p=3127866": {
+    "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
+    "sent_at": "2026-05-30T02:52:17.193202+00:00"
+  },
   "https://www.threads.com/t/DY3dE2rkej6": {
     "title": "@feelfree_ai: Lyft가 고객 지원 AI 에이전트 개발 기간을 6개월에서 단 '몇 주'로 대폭...",
     "sent_at": "2026-05-29T03:25:22.798481+00:00"
@@ -1938,65 +1998,5 @@
   "https://news.ycombinator.com/item?id=48000152": {
     "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
     "sent_at": "2026-05-04T02:41:57.570520+00:00"
-  },
-  "https://www.threads.com/t/DX0kj4rgYqc": {
-    "title": "@feelfree_ai: RAG 데이터 갱신하느라 매일 밤 무거운 배치 돌리던 시대는 이제 진짜 ...",
-    "sent_at": "2026-05-03T02:44:44.152753+00:00"
-  },
-  "https://www.threads.com/t/DX1Wl3agbfY": {
-    "title": "@feelfree_ai: 엔비디아 안방(젯슨 오린)에서 엔비디아 공식 툴보다 1.49배 더 빠른...",
-    "sent_at": "2026-05-03T02:44:44.152750+00:00"
-  },
-  "https://www.threads.com/t/DX2wjDtjt1f": {
-    "title": "@feelfree_ai: 안드레이 카파시(Karpathy)가 제안했던 'LLM 위키' 아이디어, 드디어 쓸만한 ᄆ...",
-    "sent_at": "2026-05-03T02:44:44.152732+00:00"
-  },
-  "https://goddaehee.tistory.com/590": {
-    "title": "Codex Mac App 가이드: 설치부터 권한, MCP, 자동화까지 - Codex App으로 코드를 직접 맡기는 시대",
-    "sent_at": "2026-05-03T02:44:21.143032+00:00"
-  },
-  "https://techcrunch.com/?p=3117874": {
-    "title": "Beyond Lovable and Mistral: 21 European startups to watch",
-    "sent_at": "2026-05-03T02:44:14.920839+00:00"
-  },
-  "https://techcrunch.com/?p=3076350": {
-    "title": "The best AI dictation apps, tested and ranked",
-    "sent_at": "2026-05-03T02:44:14.920836+00:00"
-  },
-  "https://techcrunch.com/?p=3118609": {
-    "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
-    "sent_at": "2026-05-03T02:44:14.920833+00:00"
-  },
-  "https://techcrunch.com/?p=3118614": {
-    "title": "Farewell, Jeeves: Ask.com shuts down",
-    "sent_at": "2026-05-03T02:44:14.920830+00:00"
-  },
-  "https://techcrunch.com/?p=3118619": {
-    "title": "AI-generated actors and scripts are now ineligible for Oscars",
-    "sent_at": "2026-05-03T02:44:14.920812+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47988504": {
-    "title": "Dav2d",
-    "sent_at": "2026-05-03T02:44:10.041765+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47988592": {
-    "title": "Do_not_track",
-    "sent_at": "2026-05-03T02:44:10.041762+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47988742": {
-    "title": "California to begin ticketing driverless cars that violate traffic laws",
-    "sent_at": "2026-05-03T02:44:10.041760+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47988776": {
-    "title": "NetHack 5.0.0",
-    "sent_at": "2026-05-03T02:44:10.041754+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47989883": {
-    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-    "sent_at": "2026-05-03T02:44:10.041735+00:00"
-  },
-  "https://www.threads.com/t/DXyBXb6AW_4": {
-    "title": "@feelfree_ai: 남들 다 프롬프트 깎고 있을 때, 스탠포드에서는 AI의 '인프라 권력'...",
-    "sent_at": "2026-05-02T02:34:09.945932+00:00"
   }
 }
