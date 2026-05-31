@@ -1,4 +1,44 @@
 {
+  "https://www.threads.com/t/DY83WG1gQi4": {
+    "title": "@feelfree_ai: 내 컴퓨터 사양에 딱 맞는 LLM이 뭔지 매번 VRAM이랑 메모리 계산하기 귀...",
+    "sent_at": "2026-05-31T03:37:56.175160+00:00"
+  },
+  "https://www.threads.com/t/DY9P6vWCZ1y": {
+    "title": "@feelfree_ai: AI 에이전트 개발하다 '도대체 여기서 왜 꼬이지?' 답답했던 순간, Pipecatᄋ...",
+    "sent_at": "2026-05-31T03:37:55.633082+00:00"
+  },
+  "https://www.threads.com/t/DY-3imZgX9X": {
+    "title": "@feelfree_ai: 요즘 LLM 서비스를 안전하게 배포하기 위해 필수가 된 '레드 티밍(Red Teaming)...",
+    "sent_at": "2026-05-31T03:37:55.080978+00:00"
+  },
+  "https://goddaehee.tistory.com/611": {
+    "title": "Claude Opus 4.8 출시 - Dynamic Workflows, ultracode, Fast mode, 서브에이전트 1000개 등 정리(41일 만의 업데이트가 보내는 메시지)",
+    "sent_at": "2026-05-31T03:37:29.373912+00:00"
+  },
+  "https://goddaehee.tistory.com/612": {
+    "title": "Codex Mac App 가이드(3) : Codex App 펫(Pets) 사용 방법 : 백그라운드 AI 에이전트 실시간 모니터링, 나만의 픽셀 아바타 만들기",
+    "sent_at": "2026-05-31T03:37:28.835780+00:00"
+  },
+  "https://techcrunch.com/?p=3128007": {
+    "title": "Meta is reportedly developing an AI pendant",
+    "sent_at": "2026-05-31T03:37:21.649514+00:00"
+  },
+  "https://techcrunch.com/?p=3127853": {
+    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+    "sent_at": "2026-05-31T03:37:21.095988+00:00"
+  },
+  "https://techcrunch.com/?p=3128009": {
+    "title": "Snap alums unveil Ghost Angels fund",
+    "sent_at": "2026-05-31T03:37:20.543614+00:00"
+  },
+  "https://techcrunch.com/?p=3128033": {
+    "title": "This weekend’s two biggest movies were both directed by YouTubers",
+    "sent_at": "2026-05-31T03:37:19.973614+00:00"
+  },
+  "https://techcrunch.com/?p=3128041": {
+    "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+    "sent_at": "2026-05-31T03:37:19.421153+00:00"
+  },
   "https://www.threads.com/t/DY6W2WbgtbY": {
     "title": "@feelfree_ai: 매번 수작업으로 코딩 에이전트 평가 환경 구축하느라 고생하셨ᄃ...",
     "sent_at": "2026-05-30T02:53:02.465625+00:00"
@@ -1958,45 +1998,5 @@
   "https://goddaehee.tistory.com/593": {
     "title": "DESIGN.md 자동 생성 : DesignMD Style Extractor - 클릭 하나로 웹사이트 디자인 시스템을 추출하는 Chrome 확장 프로그램",
     "sent_at": "2026-05-04T02:42:10.635820+00:00"
-  },
-  "https://techcrunch.com/?p=3117139": {
-    "title": "This tiny, magnetic e-reader could stop you from doomscrolling",
-    "sent_at": "2026-05-04T02:42:02.087486+00:00"
-  },
-  "https://techcrunch.com/?p=3118566": {
-    "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
-    "sent_at": "2026-05-04T02:42:02.087484+00:00"
-  },
-  "https://techcrunch.com/?p=3118654": {
-    "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-    "sent_at": "2026-05-04T02:42:02.087482+00:00"
-  },
-  "https://techcrunch.com/?p=3118660": {
-    "title": "‘This is fine’ creator says AI startup stole his art",
-    "sent_at": "2026-05-04T02:42:02.087479+00:00"
-  },
-  "https://techcrunch.com/?p=3118668": {
-    "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
-    "sent_at": "2026-05-04T02:42:02.087465+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47997947": {
-    "title": "A desktop made for one",
-    "sent_at": "2026-05-04T02:41:57.570544+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47998790": {
-    "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
-    "sent_at": "2026-05-04T02:41:57.570541+00:00"
-  },
-  "https://news.ycombinator.com/item?id=47999636": {
-    "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-    "sent_at": "2026-05-04T02:41:57.570539+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48000028": {
-    "title": "Why TUIs are back",
-    "sent_at": "2026-05-04T02:41:57.570535+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48000152": {
-    "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-    "sent_at": "2026-05-04T02:41:57.570520+00:00"
   }
 }
