@@ -1,4 +1,76 @@
 {
+  "https://www.threads.com/t/DZEixf2k2Xy": {
+    "title": "@feelfree_ai: Unsloth에서 MCP 가이드를 공개했습니다. 로컬 환경에서 LLM 활용하시는 ᄇ...",
+    "sent_at": "2026-06-03T03:55:07.723821+00:00"
+  },
+  "https://www.threads.com/t/DZFXKw1AYUn": {
+    "title": "@feelfree_ai: 엔비디아가 이번 GTC 타이베이에서 '코스모스 3(Cosmos 3)'를 공개했는데, 이제...",
+    "sent_at": "2026-06-03T03:55:07.176686+00:00"
+  },
+  "https://www.threads.com/t/DZGamoKkofY": {
+    "title": "@feelfree_ai: 내 윈도우 노트북에서도 마이크로소프트의 최신 AI 모델을 가볍고 빠르ᄀ...",
+    "sent_at": "2026-06-03T03:55:06.633673+00:00"
+  },
+  "https://www.threads.com/t/DZG6sDhAQMy": {
+    "title": "@feelfree_ai: 내 컴퓨터 사양에서 버벅이지 않고 실제로 돌아가는 최적의 로컬 LLMᄋ...",
+    "sent_at": "2026-06-03T03:55:06.078738+00:00"
+  },
+  "https://huggingface.co/blog/Hcompany/holo31": {
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "sent_at": "2026-06-03T03:54:46.884434+00:00"
+  },
+  "https://blogs.nvidia.com/?p=93845": {
+    "title": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
+    "sent_at": "2026-06-03T03:54:45.829667+00:00"
+  },
+  "https://blogs.nvidia.com/?p=93860": {
+    "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+    "sent_at": "2026-06-03T03:54:45.280150+00:00"
+  },
+  "https://blogs.nvidia.com/?p=93790": {
+    "title": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
+    "sent_at": "2026-06-03T03:54:44.745982+00:00"
+  },
+  "https://openai.com/index/codex-for-knowledge-work": {
+    "title": "Codex is becoming a productivity tool for everyone",
+    "sent_at": "2026-06-03T03:54:40.727602+00:00"
+  },
+  "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership": {
+    "title": "Advancing youth safety and opportunity through global leadership",
+    "sent_at": "2026-06-03T03:54:40.175018+00:00"
+  },
+  "https://openai.com/index/codex-for-every-role-tool-workflow": {
+    "title": "Codex for every role, tool, and workflow",
+    "sent_at": "2026-06-03T03:54:39.606829+00:00"
+  },
+  "https://openai.com/index/travelers": {
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "sent_at": "2026-06-03T03:54:39.067356+00:00"
+  },
+  "https://github.blog/?p=96380": {
+    "title": "GitHub Copilot app: The agent-native desktop experience",
+    "sent_at": "2026-06-03T03:54:26.692471+00:00"
+  },
+  "https://techcrunch.com/?p=3128726": {
+    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "sent_at": "2026-06-03T03:54:25.657526+00:00"
+  },
+  "https://techcrunch.com/?p=3128791": {
+    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+    "sent_at": "2026-06-03T03:54:25.091515+00:00"
+  },
+  "https://techcrunch.com/?p=3128472": {
+    "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
+    "sent_at": "2026-06-03T03:54:24.538909+00:00"
+  },
+  "https://techcrunch.com/?p=3128845": {
+    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+    "sent_at": "2026-06-03T03:54:23.972112+00:00"
+  },
+  "https://techcrunch.com/?p=3128730": {
+    "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
+    "sent_at": "2026-06-03T03:54:23.401419+00:00"
+  },
   "https://www.threads.com/t/DZCQXXTgRa2": {
     "title": "@feelfree_ai: LLM 보안 이슈가 터지는 건 이제 시간문제인데, 마침 공인 LLM 보안 전...",
     "sent_at": "2026-06-02T03:44:50.379756+00:00"
@@ -1926,77 +1998,5 @@
   "https://www.threads.com/t/DX8dAggjzVp": {
     "title": "@feelfree_ai: 무료 캐글 GPU로 최신 LLM을 직접 깎아볼 수 있는 아주 직관적인 튜...",
     "sent_at": "2026-05-06T02:40:18.277409+00:00"
-  },
-  "https://www.threads.com/t/DX8xHe5gTaP": {
-    "title": "@feelfree_ai: AI 에이전트 워크플로우의 모든 단계에 굳이 비싸고 무거운 모델을 또...",
-    "sent_at": "2026-05-06T02:40:18.277407+00:00"
-  },
-  "https://www.threads.com/t/DX-MwxTE8VZ": {
-    "title": "@feelfree_ai: Gemma 4, 똑똑함은 그대로인데 속도만 최대 3배 빨라졌습니다. MTP(Multi-Token...",
-    "sent_at": "2026-05-06T02:40:18.277404+00:00"
-  },
-  "https://www.threads.com/t/DX-YGlngId-": {
-    "title": "@feelfree_ai: 텍스트 변환 없이 AI들끼리 텔레파시처럼 '생각(Latent)'을 직접 주고...",
-    "sent_at": "2026-05-06T02:40:18.277390+00:00"
-  },
-  "ba26c662eba8f9ea247af282ca8ea98a5007c81b": {
-    "title": "Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)",
-    "sent_at": "2026-05-06T02:39:57.869268+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92822": {
-    "title": "NVIDIA and ServiceNow Partner on New Autonomous AI Agents for Enterprises",
-    "sent_at": "2026-05-06T02:39:55.482357+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/": {
-    "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-    "sent_at": "2026-05-06T02:39:54.596570+00:00"
-  },
-  "https://openai.com/index/openai-pwc-finance-collaboration": {
-    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-    "sent_at": "2026-05-06T02:39:53.926024+00:00"
-  },
-  "https://openai.com/index/new-ways-to-buy-chatgpt-ads": {
-    "title": "New ways to buy ChatGPT ads",
-    "sent_at": "2026-05-06T02:39:53.926021+00:00"
-  },
-  "https://openai.com/index/gpt-5-5-instant": {
-    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-    "sent_at": "2026-05-06T02:39:53.926018+00:00"
-  },
-  "https://openai.com/index/gpt-5-5-instant-system-card": {
-    "title": "GPT-5.5 Instant System Card",
-    "sent_at": "2026-05-06T02:39:53.926001+00:00"
-  },
-  "https://goddaehee.tistory.com/594": {
-    "title": "Claude Code 4월 업데이트(v2.1.89~126 업데이트) 정리",
-    "sent_at": "2026-05-06T02:39:47.044618+00:00"
-  },
-  "https://goddaehee.tistory.com/595": {
-    "title": "OpenAI on AWS : AWS Bedrock으로 향한 GPT와 Codex 전략 - OpenAI가 Azure 독점을 벗어났다",
-    "sent_at": "2026-05-06T02:39:47.044602+00:00"
-  },
-  "https://github.blog/?p=95708": {
-    "title": "Welcome to Maintainer Month: Celebrating the people behind the code",
-    "sent_at": "2026-05-06T02:39:40.279451+00:00"
-  },
-  "https://techcrunch.com/?p=3119464": {
-    "title": "Lucid Motors doesn’t know how many EVs it will build this year",
-    "sent_at": "2026-05-06T02:39:39.773353+00:00"
-  },
-  "https://techcrunch.com/?p=3119445": {
-    "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-    "sent_at": "2026-05-06T02:39:39.773351+00:00"
-  },
-  "https://techcrunch.com/?p=3119474": {
-    "title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
-    "sent_at": "2026-05-06T02:39:39.773348+00:00"
-  },
-  "https://techcrunch.com/?p=3119050": {
-    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-    "sent_at": "2026-05-06T02:39:39.773345+00:00"
-  },
-  "https://techcrunch.com/?p=3119465": {
-    "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
-    "sent_at": "2026-05-06T02:39:39.773329+00:00"
   }
 }
