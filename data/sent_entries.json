@@ -1,4 +1,84 @@
 {
+  "https://www.threads.com/t/DZH4jkigdYS": {
+    "title": "@feelfree_ai: 국내 연구진이 한국 문화와 키워드를 반영해 만든 에이전트 벤ᄎ...",
+    "sent_at": "2026-06-04T03:49:10.554205+00:00"
+  },
+  "https://www.threads.com/t/DZJKDgbEt4s": {
+    "title": "@feelfree_ai: 8GB RAM 환경에서도 이미지, 오디오를 다 처리하면서 256K 컨텍스트까지 지워...",
+    "sent_at": "2026-06-04T03:49:10.065222+00:00"
+  },
+  "https://d2.naver.com/helloworld/0107009": {
+    "title": "비개발자가 한 달 동안 풀스택으로 개발하면서 배운 것",
+    "sent_at": "2026-06-04T03:48:56.560822+00:00"
+  },
+  "ffb6b5eaa7f07ef9c7f8b9dd92ccdd689e10d7ae": {
+    "title": "Improve your application resilience with Amazon Cognito multi-Region replication",
+    "sent_at": "2026-06-04T03:48:54.089863+00:00"
+  },
+  "3DirDATXQ2gKSrJoeWtdTd": {
+    "title": "Enforcing the First AS in BGP AS_PATHs",
+    "sent_at": "2026-06-04T03:48:53.274165+00:00"
+  },
+  "https://engineering.atspotify.com/?p=2d34o9wKbvUemRP62vcSEJ": {
+    "title": "Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify",
+    "sent_at": "2026-06-04T03:48:52.255462+00:00"
+  },
+  "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini": {
+    "title": "Adding MCP Tools to Reachy Mini",
+    "sent_at": "2026-06-04T03:48:51.039110+00:00"
+  },
+  "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots": {
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "sent_at": "2026-06-04T03:48:50.558670+00:00"
+  },
+  "https://blogs.nvidia.com/?p=93956": {
+    "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
+    "sent_at": "2026-06-04T03:48:48.517198+00:00"
+  },
+  "https://blogs.nvidia.com/?p=93940": {
+    "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
+    "sent_at": "2026-06-04T03:48:48.034700+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/thrifting-tips/": {
+    "title": "5 ways Google Search can level up your thrift and vintage shopping",
+    "sent_at": "2026-06-04T03:48:45.718186+00:00"
+  },
+  "https://openai.com/index/public-policy-agenda": {
+    "title": "OpenAI public policy agenda",
+    "sent_at": "2026-06-04T03:48:44.726263+00:00"
+  },
+  "https://openai.com/index/frontier-safety-blueprint": {
+    "title": "A blueprint for democratic governance of frontier AI",
+    "sent_at": "2026-06-04T03:48:44.240937+00:00"
+  },
+  "https://openai.com/index/wasmer": {
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+    "sent_at": "2026-06-04T03:48:43.619821+00:00"
+  },
+  "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind": {
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "sent_at": "2026-06-04T03:48:43.071705+00:00"
+  },
+  "https://techcrunch.com/?p=3129237": {
+    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+    "sent_at": "2026-06-04T03:48:29.615435+00:00"
+  },
+  "https://techcrunch.com/?p=3129341": {
+    "title": "Uber to put 500 data-collection vehicles on the road this year",
+    "sent_at": "2026-06-04T03:48:29.052770+00:00"
+  },
+  "https://techcrunch.com/?post_type=tc_video&p=3129388": {
+    "title": "Defense tech is flooded with money, but who’s built to last?",
+    "sent_at": "2026-06-04T03:48:28.555270+00:00"
+  },
+  "https://techcrunch.com/?p=3129396": {
+    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+    "sent_at": "2026-06-04T03:48:28.052516+00:00"
+  },
+  "https://techcrunch.com/?p=3129127": {
+    "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
+    "sent_at": "2026-06-04T03:48:27.573444+00:00"
+  },
   "https://www.threads.com/t/DZEixf2k2Xy": {
     "title": "@feelfree_ai: Unsloth에서 MCP 가이드를 공개했습니다. 로컬 환경에서 LLM 활용하시는 ᄇ...",
     "sent_at": "2026-06-03T03:55:07.723821+00:00"
@@ -1918,85 +1998,5 @@
   "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections": {
     "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
     "sent_at": "2026-05-07T02:42:19.703639+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92837": {
-    "title": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
-    "sent_at": "2026-05-07T02:42:17.980966+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/search/gardening-tips/": {
-    "title": "5 gardening tips you can try right in Search",
-    "sent_at": "2026-05-07T02:42:17.294777+00:00"
-  },
-  "https://openai.com/index/introducing-b2b-signals": {
-    "title": "How frontier enterprises are building an AI advantage",
-    "sent_at": "2026-05-07T02:42:16.647654+00:00"
-  },
-  "https://openai.com/index/uber": {
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "sent_at": "2026-05-07T02:42:16.647652+00:00"
-  },
-  "https://openai.com/index/singular-bank": {
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "sent_at": "2026-05-07T02:42:16.647648+00:00"
-  },
-  "https://openai.com/index/introducing-chatgpt-futures-class-of-2026": {
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "sent_at": "2026-05-07T02:42:16.647632+00:00"
-  },
-  "https://goddaehee.tistory.com/596": {
-    "title": "Codex CLI 입문(1) : OpenAI Codex CLI 빠른 시작 - codex 설치, 인증 하기",
-    "sent_at": "2026-05-07T02:42:12.277171+00:00"
-  },
-  "https://goddaehee.tistory.com/597": {
-    "title": "Codex CLI 입문(2) : OpenAI Codex 핵심 개념 4가지 - Prompting, Memories, Sandboxing, Models",
-    "sent_at": "2026-05-07T02:42:12.277156+00:00"
-  },
-  "https://github.blog/?p=95757": {
-    "title": "Validating agentic behavior when “correct” isn’t deterministic",
-    "sent_at": "2026-05-07T02:42:05.425788+00:00"
-  },
-  "https://techcrunch.com/?p=3119893": {
-    "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
-    "sent_at": "2026-05-07T02:42:04.976112+00:00"
-  },
-  "https://techcrunch.com/?p=3119918": {
-    "title": "Is xAI a neocloud now?",
-    "sent_at": "2026-05-07T02:42:04.976110+00:00"
-  },
-  "https://techcrunch.com/?p=3119920": {
-    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
-    "sent_at": "2026-05-07T02:42:04.976107+00:00"
-  },
-  "https://techcrunch.com/?p=3119906": {
-    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-    "sent_at": "2026-05-07T02:42:04.976104+00:00"
-  },
-  "https://techcrunch.com/?p=3119821": {
-    "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
-    "sent_at": "2026-05-07T02:42:04.976088+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48034587": {
-    "title": "Red Squares – GitHub outages as contributions",
-    "sent_at": "2026-05-07T02:42:00.217400+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48037128": {
-    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-    "sent_at": "2026-05-07T02:42:00.217397+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48037555": {
-    "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-    "sent_at": "2026-05-07T02:42:00.217394+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48037986": {
-    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-    "sent_at": "2026-05-07T02:42:00.217390+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48038001": {
-    "title": "Appearing productive in the workplace",
-    "sent_at": "2026-05-07T02:42:00.217373+00:00"
-  },
-  "https://www.threads.com/t/DX8dAggjzVp": {
-    "title": "@feelfree_ai: 무료 캐글 GPU로 최신 LLM을 직접 깎아볼 수 있는 아주 직관적인 튜...",
-    "sent_at": "2026-05-06T02:40:18.277409+00:00"
   }
 }
