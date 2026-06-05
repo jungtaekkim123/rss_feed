@@ -1,4 +1,72 @@
 {
+  "https://www.threads.com/t/DZJlcxdjgzP": {
+    "title": "@feelfree_ai: 이제 AI 에이전트들이 서로 협력하며 자동으로 해킹 취약점을 찾아ᄂ...",
+    "sent_at": "2026-06-05T03:35:04.385370+00:00"
+  },
+  "https://www.threads.com/t/DZKPBE4gel-": {
+    "title": "@feelfree_ai: GKE로 멀티 모델 AI 추론 인프라를 구축할 때 네트워크 보안과 대규모 트...",
+    "sent_at": "2026-06-05T03:35:03.830487+00:00"
+  },
+  "https://www.threads.com/t/DZLuy0ugtak": {
+    "title": "@feelfree_ai: 말만 잘하는 AI 에이전트가 아니라, 진짜 기업 실무를 잘하는지 검...",
+    "sent_at": "2026-06-05T03:35:03.275422+00:00"
+  },
+  "https://toss.tech/article/ai-surf-day": {
+    "title": "토스팀이 AI 파도를 마주하는 방법: AI Surf Day",
+    "sent_at": "2026-06-05T03:34:50.943229+00:00"
+  },
+  "https://d2.naver.com/news/7161766": {
+    "title": "FE News 26년 6월 소식을 전해드립니다.",
+    "sent_at": "2026-06-05T03:34:47.840825+00:00"
+  },
+  "1laDOhrU8AchkELZi1AHGz": {
+    "title": "VoidZero is joining Cloudflare",
+    "sent_at": "2026-06-05T03:34:44.725297+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94046": {
+    "title": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
+    "sent_at": "2026-06-05T03:34:42.645437+00:00"
+  },
+  "https://engineering.fb.com/?p=24022": {
+    "title": "Lights Out, Systems On: Validating Instant Power Loss Readiness",
+    "sent_at": "2026-06-05T03:34:41.407882+00:00"
+  },
+  "https://openai.com/index/biodefense-in-the-intelligence-age": {
+    "title": "Biodefense in the Intelligence Age",
+    "sent_at": "2026-06-05T03:34:40.019413+00:00"
+  },
+  "https://openai.com/index/chatgpt-memory-dreaming": {
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "sent_at": "2026-06-05T03:34:39.395705+00:00"
+  },
+  "https://openai.com/index/endava-frontiers": {
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "sent_at": "2026-06-05T03:34:38.848521+00:00"
+  },
+  "https://github.blog/?p=96572": {
+    "title": "GitHub Universe is back: All together now, in the agentic era",
+    "sent_at": "2026-06-05T03:34:28.350216+00:00"
+  },
+  "https://techcrunch.com/?p=3129765": {
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "sent_at": "2026-06-05T03:34:27.433424+00:00"
+  },
+  "https://techcrunch.com/?p=3129720": {
+    "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+    "sent_at": "2026-06-05T03:34:26.831999+00:00"
+  },
+  "https://techcrunch.com/?p=3129805": {
+    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "sent_at": "2026-06-05T03:34:26.123580+00:00"
+  },
+  "https://techcrunch.com/?p=3129760": {
+    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "sent_at": "2026-06-05T03:34:25.574623+00:00"
+  },
+  "https://techcrunch.com/?p=3129764": {
+    "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+    "sent_at": "2026-06-05T03:34:25.040396+00:00"
+  },
   "https://www.threads.com/t/DZH4jkigdYS": {
     "title": "@feelfree_ai: 국내 연구진이 한국 문화와 키워드를 반영해 만든 에이전트 벤ᄎ...",
     "sent_at": "2026-06-04T03:49:10.554205+00:00"
@@ -1930,73 +1998,5 @@
   "https://techcrunch.com/?p=3120311": {
     "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
     "sent_at": "2026-05-08T02:46:44.903565+00:00"
-  },
-  "https://techcrunch.com/?p=3120319": {
-    "title": "OpenAI launches new voice intelligence features in its API",
-    "sent_at": "2026-05-08T02:46:44.903562+00:00"
-  },
-  "https://techcrunch.com/?p=3120592": {
-    "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
-    "sent_at": "2026-05-08T02:46:44.903546+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48050964": {
-    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-    "sent_at": "2026-05-08T02:46:40.028139+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48051562": {
-    "title": "Agents need control flow, not more prompts",
-    "sent_at": "2026-05-08T02:46:40.028137+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48053203": {
-    "title": "AI slop is killing online communities",
-    "sent_at": "2026-05-08T02:46:40.028135+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48053623": {
-    "title": "Dirtyfrag: Universal Linux LPE",
-    "sent_at": "2026-05-08T02:46:40.028132+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48054423": {
-    "title": "Building for the Future",
-    "sent_at": "2026-05-08T02:46:40.028116+00:00"
-  },
-  "https://www.threads.com/t/DX-zlSJEpby": {
-    "title": "@feelfree_ai: AI가 자기 지갑에서 알아서 돈을 꺼내 유료 API를 결제하고 일합니다. 나...",
-    "sent_at": "2026-05-07T02:42:41.947341+00:00"
-  },
-  "https://www.threads.com/t/DX_V6PPCBQ3": {
-    "title": "@feelfree_ai: 딥시크(DeepSeek v4) 아키텍처를 사람이 아닌 'AI 에이전트'가 처음부터 끝까...",
-    "sent_at": "2026-05-07T02:42:41.947339+00:00"
-  },
-  "https://www.threads.com/t/DX_xVKTgEOb": {
-    "title": "@feelfree_ai: 비영어권 음성 AI 개발할 때 다들 쉬쉬하며 뒤에서 하던 '3개월짜리 사...",
-    "sent_at": "2026-05-07T02:42:41.947334+00:00"
-  },
-  "https://www.threads.com/t/DYA87n9Ezqe": {
-    "title": "@feelfree_ai: 요즘 LLM 강화학습(RL) 세팅할 때 어떤 프레임워크 써야 할지 막막하ᄉ...",
-    "sent_at": "2026-05-07T02:42:41.947294+00:00"
-  },
-  "https://d2.naver.com/news/4911787": {
-    "title": "FE News 26년 5월 소식을 전해드립니다.",
-    "sent_at": "2026-05-07T02:42:26.705151+00:00"
-  },
-  "https://tech.kakao.com/posts/821": {
-    "title": "음성 AI 모델을 프로덕션에 올리기까지: Kanana-O 서빙 최적화 여정",
-    "sent_at": "2026-05-07T02:42:24.780994+00:00"
-  },
-  "54f2c0bbf94c80ee2544a7a26bd493c5f8947aa5": {
-    "title": "The AWS MCP Server is now generally available",
-    "sent_at": "2026-05-07T02:42:22.584341+00:00"
-  },
-  "2MckFmlh9Epgpruqa9MXRh": {
-    "title": "When DNSSEC goes wrong: how we responded to the .de TLD outage",
-    "sent_at": "2026-05-07T02:42:22.093698+00:00"
-  },
-  "https://huggingface.co/blog/open-asr-leaderboard-private-data": {
-    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-    "sent_at": "2026-05-07T02:42:19.703655+00:00"
-  },
-  "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections": {
-    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-    "sent_at": "2026-05-07T02:42:19.703639+00:00"
   }
 }
