@@ -1,4 +1,68 @@
 {
+  "https://www.threads.com/t/DZMj5qPgbJm": {
+    "title": "@feelfree_ai: Voice AI 프레임워크와 노코드는 넘쳐나는데, 웹 개발처럼 배포나 호스팅...",
+    "sent_at": "2026-06-06T02:56:14.473665+00:00"
+  },
+  "https://www.threads.com/t/DZObQTNAV4i": {
+    "title": "@feelfree_ai: VRAM 16GB짜리 그래픽카드 한 장으로 Gemma 4 26B 모델을 로컬에서 돌리는 게 ᄀ...",
+    "sent_at": "2026-06-06T02:56:13.978421+00:00"
+  },
+  "https://www.threads.com/t/DZOnHN5gdok": {
+    "title": "@feelfree_ai: 많은 팀이 AI 코딩 툴을 도입하고 있지만, 실제로 개발 속도와 퀄...",
+    "sent_at": "2026-06-06T02:56:13.415004+00:00"
+  },
+  "a0baf26d5322e6b76f8bcaeab13717a0ca9ba3d6": {
+    "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
+    "sent_at": "2026-06-06T02:55:56.302924+00:00"
+  },
+  "7oyaTqoAEONU38GUoFIdOa": {
+    "title": "Your AI bill is out of control. Cloudflare can fix it now.",
+    "sent_at": "2026-06-06T02:55:55.458030+00:00"
+  },
+  "https://huggingface.co/blog/hf-cli-for-agents": {
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "sent_at": "2026-06-06T02:55:53.780945+00:00"
+  },
+  "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data": {
+    "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+    "sent_at": "2026-06-06T02:55:53.287634+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety": {
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "sent_at": "2026-06-06T02:55:52.752411+00:00"
+  },
+  "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim": {
+    "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+    "sent_at": "2026-06-06T02:55:52.260463+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94093": {
+    "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
+    "sent_at": "2026-06-06T02:55:47.981558+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/": {
+    "title": "The latest AI news we announced in May 2026",
+    "sent_at": "2026-06-06T02:55:46.310224+00:00"
+  },
+  "https://techcrunch.com/?p=3130087": {
+    "title": "Google will pay SpaceX $920M per month for compute",
+    "sent_at": "2026-06-06T02:55:32.108710+00:00"
+  },
+  "https://techcrunch.com/?p=3130115": {
+    "title": "Startup Battlefield 200 applications officially close in 3 days",
+    "sent_at": "2026-06-06T02:55:31.625752+00:00"
+  },
+  "https://techcrunch.com/?p=3130083": {
+    "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+    "sent_at": "2026-06-06T02:55:31.123544+00:00"
+  },
+  "https://techcrunch.com/?p=3130046": {
+    "title": "Founders share VC horror stories, and some are naming names",
+    "sent_at": "2026-06-06T02:55:30.632142+00:00"
+  },
+  "https://techcrunch.com/?p=3130209": {
+    "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
+    "sent_at": "2026-06-06T02:55:30.143147+00:00"
+  },
   "https://www.threads.com/t/DZJlcxdjgzP": {
     "title": "@feelfree_ai: 이제 AI 에이전트들이 서로 협력하며 자동으로 해킹 취약점을 찾아ᄂ...",
     "sent_at": "2026-06-05T03:35:04.385370+00:00"
@@ -1934,69 +1998,5 @@
   "https://www.threads.com/t/DYB6wT-AulM": {
     "title": "@feelfree_ai: AI 에이전트한테 일 시켜놓고 30분 만에 애가 기억상실증 걸려서 다...",
     "sent_at": "2026-05-08T02:47:25.395524+00:00"
-  },
-  "https://www.threads.com/t/DYDcv3jEhDZ": {
-    "title": "@feelfree_ai: 체급으로 밀어붙이는 시대가 진짜 끝났나 봅니다. 고작 0.7B 파라미터...",
-    "sent_at": "2026-05-08T02:47:25.395507+00:00"
-  },
-  "https://d2.naver.com/news/2009415": {
-    "title": "[사전 안내] 첫 번째 'NAVER SECURITY SEMINAR'가 열립니다.",
-    "sent_at": "2026-05-08T02:47:10.416287+00:00"
-  },
-  "7JN0oOT8V9YgCD6JFW92my": {
-    "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
-    "sent_at": "2026-05-08T02:47:05.574094+00:00"
-  },
-  "4XKENJm0fq33smsBSmUIc5": {
-    "title": "Building for the future",
-    "sent_at": "2026-05-08T02:47:05.574079+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92872": {
-    "title": "Linked and Loaded: Gaijin Single Sign-On Now Available on GeForce NOW",
-    "sent_at": "2026-05-08T02:47:02.484484+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92885": {
-    "title": "Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission",
-    "sent_at": "2026-05-08T02:47:02.484468+00:00"
-  },
-  "https://openai.com/index/testing-ads-in-chatgpt": {
-    "title": "Testing ads in ChatGPT",
-    "sent_at": "2026-05-08T02:46:59.998187+00:00"
-  },
-  "https://openai.com/index/introducing-trusted-contact-in-chatgpt": {
-    "title": "Introducing Trusted Contact in ChatGPT",
-    "sent_at": "2026-05-08T02:46:59.998185+00:00"
-  },
-  "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api": {
-    "title": "Advancing voice intelligence with new models in the API",
-    "sent_at": "2026-05-08T02:46:59.998182+00:00"
-  },
-  "https://openai.com/index/parloa": {
-    "title": "Parloa builds service agents customers want to talk to",
-    "sent_at": "2026-05-08T02:46:59.998179+00:00"
-  },
-  "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber": {
-    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-    "sent_at": "2026-05-08T02:46:59.998162+00:00"
-  },
-  "https://github.blog/?p=95686": {
-    "title": "Agent pull requests are everywhere. Here’s how to review them.",
-    "sent_at": "2026-05-08T02:46:46.544391+00:00"
-  },
-  "https://github.blog/?p=95785": {
-    "title": "Improving token efficiency in GitHub Agentic Workflows",
-    "sent_at": "2026-05-08T02:46:46.544350+00:00"
-  },
-  "https://techcrunch.com/?p=3120264": {
-    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-    "sent_at": "2026-05-08T02:46:44.903571+00:00"
-  },
-  "https://techcrunch.com/?p=3120531": {
-    "title": "Disney looking to make a unified ‘super app,’ report says",
-    "sent_at": "2026-05-08T02:46:44.903568+00:00"
-  },
-  "https://techcrunch.com/?p=3120311": {
-    "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
-    "sent_at": "2026-05-08T02:46:44.903565+00:00"
   }
 }
