@@ -1,4 +1,32 @@
 {
+  "https://www.threads.com/t/DZRHDTMgXzC": {
+    "title": "@feelfree_ai: 최근 앤트로픽이 Claude Code와 MCP를 겨냥해 \"AI 에이전트를 절대 믿지 마라...",
+    "sent_at": "2026-06-07T03:41:47.373269+00:00"
+  },
+  "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2": {
+    "title": "Five labs, five minds: building a multi-model finance drama on small models",
+    "sent_at": "2026-06-07T03:41:31.037826+00:00"
+  },
+  "https://techcrunch.com/?p=3129207": {
+    "title": "Beyond Instagram: Introducing the next generation of social apps",
+    "sent_at": "2026-06-07T03:41:17.437486+00:00"
+  },
+  "https://techcrunch.com/?p=3130264": {
+    "title": "The Trump administration might take an equity stake in OpenAI",
+    "sent_at": "2026-06-07T03:41:17.000560+00:00"
+  },
+  "https://techcrunch.com/?p=3130269": {
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "sent_at": "2026-06-07T03:41:16.550460+00:00"
+  },
+  "https://techcrunch.com/?p=3129597": {
+    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "sent_at": "2026-06-07T03:41:16.114427+00:00"
+  },
+  "https://techcrunch.com/?p=3130273": {
+    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "sent_at": "2026-06-07T03:41:15.703865+00:00"
+  },
   "https://www.threads.com/t/DZMj5qPgbJm": {
     "title": "@feelfree_ai: Voice AI 프레임워크와 노코드는 넘쳐나는데, 웹 개발처럼 배포나 호스팅...",
     "sent_at": "2026-06-06T02:56:14.473665+00:00"
@@ -1970,33 +1998,5 @@
   "https://techcrunch.com/?p=3120983": {
     "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
     "sent_at": "2026-05-09T02:41:11.331510+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48062178": {
-    "title": "A web page that shows you everything the browser told it without asking",
-    "sent_at": "2026-05-09T02:41:06.478432+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48063199": {
-    "title": "Google Cloud Fraud Defence is just WEI repackaged",
-    "sent_at": "2026-05-09T02:41:06.478430+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48065360": {
-    "title": "Cartoon Network Flash Games",
-    "sent_at": "2026-05-09T02:41:06.478428+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48066524": {
-    "title": "AI is breaking two vulnerability cultures",
-    "sent_at": "2026-05-09T02:41:06.478424+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48067119": {
-    "title": "Google broke reCAPTCHA for de-googled Android users",
-    "sent_at": "2026-05-09T02:41:06.478408+00:00"
-  },
-  "https://www.threads.com/t/DYBYbqBDnW-": {
-    "title": "@feelfree_ai: 무겁고 맘대로 수정도 안 되는 AI 코딩 에이전트에 지치셨다면, 이 'Pi A...",
-    "sent_at": "2026-05-08T02:47:25.395527+00:00"
-  },
-  "https://www.threads.com/t/DYB6wT-AulM": {
-    "title": "@feelfree_ai: AI 에이전트한테 일 시켜놓고 30분 만에 애가 기억상실증 걸려서 다...",
-    "sent_at": "2026-05-08T02:47:25.395524+00:00"
   }
 }
