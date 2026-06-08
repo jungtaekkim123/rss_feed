@@ -1,4 +1,52 @@
 {
+  "https://www.threads.com/t/DZTIHVjk_Ts": {
+    "title": "@feelfree_ai: 보이스 AI가 진짜 사람처럼 느껴지게 만드는 결정적 차이는 유저가 ᄆ...",
+    "sent_at": "2026-06-08T03:48:34.163306+00:00"
+  },
+  "https://toss.tech/article/skill-quality-rubric": {
+    "title": "Skill 품질 관리를 위한 Rubric 설계와 시스템 구현",
+    "sent_at": "2026-06-08T03:48:25.140791+00:00"
+  },
+  "https://d2.naver.com/helloworld/6647064": {
+    "title": "AI국민비서: 공공 특화 에이전트 구축하기",
+    "sent_at": "2026-06-08T03:48:21.515254+00:00"
+  },
+  "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures": {
+    "title": "Amazing Digital Dentures (a failed project)",
+    "sent_at": "2026-06-08T03:48:17.292290+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94143": {
+    "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
+    "sent_at": "2026-06-08T03:48:16.435056+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94133": {
+    "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+    "sent_at": "2026-06-08T03:48:16.034342+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94137": {
+    "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+    "sent_at": "2026-06-08T03:48:15.661118+00:00"
+  },
+  "https://techcrunch.com/?p=3129047": {
+    "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+    "sent_at": "2026-06-08T03:47:58.482291+00:00"
+  },
+  "https://techcrunch.com/?p=3130243": {
+    "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
+    "sent_at": "2026-06-08T03:47:58.107180+00:00"
+  },
+  "https://techcrunch.com/?p=3130278": {
+    "title": "OpenAI is still working on that ‘super app’",
+    "sent_at": "2026-06-08T03:47:57.704237+00:00"
+  },
+  "https://techcrunch.com/?p=3130281": {
+    "title": "Notion restores access to Anthropic after service disruption",
+    "sent_at": "2026-06-08T03:47:57.320896+00:00"
+  },
+  "https://techcrunch.com/?p=3130284": {
+    "title": "Is this the dawn of the Tokenpocalypse?",
+    "sent_at": "2026-06-08T03:47:56.872722+00:00"
+  },
   "https://www.threads.com/t/DZRHDTMgXzC": {
     "title": "@feelfree_ai: 최근 앤트로픽이 Claude Code와 MCP를 겨냥해 \"AI 에이전트를 절대 믿지 마라...",
     "sent_at": "2026-06-07T03:41:47.373269+00:00"
@@ -1950,53 +1998,5 @@
   "https://www.threads.com/t/DYE6TKOAYBq": {
     "title": "@feelfree_ai: SQL 1도 몰라도 3분 만에 우리 회사 전용 데이터 분석가를 만들 수 있...",
     "sent_at": "2026-05-09T02:41:45.374815+00:00"
-  },
-  "https://www.threads.com/t/DYGNXLCAvEK": {
-    "title": "@feelfree_ai: 엔비디아 GR00T를 더블 스코어(86.8% vs 40%)로 압도한 한국 팀의 로봇 AI가 조...",
-    "sent_at": "2026-05-09T02:41:45.374800+00:00"
-  },
-  "https://huggingface.co/blog/allenai/emo": {
-    "title": "EMO: Pretraining mixture of experts for emergent modularity",
-    "sent_at": "2026-05-09T02:41:25.973742+00:00"
-  },
-  "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b": {
-    "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-    "sent_at": "2026-05-09T02:41:25.973727+00:00"
-  },
-  "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/": {
-    "title": "See what happens when creative legends use AI to make ads for small businesses.",
-    "sent_at": "2026-05-09T02:41:23.521849+00:00"
-  },
-  "https://openai.com/index/running-codex-safely": {
-    "title": "Running Codex safely at OpenAI",
-    "sent_at": "2026-05-09T02:41:22.891553+00:00"
-  },
-  "https://github.blog/?p=95797": {
-    "title": "How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations",
-    "sent_at": "2026-05-09T02:41:13.298602+00:00"
-  },
-  "https://github.blog/?p=95805": {
-    "title": "Why age assurance laws matter for developers",
-    "sent_at": "2026-05-09T02:41:13.298587+00:00"
-  },
-  "https://techcrunch.com/?p=3120740": {
-    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-    "sent_at": "2026-05-09T02:41:11.331533+00:00"
-  },
-  "https://techcrunch.com/?p=3120919": {
-    "title": "Intel’s comeback story is even wilder than it seems",
-    "sent_at": "2026-05-09T02:41:11.331531+00:00"
-  },
-  "https://techcrunch.com/?p=3120926": {
-    "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
-    "sent_at": "2026-05-09T02:41:11.331528+00:00"
-  },
-  "https://techcrunch.com/?p=3120961": {
-    "title": "San Francisco’s housing market has lost its mind",
-    "sent_at": "2026-05-09T02:41:11.331525+00:00"
-  },
-  "https://techcrunch.com/?p=3120983": {
-    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-    "sent_at": "2026-05-09T02:41:11.331510+00:00"
   }
 }
