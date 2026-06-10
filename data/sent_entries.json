@@ -1,4 +1,92 @@
 {
+  "https://www.threads.com/t/DZXaJXuAdrd": {
+    "title": "@feelfree_ai: 초거대 LLM 사전 학습(Pre-training) 속도를 정확도 손실 없이 1.7배 이상 끄...",
+    "sent_at": "2026-06-10T03:33:10.572233+00:00"
+  },
+  "https://www.threads.com/t/DZYr3WdgWkj": {
+    "title": "@feelfree_ai: 스마트폰에서 20B 크기의 거대 모델을 돌리는 애플의 진짜 치트키는 NPU ...",
+    "sent_at": "2026-06-10T03:33:10.076237+00:00"
+  },
+  "https://www.threads.com/t/DZY4HiaAR70": {
+    "title": "@feelfree_ai: AI 에이전트 강화학습(RL)을 돌릴 때 토큰이 미세하게 밀리면 학습 ...",
+    "sent_at": "2026-06-10T03:33:09.581632+00:00"
+  },
+  "https://toss.tech/article/history-of-face-recognition-facepay": {
+    "title": "얼굴 인식의 역사와 페이스페이의 미래",
+    "sent_at": "2026-06-10T03:32:58.038321+00:00"
+  },
+  "https://toss.tech/article/tam-connect-2025": {
+    "title": "빠르게 움직이는 조직에서, TAM은 어떻게 문제를 해결할까?",
+    "sent_at": "2026-06-10T03:32:57.555233+00:00"
+  },
+  "https://d2.naver.com/helloworld/3431313": {
+    "title": "Android 앱의 의도치 않은 변경 방지하기",
+    "sent_at": "2026-06-10T03:32:53.448451+00:00"
+  },
+  "d81a50b183e178e2f0a8e9fa40d25b0b0fb5b92d": {
+    "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
+    "sent_at": "2026-06-10T03:32:51.252822+00:00"
+  },
+  "5Jw5AkmauDqCVgDeCs0mBa": {
+    "title": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
+    "sent_at": "2026-06-10T03:32:50.400426+00:00"
+  },
+  "https://huggingface.co/blog/github-ci-hf-jobs": {
+    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "sent_at": "2026-06-10T03:32:48.537384+00:00"
+  },
+  "https://huggingface.co/blog/mishig/spaces-agents-md": {
+    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "sent_at": "2026-06-10T03:32:48.050914+00:00"
+  },
+  "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code": {
+    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+    "sent_at": "2026-06-10T03:32:47.567245+00:00"
+  },
+  "https://huggingface.co/blog/ServiceNow-AI/code-switching": {
+    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+    "sent_at": "2026-06-10T03:32:47.067619+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94324": {
+    "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
+    "sent_at": "2026-06-10T03:32:42.822401+00:00"
+  },
+  "https://openai.com/index/industrial-policy-for-the-intelligence-age": {
+    "title": "Industrial policy for the Intelligence Age",
+    "sent_at": "2026-06-10T03:32:41.340274+00:00"
+  },
+  "https://openai.com/index/notion": {
+    "title": "What Codex unlocks for Notion",
+    "sent_at": "2026-06-10T03:32:40.844359+00:00"
+  },
+  "https://openai.com/index/nextdoor": {
+    "title": "How engineers at Nextdoor use Codex to build without limits",
+    "sent_at": "2026-06-10T03:32:40.347658+00:00"
+  },
+  "https://github.blog/?p=96276": {
+    "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
+    "sent_at": "2026-06-10T03:32:25.359363+00:00"
+  },
+  "https://techcrunch.com/?p=3131281": {
+    "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+    "sent_at": "2026-06-10T03:32:24.597765+00:00"
+  },
+  "https://techcrunch.com/?p=3130823": {
+    "title": "Hey, Siri, here’s what I actually want from AI",
+    "sent_at": "2026-06-10T03:32:24.116268+00:00"
+  },
+  "https://techcrunch.com/?p=3130715": {
+    "title": "GM joins race to build batteries for AI data centers and the grid",
+    "sent_at": "2026-06-10T03:32:23.624433+00:00"
+  },
+  "https://techcrunch.com/?p=3131312": {
+    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+    "sent_at": "2026-06-10T03:32:23.133306+00:00"
+  },
+  "https://techcrunch.com/?p=3131438": {
+    "title": "Google just fired a warning shot in the AI subscription price wars",
+    "sent_at": "2026-06-10T03:32:22.645535+00:00"
+  },
   "https://www.threads.com/t/DZT7DzEAQN5": {
     "title": "@feelfree_ai: OpenAI가 프롬프트 인젝션으로 인한 데이터 유출을 막기 위해 ChatGPT의 해...",
     "sent_at": "2026-06-09T02:55:06.157848+00:00"
@@ -1910,93 +1998,5 @@
   "https://news.ycombinator.com/item?id=48100500": {
     "title": "GitLab announces workforce reduction and end of their CREDIT values",
     "sent_at": "2026-05-12T02:47:43.850330+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48100706": {
-    "title": "Postmortem: TanStack npm supply-chain compromise",
-    "sent_at": "2026-05-12T02:47:43.850314+00:00"
-  },
-  "https://www.threads.com/t/DYJ1xg_gUYS": {
-    "title": "@feelfree_ai: 요즘 거대 모델만 쫓다가 지치셨나요? 굳이 무거운 LLM 안 써도 충분ᄒ...",
-    "sent_at": "2026-05-11T02:56:22.326108+00:00"
-  },
-  "https://www.threads.com/t/DYLQGSvEUeB": {
-    "title": "@feelfree_ai: LLM이 생성한 알 수 없는 코드, 내 노트북에서 무작정 돌리기 찝찝ᄒ...",
-    "sent_at": "2026-05-11T02:56:22.326093+00:00"
-  },
-  "https://d2.naver.com/news/6236639": {
-    "title": "NAVER SECURITY SEMINAR 참가 신청을 시작합니다!",
-    "sent_at": "2026-05-11T02:56:09.539987+00:00"
-  },
-  "https://tech.kakao.com/posts/816": {
-    "title": "학생에서 개발자로: 로또 구현부터 레거시 개선까지, 서버의 흐름을 배우다",
-    "sent_at": "2026-05-11T02:56:07.320739+00:00"
-  },
-  "https://tech.kakao.com/posts/817": {
-    "title": "수억 건의 보안 신호 속 진짜 위협 찾기 — AI로 보안 모니터링의 패러다임을 바꾸다",
-    "sent_at": "2026-05-11T02:56:07.320725+00:00"
-  },
-  "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck": {
-    "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
-    "sent_at": "2026-05-11T02:56:02.004018+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92900": {
-    "title": "‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates",
-    "sent_at": "2026-05-11T02:56:01.230472+00:00"
-  },
-  "https://goddaehee.tistory.com/598": {
-    "title": "Codex CLI 입문(3) : Codex Subagents와 Workflows 사용 방법 - 큰 작업을 나누어 처리하는 방법",
-    "sent_at": "2026-05-11T02:55:54.022296+00:00"
-  },
-  "https://techcrunch.com/?p=3121081": {
-    "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-    "sent_at": "2026-05-11T02:55:47.896415+00:00"
-  },
-  "https://techcrunch.com/?p=3120994": {
-    "title": "TechCrunch Mobility: Lime’s IPO gamble",
-    "sent_at": "2026-05-11T02:55:47.896413+00:00"
-  },
-  "https://techcrunch.com/?p=3121083": {
-    "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
-    "sent_at": "2026-05-11T02:55:47.896411+00:00"
-  },
-  "https://techcrunch.com/?p=3121096": {
-    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-    "sent_at": "2026-05-11T02:55:47.896408+00:00"
-  },
-  "https://techcrunch.com/?p=3121099": {
-    "title": "Get ready for the whisper-filled office of the future",
-    "sent_at": "2026-05-11T02:55:47.896392+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48085314": {
-    "title": "YC's Biggest Scandals",
-    "sent_at": "2026-05-11T02:55:43.038171+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48085384": {
-    "title": "Remind HN: Today is Mother's Day, call your moms",
-    "sent_at": "2026-05-11T02:55:43.038168+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48085821": {
-    "title": "Local AI needs to be the norm",
-    "sent_at": "2026-05-11T02:55:43.038166+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48086082": {
-    "title": "Incident Report: CVE-2024-YIKES",
-    "sent_at": "2026-05-11T02:55:43.038162+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48086190": {
-    "title": "Hardware Attestation as Monopoly Enabler",
-    "sent_at": "2026-05-11T02:55:43.038145+00:00"
-  },
-  "https://www.threads.com/t/DYGh8DOkkU1": {
-    "title": "@feelfree_ai: 로컬 LLM 속도가 장비 교체 없이 2배나 빨라지는 역대급 업데이트가 고...",
-    "sent_at": "2026-05-10T02:47:05.860996+00:00"
-  },
-  "https://www.threads.com/t/DYG62-RgSwR": {
-    "title": "@feelfree_ai: AI가 모든 걸 다 기억하면 똑똑해질까요? 오히려 쓸데없는 노이즈마...",
-    "sent_at": "2026-05-10T02:47:05.860994+00:00"
-  },
-  "https://www.threads.com/t/DYHex1WAdP5": {
-    "title": "@feelfree_ai: RAG나 AI 에이전트 만드실 때 귀찮았던 문서 전처리, Firecrawl에서 로컬 파...",
-    "sent_at": "2026-05-10T02:47:05.860991+00:00"
   }
 }
