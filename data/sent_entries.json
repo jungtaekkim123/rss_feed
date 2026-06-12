@@ -1,4 +1,72 @@
 {
+  "https://www.threads.com/t/DZcJbWjkVVg": {
+    "title": "@feelfree_ai: ServiceNow가 공개한 음성 벤치마크(EVA-Bench)에서 'Grok Voice Think Fast 1.0'이 대화 타이미...",
+    "sent_at": "2026-06-12T03:44:01.777719+00:00"
+  },
+  "https://www.threads.com/t/DZdwdZ7Ehw7": {
+    "title": "@feelfree_ai: 배포되면 끝이 아니라, 실행할 때마다 모델 가중치와 구조(스캐폴딩)...",
+    "sent_at": "2026-06-12T03:44:01.269935+00:00"
+  },
+  "https://huggingface.co/blog/torch-mlp-fusion": {
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "sent_at": "2026-06-12T03:43:44.208140+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94388": {
+    "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
+    "sent_at": "2026-06-12T03:43:43.207572+00:00"
+  },
+  "https://engineering.fb.com/?p=23959": {
+    "title": "Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable",
+    "sent_at": "2026-06-12T03:43:42.334643+00:00"
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/": {
+    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+    "sent_at": "2026-06-12T03:43:41.517757+00:00"
+  },
+  "https://openai.com/index/openai-to-acquire-ona": {
+    "title": "OpenAI to acquire Ona",
+    "sent_at": "2026-06-12T03:43:40.627880+00:00"
+  },
+  "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem": {
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "sent_at": "2026-06-12T03:43:40.142323+00:00"
+  },
+  "https://openai.com/index/bbva": {
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "sent_at": "2026-06-12T03:43:39.656193+00:00"
+  },
+  "https://goddaehee.tistory.com/614": {
+    "title": "루프 엔지니어링 이란? &mdash; 프롬프트를 짜는 게 아니라 시스템을 짜는 시대(프롬프트 엔지니어링은 끝났다? 다음은 '루프 엔지니어링'이다)",
+    "sent_at": "2026-06-12T03:43:31.577182+00:00"
+  },
+  "https://github.blog/?p=96621": {
+    "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
+    "sent_at": "2026-06-12T03:43:25.449777+00:00"
+  },
+  "https://github.blog/?p=96626": {
+    "title": "GitHub availability report: May 2026",
+    "sent_at": "2026-06-12T03:43:24.967408+00:00"
+  },
+  "https://techcrunch.com/?p=3132124": {
+    "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+    "sent_at": "2026-06-12T03:43:23.148376+00:00"
+  },
+  "https://techcrunch.com/?p=3132251": {
+    "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
+    "sent_at": "2026-06-12T03:43:22.663963+00:00"
+  },
+  "https://techcrunch.com/?p=3132274": {
+    "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+    "sent_at": "2026-06-12T03:43:22.127457+00:00"
+  },
+  "https://techcrunch.com/?p=3132323": {
+    "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+    "sent_at": "2026-06-12T03:43:21.645105+00:00"
+  },
+  "https://techcrunch.com/?p=3132154": {
+    "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+    "sent_at": "2026-06-12T03:43:21.152293+00:00"
+  },
   "https://www.threads.com/t/DZZknNZjlTm": {
     "title": "@feelfree_ai: PDF나 Word 문서로 RAG를 구축하면서 데이터 파싱 때문에 스트레스받으셨ᄃ...",
     "sent_at": "2026-06-11T03:44:46.548958+00:00"
@@ -1930,73 +1998,5 @@
   "https://github.blog/?p=95693": {
     "title": "Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI",
     "sent_at": "2026-05-13T02:53:12.581071+00:00"
-  },
-  "https://github.blog/?p=95975": {
-    "title": "GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan",
-    "sent_at": "2026-05-13T02:53:12.581059+00:00"
-  },
-  "https://techcrunch.com/?p=3121621": {
-    "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-    "sent_at": "2026-05-13T02:53:10.731876+00:00"
-  },
-  "https://techcrunch.com/?p=3121651": {
-    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-    "sent_at": "2026-05-13T02:53:10.731874+00:00"
-  },
-  "https://techcrunch.com/?p=3121632": {
-    "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
-    "sent_at": "2026-05-13T02:53:10.731871+00:00"
-  },
-  "https://techcrunch.com/?p=3121658": {
-    "title": "Kevin Hartz’s A* just closed its third fund with $450M",
-    "sent_at": "2026-05-13T02:53:10.731868+00:00"
-  },
-  "https://techcrunch.com/?p=3121889": {
-    "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
-    "sent_at": "2026-05-13T02:53:10.731858+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48109970": {
-    "title": "The Future of Obsidian Plugins",
-    "sent_at": "2026-05-13T02:53:05.942013+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48111531": {
-    "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
-    "sent_at": "2026-05-13T02:53:05.942010+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48111545": {
-    "title": "Googlebook",
-    "sent_at": "2026-05-13T02:53:05.942008+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48111896": {
-    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-    "sent_at": "2026-05-13T02:53:05.942004+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48112042": {
-    "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-    "sent_at": "2026-05-13T02:53:05.941993+00:00"
-  },
-  "https://www.threads.com/t/DYL9eTUAT_R": {
-    "title": "@feelfree_ai: AI가 매번 컨텍스트를 까먹고 리셋되는 거, 코덱스(Codex) 스레드 자동화...",
-    "sent_at": "2026-05-12T02:48:28.985539+00:00"
-  },
-  "https://www.threads.com/t/DYMUzLoE158": {
-    "title": "@feelfree_ai: AI 코딩 어시스턴트에게 파일 단위로 코드를 던져줄 필요가 없네요. ᄏ...",
-    "sent_at": "2026-05-12T02:48:28.985515+00:00"
-  },
-  "https://www.threads.com/t/DYMuTB-ga4K": {
-    "title": "@feelfree_ai: 실무에서 AI 쓸 때 제일 답답한 게 \"어제 뽑은 그 톤앤매너 그대로 다...",
-    "sent_at": "2026-05-12T02:48:28.985512+00:00"
-  },
-  "https://www.threads.com/t/DYN7vICkQhv": {
-    "title": "@feelfree_ai: 스마트폰에 쏙 들어가는 1B 사이즈 비전 언어 모델(VLM)이 나왔는데, 여...",
-    "sent_at": "2026-05-12T02:48:28.985496+00:00"
-  },
-  "e766e11e0b7ecce0c6e076380bc94198db92c151": {
-    "title": "AWS Weekly Roundup: Amazon Bedrock AgentCore payments, Agent Toolkit for AWS, and more (May 11, 2026)",
-    "sent_at": "2026-05-12T02:48:08.844990+00:00"
-  },
-  "https://huggingface.co/blog/amazon/foundation-model-building-blocks": {
-    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-    "sent_at": "2026-05-12T02:48:06.702776+00:00"
   }
 }
