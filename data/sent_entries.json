@@ -1,4 +1,52 @@
 {
+  "https://www.threads.com/t/DZggM-xgTqv": {
+    "title": "@feelfree_ai: 토스터기에서도 돌아갈 만큼 가볍고 빠른 비전 모델 RF-DETR 튜토리얼ᄋ...",
+    "sent_at": "2026-06-13T03:32:32.419458+00:00"
+  },
+  "2K9aPHKPuXNJBQtPo0ylUi": {
+    "title": "Scaling Security Insights: how we achieved a 10x increase in global scanning capacity",
+    "sent_at": "2026-06-13T03:32:16.179445+00:00"
+  },
+  "https://huggingface.co/blog/allenai/olmo-eval": {
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "sent_at": "2026-06-13T03:32:14.754701+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94415": {
+    "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+    "sent_at": "2026-06-13T03:32:13.955583+00:00"
+  },
+  "https://openai.com/index/preply": {
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "sent_at": "2026-06-13T03:32:12.823351+00:00"
+  },
+  "https://openai.com/index/academy-courses-applying-ai-at-work": {
+    "title": "New OpenAI Academy courses for the next era of work",
+    "sent_at": "2026-06-13T03:32:12.401948+00:00"
+  },
+  "https://github.blog/?p=96755": {
+    "title": "How we made GitHub Copilot CLI more selective about delegation",
+    "sent_at": "2026-06-13T03:32:01.338769+00:00"
+  },
+  "https://techcrunch.com/?p=3132393": {
+    "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+    "sent_at": "2026-06-13T03:32:00.696316+00:00"
+  },
+  "https://techcrunch.com/?p=3132480": {
+    "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+    "sent_at": "2026-06-13T03:32:00.297936+00:00"
+  },
+  "https://techcrunch.com/?p=3132623": {
+    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+    "sent_at": "2026-06-13T03:31:59.901556+00:00"
+  },
+  "https://techcrunch.com/?p=3132276": {
+    "title": "SpaceX IPO: Live updates on everything you need to know",
+    "sent_at": "2026-06-13T03:31:59.483135+00:00"
+  },
+  "https://techcrunch.com/?p=3132661": {
+    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "sent_at": "2026-06-13T03:31:58.119737+00:00"
+  },
   "https://www.threads.com/t/DZcJbWjkVVg": {
     "title": "@feelfree_ai: ServiceNow가 공개한 음성 벤치마크(EVA-Bench)에서 'Grok Voice Think Fast 1.0'이 대화 타이미...",
     "sent_at": "2026-06-12T03:44:01.777719+00:00"
@@ -1950,53 +1998,5 @@
   "https://www.threads.com/t/DYQuVsZijiU": {
     "title": "@feelfree_ai: 개인정보(PII) 추출, 아직도 비싼 GPT나 딥시크 쓰시나요? 범용 LLM은 이러...",
     "sent_at": "2026-05-13T02:53:52.311532+00:00"
-  },
-  "https://toss.tech/article/flink-realtime-frequency-capping": {
-    "title": "Apache Flink + RocksDB 튜닝으로 광고 Frequency Capping 실시간 집계를 일주일까지 확장하기",
-    "sent_at": "2026-05-13T02:53:40.319407+00:00"
-  },
-  "1c25607830f9c62090f87498be789660208a6855": {
-    "title": "Amazon Redshift introduces AWS Graviton-based RG instances with an integrated data lake query engine",
-    "sent_at": "2026-05-13T02:53:32.778819+00:00"
-  },
-  "1zBGqAHw4u2LDu0ldcF3AM": {
-    "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
-    "sent_at": "2026-05-13T02:53:32.093581+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92925": {
-    "title": "NVIDIA and SAP Bring Trust to Specialized Agents",
-    "sent_at": "2026-05-13T02:53:29.767441+00:00"
-  },
-  "https://engineering.fb.com/?p=23963": {
-    "title": "Migrating Data Ingestion Systems at Meta Scale",
-    "sent_at": "2026-05-13T02:53:29.051515+00:00"
-  },
-  "https://openai.com/index/autoscout24": {
-    "title": "AutoScout24 scales engineering with AI-powered workflows",
-    "sent_at": "2026-05-13T02:53:27.906119+00:00"
-  },
-  "https://openai.com/index/what-parameter-golf-taught-us": {
-    "title": "What Parameter Golf taught us about AI-assisted research",
-    "sent_at": "2026-05-13T02:53:27.906115+00:00"
-  },
-  "https://openai.com/index/nvidia": {
-    "title": "How NVIDIA engineers and researchers build with Codex",
-    "sent_at": "2026-05-13T02:53:27.906110+00:00"
-  },
-  "https://openai.com/academy/how-finance-teams-use-codex": {
-    "title": "How finance teams use Codex",
-    "sent_at": "2026-05-13T02:53:27.906095+00:00"
-  },
-  "https://goddaehee.tistory.com/600": {
-    "title": "Codex CLI 입문(5) : Codex에 외부 도구 연결하기 - MCP, Plugin, Skill 사용법",
-    "sent_at": "2026-05-13T02:53:20.305548+00:00"
-  },
-  "https://goddaehee.tistory.com/601": {
-    "title": "Codex CLI 입문(6) : Codex 자동화 파이프라인 구축 - 사람 없이 돌아가는 Codex",
-    "sent_at": "2026-05-13T02:53:20.305534+00:00"
-  },
-  "https://github.blog/?p=95693": {
-    "title": "Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI",
-    "sent_at": "2026-05-13T02:53:12.581071+00:00"
   }
 }
