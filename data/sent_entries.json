@@ -1,4 +1,40 @@
 {
+  "https://www.threads.com/t/DZhwdF5Aez_": {
+    "title": "@feelfree_ai: 해커들이 Claude를 실전 해킹에 적극 활용하면서 고난도 공격 비유...",
+    "sent_at": "2026-06-14T03:52:50.815223+00:00"
+  },
+  "https://www.threads.com/t/DZh7sOLgYyX": {
+    "title": "@feelfree_ai: AI 코딩 에이전트 쓸 때 토큰이 비정상적으로 많이 갈려 나가는 건 ...",
+    "sent_at": "2026-06-14T03:52:50.411984+00:00"
+  },
+  "https://www.threads.com/t/DZi8sNcASYL": {
+    "title": "@feelfree_ai: 온디바이스 AI가 버벅였던 진짜 이유는 지능의 한계가 아니라, 혼자 ᄂ...",
+    "sent_at": "2026-06-14T03:52:50.019378+00:00"
+  },
+  "https://engineering.fb.com/?p=23963": {
+    "title": "Migrating Data Ingestion Systems at Meta Scale",
+    "sent_at": "2026-06-14T03:52:30.669902+00:00"
+  },
+  "https://techcrunch.com/?p=3132685": {
+    "title": "OpenAI faces investigation from state attorneys general",
+    "sent_at": "2026-06-14T03:52:21.964954+00:00"
+  },
+  "https://techcrunch.com/?p=3132688": {
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "sent_at": "2026-06-14T03:52:21.588117+00:00"
+  },
+  "https://techcrunch.com/?p=3132703": {
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "sent_at": "2026-06-14T03:52:21.176914+00:00"
+  },
+  "https://techcrunch.com/?p=3132716": {
+    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+    "sent_at": "2026-06-14T03:52:20.805079+00:00"
+  },
+  "https://techcrunch.com/?p=3132702": {
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "sent_at": "2026-06-14T03:52:20.424265+00:00"
+  },
   "https://www.threads.com/t/DZggM-xgTqv": {
     "title": "@feelfree_ai: 토스터기에서도 돌아갈 만큼 가볍고 빠른 비전 모델 RF-DETR 튜토리얼ᄋ...",
     "sent_at": "2026-06-13T03:32:32.419458+00:00"
@@ -1962,41 +1998,5 @@
   "https://techcrunch.com/?p=3122395": {
     "title": "Notion just turned its workspace into a hub for AI agents",
     "sent_at": "2026-05-14T02:55:29.764988+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48121266": {
-    "title": "Leaving GitHub for Forgejo",
-    "sent_at": "2026-05-14T02:55:24.872032+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48122635": {
-    "title": "Setting up a free *.city.state.us locality domain (2025)",
-    "sent_at": "2026-05-14T02:55:24.872030+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48123015": {
-    "title": "Open Source Resistance: keep OSS alive on company time",
-    "sent_at": "2026-05-14T02:55:24.872028+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48123198": {
-    "title": "Kickstarter is forced to ban adult content by payment processors",
-    "sent_at": "2026-05-14T02:55:24.872024+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48126848": {
-    "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-    "sent_at": "2026-05-14T02:55:24.872008+00:00"
-  },
-  "https://www.threads.com/t/DYOv5fbgbzV": {
-    "title": "@feelfree_ai: 정확도 손실 없이 LLM 학습 속도가 25% 더 빨라졌습니다. 엔비디아와...",
-    "sent_at": "2026-05-13T02:53:52.311552+00:00"
-  },
-  "https://www.threads.com/t/DYPG0BAASy5": {
-    "title": "@feelfree_ai: 똑같은 H100인데 추론 20%, 학습 22%가 빨라졌습니다. 사카나 AI와 엔비ᄃ...",
-    "sent_at": "2026-05-13T02:53:52.311549+00:00"
-  },
-  "https://www.threads.com/t/DYQKy1Zk8Uy": {
-    "title": "@feelfree_ai: 지금까지 우리가 쓰던 '실시간 AI'는 사실 진짜가 아니었습니다. Thinking ...",
-    "sent_at": "2026-05-13T02:53:52.311547+00:00"
-  },
-  "https://www.threads.com/t/DYQuVsZijiU": {
-    "title": "@feelfree_ai: 개인정보(PII) 추출, 아직도 비싼 GPT나 딥시크 쓰시나요? 범용 LLM은 이러...",
-    "sent_at": "2026-05-13T02:53:52.311532+00:00"
   }
 }
