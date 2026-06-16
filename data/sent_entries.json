@@ -1,4 +1,64 @@
 {
+  "https://www.threads.com/t/DZm3LDvCl1Y": {
+    "title": "@feelfree_ai: AI 코딩 에이전트의 메모리를 설계할 때, 벡터 DB를 무조건적인 ‘소스...",
+    "sent_at": "2026-06-16T03:55:07.933726+00:00"
+  },
+  "https://www.threads.com/t/DZnu7jpjXYM": {
+    "title": "@feelfree_ai: 말만 많고 코드도 비대하게 짜는 AI 에이전트의 토큰 낭비가 고민이어...",
+    "sent_at": "2026-06-16T03:55:07.523377+00:00"
+  },
+  "https://toss.tech/article/tues": {
+    "title": "2,800만 MAU를 이해하는 유저 Segmentation, TUES",
+    "sent_at": "2026-06-16T03:54:56.142804+00:00"
+  },
+  "https://toss.tech/article/deadend": {
+    "title": "디자이너가 시안 대신 앱을 만든 이유",
+    "sent_at": "2026-06-16T03:54:55.738521+00:00"
+  },
+  "d4a483b5504b40c977cc5d689275cac967902536": {
+    "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
+    "sent_at": "2026-06-16T03:54:49.005169+00:00"
+  },
+  "b888b8d60a4fd57cdcb13b3f7ef4d08b578e7e5d": {
+    "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access",
+    "sent_at": "2026-06-16T03:54:48.581651+00:00"
+  },
+  "5MWTPJGehyLgdL2HT49JHB": {
+    "title": "Growing the Cloudflare AI team with talent from Ensemble AI",
+    "sent_at": "2026-06-16T03:54:46.741205+00:00"
+  },
+  "https://engineering.fb.com/?p=23982": {
+    "title": "Reel Friends: Building Social Discovery that Scales to Billions",
+    "sent_at": "2026-06-16T03:54:44.619546+00:00"
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/": {
+    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+    "sent_at": "2026-06-16T03:54:43.708855+00:00"
+  },
+  "https://github.blog/?p=96776": {
+    "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
+    "sent_at": "2026-06-16T03:54:29.714497+00:00"
+  },
+  "https://github.blog/?p=96773": {
+    "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
+    "sent_at": "2026-06-16T03:54:29.298952+00:00"
+  },
+  "https://techcrunch.com/?p=3092894": {
+    "title": "These are the countries moving to ban social media for children",
+    "sent_at": "2026-06-16T03:54:27.565489+00:00"
+  },
+  "https://techcrunch.com/?p=3132926": {
+    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+    "sent_at": "2026-06-16T03:54:27.154606+00:00"
+  },
+  "https://techcrunch.com/?p=3133070": {
+    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+    "sent_at": "2026-06-16T03:54:26.709529+00:00"
+  },
+  "https://techcrunch.com/?p=3133119": {
+    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+    "sent_at": "2026-06-16T03:54:26.298015+00:00"
+  },
   "https://www.threads.com/t/DZjtv_PAeR7": {
     "title": "@feelfree_ai: 성능 저하 전혀 없이 Gemma 4 12B 모델 용량을 24GB에서 15GB로 확 줄이는 까...",
     "sent_at": "2026-06-15T04:04:50.421217+00:00"
@@ -1938,65 +1998,5 @@
   "https://github.blog/?p=96052": {
     "title": "From latency to instant: Modernizing GitHub Issues navigation performance",
     "sent_at": "2026-05-15T02:55:43.562181+00:00"
-  },
-  "https://github.blog/?p=96106": {
-    "title": "GitHub availability report: April 2026",
-    "sent_at": "2026-05-15T02:55:43.562161+00:00"
-  },
-  "https://techcrunch.com/?p=3122714": {
-    "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
-    "sent_at": "2026-05-15T02:55:42.199202+00:00"
-  },
-  "https://techcrunch.com/?p=3122579": {
-    "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
-    "sent_at": "2026-05-15T02:55:42.199200+00:00"
-  },
-  "https://techcrunch.com/?p=3122704": {
-    "title": "OpenAI says Codex is coming to your phone",
-    "sent_at": "2026-05-15T02:55:42.199197+00:00"
-  },
-  "https://techcrunch.com/?p=3122877": {
-    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-    "sent_at": "2026-05-15T02:55:42.199193+00:00"
-  },
-  "https://techcrunch.com/?p=3122645": {
-    "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
-    "sent_at": "2026-05-15T02:55:42.199177+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48138136": {
-    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-    "sent_at": "2026-05-15T02:55:37.663331+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48138268": {
-    "title": "New Nginx Exploit",
-    "sent_at": "2026-05-15T02:55:37.663328+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48139148": {
-    "title": "AI is making me dumb",
-    "sent_at": "2026-05-15T02:55:37.663326+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48139219": {
-    "title": "First public macOS kernel memory corruption exploit on Apple M5",
-    "sent_at": "2026-05-15T02:55:37.663322+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48140922": {
-    "title": "New arXiv policy: 1-year ban for hallucinated references",
-    "sent_at": "2026-05-15T02:55:37.663305+00:00"
-  },
-  "https://www.threads.com/t/DYRMh4EDpOk": {
-    "title": "@feelfree_ai: 텍스트 한 줄로 비디오, 오디오, 이미지, PDF까지 싹 다 뒤져서 찾아주는 ᄉ...",
-    "sent_at": "2026-05-14T02:56:05.807855+00:00"
-  },
-  "https://www.threads.com/t/DYRsG_TEVD5": {
-    "title": "@feelfree_ai: 수많은 API 스키마를 새로 가르치는 대신, AI 에이전트에게 그냥 가장 이...",
-    "sent_at": "2026-05-14T02:56:05.807852+00:00"
-  },
-  "https://www.threads.com/t/DYTKy3_AWjK": {
-    "title": "@feelfree_ai: AI 에이전트 오류 찾느라 시간 쏟는 일, 이제 꽤 줄어들 것 같습니다...",
-    "sent_at": "2026-05-14T02:56:05.807835+00:00"
-  },
-  "https://toss.tech/article/toss-tpm": {
-    "title": "AI 시대, 성과 내는 조직일수록 토스식 TPM이 필요한 이유",
-    "sent_at": "2026-05-14T02:55:54.524040+00:00"
   }
 }
