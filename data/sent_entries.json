@@ -1,4 +1,64 @@
 {
+  "https://d2.naver.com/helloworld/8319114": {
+    "title": "SaaS 대체하기: AI와 함께한 광고SDK 에러 모니터링 시스템 구축기",
+    "sent_at": "2026-06-17T03:56:10.268677+00:00"
+  },
+  "https://d2.naver.com/helloworld/4399330": {
+    "title": "도구에서 동료로 — AI 에이전트 자율 성장 프레임워크",
+    "sent_at": "2026-06-17T03:56:09.785736+00:00"
+  },
+  "d825f9d469e21e76b22344398328d967de0264d2": {
+    "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
+    "sent_at": "2026-06-17T03:56:06.385853+00:00"
+  },
+  "1Ng3fFBbnnbu6qxP1HMqpB": {
+    "title": "Cloudflare DMARC Management is now generally available",
+    "sent_at": "2026-06-17T03:56:05.604529+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94478": {
+    "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
+    "sent_at": "2026-06-17T03:56:03.072220+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94468": {
+    "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+    "sent_at": "2026-06-17T03:56:02.588389+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94475": {
+    "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
+    "sent_at": "2026-06-17T03:56:02.096717+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94578": {
+    "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+    "sent_at": "2026-06-17T03:56:01.538510+00:00"
+  },
+  "https://openai.com/index/deployment-simulation": {
+    "title": "Predicting model behavior before release by simulating deployment",
+    "sent_at": "2026-06-17T03:55:56.718107+00:00"
+  },
+  "https://github.blog/?p=96793": {
+    "title": "What are git worktrees, and why should I use them?",
+    "sent_at": "2026-06-17T03:55:48.111815+00:00"
+  },
+  "https://techcrunch.com/?p=3133488": {
+    "title": "Bug in FIFA World Cup internal system gave anyone ability to modify TV stream",
+    "sent_at": "2026-06-17T03:55:47.160653+00:00"
+  },
+  "https://techcrunch.com/?p=3133363": {
+    "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
+    "sent_at": "2026-06-17T03:55:46.667981+00:00"
+  },
+  "https://techcrunch.com/?p=3133253": {
+    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+    "sent_at": "2026-06-17T03:55:46.124833+00:00"
+  },
+  "https://techcrunch.com/?p=3133645": {
+    "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+    "sent_at": "2026-06-17T03:55:45.567067+00:00"
+  },
+  "https://techcrunch.com/?p=3133474": {
+    "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+    "sent_at": "2026-06-17T03:55:45.074673+00:00"
+  },
   "https://www.threads.com/t/DZm3LDvCl1Y": {
     "title": "@feelfree_ai: AI 코딩 에이전트의 메모리를 설계할 때, 벡터 DB를 무조건적인 ‘소스...",
     "sent_at": "2026-06-16T03:55:07.933726+00:00"
@@ -1938,65 +1998,5 @@
   "https://news.ycombinator.com/item?id=48151383": {
     "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
     "sent_at": "2026-05-16T02:44:02.938369+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48152553": {
-    "title": "ABC News has taken all FiveThirtyEight articles offline",
-    "sent_at": "2026-05-16T02:44:02.938366+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48152994": {
-    "title": "California bill would require patches or refunds when online games shut down",
-    "sent_at": "2026-05-16T02:44:02.938362+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48153379": {
-    "title": "I believe there are entire companies right now under AI psychosis",
-    "sent_at": "2026-05-16T02:44:02.938345+00:00"
-  },
-  "https://www.threads.com/t/DYTtdppAVsV": {
-    "title": "@feelfree_ai: 유저 상황에 맞춰 알아서 최적의 AI를 픽해주는 똑똑한 라우터가 ᄂ...",
-    "sent_at": "2026-05-15T02:56:20.298100+00:00"
-  },
-  "https://www.threads.com/t/DYURRyBgTcf": {
-    "title": "@feelfree_ai: LLM 생태계에 흥미로운 아키텍처가 등장했습니다. 텍스트 디퓨전(Diffu...",
-    "sent_at": "2026-05-15T02:56:20.298096+00:00"
-  },
-  "https://www.threads.com/t/DYVqHKjEafl": {
-    "title": "@feelfree_ai: 아직도 감에 의존해서 프롬프트를 한 땀 한 땀 수정하고 계신가요?...",
-    "sent_at": "2026-05-15T02:56:20.298078+00:00"
-  },
-  "2f1f31f9e3d26fa79258a31cdbc2605196a7149e": {
-    "title": "Amazon Bedrock introduces new advanced prompt optimization and migration tool",
-    "sent_at": "2026-05-15T02:56:00.786804+00:00"
-  },
-  "65sE8zefBt1cYbclYLhqjA": {
-    "title": "Our billing pipeline was suddenly slow. The culprit was a hidden bottleneck in ClickHouse",
-    "sent_at": "2026-05-15T02:56:00.333500+00:00"
-  },
-  "https://huggingface.co/blog/continuous_async": {
-    "title": "Unlocking asynchronicity in continuous batching",
-    "sent_at": "2026-05-15T02:55:59.048401+00:00"
-  },
-  "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2": {
-    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-    "sent_at": "2026-05-15T02:55:59.048382+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92959": {
-    "title": "Sea You in the Cloud: ‘Subnautica 2’ Early Access Dives Onto GeForce NOW",
-    "sent_at": "2026-05-15T02:55:57.573915+00:00"
-  },
-  "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack": {
-    "title": "Our response to the TanStack npm supply chain attack",
-    "sent_at": "2026-05-15T02:55:56.483796+00:00"
-  },
-  "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations": {
-    "title": "Helping ChatGPT better recognize context in sensitive conversations",
-    "sent_at": "2026-05-15T02:55:56.483792+00:00"
-  },
-  "https://openai.com/index/work-with-codex-from-anywhere": {
-    "title": "Work with Codex from anywhere",
-    "sent_at": "2026-05-15T02:55:56.483774+00:00"
-  },
-  "https://github.blog/?p=96052": {
-    "title": "From latency to instant: Modernizing GitHub Issues navigation performance",
-    "sent_at": "2026-05-15T02:55:43.562181+00:00"
   }
 }
