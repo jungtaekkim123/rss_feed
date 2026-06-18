@@ -1,4 +1,108 @@
 {
+  "https://www.threads.com/t/DZrEzeCAZp9": {
+    "title": "@feelfree_ai: AI 에이전트의 성능은 결국 양질의 '컨텍스트' 싸움인데, 구글이 ...",
+    "sent_at": "2026-06-18T04:10:33.297810+00:00"
+  },
+  "https://www.threads.com/t/DZrtPdigaQB": {
+    "title": "@feelfree_ai: RAG 성능이 생각보다 안 나온다면, 혹시 '데이터 추출' 단계부터 꼬이...",
+    "sent_at": "2026-06-18T04:10:32.709351+00:00"
+  },
+  "https://www.threads.com/t/DZr6u2aiHUq": {
+    "title": "@feelfree_ai: AI에게 일일이 도구를 쥐어줄 필요 없이, 이제는 스스로 파이썬 코드르...",
+    "sent_at": "2026-06-18T04:10:32.127859+00:00"
+  },
+  "https://www.threads.com/t/DZtPlt8ATQk": {
+    "title": "@feelfree_ai: 이제 AI 모델을 하드웨어에 최적화하여 올리는 그 복잡한 작업조차 ...",
+    "sent_at": "2026-06-18T04:10:31.556239+00:00"
+  },
+  "https://toss.tech/article/chatbot": {
+    "title": "AI로 바꾼 제품 설계의 순서",
+    "sent_at": "2026-06-18T04:10:17.531228+00:00"
+  },
+  "https://d2.naver.com/helloworld/2852215": {
+    "title": "스펙만 바꾸면 프롬프트가 따라옵니다 - 답변 생성 모델 자동화 파이프라인",
+    "sent_at": "2026-06-18T04:10:14.400601+00:00"
+  },
+  "6261b6e3f0038f8b71e95bf2f91f996b1505a1e9": {
+    "title": "AWS DevOps Agent adds release management capabilities to assess code changes before production (preview)",
+    "sent_at": "2026-06-18T04:10:11.737650+00:00"
+  },
+  "de6487c2a98aa63becca18998e2eaf30133784c1": {
+    "title": "Proactively reduce tech debt autonomously with AWS Transform – continuous modernization (preview)",
+    "sent_at": "2026-06-18T04:10:11.161037+00:00"
+  },
+  "1e4fc761b5a706e81f4b43e635181511d9ca0099": {
+    "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
+    "sent_at": "2026-06-18T04:10:10.600266+00:00"
+  },
+  "4c24fcdc8f84279cf19adcd9af7c745709c8ab27": {
+    "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
+    "sent_at": "2026-06-18T04:10:10.036873+00:00"
+  },
+  "5c0395519cc4bb7cb222916f6a9f1cc174957d0f": {
+    "title": "Top announcements of the AWS Summit in New York, 2026",
+    "sent_at": "2026-06-18T04:10:09.477083+00:00"
+  },
+  "1LDBKUul6cfW72f1DQaLyE": {
+    "title": "Introducing the Cloudflare One stack: agent-powered deployment",
+    "sent_at": "2026-06-18T04:10:04.089438+00:00"
+  },
+  "48yPgdpb7RGTBdh4DPPCUF": {
+    "title": "Bringing more agent harnesses and frameworks to Cloudflare, starting with Flue",
+    "sent_at": "2026-06-18T04:10:03.457073+00:00"
+  },
+  "https://huggingface.co/blog/agentic-resource-discovery-launch": {
+    "title": "Agentic Resource Discovery: Let agents search",
+    "sent_at": "2026-06-18T03:42:59.244760+00:00"
+  },
+  "https://huggingface.co/blog/zai-org/glm-52-blog": {
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "sent_at": "2026-06-18T03:42:58.679014+00:00"
+  },
+  "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware": {
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "sent_at": "2026-06-18T03:42:58.095944+00:00"
+  },
+  "https://huggingface.co/blog/allenai/molmomotion": {
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "sent_at": "2026-06-18T03:42:57.546395+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/": {
+    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+    "sent_at": "2026-06-18T03:42:52.427602+00:00"
+  },
+  "https://openai.com/index/introducing-life-sci-bench": {
+    "title": "Introducing LifeSciBench",
+    "sent_at": "2026-06-18T03:42:51.353458+00:00"
+  },
+  "https://openai.com/index/ai-chemist-improves-reaction": {
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "sent_at": "2026-06-18T03:42:50.783797+00:00"
+  },
+  "https://github.blog/?p=96832": {
+    "title": "Getting more from each token: How Copilot improves context handling and model routing",
+    "sent_at": "2026-06-18T03:42:37.005484+00:00"
+  },
+  "https://techcrunch.com/?p=3133859": {
+    "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+    "sent_at": "2026-06-18T03:42:36.129260+00:00"
+  },
+  "https://techcrunch.com/?p=3133982": {
+    "title": "Roelof Botha joins SpaceX’s board of directors",
+    "sent_at": "2026-06-18T03:42:35.573168+00:00"
+  },
+  "https://techcrunch.com/?p=3134007": {
+    "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
+    "sent_at": "2026-06-18T03:42:34.919017+00:00"
+  },
+  "https://techcrunch.com/?p=3134047": {
+    "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+    "sent_at": "2026-06-18T03:42:34.351358+00:00"
+  },
+  "https://techcrunch.com/?p=3134048": {
+    "title": "How to turn off AI in your Google Docs",
+    "sent_at": "2026-06-18T03:42:33.805916+00:00"
+  },
   "https://d2.naver.com/helloworld/8319114": {
     "title": "SaaS 대체하기: AI와 함께한 광고SDK 에러 모니터링 시스템 구축기",
     "sent_at": "2026-06-17T03:56:10.268677+00:00"
@@ -1894,109 +1998,5 @@
   "https://openai.com/index/malta-chatgpt-plus-partnership": {
     "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
     "sent_at": "2026-05-17T02:53:44.523709+00:00"
-  },
-  "https://goddaehee.tistory.com/602": {
-    "title": "Codex CLI 입문(7) : Claude Code 사용자를 위한 Codex 전환 가이드 - CLAUDE.md&middot;슬래시 명령&middot;MCP 완전 마이그레이션",
-    "sent_at": "2026-05-17T02:53:36.278054+00:00"
-  },
-  "https://techcrunch.com/?p=3123362": {
-    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-    "sent_at": "2026-05-17T02:53:29.121993+00:00"
-  },
-  "https://techcrunch.com/?p=3111720": {
-    "title": "The offline desk gadget that actually got me to sit up straight",
-    "sent_at": "2026-05-17T02:53:29.121990+00:00"
-  },
-  "https://techcrunch.com/?p=3123369": {
-    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-    "sent_at": "2026-05-17T02:53:29.121988+00:00"
-  },
-  "https://techcrunch.com/?p=3123174": {
-    "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
-    "sent_at": "2026-05-17T02:53:29.121985+00:00"
-  },
-  "https://techcrunch.com/?p=3123375": {
-    "title": "The haves and have nots of the AI gold rush",
-    "sent_at": "2026-05-17T02:53:29.121968+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48158400": {
-    "title": "Moving away from Tailwind, and learning to structure my CSS",
-    "sent_at": "2026-05-17T02:53:24.595880+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48158494": {
-    "title": "Fecal transplants for autism deliver success in clinical trials (2019)",
-    "sent_at": "2026-05-17T02:53:24.595878+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48159241": {
-    "title": "Accelerando (2005)",
-    "sent_at": "2026-05-17T02:53:24.595875+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48159445": {
-    "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-    "sent_at": "2026-05-17T02:53:24.595871+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48161861": {
-    "title": "HTML Lists",
-    "sent_at": "2026-05-17T02:53:24.595858+00:00"
-  },
-  "https://www.threads.com/t/DYV-vycjKKw": {
-    "title": "@feelfree_ai: 구글 크롬북 시대는 끝났네요. 새로운 데스크톱 '알루미늄 OS'가 통...",
-    "sent_at": "2026-05-16T02:44:47.809361+00:00"
-  },
-  "https://www.threads.com/t/DYWn6XwE06t": {
-    "title": "@feelfree_ai: LLM 성능 올린다고 무작정 더 큰 모델을 찾거나 파인튜닝부터 고미...",
-    "sent_at": "2026-05-16T02:44:47.809358+00:00"
-  },
-  "https://www.threads.com/t/DYXBIwVjNKk": {
-    "title": "@feelfree_ai: 1B도 안 되는 0.6B 초소형 모델이 고난도 수학(AIME)에서 26%를 뚫었네요. 비...",
-    "sent_at": "2026-05-16T02:44:47.809342+00:00"
-  },
-  "https://openai.com/index/sea-david-chen": {
-    "title": "Sea's View on the Future of Agentic Software Development with Codex",
-    "sent_at": "2026-05-16T02:44:27.740268+00:00"
-  },
-  "https://openai.com/index/databricks": {
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "sent_at": "2026-05-16T02:44:27.740264+00:00"
-  },
-  "https://openai.com/index/personal-finance-chatgpt": {
-    "title": "A new personal finance experience in ChatGPT",
-    "sent_at": "2026-05-16T02:44:27.740251+00:00"
-  },
-  "https://github.blog/?p=96112": {
-    "title": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
-    "sent_at": "2026-05-16T02:44:09.499823+00:00"
-  },
-  "https://github.blog/?p=96092": {
-    "title": "Building a general-purpose accessibility agent—and what we learned in the process",
-    "sent_at": "2026-05-16T02:44:09.499784+00:00"
-  },
-  "https://techcrunch.com/?p=3123083": {
-    "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
-    "sent_at": "2026-05-16T02:44:07.656458+00:00"
-  },
-  "https://techcrunch.com/?p=3123049": {
-    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-    "sent_at": "2026-05-16T02:44:07.656455+00:00"
-  },
-  "https://techcrunch.com/?p=3123092": {
-    "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
-    "sent_at": "2026-05-16T02:44:07.656453+00:00"
-  },
-  "https://techcrunch.com/?p=3123082": {
-    "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
-    "sent_at": "2026-05-16T02:44:07.656450+00:00"
-  },
-  "https://techcrunch.com/?p=3122332": {
-    "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
-    "sent_at": "2026-05-16T02:44:07.656437+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48150900": {
-    "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-    "sent_at": "2026-05-16T02:44:02.938371+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48151383": {
-    "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-    "sent_at": "2026-05-16T02:44:02.938369+00:00"
   }
 }
