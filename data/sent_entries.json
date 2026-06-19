@@ -1,4 +1,108 @@
 {
+  "https://www.threads.com/t/DZuF7fuAaz2": {
+    "title": "@feelfree_ai: 서랍 속에 방치된 구형 스마트폰 2,000대가 모여 거대한 친환경 데이ᄐ...",
+    "sent_at": "2026-06-19T04:34:02.537081+00:00"
+  },
+  "https://www.threads.com/t/DZug8AtgeDL": {
+    "title": "@feelfree_ai: 수식부터 들이미는 방식에 지쳐 강화학습(RL) 공부를 미뤄두셨다며...",
+    "sent_at": "2026-06-19T04:34:01.974625+00:00"
+  },
+  "https://www.threads.com/t/DZvx-ZxDw8A": {
+    "title": "@feelfree_ai: 깃허브(GitHub) 레포지토리 링크만 던져주면 코딩 AI를 위한 강화학습(...",
+    "sent_at": "2026-06-19T04:34:01.480459+00:00"
+  },
+  "https://www.threads.com/t/DZwQqjRAUlo": {
+    "title": "@feelfree_ai: AI 에이전트 쓰면서 토큰 비용 때문에 매번 고민이셨죠? 넷플릭스 ᄋ...",
+    "sent_at": "2026-06-19T04:34:00.986816+00:00"
+  },
+  "https://toss.tech/article/technical-writing-1": {
+    "title": "세상에 없던 직무를 만들어가기",
+    "sent_at": "2026-06-19T04:33:48.706746+00:00"
+  },
+  "https://toss.tech/article/technical-writing-2": {
+    "title": "전문성 밖으로 나아가기",
+    "sent_at": "2026-06-19T04:33:48.216996+00:00"
+  },
+  "abebfba02b3b7c0c3c3ed08a23aeb25f8830da3f": {
+    "title": "Amazon ECS introduces new high-resolution metrics for faster service auto scaling",
+    "sent_at": "2026-06-19T04:33:42.334398+00:00"
+  },
+  "9c5d4385212a06a322e30ee7f64a694ffd756b6d": {
+    "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs",
+    "sent_at": "2026-06-19T04:33:41.847148+00:00"
+  },
+  "1kBoofDb8dfLiYnekjlUaX": {
+    "title": "Celebrating 12 years of Project Galileo",
+    "sent_at": "2026-06-19T04:33:39.933133+00:00"
+  },
+  "5Ad3Svz0xFxJQNx6eQZjJP": {
+    "title": "Build your own vulnerability harness",
+    "sent_at": "2026-06-19T04:33:39.450974+00:00"
+  },
+  "https://huggingface.co/blog/is-it-agentic-enough": {
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "sent_at": "2026-06-19T04:06:31.095345+00:00"
+  },
+  "https://huggingface.co/blog/peft-beyond-lora": {
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "sent_at": "2026-06-19T04:06:30.603898+00:00"
+  },
+  "https://huggingface.co/blog/ServiceNow/mosaicleaks": {
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "sent_at": "2026-06-19T04:06:30.116106+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94747": {
+    "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
+    "sent_at": "2026-06-19T04:06:26.953755+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94725": {
+    "title": "Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices",
+    "sent_at": "2026-06-19T04:06:26.403654+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94755": {
+    "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
+    "sent_at": "2026-06-19T04:06:25.908776+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94782": {
+    "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+    "sent_at": "2026-06-19T04:06:25.415841+00:00"
+  },
+  "https://openai.com/index/diagnose-rare-childhood-diseases": {
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "sent_at": "2026-06-19T04:06:20.677040+00:00"
+  },
+  "https://openai.com/index/improving-health-intelligence-in-chatgpt": {
+    "title": "Improving health intelligence in ChatGPT",
+    "sent_at": "2026-06-19T04:06:20.185544+00:00"
+  },
+  "https://openai.com/index/chatgpt-enterprise-spend-controls": {
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "sent_at": "2026-06-19T04:06:19.694147+00:00"
+  },
+  "https://github.blog/?p=96841": {
+    "title": "How pull request limits are cutting down the noise",
+    "sent_at": "2026-06-19T04:06:07.960252+00:00"
+  },
+  "https://techcrunch.com/?p=3134350": {
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "sent_at": "2026-06-19T04:06:07.162283+00:00"
+  },
+  "https://techcrunch.com/?p=3134342": {
+    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+    "sent_at": "2026-06-19T04:06:06.659934+00:00"
+  },
+  "https://techcrunch.com/?p=3134299": {
+    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "sent_at": "2026-06-19T04:06:06.171817+00:00"
+  },
+  "https://techcrunch.com/?p=3134483": {
+    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "sent_at": "2026-06-19T04:06:05.672192+00:00"
+  },
+  "https://techcrunch.com/?p=3134455": {
+    "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+    "sent_at": "2026-06-19T04:06:05.160305+00:00"
+  },
   "https://www.threads.com/t/DZrEzeCAZp9": {
     "title": "@feelfree_ai: AI 에이전트의 성능은 결국 양질의 '컨텍스트' 싸움인데, 구글이 ...",
     "sent_at": "2026-06-18T04:10:33.297810+00:00"
@@ -1894,109 +1998,5 @@
   "https://www.threads.com/t/DYbycaygVKt": {
     "title": "@feelfree_ai: 프롬프트 수정 없이 Claude API 비용을 80%나 줄였습니다. AI 코딩 툴 쓸 ᄄ...",
     "sent_at": "2026-05-18T03:31:25.290465+00:00"
-  },
-  "https://www.threads.com/t/DYcN4PhAbs6": {
-    "title": "@feelfree_ai: 엔비디아가 단일 GPU(RTX 5090) 하나로 돌아가는 월드 모델을 오픈소스로 ...",
-    "sent_at": "2026-05-18T03:31:25.290462+00:00"
-  },
-  "https://www.threads.com/t/DYdRqaqipg_": {
-    "title": "@feelfree_ai: Codex가 똑똑한 건 알겠는데, 막상 실무(PRD)에 투입하면 자꾸 엉뚱...",
-    "sent_at": "2026-05-18T03:31:25.290459+00:00"
-  },
-  "https://www.threads.com/t/DYdtFgrCZvj": {
-    "title": "@feelfree_ai: M4 Pro에서 온디바이스 AI 돌릴 때, 기존 클라우드 최적화 방식을 쓰면 ...",
-    "sent_at": "2026-05-18T03:31:25.290443+00:00"
-  },
-  "https://d2.naver.com/helloworld/6475419": {
-    "title": "네이버 검색의 대규모 메트릭 저장소, VictoriaMetrics 운영기",
-    "sent_at": "2026-05-18T03:31:10.522467+00:00"
-  },
-  "https://tech.kakao.com/posts/820": {
-    "title": "카카오톡 예약하기에서 그려 본 캘린더",
-    "sent_at": "2026-05-18T03:31:07.984200+00:00"
-  },
-  "https://engineering.atspotify.com/?p=2XiYdNve9swVNDcDJPhV65": {
-    "title": "Background Coding Agents: Supercharging Downstream Consumer Dataset Migrations (Honk, Part 4)",
-    "sent_at": "2026-05-18T03:31:04.106687+00:00"
-  },
-  "https://goddaehee.tistory.com/603": {
-    "title": "Codex CLI 입문(8) : 슬래시 명령어 정리 - Codex 슬래시 명령어 사용방법",
-    "sent_at": "2026-05-18T03:30:57.588525+00:00"
-  },
-  "https://techcrunch.com/?p=3123351": {
-    "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
-    "sent_at": "2026-05-18T03:30:46.058811+00:00"
-  },
-  "https://techcrunch.com/?p=3123336": {
-    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-    "sent_at": "2026-05-18T03:30:46.058809+00:00"
-  },
-  "https://techcrunch.com/?p=3123381": {
-    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-    "sent_at": "2026-05-18T03:30:46.058806+00:00"
-  },
-  "https://techcrunch.com/?p=3123393": {
-    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-    "sent_at": "2026-05-18T03:30:46.058803+00:00"
-  },
-  "https://techcrunch.com/?p=3123397": {
-    "title": "Apple’s Siri revamp could include auto-deleting chats",
-    "sent_at": "2026-05-18T03:30:46.058789+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48168708": {
-    "title": "WHO declares Ebola outbreak a global health emergency",
-    "sent_at": "2026-05-18T03:30:41.524284+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48168856": {
-    "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
-    "sent_at": "2026-05-18T03:30:41.524282+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48169874": {
-    "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-    "sent_at": "2026-05-18T03:30:41.524280+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48170798": {
-    "title": "At least 25 Flock cameras have been destroyed in five states since April 2025",
-    "sent_at": "2026-05-18T03:30:41.524276+00:00"
-  },
-  "https://news.ycombinator.com/item?id=48170810": {
-    "title": "Meta deletes popular 1M follower account after Kuwaiti request",
-    "sent_at": "2026-05-18T03:30:41.524260+00:00"
-  },
-  "https://www.threads.com/t/DYYlxctAUpp": {
-    "title": "@feelfree_ai: 파인튜닝할 때마다 모델이 원래 알던 똑똑한 지식들, 싹 다 날ᄅ...",
-    "sent_at": "2026-05-17T02:54:07.759643+00:00"
-  },
-  "https://www.threads.com/t/DYZCaRSAUSy": {
-    "title": "@feelfree_ai: 고작 26M 파라미터로 10배 넘게 큰 모델들을 이겨버린 펑션콜 전용 ...",
-    "sent_at": "2026-05-17T02:54:07.759641+00:00"
-  },
-  "https://www.threads.com/t/DYZb5xHATc3": {
-    "title": "@feelfree_ai: AI가 알아서 취약점을 찾고 실제 해킹까지 뚫어버리는 시대, 생각ᄇ...",
-    "sent_at": "2026-05-17T02:54:07.759638+00:00"
-  },
-  "https://www.threads.com/t/DYa87puASUb": {
-    "title": "@feelfree_ai: LLM 토큰 비용 반토막 내는 비결, 프롬프트 깎기가 아니라 '검색 아키...",
-    "sent_at": "2026-05-17T02:54:07.759622+00:00"
-  },
-  "https://tech.kakao.com/posts/819": {
-    "title": "카나나 스칼라 1회 세미나 현장 스케치",
-    "sent_at": "2026-05-17T02:53:50.684622+00:00"
-  },
-  "https://engineering.fb.com/?p=23909": {
-    "title": "Modernizing the Facebook Groups Search to Unlock the Power of Community Knowledge",
-    "sent_at": "2026-05-17T02:53:45.365344+00:00"
-  },
-  "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
-    "title": "How data science teams use Codex",
-    "sent_at": "2026-05-17T02:53:44.523730+00:00"
-  },
-  "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex": {
-    "title": "How business operations teams use Codex",
-    "sent_at": "2026-05-17T02:53:44.523726+00:00"
-  },
-  "https://openai.com/index/malta-chatgpt-plus-partnership": {
-    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-    "sent_at": "2026-05-17T02:53:44.523709+00:00"
   }
 }
