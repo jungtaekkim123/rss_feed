@@ -1,4 +1,56 @@
 {
+  "https://www.threads.com/t/DZwsm5yAbaM": {
+    "title": "@feelfree_ai: AI 코딩 툴마다 제각각이던 설정 파일들(⁠.cursorrules⁠, ⁠CLAUDE.md⁠ 등), 이제 ...",
+    "sent_at": "2026-06-20T03:57:08.309872+00:00"
+  },
+  "https://www.threads.com/t/DZyWwrNEQvC": {
+    "title": "@feelfree_ai: 매번 처음부터 문서를 다시 뒤지는 RAG의 '기억상실증', 이제 그 한계...",
+    "sent_at": "2026-06-20T03:57:07.917753+00:00"
+  },
+  "https://toss.tech/article/todolist": {
+    "title": "매일 하던 업무를 디자인하기",
+    "sent_at": "2026-06-20T03:56:57.455238+00:00"
+  },
+  "https://toss.tech/article/spark-connect-on-kubernetes-1": {
+    "title": "Spark Connect on Kubernetes #1: 견고한 Spark Connect 만들기",
+    "sent_at": "2026-06-20T03:56:57.031494+00:00"
+  },
+  "https://toss.tech/article/ai_contest": {
+    "title": "디자이너에게 AI로 뭐든 만들어보라고 한다면",
+    "sent_at": "2026-06-20T03:56:56.646450+00:00"
+  },
+  "2EKaG8rvH4FLnpEQVgvJ4I": {
+    "title": "Temporary Cloudflare Accounts for AI agents",
+    "sent_at": "2026-06-20T03:56:48.862041+00:00"
+  },
+  "https://engineering.atspotify.com/?p=2XiYdNve9swVNDcDJPhV65": {
+    "title": "Background Coding Agents: Supercharging Downstream Consumer Dataset Migrations (Honk, Part 4)",
+    "sent_at": "2026-06-20T03:56:47.907215+00:00"
+  },
+  "https://github.blog/?p=96857": {
+    "title": "How we built an internal data analytics agent",
+    "sent_at": "2026-06-20T03:29:35.457685+00:00"
+  },
+  "https://techcrunch.com/?p=2878248": {
+    "title": "Every fusion startup that has raised over $100M",
+    "sent_at": "2026-06-20T03:29:34.837008+00:00"
+  },
+  "https://techcrunch.com/?p=3134402": {
+    "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
+    "sent_at": "2026-06-20T03:29:34.448512+00:00"
+  },
+  "https://techcrunch.com/?p=3133212": {
+    "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+    "sent_at": "2026-06-20T03:29:34.063477+00:00"
+  },
+  "https://techcrunch.com/?p=3134219": {
+    "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+    "sent_at": "2026-06-20T03:29:33.656289+00:00"
+  },
+  "https://techcrunch.com/?p=3134573": {
+    "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+    "sent_at": "2026-06-20T03:29:33.230598+00:00"
+  },
   "https://www.threads.com/t/DZuF7fuAaz2": {
     "title": "@feelfree_ai: 서랍 속에 방치된 구형 스마트폰 2,000대가 모여 거대한 친환경 데이ᄐ...",
     "sent_at": "2026-06-19T04:34:02.537081+00:00"
@@ -1946,57 +1998,5 @@
   "https://huggingface.co/blog/ibm-research/open-agent-leaderboard": {
     "title": "The Open Agent Leaderboard",
     "sent_at": "2026-05-19T02:59:36.900856+00:00"
-  },
-  "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers": {
-    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-    "sent_at": "2026-05-19T02:59:36.423825+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation": {
-    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-    "sent_at": "2026-05-19T02:59:35.977889+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92992": {
-    "title": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs",
-    "sent_at": "2026-05-19T02:59:32.965758+00:00"
-  },
-  "https://blogs.nvidia.com/?p=93021": {
-    "title": "NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’",
-    "sent_at": "2026-05-19T02:59:32.504288+00:00"
-  },
-  "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
-    "title": "How sales teams use Codex",
-    "sent_at": "2026-05-19T02:59:29.612441+00:00"
-  },
-  "https://openai.com/index/dell-codex-enterprise-partnership": {
-    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-    "sent_at": "2026-05-19T02:59:29.185644+00:00"
-  },
-  "https://github.blog/?p=95877": {
-    "title": "Take your local GitHub sessions anywhere",
-    "sent_at": "2026-05-19T02:59:16.947346+00:00"
-  },
-  "https://techcrunch.com/?p=3123513": {
-    "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
-    "sent_at": "2026-05-19T02:59:16.163249+00:00"
-  },
-  "https://techcrunch.com/?p=3123555": {
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "sent_at": "2026-05-19T02:59:15.722373+00:00"
-  },
-  "https://techcrunch.com/?p=3123572": {
-    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "sent_at": "2026-05-19T02:59:15.256715+00:00"
-  },
-  "https://techcrunch.com/?p=3121747": {
-    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-    "sent_at": "2026-05-19T02:59:14.808820+00:00"
-  },
-  "https://techcrunch.com/?p=3123744": {
-    "title": "OSHA probing worker death at SpaceX’s Starbase site",
-    "sent_at": "2026-05-19T02:59:14.371601+00:00"
-  },
-  "https://www.threads.com/t/DYbycaygVKt": {
-    "title": "@feelfree_ai: 프롬프트 수정 없이 Claude API 비용을 80%나 줄였습니다. AI 코딩 툴 쓸 ᄄ...",
-    "sent_at": "2026-05-18T03:31:25.290465+00:00"
   }
 }
