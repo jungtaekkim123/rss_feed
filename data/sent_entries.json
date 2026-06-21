@@ -1,4 +1,36 @@
 {
+  "https://www.threads.com/t/DZyyRNBAUn_": {
+    "title": "@feelfree_ai: GRPO 돌릴 때 VRAM 부족해서 고생하셨던 분들, 이제 무거운 vLLM 세팅 없ᄋ...",
+    "sent_at": "2026-06-21T04:26:53.342933+00:00"
+  },
+  "https://www.threads.com/t/DZ07jvQCERe": {
+    "title": "@feelfree_ai: 검색 시스템의 속도를 13배나 높일 수 있다면 어떨까요? 인덱싱 ᄃ...",
+    "sent_at": "2026-06-21T04:26:52.926415+00:00"
+  },
+  "https://www.threads.com/t/DZ1WJibAWnk": {
+    "title": "@feelfree_ai: AI 에이전트가 수집한 데이터를 노션이나 슬랙으로 곧바로 꽂아 넣ᄋ...",
+    "sent_at": "2026-06-21T04:26:52.544138+00:00"
+  },
+  "https://techcrunch.com/?p=3131372": {
+    "title": "Every new iOS 27 feature that’s worth knowing about",
+    "sent_at": "2026-06-21T03:59:20.327001+00:00"
+  },
+  "https://techcrunch.com/?p=3134677": {
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "sent_at": "2026-06-21T03:59:19.948693+00:00"
+  },
+  "https://techcrunch.com/?p=3134422": {
+    "title": "This startup built a fish-killing robot and chefs love the results",
+    "sent_at": "2026-06-21T03:59:19.576666+00:00"
+  },
+  "https://techcrunch.com/?p=3134695": {
+    "title": "In the Weights is your new AI-centric vanity search",
+    "sent_at": "2026-06-21T03:59:19.201335+00:00"
+  },
+  "https://techcrunch.com/?p=3134719": {
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "sent_at": "2026-06-21T03:59:18.820010+00:00"
+  },
   "https://www.threads.com/t/DZwsm5yAbaM": {
     "title": "@feelfree_ai: AI 코딩 툴마다 제각각이던 설정 파일들(⁠.cursorrules⁠, ⁠CLAUDE.md⁠ 등), 이제 ...",
     "sent_at": "2026-06-20T03:57:08.309872+00:00"
@@ -1966,37 +1998,5 @@
   "https://techcrunch.com/?p=3123167": {
     "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
     "sent_at": "2026-05-20T03:24:16.110784+00:00"
-  },
-  "https://techcrunch.com/?p=3123458": {
-    "title": "Google just declared itself a contender in AI design at IO 2026",
-    "sent_at": "2026-05-20T03:24:15.553764+00:00"
-  },
-  "https://www.threads.com/t/DYeQ_XbAey2": {
-    "title": "@feelfree_ai: RAG 파이프라인 구축할 때 임베딩, 리랭킹 서버 다 따로 세팅하느라 골...",
-    "sent_at": "2026-05-19T03:00:00.700959+00:00"
-  },
-  "https://www.threads.com/t/DYeq59Uiqj_": {
-    "title": "@feelfree_ai: 잘 키운 초거대 AI 하나 깎아 쓰는 게, 바닥부터 새로 만드는 것보다 훠...",
-    "sent_at": "2026-05-19T03:00:00.259786+00:00"
-  },
-  "https://www.threads.com/t/DYf_aLxgPM5": {
-    "title": "@feelfree_ai: 알리바바의 Qwen 3.7 Max, Plus preview 가 수학·코딩 등 전문가 영역에서 단숨...",
-    "sent_at": "2026-05-19T02:59:59.706610+00:00"
-  },
-  "555b5206158e2e2020b90c33a11faa35d91b4d5d": {
-    "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
-    "sent_at": "2026-05-19T02:59:42.728898+00:00"
-  },
-  "xrcYtr7kU54LNDB8MEmQY": {
-    "title": "Project Glasswing: what Mythos showed us",
-    "sent_at": "2026-05-19T02:59:41.765919+00:00"
-  },
-  "https://engineering.atspotify.com/?p=1XeG8OFPaFVQT83ShkXhoz": {
-    "title": "Better Experiments with LLM Evals — A funnel, not a fork",
-    "sent_at": "2026-05-19T02:59:40.591357+00:00"
-  },
-  "https://huggingface.co/blog/ibm-research/open-agent-leaderboard": {
-    "title": "The Open Agent Leaderboard",
-    "sent_at": "2026-05-19T02:59:36.900856+00:00"
   }
 }
