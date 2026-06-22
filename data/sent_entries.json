@@ -1,4 +1,44 @@
 {
+  "https://toss.tech/article/technical-writing-3": {
+    "title": "3. 우리 팀의 문서화는 왜 실패할까? (1)",
+    "sent_at": "2026-06-22T04:28:16.771530+00:00"
+  },
+  "https://toss.tech/article/technical-writing-4": {
+    "title": "4. 우리 팀의 문서화는 왜 실패할까? (2)",
+    "sent_at": "2026-06-22T04:28:16.175302+00:00"
+  },
+  "https://d2.naver.com/helloworld/7056385": {
+    "title": "사람과 AI Agent를 위한 통합 Context Provider 구축",
+    "sent_at": "2026-06-22T04:28:12.486601+00:00"
+  },
+  "https://engineering.atspotify.com/?p=1XeG8OFPaFVQT83ShkXhoz": {
+    "title": "Better Experiments with LLM Evals — A funnel, not a fork",
+    "sent_at": "2026-06-22T04:28:09.145172+00:00"
+  },
+  "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "sent_at": "2026-06-22T04:01:04.786356+00:00"
+  },
+  "https://techcrunch.com/?p=3134254": {
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "sent_at": "2026-06-22T04:00:55.640868+00:00"
+  },
+  "https://techcrunch.com/?p=3134737": {
+    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "sent_at": "2026-06-22T04:00:55.070864+00:00"
+  },
+  "https://techcrunch.com/?p=3134646": {
+    "title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
+    "sent_at": "2026-06-22T04:00:54.488189+00:00"
+  },
+  "https://techcrunch.com/?p=3134741": {
+    "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+    "sent_at": "2026-06-22T04:00:53.908193+00:00"
+  },
+  "https://techcrunch.com/?p=3134746": {
+    "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+    "sent_at": "2026-06-22T04:00:53.375543+00:00"
+  },
   "https://www.threads.com/t/DZyyRNBAUn_": {
     "title": "@feelfree_ai: GRPO 돌릴 때 VRAM 부족해서 고생하셨던 분들, 이제 무거운 vLLM 세팅 없ᄋ...",
     "sent_at": "2026-06-21T04:26:53.342933+00:00"
@@ -1958,45 +1998,5 @@
   "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/": {
     "title": "Gemini 3.5: frontier intelligence with action",
     "sent_at": "2026-05-20T03:24:37.562821+00:00"
-  },
-  "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/": {
-    "title": "I/O 2026: Welcome to the agentic Gemini era",
-    "sent_at": "2026-05-20T03:24:37.009724+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/workspace/workspace-updates/": {
-    "title": "New ways to create and get things done in Google Workspace",
-    "sent_at": "2026-05-20T03:24:36.457868+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/": {
-    "title": "How AI Mode is changing the way people search in the U.S.",
-    "sent_at": "2026-05-20T03:24:35.900014+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/": {
-    "title": "I/O 2026",
-    "sent_at": "2026-05-20T03:24:35.343022+00:00"
-  },
-  "https://openai.com/index/advancing-content-provenance": {
-    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-    "sent_at": "2026-05-20T03:24:30.079648+00:00"
-  },
-  "https://goddaehee.tistory.com/604": {
-    "title": "Google AI SEO 최적화 가이드 리뷰 : AI 검색 시대, 하던 SEO를 잘 하면 된다( AEO&middot;GEO는 SEO의 다른 이름이다)",
-    "sent_at": "2026-05-20T03:24:25.441496+00:00"
-  },
-  "https://techcrunch.com/?p=3124254": {
-    "title": "Mach Industries just spent $50M to solve a major defense tech problem",
-    "sent_at": "2026-05-20T03:24:17.800094+00:00"
-  },
-  "https://techcrunch.com/?p=3124293": {
-    "title": "Discord enables end-to-end encrypted voice and video calling for every user",
-    "sent_at": "2026-05-20T03:24:17.243422+00:00"
-  },
-  "https://techcrunch.com/?p=3123772": {
-    "title": "How to use Google’s new AI agents to go beyond your standard searches",
-    "sent_at": "2026-05-20T03:24:16.663012+00:00"
-  },
-  "https://techcrunch.com/?p=3123167": {
-    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-    "sent_at": "2026-05-20T03:24:16.110784+00:00"
   }
 }
