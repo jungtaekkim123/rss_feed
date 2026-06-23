@@ -1,4 +1,128 @@
 {
+  "https://www.threads.com/t/DZ3gTpqjKQb": {
+    "title": "@feelfree_ai: 폰에서 무거운 LLM을 돌릴 때 모델이 느린 진짜 이유는 연산력 부ᄌ...",
+    "sent_at": "2026-06-23T02:59:26.176933+00:00"
+  },
+  "https://www.threads.com/t/DZ372BpAhvu": {
+    "title": "@feelfree_ai: 이미지 생성 모델이랑 LLM을 각각 다른 방식으로 학습시키느라 고...",
+    "sent_at": "2026-06-23T02:59:25.779739+00:00"
+  },
+  "https://www.threads.com/t/DZ4n0qzgata": {
+    "title": "@feelfree_ai: 오늘 서울여대 지능정보보호학부 강은성 교수님의 칼럼을 읽어...",
+    "sent_at": "2026-06-23T02:59:25.381378+00:00"
+  },
+  "https://www.threads.com/t/DZ6FKzvgq6n": {
+    "title": "@feelfree_ai: AI 에이전트에게 사이버 보안 실무를 맡기고 싶다면, 26개 보안 영역ᄋ...",
+    "sent_at": "2026-06-23T02:59:24.988207+00:00"
+  },
+  "https://toss.tech/article/50761": {
+    "title": "es-toolkit, 사내 작은 라이브러리가 전세계적인 라이브러리가 되기까지",
+    "sent_at": "2026-06-23T02:59:12.366620+00:00"
+  },
+  "https://toss.tech/article/technical-writing-5": {
+    "title": "5. Technical Writer, 사라질 결심",
+    "sent_at": "2026-06-23T02:59:11.981710+00:00"
+  },
+  "https://toss.tech/article/technical-writing-6": {
+    "title": "6. 도구를 넘어, 기준과 책임으로",
+    "sent_at": "2026-06-23T02:59:11.592763+00:00"
+  },
+  "48f31f6fe142a62eba1b6ad460759328491f8672": {
+    "title": "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)",
+    "sent_at": "2026-06-23T02:59:04.254348+00:00"
+  },
+  "28b0196fbc8cdde62bdcc235123c0f1926871df6": {
+    "title": "Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs",
+    "sent_at": "2026-06-23T02:59:03.818866+00:00"
+  },
+  "5X4Vz9KDcjIBXgHIFSuJFZ": {
+    "title": "How we found a bug in the hyper HTTP library",
+    "sent_at": "2026-06-23T02:59:01.950638+00:00"
+  },
+  "https://medium.com/p/587b1f2de928": {
+    "title": "Predicting Risk in Content Launches: How Data-Driven Insights can Transform Launch Planning",
+    "sent_at": "2026-06-23T02:59:00.498759+00:00"
+  },
+  "https://medium.com/p/7ca25888591e": {
+    "title": "Data Projects: Managing Data Assets at Netflix Scale",
+    "sent_at": "2026-06-23T02:59:00.107647+00:00"
+  },
+  "https://medium.com/p/18b699d58e36": {
+    "title": "The Data Canary: How Netflix Validates Catalog Metadata",
+    "sent_at": "2026-06-23T02:58:59.719995+00:00"
+  },
+  "https://medium.com/p/87860682629c": {
+    "title": "How Netflix Simplified Batch Compute with Kueue",
+    "sent_at": "2026-06-23T02:58:59.327012+00:00"
+  },
+  "https://medium.com/p/eb8160ed60a2": {
+    "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
+    "sent_at": "2026-06-23T02:58:58.940979+00:00"
+  },
+  "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6": {
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "sent_at": "2026-06-23T02:58:53.799326+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94802": {
+    "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
+    "sent_at": "2026-06-23T02:58:53.026047+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94818": {
+    "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+    "sent_at": "2026-06-23T02:58:52.572689+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94790": {
+    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+    "sent_at": "2026-06-23T02:58:52.167000+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94851": {
+    "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+    "sent_at": "2026-06-23T02:58:51.785079+00:00"
+  },
+  "https://blogs.nvidia.com/?p=94825": {
+    "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+    "sent_at": "2026-06-23T02:58:51.395835+00:00"
+  },
+  "https://engineering.fb.com/?p=24054": {
+    "title": "Adopting AV1 for Real-Time Communication (RTC) at Scale",
+    "sent_at": "2026-06-23T02:58:46.307229+00:00"
+  },
+  "https://openai.com/index/codex-maxxing-long-running-work": {
+    "title": "Codex-maxxing for long-running work",
+    "sent_at": "2026-06-23T02:58:45.296009+00:00"
+  },
+  "https://openai.com/index/daybreak-securing-the-world": {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "sent_at": "2026-06-23T02:58:44.899301+00:00"
+  },
+  "https://openai.com/index/patch-the-planet": {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "sent_at": "2026-06-23T02:58:44.516469+00:00"
+  },
+  "https://github.blog/?p=96917": {
+    "title": "From pledge to practice: Building a more inclusive open source ecosystem",
+    "sent_at": "2026-06-23T02:58:33.149686+00:00"
+  },
+  "https://techcrunch.com/?p=3135102": {
+    "title": "The AI world is getting ‘loopy’",
+    "sent_at": "2026-06-23T02:58:32.518981+00:00"
+  },
+  "https://techcrunch.com/?p=3135146": {
+    "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
+    "sent_at": "2026-06-23T02:58:32.102764+00:00"
+  },
+  "https://techcrunch.com/?p=3135180": {
+    "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+    "sent_at": "2026-06-23T02:58:31.702713+00:00"
+  },
+  "https://techcrunch.com/?p=3135162": {
+    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "sent_at": "2026-06-23T02:58:31.311734+00:00"
+  },
+  "https://techcrunch.com/?p=3132769": {
+    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "sent_at": "2026-06-23T02:58:30.908214+00:00"
+  },
   "https://toss.tech/article/technical-writing-3": {
     "title": "3. 우리 팀의 문서화는 왜 실패할까? (1)",
     "sent_at": "2026-06-22T04:28:16.771530+00:00"
@@ -1874,129 +1998,5 @@
   "https://techcrunch.com/?p=3125161": {
     "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
     "sent_at": "2026-05-22T03:29:08.691547+00:00"
-  },
-  "https://techcrunch.com/?p=3125364": {
-    "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
-    "sent_at": "2026-05-22T03:29:08.306389+00:00"
-  },
-  "https://techcrunch.com/?p=3125074": {
-    "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
-    "sent_at": "2026-05-22T03:29:07.900963+00:00"
-  },
-  "https://www.threads.com/t/DYjSPD1k-If": {
-    "title": "@feelfree_ai: AI 매일 쓰면서도 정작 어떻게 작동하는지 물어보면 말문 막히느...",
-    "sent_at": "2026-05-21T03:30:50.132054+00:00"
-  },
-  "https://www.threads.com/t/DYj0eCqjHm9": {
-    "title": "@feelfree_ai: 이미지나 문서 속 데이터를 원하는 JSON 형태로 완벽하게 구조화해 주ᄂ...",
-    "sent_at": "2026-05-21T03:30:49.744213+00:00"
-  },
-  "https://www.threads.com/t/DYlG-CmD5E3": {
-    "title": "@feelfree_ai: AI가 소스코드 취약점을 찾아서 직접 해킹 공격을 하고, 패치까지 아...",
-    "sent_at": "2026-05-21T03:30:49.355974+00:00"
-  },
-  "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/": {
-    "title": "A new experiment brings better group meetings to Google Beam",
-    "sent_at": "2026-05-21T03:30:28.949340+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/": {
-    "title": "100 things we announced at I/O 2026",
-    "sent_at": "2026-05-21T03:30:28.570523+00:00"
-  },
-  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/": {
-    "title": "We’re announcing new community investments in Missouri.",
-    "sent_at": "2026-05-21T03:30:28.186556+00:00"
-  },
-  "https://openai.com/index/introducing-openai-for-singapore": {
-    "title": "Introducing OpenAI for Singapore",
-    "sent_at": "2026-05-21T03:30:25.292812+00:00"
-  },
-  "https://openai.com/index/ramp": {
-    "title": "How Ramp engineers accelerate code review with Codex",
-    "sent_at": "2026-05-21T03:30:24.907344+00:00"
-  },
-  "https://openai.com/index/the-next-phase-of-education-for-countries": {
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "sent_at": "2026-05-21T03:30:24.528379+00:00"
-  },
-  "https://openai.com/index/model-disproves-discrete-geometry-conjecture": {
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "sent_at": "2026-05-21T03:30:24.151575+00:00"
-  },
-  "https://goddaehee.tistory.com/605": {
-    "title": "대형 코드베이스에서 Claude Code 제대로 쓰는 법 &mdash; 원리부터 실전까지",
-    "sent_at": "2026-05-21T03:30:13.636298+00:00"
-  },
-  "https://github.blog/?p=96242": {
-    "title": "Investigating unauthorized access to GitHub-owned repositories",
-    "sent_at": "2026-05-21T03:30:06.166872+00:00"
-  },
-  "https://techcrunch.com/?p=3124868": {
-    "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-    "sent_at": "2026-05-21T03:30:05.556701+00:00"
-  },
-  "https://techcrunch.com/?p=3124533": {
-    "title": "Clouted wants to take the guesswork out of making short videos go viral",
-    "sent_at": "2026-05-21T03:30:05.127065+00:00"
-  },
-  "https://techcrunch.com/?p=3124339": {
-    "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
-    "sent_at": "2026-05-21T03:30:04.744989+00:00"
-  },
-  "https://techcrunch.com/?p=3124883": {
-    "title": "Anthropic says it’s about to have its first profitable quarter",
-    "sent_at": "2026-05-21T03:30:04.367415+00:00"
-  },
-  "https://techcrunch.com/?p=3124895": {
-    "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-    "sent_at": "2026-05-21T03:30:03.981841+00:00"
-  },
-  "https://www.threads.com/t/DYgYyvtj_7C": {
-    "title": "@feelfree_ai: ColBERT나 PyLate 쓰실 때 느린 속도와 엄청난 메모리 소모 때문에 답답하ᄉ...",
-    "sent_at": "2026-05-20T03:25:11.126705+00:00"
-  },
-  "https://www.threads.com/t/DYg0Qmwgc5q": {
-    "title": "@feelfree_ai: 사람을 위한 피그마 가이드만 있던 대한민국 정부 표준 디자인(KRD...",
-    "sent_at": "2026-05-20T03:25:10.563497+00:00"
-  },
-  "https://www.threads.com/t/DYiLYQYE8K9": {
-    "title": "@feelfree_ai: RAG에서 검색 품질을 올리려면 리랭커(Reranker)가 필수지만, 항상 지ᄋ...",
-    "sent_at": "2026-05-20T03:25:10.013828+00:00"
-  },
-  "https://www.threads.com/t/DYiv2RnCsgl": {
-    "title": "@feelfree_ai: 무조건 체급만 키우던 시대는 지났나 봅니다. 바이트댄스가 고작 3B ᄉ...",
-    "sent_at": "2026-05-20T03:25:09.441219+00:00"
-  },
-  "https://toss.tech/article/post-quantum-cryptography": {
-    "title": "양자컴퓨터 시대에 대비한 양자내성암호 적용, 왜 10년 먼저 서비스에 적용했을까?",
-    "sent_at": "2026-05-20T03:24:53.548589+00:00"
-  },
-  "https://toss.tech/article/da-assistant-panda": {
-    "title": "토스플레이스 데이터봇 ‘판다(PANDA)’를 소개합니다 : 모든 팀원이 데이터 전문가처럼 일하는 방법",
-    "sent_at": "2026-05-20T03:24:52.946777+00:00"
-  },
-  "https://toss.tech/article/operating-starrocks-1": {
-    "title": "StarRocks 운영기: Resource Group으로 멀티테넌트 워크로드 격리하기",
-    "sent_at": "2026-05-20T03:24:52.413050+00:00"
-  },
-  "2atb0Whie0RvOXQHBoBrKH": {
-    "title": "Announcing Claude Managed Agents on Cloudflare",
-    "sent_at": "2026-05-20T03:24:44.335445+00:00"
-  },
-  "https://huggingface.co/blog/ettin-reranker": {
-    "title": "Introducing the Ettin Reranker Family",
-    "sent_at": "2026-05-20T03:24:41.957763+00:00"
-  },
-  "https://huggingface.co/blog/allenai/olmoearth-v1-1": {
-    "title": "OlmoEarth v1.1: A more efficient family of models",
-    "sent_at": "2026-05-20T03:24:41.401439+00:00"
-  },
-  "https://blogs.nvidia.com/?p=93030": {
-    "title": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
-    "sent_at": "2026-05-20T03:24:39.267825+00:00"
-  },
-  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/": {
-    "title": "Gemini 3.5: frontier intelligence with action",
-    "sent_at": "2026-05-20T03:24:37.562821+00:00"
   }
 }
