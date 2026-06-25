@@ -1,4 +1,56 @@
 {
+  "https://www.threads.com/t/DZ9xxJsAbEy": {
+    "title": "@feelfree_ai: 이제 LLM이 환경 안에서 행동하는 것을 넘어, 웹이나 OS 등 7가지 에이...",
+    "sent_at": "2026-06-25T02:59:37.111535+00:00"
+  },
+  "https://www.threads.com/t/DZ_KFtBAQ6d": {
+    "title": "@feelfree_ai: 실시간 비디오 AI 구동 시 아무 변화 없는 장면까지 클라우드로 전소...",
+    "sent_at": "2026-06-25T02:59:36.611075+00:00"
+  },
+  "https://www.threads.com/t/DZ_fjJuAePL": {
+    "title": "@feelfree_ai: 11.9B 거대 모델의 성능을 단 2% 크기(0.22B)의 초소형 모델로 맞먹거나 오ᄒ...",
+    "sent_at": "2026-06-25T02:59:36.193800+00:00"
+  },
+  "https://toss.tech/article/50693": {
+    "title": "es-toolkit: How a Small Internal Library Became a Global Project",
+    "sent_at": "2026-06-25T02:59:23.680432+00:00"
+  },
+  "77AgsHNNnpUDvP0Z6gqgp6": {
+    "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
+    "sent_at": "2026-06-25T02:59:17.836857+00:00"
+  },
+  "https://huggingface.co/blog/ffasr-leaderboard": {
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "sent_at": "2026-06-25T02:59:15.895343+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel": {
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "sent_at": "2026-06-25T02:59:15.522474+00:00"
+  },
+  "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "sent_at": "2026-06-25T02:59:13.012772+00:00"
+  },
+  "https://techcrunch.com/?p=3135912": {
+    "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+    "sent_at": "2026-06-25T02:59:02.267825+00:00"
+  },
+  "https://techcrunch.com/?p=3135956": {
+    "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+    "sent_at": "2026-06-25T02:59:01.884780+00:00"
+  },
+  "https://techcrunch.com/?p=3135941": {
+    "title": "Elon suffers another day short of trillionaire status",
+    "sent_at": "2026-06-25T02:59:01.499117+00:00"
+  },
+  "https://techcrunch.com/?p=3135964": {
+    "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+    "sent_at": "2026-06-25T02:59:01.052947+00:00"
+  },
+  "https://techcrunch.com/?p=3136032": {
+    "title": "Europe is pushing back on Washington’s chip war",
+    "sent_at": "2026-06-25T02:59:00.662003+00:00"
+  },
   "https://www.threads.com/t/DZ6teRygROG": {
     "title": "@feelfree_ai: 프롬프트 작성이 막막하셨다면 구글이 직접 푼 6가지 핵심 가이...",
     "sent_at": "2026-06-24T03:25:08.503775+00:00"
@@ -1946,57 +1998,5 @@
   "https://techcrunch.com/?p=3120725": {
     "title": "6 kitchen gadgets that make adulting feel easier",
     "sent_at": "2026-05-25T03:37:19.646903+00:00"
-  },
-  "https://techcrunch.com/?p=3125127": {
-    "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
-    "sent_at": "2026-05-25T03:37:19.235425+00:00"
-  },
-  "https://techcrunch.com/?p=3125822": {
-    "title": "Everyone is navigating AI security in real time — even Google",
-    "sent_at": "2026-05-25T03:37:18.827804+00:00"
-  },
-  "https://www.threads.com/t/DYq5ph1jcvi": {
-    "title": "@feelfree_ai: 구글이 새로 공개한 Gemma 4 온디바이스 런타임 (LiteRT-LM) 성능 데이터를 ᄇ...",
-    "sent_at": "2026-05-24T03:26:34.787235+00:00"
-  },
-  "https://www.threads.com/t/DYri31biOWw": {
-    "title": "@feelfree_ai: 구글이 실제 서비스에 바로 적용할 수 있는 프로덕션 레벨의 AI 에이...",
-    "sent_at": "2026-05-24T03:26:34.223193+00:00"
-  },
-  "https://www.threads.com/t/DYs77pfAWHv": {
-    "title": "@feelfree_ai: 훈련이 끝나는 순간 과거에 갇혀버리는 LLM에게 드디어 실시간으로 ...",
-    "sent_at": "2026-05-24T03:26:33.661584+00:00"
-  },
-  "https://toss.tech/article/post-quantum-cryptography-eng": {
-    "title": "Why We Adopted Post-Quantum Cryptography a Decade Before Quantum Computers Arrive",
-    "sent_at": "2026-05-24T03:26:21.551552+00:00"
-  },
-  "https://techcrunch.com/?p=3125279": {
-    "title": "Elon Musk has given up on solar power (on Earth)",
-    "sent_at": "2026-05-24T03:26:07.093931+00:00"
-  },
-  "https://techcrunch.com/?p=3125590": {
-    "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
-    "sent_at": "2026-05-24T03:26:06.420118+00:00"
-  },
-  "https://techcrunch.com/?p=3125548": {
-    "title": "Ferrari is using IBM’s AI to create F1 superfans",
-    "sent_at": "2026-05-24T03:26:05.858632+00:00"
-  },
-  "https://techcrunch.com/?p=3123789": {
-    "title": "These special phone and app features can help protect you from spyware",
-    "sent_at": "2026-05-24T03:26:05.300039+00:00"
-  },
-  "https://techcrunch.com/?p=3125780": {
-    "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
-    "sent_at": "2026-05-24T03:26:04.746435+00:00"
-  },
-  "https://www.threads.com/t/DYo-D8nALbm": {
-    "title": "@feelfree_ai: 거대 LLM 학습 필수 기술인 μP의 진짜 비밀, 알고 보니 복잡한 수식ᄇ...",
-    "sent_at": "2026-05-23T02:49:03.964997+00:00"
-  },
-  "https://www.threads.com/t/DYqQe3zjaJt": {
-    "title": "@feelfree_ai: AI 에이전트한테 API 키 직접 쥐여주는 거, 솔직히 보안 생각하면 항...",
-    "sent_at": "2026-05-23T02:49:03.559732+00:00"
   }
 }
