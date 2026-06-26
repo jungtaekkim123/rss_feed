@@ -1,4 +1,72 @@
 {
+  "https://www.threads.com/t/DZ_yCk2AdJ7": {
+    "title": "@feelfree_ai: \"의료 AI의 신뢰는 결코 밀실에서 만들어질 수 없습니다.\" 프랑스 헤...",
+    "sent_at": "2026-06-26T03:31:14.143719+00:00"
+  },
+  "https://www.threads.com/t/DaAfP2bAT8e": {
+    "title": "@feelfree_ai: AI 코딩 에이전트가 빛의 속도로 쏟아내는 커밋들, 사람이 일일이 ᄅ...",
+    "sent_at": "2026-06-26T03:31:13.518189+00:00"
+  },
+  "https://www.threads.com/t/DaBpqeDjySx": {
+    "title": "@feelfree_ai: LLM 에이전트의 메모리는 이미 단순 검색을 넘어 거대한 데이터 시스ᄐ...",
+    "sent_at": "2026-06-26T03:31:12.977460+00:00"
+  },
+  "https://toss.tech/article/50893": {
+    "title": "누군가는 토스를 테스트하는 동안, 우리는 테스트하는 법을 만듭니다.",
+    "sent_at": "2026-06-26T03:31:00.379729+00:00"
+  },
+  "6BmERiKIIt4pIJoFmNy7Jn": {
+    "title": "How we built saga rollbacks for Cloudflare Workflows",
+    "sent_at": "2026-06-26T03:30:54.943879+00:00"
+  },
+  "https://huggingface.co/blog/allenai/hybrid-token-prediction": {
+    "title": "Which tokens does a hybrid model predict better?",
+    "sent_at": "2026-06-26T03:30:52.590782+00:00"
+  },
+  "https://huggingface.co/blog/vllm-jobs": {
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "sent_at": "2026-06-26T03:30:52.026084+00:00"
+  },
+  "https://blogs.nvidia.com/?p=95467": {
+    "title": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
+    "sent_at": "2026-06-26T03:30:49.909048+00:00"
+  },
+  "https://engineering.fb.com/?p=24095": {
+    "title": "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study",
+    "sent_at": "2026-06-26T03:30:48.878311+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/": {
+    "title": "Our latest Google Finance upgrades, including a new app",
+    "sent_at": "2026-06-26T03:30:47.834096+00:00"
+  },
+  "https://openai.com/index/how-agents-are-transforming-work": {
+    "title": "How agents are transforming work",
+    "sent_at": "2026-06-26T03:30:46.826096+00:00"
+  },
+  "https://github.blog/?p=97041": {
+    "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+    "sent_at": "2026-06-26T03:30:36.710971+00:00"
+  },
+  "https://techcrunch.com/?p=3136464": {
+    "title": "Xbox follows Apple with price increases",
+    "sent_at": "2026-06-26T03:30:35.752170+00:00"
+  },
+  "https://techcrunch.com/?p=3136473": {
+    "title": "Polymarket says hackers stole users’ funds",
+    "sent_at": "2026-06-26T03:30:35.154983+00:00"
+  },
+  "https://techcrunch.com/?p=3136499": {
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "sent_at": "2026-06-26T03:30:34.615659+00:00"
+  },
+  "https://techcrunch.com/?p=3136461": {
+    "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+    "sent_at": "2026-06-26T03:30:34.054890+00:00"
+  },
+  "https://techcrunch.com/?p=3136540": {
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "sent_at": "2026-06-26T03:30:33.491797+00:00"
+  },
   "https://www.threads.com/t/DZ9xxJsAbEy": {
     "title": "@feelfree_ai: 이제 LLM이 환경 안에서 행동하는 것을 넘어, 웹이나 OS 등 7가지 에이...",
     "sent_at": "2026-06-25T02:59:37.111535+00:00"
@@ -1930,73 +1998,5 @@
   "0ee7dfc37504dc5243ef8d11d0d6403603ea0b17": {
     "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
     "sent_at": "2026-05-26T02:56:48.252710+00:00"
-  },
-  "https://huggingface.co/blog/agent-glossary": {
-    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-    "sent_at": "2026-05-26T02:56:46.364016+00:00"
-  },
-  "https://openai.com/index/grupo-folha-grupo-uol-partnership": {
-    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-    "sent_at": "2026-05-26T02:56:44.423428+00:00"
-  },
-  "https://goddaehee.tistory.com/608": {
-    "title": "Antigravity CLI(agy)로 넘어가는 기초 사용법과 마이그레이션 : Gemini CLI 종료(2026년 6월 18일)",
-    "sent_at": "2026-05-26T02:56:39.862096+00:00"
-  },
-  "https://goddaehee.tistory.com/609": {
-    "title": "Codex Mac App 가이드(2) : Codex App 원격 제어 방법 : 모바일 제어 부터 다른 기기 제어, SSH 원격 연결까지",
-    "sent_at": "2026-05-26T02:56:39.411092+00:00"
-  },
-  "https://github.blog/?p=96273": {
-    "title": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
-    "sent_at": "2026-05-26T02:56:31.423561+00:00"
-  },
-  "https://techcrunch.com/?p=3125848": {
-    "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
-    "sent_at": "2026-05-26T02:56:30.793965+00:00"
-  },
-  "https://techcrunch.com/?p=3125834": {
-    "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
-    "sent_at": "2026-05-26T02:56:30.361292+00:00"
-  },
-  "https://techcrunch.com/?p=3122173": {
-    "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
-    "sent_at": "2026-05-26T02:56:29.918439+00:00"
-  },
-  "https://techcrunch.com/?p=3125866": {
-    "title": "The pope’s AI encyclical isn’t really about AI",
-    "sent_at": "2026-05-26T02:56:29.475164+00:00"
-  },
-  "https://techcrunch.com/?p=3125761": {
-    "title": "What ClickUp’s mass layoff tells us about the future of work",
-    "sent_at": "2026-05-26T02:56:29.031040+00:00"
-  },
-  "https://www.threads.com/t/DYteh2uAHh0": {
-    "title": "@feelfree_ai: Claude Code와 MCP 조합으로 이제 터미널에서 보안 취약점을 자율적으로 탐...",
-    "sent_at": "2026-05-25T03:37:55.356583+00:00"
-  },
-  "https://www.threads.com/t/DYuHtdgiuCC": {
-    "title": "@feelfree_ai: 엔비디아가 모델 구조 변경이나 추가 학습 없이, '어텐션 마스크' 조ᄌ...",
-    "sent_at": "2026-05-25T03:37:54.934314+00:00"
-  },
-  "https://www.threads.com/t/DYvFdvvCE3v": {
-    "title": "@feelfree_ai: 처음부터 다시 학습시키지 않고도, 기존 Llama나 Qwen 같은 트랜스포머 모...",
-    "sent_at": "2026-05-25T03:37:54.502177+00:00"
-  },
-  "https://www.threads.com/t/DYvuq5Cj7KA": {
-    "title": "@feelfree_ai: 최근 가장 핫한 딥시크(DeepSeek)의 핵심 기술인 Sparse Attention(DSA)을 바닥부...",
-    "sent_at": "2026-05-25T03:37:54.084747+00:00"
-  },
-  "https://techcrunch.com/?p=3122419": {
-    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-    "sent_at": "2026-05-25T03:37:20.500860+00:00"
-  },
-  "https://techcrunch.com/?p=3125639": {
-    "title": "TechCrunch Mobility: Robotaxi reality check",
-    "sent_at": "2026-05-25T03:37:20.058704+00:00"
-  },
-  "https://techcrunch.com/?p=3120725": {
-    "title": "6 kitchen gadgets that make adulting feel easier",
-    "sent_at": "2026-05-25T03:37:19.646903+00:00"
   }
 }
