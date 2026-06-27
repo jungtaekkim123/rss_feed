@@ -1,4 +1,48 @@
 {
+  "https://www.threads.com/t/DaCZ1U9gaWf": {
+    "title": "@feelfree_ai: 어제 허깅페이스에서 Llama.cpp 최적화 및 양자화 기술을 바탕으로 Pi나 OpenCl...",
+    "sent_at": "2026-06-27T02:54:10.417658+00:00"
+  },
+  "https://www.threads.com/t/DaC-HsbAe5k": {
+    "title": "@feelfree_ai: Claude Code를 쓰다가 OpenClaw로 툴을 바꿔도, AI가 이전 작업 맥락을 잊지 아...",
+    "sent_at": "2026-06-27T02:54:10.030597+00:00"
+  },
+  "https://www.threads.com/t/DaEgppbAfia": {
+    "title": "@feelfree_ai: 어제 구글이 블로그로 이미 다 만들어진 AI 모델을 뜯어고치지 않고ᄃ...",
+    "sent_at": "2026-06-27T02:54:09.647899+00:00"
+  },
+  "https://openai.com/index/previewing-gpt-5-6-sol": {
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "sent_at": "2026-06-27T02:53:50.688257+00:00"
+  },
+  "https://github.blog/?p=97031": {
+    "title": "Transitioning as a Hubber",
+    "sent_at": "2026-06-27T02:53:38.302809+00:00"
+  },
+  "https://github.blog/?p=97118": {
+    "title": "GitHub and UNDP team up to advance development priorities in Ghana with open source",
+    "sent_at": "2026-06-27T02:53:37.924995+00:00"
+  },
+  "https://techcrunch.com/?p=3136773": {
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "sent_at": "2026-06-27T02:53:36.180756+00:00"
+  },
+  "https://techcrunch.com/?p=3136777": {
+    "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
+    "sent_at": "2026-06-27T02:53:35.801986+00:00"
+  },
+  "https://techcrunch.com/?p=3136556": {
+    "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+    "sent_at": "2026-06-27T02:53:35.424189+00:00"
+  },
+  "https://techcrunch.com/?p=3136946": {
+    "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+    "sent_at": "2026-06-27T02:53:35.050293+00:00"
+  },
+  "https://techcrunch.com/?p=3136944": {
+    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+    "sent_at": "2026-06-27T02:53:34.664911+00:00"
+  },
   "https://www.threads.com/t/DZ_yCk2AdJ7": {
     "title": "@feelfree_ai: \"의료 AI의 신뢰는 결코 밀실에서 만들어질 수 없습니다.\" 프랑스 헤...",
     "sent_at": "2026-06-26T03:31:14.143719+00:00"
@@ -1954,49 +1998,5 @@
   "https://www.threads.com/t/DYyeDvVkluA": {
     "title": "@feelfree_ai: 에이전트 오래 돌릴 때 토큰 질질 새는 문제, 텐센트가 이번에 공...",
     "sent_at": "2026-05-27T03:36:52.045297+00:00"
-  },
-  "https://www.threads.com/t/DYy8ovskvme": {
-    "title": "@feelfree_ai: 새로운 태스크를 가르칠 때 모델이 기존 능력을 망각하는 진짜 ᄋ...",
-    "sent_at": "2026-05-27T03:36:51.543597+00:00"
-  },
-  "https://www.threads.com/t/DYzfnreAcX5": {
-    "title": "@feelfree_ai: AI 에이전트가 사고 칠까 봐 도입을 망설이던 기업들이 딱 반길 마...",
-    "sent_at": "2026-05-27T03:36:51.050712+00:00"
-  },
-  "https://www.threads.com/t/DY0cx5Fk7Vp": {
-    "title": "@feelfree_ai: Unsloth Studio에서 이제 GPT 5.5랑 클로드 4.7 같은 외부 API 모델도 한 곳에 묶어ᄉ...",
-    "sent_at": "2026-05-27T03:36:50.548637+00:00"
-  },
-  "https://blogs.nvidia.com/?p=93322": {
-    "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
-    "sent_at": "2026-05-27T03:36:29.910643+00:00"
-  },
-  "https://techcrunch.com/?p=3126251": {
-    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-    "sent_at": "2026-05-27T03:36:18.039981+00:00"
-  },
-  "https://techcrunch.com/?p=3126172": {
-    "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
-    "sent_at": "2026-05-27T03:36:17.488787+00:00"
-  },
-  "https://techcrunch.com/?p=3126199": {
-    "title": "Trump administration permits Volvo to keep selling connected cars in the US",
-    "sent_at": "2026-05-27T03:36:17.011799+00:00"
-  },
-  "https://techcrunch.com/?p=3107547": {
-    "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
-    "sent_at": "2026-05-27T03:36:16.516919+00:00"
-  },
-  "https://techcrunch.com/?p=3126250": {
-    "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
-    "sent_at": "2026-05-27T03:36:16.028307+00:00"
-  },
-  "https://d2.naver.com/helloworld/2017402": {
-    "title": "비개발자의 AI 협업 도전기 — 생산성 측정하려다 서버까지 띄운 9일",
-    "sent_at": "2026-05-26T02:56:51.011207+00:00"
-  },
-  "0ee7dfc37504dc5243ef8d11d0d6403603ea0b17": {
-    "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
-    "sent_at": "2026-05-26T02:56:48.252710+00:00"
   }
 }
