@@ -1,4 +1,32 @@
 {
+  "https://www.threads.com/t/DaEwwfHgS2U": {
+    "title": "@feelfree_ai: 딥시크(DeepSeek) 같은 거대 MoE 모델 추론 시 발생하는 고질적인 런타ᄋ...",
+    "sent_at": "2026-06-28T03:36:52.124692+00:00"
+  },
+  "https://www.threads.com/t/DaFc_LHAS4J": {
+    "title": "@feelfree_ai: 요즘 엔지니어들은 더 이상 수동으로 프롬프트를 깎지 않고, AI가 스...",
+    "sent_at": "2026-06-28T03:36:51.728893+00:00"
+  },
+  "https://techcrunch.com/?p=3136677": {
+    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+    "sent_at": "2026-06-28T03:36:22.356307+00:00"
+  },
+  "https://techcrunch.com/?p=3136695": {
+    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+    "sent_at": "2026-06-28T03:36:21.969731+00:00"
+  },
+  "https://techcrunch.com/?p=3136981": {
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "sent_at": "2026-06-28T03:36:21.575071+00:00"
+  },
+  "https://techcrunch.com/?p=3136985": {
+    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+    "sent_at": "2026-06-28T03:36:21.188180+00:00"
+  },
+  "https://techcrunch.com/?p=3136988": {
+    "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
+    "sent_at": "2026-06-28T03:36:20.800440+00:00"
+  },
   "https://www.threads.com/t/DaCZ1U9gaWf": {
     "title": "@feelfree_ai: 어제 허깅페이스에서 Llama.cpp 최적화 및 양자화 기술을 바탕으로 Pi나 OpenCl...",
     "sent_at": "2026-06-27T02:54:10.417658+00:00"
@@ -1970,33 +1998,5 @@
   "https://openai.com/index/cisco": {
     "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
     "sent_at": "2026-05-28T02:55:51.569406+00:00"
-  },
-  "https://goddaehee.tistory.com/610": {
-    "title": "Gemini in Chrome 사용방법 - Gemini in Chrome vs 확장 프로그램 : 탭 전환 없이 멀티탭 교차 분석",
-    "sent_at": "2026-05-28T02:55:45.613798+00:00"
-  },
-  "https://techcrunch.com/?p=3126638": {
-    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-    "sent_at": "2026-05-28T02:55:38.822729+00:00"
-  },
-  "https://techcrunch.com/?p=3126771": {
-    "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
-    "sent_at": "2026-05-28T02:55:38.451395+00:00"
-  },
-  "https://techcrunch.com/?p=3126775": {
-    "title": "Rivian will deliver the first R2 SUVs on June 9",
-    "sent_at": "2026-05-28T02:55:38.077002+00:00"
-  },
-  "https://techcrunch.com/?p=3126837": {
-    "title": "Why Google’s AI can’t spell Google (or anything else)",
-    "sent_at": "2026-05-28T02:55:37.695611+00:00"
-  },
-  "https://techcrunch.com/?p=3126937": {
-    "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
-    "sent_at": "2026-05-28T02:55:37.311502+00:00"
-  },
-  "https://www.threads.com/t/DYyeDvVkluA": {
-    "title": "@feelfree_ai: 에이전트 오래 돌릴 때 토큰 질질 새는 문제, 텐센트가 이번에 공...",
-    "sent_at": "2026-05-27T03:36:52.045297+00:00"
   }
 }
