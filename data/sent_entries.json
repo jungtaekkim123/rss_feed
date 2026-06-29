@@ -1,4 +1,52 @@
 {
+  "https://www.threads.com/t/DaHV3skk7nz": {
+    "title": "@feelfree_ai: 설정 파일 한 줄 건들지 않고 AI 게이트웨이 처리량을 15배나 올리느...",
+    "sent_at": "2026-06-29T03:41:24.621263+00:00"
+  },
+  "https://www.threads.com/t/DaH4I5kk98U": {
+    "title": "@feelfree_ai: LLM이 내놓은 평가 점수, 도대체 왜 이 점수인지 몰라서 답답하셨다ᄆ...",
+    "sent_at": "2026-06-29T03:41:24.221903+00:00"
+  },
+  "https://www.threads.com/t/DaJMBVrE2mu": {
+    "title": "@feelfree_ai: 보안 문제로 사내 데이터의 AI 연동을 고민하셨다면, OpenAI가 최근 공ᄀ...",
+    "sent_at": "2026-06-29T03:41:23.820071+00:00"
+  },
+  "https://www.threads.com/t/DaJz8tZgZhf": {
+    "title": "@feelfree_ai: GitHub Copilot이 네이티브 모델들과 맞붙은 벤치마크 결과, 동일한 작어...",
+    "sent_at": "2026-06-29T03:41:23.428981+00:00"
+  },
+  "https://d2.naver.com/helloworld/9227131": {
+    "title": "End to End 유저 모니터링 RUM 으로 한방에 해결!!",
+    "sent_at": "2026-06-29T03:41:08.095849+00:00"
+  },
+  "https://openai.com/index/hp-frontier-partnership": {
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "sent_at": "2026-06-29T03:41:02.698156+00:00"
+  },
+  "https://goddaehee.tistory.com/615": {
+    "title": "LazyCodex 사용 방법 : LazyCodex란? ultrawork, ulw-loop, 멀티모델 라우팅, 토큰 비용까지(LazyCodex Light Edition과 OmO Ultimate의 차이)",
+    "sent_at": "2026-06-29T03:40:58.414252+00:00"
+  },
+  "https://techcrunch.com/?p=3136862": {
+    "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+    "sent_at": "2026-06-29T03:40:51.207253+00:00"
+  },
+  "https://techcrunch.com/?p=3136857": {
+    "title": "TechCrunch Mobility: All eyes on Tesla FSD",
+    "sent_at": "2026-06-29T03:40:50.820115+00:00"
+  },
+  "https://techcrunch.com/?p=3137006": {
+    "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
+    "sent_at": "2026-06-29T03:40:50.401352+00:00"
+  },
+  "https://techcrunch.com/?p=3137021": {
+    "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+    "sent_at": "2026-06-29T03:40:50.012974+00:00"
+  },
+  "https://techcrunch.com/?p=3137041": {
+    "title": "California law targeting loud streaming ads takes effect on July 1",
+    "sent_at": "2026-06-29T03:40:49.593933+00:00"
+  },
   "https://www.threads.com/t/DaEwwfHgS2U": {
     "title": "@feelfree_ai: 딥시크(DeepSeek) 같은 거대 MoE 모델 추론 시 발생하는 고질적인 런타ᄋ...",
     "sent_at": "2026-06-28T03:36:52.124692+00:00"
@@ -1950,53 +1998,5 @@
   "https://techcrunch.com/?p=3127613": {
     "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
     "sent_at": "2026-05-29T03:24:36.842464+00:00"
-  },
-  "https://techcrunch.com/?p=3127620": {
-    "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
-    "sent_at": "2026-05-29T03:24:36.407382+00:00"
-  },
-  "1dbcfe788aeef8c99f13abab87cac5b8c7c70477": {
-    "title": "Meet Our Newest AWS Heroes – May 2026",
-    "sent_at": "2026-05-28T02:56:00.185687+00:00"
-  },
-  "5VkjKrKCgZPffHiZoeDsKW": {
-    "title": "Iran's Internet is partially restored, Cloudflare Radar data shows",
-    "sent_at": "2026-05-28T02:55:59.492437+00:00"
-  },
-  "https://huggingface.co/blog/delta-weight-sync": {
-    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-    "sent_at": "2026-05-28T02:55:58.055772+00:00"
-  },
-  "https://huggingface.co/blog/local-reachy-mini-conversation": {
-    "title": "Reachy Mini goes fully local",
-    "sent_at": "2026-05-28T02:55:57.683676+00:00"
-  },
-  "https://huggingface.co/blog/ibm-research/itbench-aa": {
-    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-    "sent_at": "2026-05-28T02:55:57.314461+00:00"
-  },
-  "https://blogs.nvidia.com/?p=92977": {
-    "title": "AI Factories: The New Infrastructure of Intelligence",
-    "sent_at": "2026-05-28T02:55:54.404530+00:00"
-  },
-  "https://engineering.fb.com/?p=23988": {
-    "title": "SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems",
-    "sent_at": "2026-05-28T02:55:53.675385+00:00"
-  },
-  "https://openai.com/index/election-safeguards-2026": {
-    "title": "Election information and safeguards in 2026",
-    "sent_at": "2026-05-28T02:55:52.702023+00:00"
-  },
-  "https://openai.com/index/warp": {
-    "title": "Warp’s big bet on building open source with GPT-5.5",
-    "sent_at": "2026-05-28T02:55:52.327774+00:00"
-  },
-  "https://openai.com/index/building-self-improving-tax-agents-with-codex": {
-    "title": "Building self-improving tax agents with Codex",
-    "sent_at": "2026-05-28T02:55:51.942422+00:00"
-  },
-  "https://openai.com/index/cisco": {
-    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-    "sent_at": "2026-05-28T02:55:51.569406+00:00"
   }
 }
