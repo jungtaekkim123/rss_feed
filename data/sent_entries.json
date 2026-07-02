@@ -1,4 +1,92 @@
 {
+  "https://www.threads.com/t/DaPHAMIkjPx": {
+    "title": "@feelfree_ai: \"이 AI 모델 내 PC에서 돌아갈까?\" 매번 고민하셨다면, 이제 허깅페이스ᄋ...",
+    "sent_at": "2026-07-02T03:23:45.557346+00:00"
+  },
+  "https://www.threads.com/t/DaPquQugX_9": {
+    "title": "@feelfree_ai: FAISS가 이미 꽉 잡고 있는 벡터 검색 시장에 극강의 모듈화와 성느...",
+    "sent_at": "2026-07-02T03:23:44.969868+00:00"
+  },
+  "https://www.threads.com/t/DaRNapXge5q": {
+    "title": "@feelfree_ai: 매번 코드 바뀔 때마다 문서 수정하는 귀찮은 작업, 이제 AI에게 온ᄌ...",
+    "sent_at": "2026-07-02T03:23:44.412763+00:00"
+  },
+  "25f64a6bf2f8d46827f51c3f9dcc34b99f7955fd": {
+    "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
+    "sent_at": "2026-07-02T03:23:25.625970+00:00"
+  },
+  "3wrqj94tEFsKCZ8OBUE52R": {
+    "title": "Unmasking the crawls with Attribution Business Insights",
+    "sent_at": "2026-07-02T03:23:24.514221+00:00"
+  },
+  "FWKHybUFEZFSsFCrbEwAd": {
+    "title": "Your site, your rules: new AI traffic options for all customers",
+    "sent_at": "2026-07-02T03:23:23.970502+00:00"
+  },
+  "YqZRSH26JlDBUNvwASOr2": {
+    "title": "Making AI search smarter",
+    "sent_at": "2026-07-02T03:23:23.331174+00:00"
+  },
+  "3qEwyKxigFNDK4JTlPfl8A": {
+    "title": "Content Independence Day, one year on: building the business model for the agentic Internet",
+    "sent_at": "2026-07-02T03:23:22.782269+00:00"
+  },
+  "6dNg0U03j4cnbacP8txDok": {
+    "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
+    "sent_at": "2026-07-02T03:23:22.158530+00:00"
+  },
+  "https://engineering.atspotify.com/?p=2zovdZH0l6DqvR2015Vw6b": {
+    "title": "Building a Natural Language Interface to the Spotify Ads API with Claude Code Plugins",
+    "sent_at": "2026-07-02T03:23:16.607691+00:00"
+  },
+  "https://huggingface.co/blog/cerebras-gemma4-voice-ai": {
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "sent_at": "2026-07-02T03:23:14.955689+00:00"
+  },
+  "https://blogs.nvidia.com/?p=95626": {
+    "title": "NVIDIA and Partners Build in America, for America",
+    "sent_at": "2026-07-02T03:23:13.970723+00:00"
+  },
+  "https://engineering.fb.com/?p=24150": {
+    "title": "Meta’s AI Storage Blueprint at Scale",
+    "sent_at": "2026-07-02T03:23:13.023562+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/": {
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "sent_at": "2026-07-02T03:23:12.111952+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/": {
+    "title": "The latest AI news we announced in June 2026",
+    "sent_at": "2026-07-02T03:23:11.530331+00:00"
+  },
+  "https://goddaehee.tistory.com/617": {
+    "title": "Claude Sonnet 5 출시 : 공식 문서 살펴보기(주요 변화, 가격, 모델 ID, 플랜별 접근성, 1M 컨텍스트 등)",
+    "sent_at": "2026-07-02T03:23:03.488868+00:00"
+  },
+  "https://github.blog/?p=97204": {
+    "title": "6 security settings every GitHub maintainer should enable this week",
+    "sent_at": "2026-07-02T03:22:57.026565+00:00"
+  },
+  "https://techcrunch.com/?p=3138250": {
+    "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+    "sent_at": "2026-07-02T03:22:56.107139+00:00"
+  },
+  "https://techcrunch.com/?p=3138390": {
+    "title": "WhatsApp usernames are already raising impersonation red flags",
+    "sent_at": "2026-07-02T03:22:55.561864+00:00"
+  },
+  "https://techcrunch.com/?p=3138160": {
+    "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
+    "sent_at": "2026-07-02T03:22:55.009554+00:00"
+  },
+  "https://techcrunch.com/?p=3138404": {
+    "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+    "sent_at": "2026-07-02T03:22:54.463177+00:00"
+  },
+  "https://techcrunch.com/?p=3138400": {
+    "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+    "sent_at": "2026-07-02T03:22:53.885896+00:00"
+  },
   "https://www.threads.com/t/DaNJ7xjgUXM": {
     "title": "@feelfree_ai: 매번 로컬 우분투 환경에서 CUDA 버전 맞추며 끙끙댈 필요 없이, 며...",
     "sent_at": "2026-07-01T03:38:24.428808+00:00"
@@ -1910,93 +1998,5 @@
   "https://d2.naver.com/helloworld/9290861": {
     "title": "Inside VictoriaMetrics",
     "sent_at": "2026-06-02T03:44:34.148762+00:00"
-  },
-  "8cd093ad3999b4d87a9e89ed6c6fb7c03ac6f5a0": {
-    "title": "AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)",
-    "sent_at": "2026-06-02T03:44:31.775647+00:00"
-  },
-  "b899502355a6fd291fccabfaf1fa4db3c1b64d8f": {
-    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
-    "sent_at": "2026-06-02T03:44:31.291446+00:00"
-  },
-  "14SzggagKjSpBr8SZxHcYL": {
-    "title": "How we reduced core unit boot time from hours to minutes",
-    "sent_at": "2026-06-02T03:44:29.469485+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai": {
-    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-    "sent_at": "2026-06-02T03:44:27.868838+00:00"
-  },
-  "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption": {
-    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-    "sent_at": "2026-06-02T03:44:27.392085+00:00"
-  },
-  "https://huggingface.co/blog/JetBrains/mellum2-launch": {
-    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-    "sent_at": "2026-06-02T03:44:26.910197+00:00"
-  },
-  "https://blogs.nvidia.com/?p=93630": {
-    "title": "How Cosmos 3 Helps Physical AI Think Before It Acts",
-    "sent_at": "2026-06-02T03:44:23.756937+00:00"
-  },
-  "https://blogs.nvidia.com/?p=93564": {
-    "title": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA",
-    "sent_at": "2026-06-02T03:44:23.265198+00:00"
-  },
-  "https://blogs.nvidia.com/?p=93609": {
-    "title": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
-    "sent_at": "2026-06-02T03:44:22.728935+00:00"
-  },
-  "https://blogs.nvidia.com/?p=93648": {
-    "title": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
-    "sent_at": "2026-06-02T03:44:22.237927+00:00"
-  },
-  "https://blogs.nvidia.com/?p=93325": {
-    "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
-    "sent_at": "2026-06-02T03:44:21.759087+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/": {
-    "title": "How we used Gemini to build Google I/O 2026",
-    "sent_at": "2026-06-02T03:44:16.401449+00:00"
-  },
-  "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": {
-    "title": "OpenAI frontier models and Codex are now available on AWS",
-    "sent_at": "2026-06-02T03:44:15.338665+00:00"
-  },
-  "https://openai.com/index/stargate-michigan-data-center": {
-    "title": "Building the infrastructure for the Intelligence Age in Michigan",
-    "sent_at": "2026-06-02T03:44:14.863248+00:00"
-  },
-  "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
-    "title": "Our views on AI policy and political advocacy",
-    "sent_at": "2026-06-02T03:44:14.363316+00:00"
-  },
-  "https://techcrunch.com/?p=3115038": {
-    "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
-    "sent_at": "2026-06-02T03:44:02.751892+00:00"
-  },
-  "https://techcrunch.com/?p=3128355": {
-    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-    "sent_at": "2026-06-02T03:44:02.272684+00:00"
-  },
-  "https://techcrunch.com/?p=3128206": {
-    "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
-    "sent_at": "2026-06-02T03:44:01.740671+00:00"
-  },
-  "https://techcrunch.com/?p=3128500": {
-    "title": "Alphabet plans to raise $80B to pay for AI buildout",
-    "sent_at": "2026-06-02T03:44:01.250763+00:00"
-  },
-  "https://techcrunch.com/?p=3110945": {
-    "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
-    "sent_at": "2026-06-02T03:44:00.765203+00:00"
-  },
-  "https://www.threads.com/t/DY_2oe0gbHv": {
-    "title": "@feelfree_ai: ChatGPT가 요약해 준 글 사이에 감쪽같은 가짜 보안 알림과 피싱 링ᄏ...",
-    "sent_at": "2026-06-01T03:52:39.627377+00:00"
-  },
-  "https://www.threads.com/t/DZBLmAwE9WW": {
-    "title": "@feelfree_ai: 에이전트 구현보다 진짜 어려운 게 '평가'와 '디버깅'인데, 이걸 제대ᄅ...",
-    "sent_at": "2026-06-01T03:52:39.193868+00:00"
   }
 }
