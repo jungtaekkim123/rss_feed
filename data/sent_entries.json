@@ -1,4 +1,36 @@
 {
+  "https://www.threads.com/t/DaUpVWDASkG": {
+    "title": "@feelfree_ai: 이제는 AI가 LLM 추론 엔진의 성능 최적화까지 직접 해결하는 시대가...",
+    "sent_at": "2026-07-04T02:41:46.849436+00:00"
+  },
+  "https://www.threads.com/t/DaU5wWLjjkH": {
+    "title": "@feelfree_ai: AI 에이전트에게 무거운 원시 데이터를 통째로 던져주면 컨텍스트 차...",
+    "sent_at": "2026-07-04T02:41:46.237567+00:00"
+  },
+  "https://www.threads.com/t/DaWY1LjgY9m": {
+    "title": "@feelfree_ai: 현업에서 수백만 번 돌아가는 AI 에이전트들, 정작 실전 데이터ᄋ...",
+    "sent_at": "2026-07-04T02:41:45.637946+00:00"
+  },
+  "https://techcrunch.com/?p=3138739": {
+    "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+    "sent_at": "2026-07-04T02:41:17.910975+00:00"
+  },
+  "https://techcrunch.com/?p=3138306": {
+    "title": "Chevy built an all-American EV truck — why is nobody buying it?",
+    "sent_at": "2026-07-04T02:41:17.279116+00:00"
+  },
+  "https://techcrunch.com/?p=3134572": {
+    "title": "The Dune keypad device can be your meeting controller and more",
+    "sent_at": "2026-07-04T02:41:16.676647+00:00"
+  },
+  "https://techcrunch.com/?p=3026701": {
+    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+    "sent_at": "2026-07-04T02:41:16.053835+00:00"
+  },
+  "https://techcrunch.com/?p=2973217": {
+    "title": "The only AI glossary you’ll need this year",
+    "sent_at": "2026-07-04T02:41:15.436054+00:00"
+  },
   "https://www.threads.com/t/DaRt8sqAfE4": {
     "title": "@feelfree_ai: LLM에 데이터를 무작정 다 때려 넣고 학습시키는 게 과연 정답일까ᄋ...",
     "sent_at": "2026-07-03T02:46:10.401073+00:00"
@@ -1966,37 +1998,5 @@
   "https://www.threads.com/t/DZEixf2k2Xy": {
     "title": "@feelfree_ai: Unsloth에서 MCP 가이드를 공개했습니다. 로컬 환경에서 LLM 활용하시는 ᄇ...",
     "sent_at": "2026-06-03T03:55:07.723821+00:00"
-  },
-  "https://www.threads.com/t/DZFXKw1AYUn": {
-    "title": "@feelfree_ai: 엔비디아가 이번 GTC 타이베이에서 '코스모스 3(Cosmos 3)'를 공개했는데, 이제...",
-    "sent_at": "2026-06-03T03:55:07.176686+00:00"
-  },
-  "https://www.threads.com/t/DZGamoKkofY": {
-    "title": "@feelfree_ai: 내 윈도우 노트북에서도 마이크로소프트의 최신 AI 모델을 가볍고 빠르ᄀ...",
-    "sent_at": "2026-06-03T03:55:06.633673+00:00"
-  },
-  "https://www.threads.com/t/DZG6sDhAQMy": {
-    "title": "@feelfree_ai: 내 컴퓨터 사양에서 버벅이지 않고 실제로 돌아가는 최적의 로컬 LLMᄋ...",
-    "sent_at": "2026-06-03T03:55:06.078738+00:00"
-  },
-  "https://huggingface.co/blog/Hcompany/holo31": {
-    "title": "Holo3.1: Fast & Local Computer Use Agents",
-    "sent_at": "2026-06-03T03:54:46.884434+00:00"
-  },
-  "https://blogs.nvidia.com/?p=93845": {
-    "title": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
-    "sent_at": "2026-06-03T03:54:45.829667+00:00"
-  },
-  "https://blogs.nvidia.com/?p=93860": {
-    "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
-    "sent_at": "2026-06-03T03:54:45.280150+00:00"
-  },
-  "https://blogs.nvidia.com/?p=93790": {
-    "title": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
-    "sent_at": "2026-06-03T03:54:44.745982+00:00"
-  },
-  "https://openai.com/index/codex-for-knowledge-work": {
-    "title": "Codex is becoming a productivity tool for everyone",
-    "sent_at": "2026-06-03T03:54:40.727602+00:00"
   }
 }
