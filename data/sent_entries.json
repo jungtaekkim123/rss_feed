@@ -1,4 +1,20 @@
 {
+  "https://techcrunch.com/?p=2970347": {
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "sent_at": "2026-07-05T02:52:13.299936+00:00"
+  },
+  "https://techcrunch.com/?p=3138976": {
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "sent_at": "2026-07-05T02:52:12.921052+00:00"
+  },
+  "https://techcrunch.com/?p=3138980": {
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "sent_at": "2026-07-05T02:52:12.541627+00:00"
+  },
+  "https://techcrunch.com/?p=3138982": {
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "sent_at": "2026-07-05T02:52:12.167098+00:00"
+  },
   "https://www.threads.com/t/DaUpVWDASkG": {
     "title": "@feelfree_ai: 이제는 AI가 LLM 추론 엔진의 성능 최적화까지 직접 해결하는 시대가...",
     "sent_at": "2026-07-04T02:41:46.849436+00:00"
@@ -1982,21 +1998,5 @@
   "https://techcrunch.com/?p=3129341": {
     "title": "Uber to put 500 data-collection vehicles on the road this year",
     "sent_at": "2026-06-04T03:48:29.052770+00:00"
-  },
-  "https://techcrunch.com/?post_type=tc_video&p=3129388": {
-    "title": "Defense tech is flooded with money, but who’s built to last?",
-    "sent_at": "2026-06-04T03:48:28.555270+00:00"
-  },
-  "https://techcrunch.com/?p=3129396": {
-    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-    "sent_at": "2026-06-04T03:48:28.052516+00:00"
-  },
-  "https://techcrunch.com/?p=3129127": {
-    "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
-    "sent_at": "2026-06-04T03:48:27.573444+00:00"
-  },
-  "https://www.threads.com/t/DZEixf2k2Xy": {
-    "title": "@feelfree_ai: Unsloth에서 MCP 가이드를 공개했습니다. 로컬 환경에서 LLM 활용하시는 ᄇ...",
-    "sent_at": "2026-06-03T03:55:07.723821+00:00"
   }
 }
