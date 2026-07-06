@@ -1,4 +1,40 @@
 {
+  "https://www.threads.com/t/DaZN42YAZGP": {
+    "title": "@feelfree_ai: AI 코딩 에이전트 쓸 때마다 컨텍스트 토큰이 줄줄 새는 게 아쉬웠느...",
+    "sent_at": "2026-07-06T02:59:31.065014+00:00"
+  },
+  "https://www.threads.com/t/DaZt6h1gZsQ": {
+    "title": "@feelfree_ai: 무거운 비전 모델(VLM)이나 스크린샷 없이, 순수 자바스크립트만으로 ...",
+    "sent_at": "2026-07-06T02:59:30.640818+00:00"
+  },
+  "https://www.threads.com/t/DaaKKuFkchn": {
+    "title": "@feelfree_ai: 엔비디아 리서치에서 사람의 개입 없이 하드웨어 설계(RTL) 벤치마크를 1...",
+    "sent_at": "2026-07-06T02:59:30.235334+00:00"
+  },
+  "https://www.threads.com/t/DabRUL-k3Ym": {
+    "title": "@feelfree_ai: AI 에이전트에게 수많은 툴을 한 번에 던져주면 오히려 길을 잃고 ...",
+    "sent_at": "2026-07-06T02:59:29.840776+00:00"
+  },
+  "https://techcrunch.com/?p=3064419": {
+    "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
+    "sent_at": "2026-07-06T02:58:55.771824+00:00"
+  },
+  "https://techcrunch.com/?p=3138201": {
+    "title": "5 desk gadgets that can make your workday better",
+    "sent_at": "2026-07-06T02:58:55.372987+00:00"
+  },
+  "https://techcrunch.com/?p=3139008": {
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "sent_at": "2026-07-06T02:58:54.973311+00:00"
+  },
+  "https://techcrunch.com/?p=3139015": {
+    "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+    "sent_at": "2026-07-06T02:58:54.586513+00:00"
+  },
+  "https://techcrunch.com/?p=3139023": {
+    "title": "Uber’s European expansion plans may have hit a speed bump",
+    "sent_at": "2026-07-06T02:58:54.188113+00:00"
+  },
   "https://techcrunch.com/?p=2970347": {
     "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
     "sent_at": "2026-07-05T02:52:13.299936+00:00"
@@ -1962,41 +1998,5 @@
   "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots": {
     "title": "Direct Preference Optimization Beyond Chatbots",
     "sent_at": "2026-06-04T03:48:50.558670+00:00"
-  },
-  "https://blogs.nvidia.com/?p=93956": {
-    "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
-    "sent_at": "2026-06-04T03:48:48.517198+00:00"
-  },
-  "https://blogs.nvidia.com/?p=93940": {
-    "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
-    "sent_at": "2026-06-04T03:48:48.034700+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/search/thrifting-tips/": {
-    "title": "5 ways Google Search can level up your thrift and vintage shopping",
-    "sent_at": "2026-06-04T03:48:45.718186+00:00"
-  },
-  "https://openai.com/index/public-policy-agenda": {
-    "title": "OpenAI public policy agenda",
-    "sent_at": "2026-06-04T03:48:44.726263+00:00"
-  },
-  "https://openai.com/index/frontier-safety-blueprint": {
-    "title": "A blueprint for democratic governance of frontier AI",
-    "sent_at": "2026-06-04T03:48:44.240937+00:00"
-  },
-  "https://openai.com/index/wasmer": {
-    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-    "sent_at": "2026-06-04T03:48:43.619821+00:00"
-  },
-  "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind": {
-    "title": "Introducing new capabilities to GPT-Rosalind",
-    "sent_at": "2026-06-04T03:48:43.071705+00:00"
-  },
-  "https://techcrunch.com/?p=3129237": {
-    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-    "sent_at": "2026-06-04T03:48:29.615435+00:00"
-  },
-  "https://techcrunch.com/?p=3129341": {
-    "title": "Uber to put 500 data-collection vehicles on the road this year",
-    "sent_at": "2026-06-04T03:48:29.052770+00:00"
   }
 }
