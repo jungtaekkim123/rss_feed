@@ -1,4 +1,68 @@
 {
+  "https://www.threads.com/t/DacXjrCAVHR": {
+    "title": "@feelfree_ai: 단 한 줄의 코드로 완벽하게 오프라인에서 동작하는 헬스케어 AI 스...",
+    "sent_at": "2026-07-07T02:53:32.259221+00:00"
+  },
+  "https://www.threads.com/t/DaeX7R4gWbR": {
+    "title": "@feelfree_ai: 허깅페이스가 모델과 데이터셋을 넘어, 이제 귀찮은 빌드 과정 없ᄋ...",
+    "sent_at": "2026-07-07T02:53:31.872453+00:00"
+  },
+  "https://d2.naver.com/helloworld/2541696": {
+    "title": "[AI 해커톤 후기] 코드와 문서만 읽은 LLM은 어떻게 사람과 같은 팀을 1위로 골랐을까",
+    "sent_at": "2026-07-07T02:53:17.000752+00:00"
+  },
+  "93f6e85a83e5307a20b77095977f07cd1f1ca301": {
+    "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
+    "sent_at": "2026-07-07T02:53:14.616365+00:00"
+  },
+  "1WYEYtVwQSo4H3jKHTcKmO": {
+    "title": "Your Worker can now have its own cache in front of it",
+    "sent_at": "2026-07-07T02:53:13.823882+00:00"
+  },
+  "https://huggingface.co/blog/revamped-kernels": {
+    "title": "🤗 Kernels: Major Updates",
+    "sent_at": "2026-07-07T02:53:12.156207+00:00"
+  },
+  "https://huggingface.co/blog/Photoroom/prx-part4-data": {
+    "title": "PRX Part 4: Our Data Strategy",
+    "sent_at": "2026-07-07T02:53:11.787973+00:00"
+  },
+  "https://huggingface.co/blog/lerobot-release-v060": {
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "sent_at": "2026-07-07T02:53:11.413202+00:00"
+  },
+  "https://blogs.nvidia.com/?p=95955": {
+    "title": "How Nations Are Deploying AI for Strategic Priorities",
+    "sent_at": "2026-07-07T02:53:08.423270+00:00"
+  },
+  "https://blogs.nvidia.com/?p=95963": {
+    "title": "How Open Models Are Driving AI Research",
+    "sent_at": "2026-07-07T02:53:08.041846+00:00"
+  },
+  "https://goddaehee.tistory.com/619": {
+    "title": "Claude Tag란? @Claude로 업무를 위임하는 Slack 협업 방식(Slack in Claude, Claude Tag는 무엇이 다른가)",
+    "sent_at": "2026-07-07T02:53:00.346163+00:00"
+  },
+  "https://techcrunch.com/?p=3139329": {
+    "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+    "sent_at": "2026-07-07T02:52:53.000844+00:00"
+  },
+  "https://techcrunch.com/?p=3139318": {
+    "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+    "sent_at": "2026-07-07T02:52:52.621146+00:00"
+  },
+  "https://techcrunch.com/?p=3139406": {
+    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+    "sent_at": "2026-07-07T02:52:52.244056+00:00"
+  },
+  "https://techcrunch.com/?p=3139436": {
+    "title": "The ‘first’ AI-run ransomware attack still needed a human",
+    "sent_at": "2026-07-07T02:52:51.868495+00:00"
+  },
+  "https://techcrunch.com/?p=3139394": {
+    "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+    "sent_at": "2026-07-07T02:52:51.497628+00:00"
+  },
   "https://www.threads.com/t/DaZN42YAZGP": {
     "title": "@feelfree_ai: AI 코딩 에이전트 쓸 때마다 컨텍스트 토큰이 줄줄 새는 게 아쉬웠느...",
     "sent_at": "2026-07-06T02:59:31.065014+00:00"
@@ -1934,69 +1998,5 @@
   "https://openai.com/index/biodefense-in-the-intelligence-age": {
     "title": "Biodefense in the Intelligence Age",
     "sent_at": "2026-06-05T03:34:40.019413+00:00"
-  },
-  "https://openai.com/index/chatgpt-memory-dreaming": {
-    "title": "Dreaming: Better memory for a more helpful ChatGPT",
-    "sent_at": "2026-06-05T03:34:39.395705+00:00"
-  },
-  "https://openai.com/index/endava-frontiers": {
-    "title": "How Endava is redesigning software delivery around AI agents",
-    "sent_at": "2026-06-05T03:34:38.848521+00:00"
-  },
-  "https://github.blog/?p=96572": {
-    "title": "GitHub Universe is back: All together now, in the agentic era",
-    "sent_at": "2026-06-05T03:34:28.350216+00:00"
-  },
-  "https://techcrunch.com/?p=3129765": {
-    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-    "sent_at": "2026-06-05T03:34:27.433424+00:00"
-  },
-  "https://techcrunch.com/?p=3129720": {
-    "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
-    "sent_at": "2026-06-05T03:34:26.831999+00:00"
-  },
-  "https://techcrunch.com/?p=3129805": {
-    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-    "sent_at": "2026-06-05T03:34:26.123580+00:00"
-  },
-  "https://techcrunch.com/?p=3129760": {
-    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-    "sent_at": "2026-06-05T03:34:25.574623+00:00"
-  },
-  "https://techcrunch.com/?p=3129764": {
-    "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
-    "sent_at": "2026-06-05T03:34:25.040396+00:00"
-  },
-  "https://www.threads.com/t/DZH4jkigdYS": {
-    "title": "@feelfree_ai: 국내 연구진이 한국 문화와 키워드를 반영해 만든 에이전트 벤ᄎ...",
-    "sent_at": "2026-06-04T03:49:10.554205+00:00"
-  },
-  "https://www.threads.com/t/DZJKDgbEt4s": {
-    "title": "@feelfree_ai: 8GB RAM 환경에서도 이미지, 오디오를 다 처리하면서 256K 컨텍스트까지 지워...",
-    "sent_at": "2026-06-04T03:49:10.065222+00:00"
-  },
-  "https://d2.naver.com/helloworld/0107009": {
-    "title": "비개발자가 한 달 동안 풀스택으로 개발하면서 배운 것",
-    "sent_at": "2026-06-04T03:48:56.560822+00:00"
-  },
-  "ffb6b5eaa7f07ef9c7f8b9dd92ccdd689e10d7ae": {
-    "title": "Improve your application resilience with Amazon Cognito multi-Region replication",
-    "sent_at": "2026-06-04T03:48:54.089863+00:00"
-  },
-  "3DirDATXQ2gKSrJoeWtdTd": {
-    "title": "Enforcing the First AS in BGP AS_PATHs",
-    "sent_at": "2026-06-04T03:48:53.274165+00:00"
-  },
-  "https://engineering.atspotify.com/?p=2d34o9wKbvUemRP62vcSEJ": {
-    "title": "Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify",
-    "sent_at": "2026-06-04T03:48:52.255462+00:00"
-  },
-  "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini": {
-    "title": "Adding MCP Tools to Reachy Mini",
-    "sent_at": "2026-06-04T03:48:51.039110+00:00"
-  },
-  "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots": {
-    "title": "Direct Preference Optimization Beyond Chatbots",
-    "sent_at": "2026-06-04T03:48:50.558670+00:00"
   }
 }
