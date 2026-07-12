@@ -1,4 +1,28 @@
 {
+  "https://www.threads.com/t/DapZPPwCHez": {
+    "title": "@feelfree_ai: 생성형 AI를 깊이 있게 다루다 보면 결국 '수학적 원리'라는 근ᄇ...",
+    "sent_at": "2026-07-12T02:33:28.753606+00:00"
+  },
+  "https://www.threads.com/t/DaqrnwskzCk": {
+    "title": "@feelfree_ai: 기존 GRPO 모델은 긴 궤적(텍스트)을 처리할 때 가장 느린 작업을 ᄀ...",
+    "sent_at": "2026-07-12T02:33:28.208064+00:00"
+  },
+  "https://techcrunch.com/?p=3141184": {
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "sent_at": "2026-07-12T02:33:01.167901+00:00"
+  },
+  "https://techcrunch.com/?p=3140951": {
+    "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+    "sent_at": "2026-07-12T02:33:00.614303+00:00"
+  },
+  "https://techcrunch.com/?p=3141102": {
+    "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+    "sent_at": "2026-07-12T02:33:00.049849+00:00"
+  },
+  "https://techcrunch.com/?p=3141407": {
+    "title": "Reed Jobs would rather talk about curing cancer than his last name",
+    "sent_at": "2026-07-12T02:32:59.547358+00:00"
+  },
   "https://www.threads.com/t/DamYHdBgfTQ": {
     "title": "@feelfree_ai: 웹 브라우저에서 AI 모델을 무려 10배나 빠르게 돌릴 수 있는 구글의 고...",
     "sent_at": "2026-07-11T02:28:08.755823+00:00"
@@ -1974,29 +1998,5 @@
   "https://huggingface.co/blog/github-ci-hf-jobs": {
     "title": "Migrating Your GitHub CI to Hugging Face Jobs",
     "sent_at": "2026-06-10T03:32:48.537384+00:00"
-  },
-  "https://huggingface.co/blog/mishig/spaces-agents-md": {
-    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-    "sent_at": "2026-06-10T03:32:48.050914+00:00"
-  },
-  "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code": {
-    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
-    "sent_at": "2026-06-10T03:32:47.567245+00:00"
-  },
-  "https://huggingface.co/blog/ServiceNow-AI/code-switching": {
-    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-    "sent_at": "2026-06-10T03:32:47.067619+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94324": {
-    "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
-    "sent_at": "2026-06-10T03:32:42.822401+00:00"
-  },
-  "https://openai.com/index/industrial-policy-for-the-intelligence-age": {
-    "title": "Industrial policy for the Intelligence Age",
-    "sent_at": "2026-06-10T03:32:41.340274+00:00"
-  },
-  "https://openai.com/index/notion": {
-    "title": "What Codex unlocks for Notion",
-    "sent_at": "2026-06-10T03:32:40.844359+00:00"
   }
 }
