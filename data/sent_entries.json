@@ -1,4 +1,56 @@
 {
+  "https://www.threads.com/t/Daur2elk0uH": {
+    "title": "@feelfree_ai: 대화 한 번이면 여러 AI 에이전트가 각자의 깃(Git) 브랜치에서 동시에 ᄏ...",
+    "sent_at": "2026-07-14T02:13:52.149981+00:00"
+  },
+  "795943e111b58ed576073f2b1f72bcebff6b9306": {
+    "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
+    "sent_at": "2026-07-14T02:13:35.571784+00:00"
+  },
+  "4208480ff12de823b05e88106fa2cdbe89cd4c2e": {
+    "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
+    "sent_at": "2026-07-14T02:13:35.167608+00:00"
+  },
+  "6ePF6Vl7bAXNNpdFDoFbqs": {
+    "title": "Introducing Precursor: detecting agentic behavior with continuous client-side signals",
+    "sent_at": "2026-07-14T02:13:33.371367+00:00"
+  },
+  "https://medium.com/p/f4b792f3f0d8": {
+    "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
+    "sent_at": "2026-07-14T02:13:32.069243+00:00"
+  },
+  "https://engineering.fb.com/?p=24221": {
+    "title": "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler",
+    "sent_at": "2026-07-14T02:13:30.499528+00:00"
+  },
+  "https://openai.com/academy/getting-started": {
+    "title": "Getting started with ChatGPT",
+    "sent_at": "2026-07-14T02:13:29.481763+00:00"
+  },
+  "https://goddaehee.tistory.com/622": {
+    "title": "GPT-5.6 입문, 완전 기초 | Chat, Codex, Spark 활용 하는 법(Chat&middot;Work&middot;Codex 구분하여 사용하기)",
+    "sent_at": "2026-07-14T02:13:27.300955+00:00"
+  },
+  "https://techcrunch.com/?p=3141632": {
+    "title": "Satya Nadella has issued a shocking warning to companies using AI",
+    "sent_at": "2026-07-14T02:13:20.184200+00:00"
+  },
+  "https://techcrunch.com/?p=3141670": {
+    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+    "sent_at": "2026-07-14T02:13:19.792923+00:00"
+  },
+  "https://techcrunch.com/?p=3141807": {
+    "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+    "sent_at": "2026-07-14T02:13:19.389440+00:00"
+  },
+  "https://techcrunch.com/?p=3141426": {
+    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+    "sent_at": "2026-07-14T02:13:18.766473+00:00"
+  },
+  "https://techcrunch.com/?p=3141573": {
+    "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+    "sent_at": "2026-07-14T02:13:18.374543+00:00"
+  },
   "https://www.threads.com/t/DaralBbAfgF": {
     "title": "@feelfree_ai: GPU 없이 고작 25GB 램만 장착된 일반 PC에서 744B 파라미터 크기의 초거대 A...",
     "sent_at": "2026-07-13T02:35:03.141293+00:00"
@@ -1946,57 +1998,5 @@
   "https://openai.com/index/lseg": {
     "title": "From data to decisions: how LSEG is scaling trusted AI",
     "sent_at": "2026-06-11T03:44:23.581048+00:00"
-  },
-  "https://openai.com/index/prc-linked-influence-operations-ai-debates": {
-    "title": "PRC-linked influence operations are targeting AI debates in the US",
-    "sent_at": "2026-06-11T03:44:23.206857+00:00"
-  },
-  "https://openai.com/index/openai-on-oracle-cloud": {
-    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-    "sent_at": "2026-06-11T03:44:22.830075+00:00"
-  },
-  "https://openai.com/index/using-codex-to-simulate-black-holes": {
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "sent_at": "2026-06-11T03:44:22.455280+00:00"
-  },
-  "https://goddaehee.tistory.com/613": {
-    "title": "Claude Fable 5 출시 &mdash; Claude Fable 5 가격&middot;무료 기간&middot;API 이용법 (2026년 6월 22일 까지) : 미토스 5가 아닌 Fable 5",
-    "sent_at": "2026-06-11T03:44:13.515102+00:00"
-  },
-  "https://github.blog/?p=96610": {
-    "title": "Give GitHub Copilot CLI real code intelligence with language servers",
-    "sent_at": "2026-06-11T03:44:06.427606+00:00"
-  },
-  "https://techcrunch.com/?p=3131872": {
-    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-    "sent_at": "2026-06-11T03:44:05.826642+00:00"
-  },
-  "https://techcrunch.com/?p=3131094": {
-    "title": "Everyone wants a piece of Tesla’s battery business",
-    "sent_at": "2026-06-11T03:44:05.454577+00:00"
-  },
-  "https://techcrunch.com/?p=3131979": {
-    "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
-    "sent_at": "2026-06-11T03:44:05.081191+00:00"
-  },
-  "https://techcrunch.com/?post_type=tc_video&p=3132007": {
-    "title": "Why Andrew Yang is building instead of waiting for Washington",
-    "sent_at": "2026-06-11T03:44:04.707733+00:00"
-  },
-  "https://techcrunch.com/?p=3131988": {
-    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-    "sent_at": "2026-06-11T03:44:04.326299+00:00"
-  },
-  "https://www.threads.com/t/DZXaJXuAdrd": {
-    "title": "@feelfree_ai: 초거대 LLM 사전 학습(Pre-training) 속도를 정확도 손실 없이 1.7배 이상 끄...",
-    "sent_at": "2026-06-10T03:33:10.572233+00:00"
-  },
-  "https://www.threads.com/t/DZYr3WdgWkj": {
-    "title": "@feelfree_ai: 스마트폰에서 20B 크기의 거대 모델을 돌리는 애플의 진짜 치트키는 NPU ...",
-    "sent_at": "2026-06-10T03:33:10.076237+00:00"
-  },
-  "https://www.threads.com/t/DZY4HiaAR70": {
-    "title": "@feelfree_ai: AI 에이전트 강화학습(RL)을 돌릴 때 토큰이 미세하게 밀리면 학습 ...",
-    "sent_at": "2026-06-10T03:33:09.581632+00:00"
   }
 }
