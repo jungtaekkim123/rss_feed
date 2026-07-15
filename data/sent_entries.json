@@ -1,4 +1,72 @@
 {
+  "https://www.threads.com/t/DaxJuflAUv_": {
+    "title": "@feelfree_ai: 비싼 라이다(LiDAR)나 뎁스 센서 없이 일반 카메라 단 한 대만으로 알ᄋ...",
+    "sent_at": "2026-07-15T02:12:23.772829+00:00"
+  },
+  "https://www.threads.com/t/DaxcRYtirUo": {
+    "title": "@feelfree_ai: 텍스트나 이미지 임베딩은 다들 익숙하시겠지만, 이제는 '지구(특...",
+    "sent_at": "2026-07-15T02:12:23.291700+00:00"
+  },
+  "https://www.threads.com/t/Dayql1YAWru": {
+    "title": "@feelfree_ai: 고가의 워크스테이션이나 클라우드에서만 구동되던 27B 체급의 멀티모...",
+    "sent_at": "2026-07-15T02:12:22.886963+00:00"
+  },
+  "https://www.threads.com/t/Day8WQkCohs": {
+    "title": "@feelfree_ai: 1.5B짜리 경량 AI가 7B AI의 성능을 역으로 끌어올리는 재밌는 연구가 ...",
+    "sent_at": "2026-07-15T02:12:22.492313+00:00"
+  },
+  "4k8LbDKkNXwcJVEFYF1ije": {
+    "title": "A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed",
+    "sent_at": "2026-07-15T02:12:04.447926+00:00"
+  },
+  "https://blogs.nvidia.com/?p=96103": {
+    "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+    "sent_at": "2026-07-15T02:12:02.443797+00:00"
+  },
+  "https://blogs.nvidia.com/?p=96074": {
+    "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+    "sent_at": "2026-07-15T02:12:02.049780+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/": {
+    "title": "Celebrating 25 years of visual search innovation",
+    "sent_at": "2026-07-15T02:12:00.061178+00:00"
+  },
+  "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
+    "title": "How sales teams use ChatGPT Work",
+    "sent_at": "2026-07-15T02:11:59.372549+00:00"
+  },
+  "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
+    "title": "How data science teams use ChatGPT Work",
+    "sent_at": "2026-07-15T02:11:58.994990+00:00"
+  },
+  "https://openai.com/index/managing-ai-investments-in-agentic-era": {
+    "title": "How to manage AI investments in the agentic era",
+    "sent_at": "2026-07-15T02:11:58.613993+00:00"
+  },
+  "https://goddaehee.tistory.com/623": {
+    "title": "Orca 사용 방법(Orca 설치 및 사용법) : Codex, Claude Code, Grok을 Git Worktree로 동시에 실행하기",
+    "sent_at": "2026-07-15T02:11:53.746290+00:00"
+  },
+  "https://techcrunch.com/?p=3142242": {
+    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+    "sent_at": "2026-07-15T02:11:46.695681+00:00"
+  },
+  "https://techcrunch.com/?p=3142355": {
+    "title": "OpenAI pushes back on Apple trade secret lawsuit",
+    "sent_at": "2026-07-15T02:11:46.309006+00:00"
+  },
+  "https://techcrunch.com/?p=3142378": {
+    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+    "sent_at": "2026-07-15T02:11:45.904295+00:00"
+  },
+  "https://techcrunch.com/?p=3142316": {
+    "title": "Lorde says AI glasses are ‘not sexy’",
+    "sent_at": "2026-07-15T02:11:45.512573+00:00"
+  },
+  "https://techcrunch.com/?p=3142345": {
+    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+    "sent_at": "2026-07-15T02:11:45.127033+00:00"
+  },
   "https://www.threads.com/t/Daur2elk0uH": {
     "title": "@feelfree_ai: 대화 한 번이면 여러 AI 에이전트가 각자의 깃(Git) 브랜치에서 동시에 ᄏ...",
     "sent_at": "2026-07-14T02:13:52.149981+00:00"
@@ -1930,73 +1998,5 @@
   "https://openai.com/index/bbva": {
     "title": "BBVA puts AI at the core of banking with OpenAI",
     "sent_at": "2026-06-12T03:43:39.656193+00:00"
-  },
-  "https://goddaehee.tistory.com/614": {
-    "title": "루프 엔지니어링 이란? &mdash; 프롬프트를 짜는 게 아니라 시스템을 짜는 시대(프롬프트 엔지니어링은 끝났다? 다음은 '루프 엔지니어링'이다)",
-    "sent_at": "2026-06-12T03:43:31.577182+00:00"
-  },
-  "https://github.blog/?p=96621": {
-    "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
-    "sent_at": "2026-06-12T03:43:25.449777+00:00"
-  },
-  "https://github.blog/?p=96626": {
-    "title": "GitHub availability report: May 2026",
-    "sent_at": "2026-06-12T03:43:24.967408+00:00"
-  },
-  "https://techcrunch.com/?p=3132124": {
-    "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-    "sent_at": "2026-06-12T03:43:23.148376+00:00"
-  },
-  "https://techcrunch.com/?p=3132251": {
-    "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-    "sent_at": "2026-06-12T03:43:22.663963+00:00"
-  },
-  "https://techcrunch.com/?p=3132274": {
-    "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-    "sent_at": "2026-06-12T03:43:22.127457+00:00"
-  },
-  "https://techcrunch.com/?p=3132323": {
-    "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-    "sent_at": "2026-06-12T03:43:21.645105+00:00"
-  },
-  "https://techcrunch.com/?p=3132154": {
-    "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-    "sent_at": "2026-06-12T03:43:21.152293+00:00"
-  },
-  "https://www.threads.com/t/DZZknNZjlTm": {
-    "title": "@feelfree_ai: PDF나 Word 문서로 RAG를 구축하면서 데이터 파싱 때문에 스트레스받으셨ᄃ...",
-    "sent_at": "2026-06-11T03:44:46.548958+00:00"
-  },
-  "https://www.threads.com/t/DZbhbBigeQp": {
-    "title": "@feelfree_ai: 구글이 ‘디퓨전젬마(DiffusionGemma)’를 공개했습니다. 속도가 4배나 빠른 ᄃ...",
-    "sent_at": "2026-06-11T03:44:46.138743+00:00"
-  },
-  "https://d2.naver.com/helloworld/1059238": {
-    "title": "MLXP : Kubernetes LLM Serving  최적화 기술 도입기",
-    "sent_at": "2026-06-11T03:44:32.284915+00:00"
-  },
-  "33118acc6752a7a014784d7b663da10b02d2d1aa": {
-    "title": "Now available: Amazon EC2 M9g and M9gd instances powered by new AWS Graviton5 processors",
-    "sent_at": "2026-06-11T03:44:29.178427+00:00"
-  },
-  "7it4N1iImLVhf4Mt9YilGH": {
-    "title": "Route public traffic to private applications with Cloudflare",
-    "sent_at": "2026-06-11T03:44:28.496832+00:00"
-  },
-  "https://engineering.atspotify.com/?p=6OwIaRIOSFOCZSHMjmLIxv": {
-    "title": "Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant",
-    "sent_at": "2026-06-11T03:44:27.606618+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94360": {
-    "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
-    "sent_at": "2026-06-11T03:44:26.266605+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94344": {
-    "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
-    "sent_at": "2026-06-11T03:44:25.891506+00:00"
-  },
-  "https://openai.com/index/lseg": {
-    "title": "From data to decisions: how LSEG is scaling trusted AI",
-    "sent_at": "2026-06-11T03:44:23.581048+00:00"
   }
 }
