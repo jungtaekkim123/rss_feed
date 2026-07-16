@@ -1,4 +1,84 @@
 {
+  "https://www.threads.com/t/DazLg-NiDZc": {
+    "title": "@feelfree_ai: LLM 라우터 쓰실 때 정확도만 높다고 안심하셨다면, 사실 아무 일도 ...",
+    "sent_at": "2026-07-16T02:25:15.663475+00:00"
+  },
+  "https://www.threads.com/t/DazkyZFgWTn": {
+    "title": "@feelfree_ai: 온디바이스 VLM의 에너지를 아끼려면 이미지 토큰을 깎아내는 것보다 ...",
+    "sent_at": "2026-07-16T02:25:15.257144+00:00"
+  },
+  "https://www.threads.com/t/Da0H4Lkgbmk": {
+    "title": "@feelfree_ai: 무거운 LLM을 서빙할 때 감당하기 힘든 GPU 비용이 고민이셨다면, AWS...",
+    "sent_at": "2026-07-16T02:25:14.844014+00:00"
+  },
+  "https://www.threads.com/t/Da1TxgyEy2F": {
+    "title": "@feelfree_ai: 무려 9750억(975B) 파라미터를 자랑하는 역대급 오픈 멀티모달 모델 'Inkli...",
+    "sent_at": "2026-07-16T02:25:14.410697+00:00"
+  },
+  "https://engineering.atspotify.com/?p=6OwIaRIOSFOCZSHMjmLIxv": {
+    "title": "Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant",
+    "sent_at": "2026-07-16T02:24:55.422006+00:00"
+  },
+  "https://huggingface.co/blog/real-world-voiceeq": {
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "sent_at": "2026-07-16T02:24:54.295769+00:00"
+  },
+  "https://huggingface.co/blog/thinkingmachines-inkling": {
+    "title": "Welcome Inkling by Thinking Machines",
+    "sent_at": "2026-07-16T02:24:53.913131+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt": {
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "sent_at": "2026-07-16T02:24:53.499664+00:00"
+  },
+  "https://huggingface.co/blog/allenai/shippy-tech-blog": {
+    "title": "What building Shippy taught us about building agents",
+    "sent_at": "2026-07-16T02:24:53.119317+00:00"
+  },
+  "https://blogs.nvidia.com/?p=96071": {
+    "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+    "sent_at": "2026-07-16T02:24:49.092306+00:00"
+  },
+  "https://blogs.nvidia.com/?p=96146": {
+    "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+    "sent_at": "2026-07-16T02:24:48.709963+00:00"
+  },
+  "https://engineering.fb.com/?p=24251": {
+    "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
+    "sent_at": "2026-07-16T02:24:46.868482+00:00"
+  },
+  "https://openai.com/index/unlocking-self-improvement-gpt-red": {
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "sent_at": "2026-07-16T02:24:45.934902+00:00"
+  },
+  "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action": {
+    "title": "The US is advancing AI safety through state and federal action",
+    "sent_at": "2026-07-16T02:24:45.549649+00:00"
+  },
+  "https://github.blog/?p=97534": {
+    "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
+    "sent_at": "2026-07-16T02:24:36.024357+00:00"
+  },
+  "https://techcrunch.com/?p=3142831": {
+    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "sent_at": "2026-07-16T02:24:35.394440+00:00"
+  },
+  "https://techcrunch.com/?p=3142974": {
+    "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+    "sent_at": "2026-07-16T02:24:35.005802+00:00"
+  },
+  "https://techcrunch.com/?p=3143082": {
+    "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+    "sent_at": "2026-07-16T02:24:34.614405+00:00"
+  },
+  "https://techcrunch.com/?p=3143129": {
+    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "sent_at": "2026-07-16T02:24:34.206374+00:00"
+  },
+  "https://techcrunch.com/?p=3143149": {
+    "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+    "sent_at": "2026-07-16T02:24:33.816974+00:00"
+  },
   "https://www.threads.com/t/DaxJuflAUv_": {
     "title": "@feelfree_ai: 비싼 라이다(LiDAR)나 뎁스 센서 없이 일반 카메라 단 한 대만으로 알ᄋ...",
     "sent_at": "2026-07-15T02:12:23.772829+00:00"
@@ -1918,85 +1998,5 @@
   "https://www.threads.com/t/DZggM-xgTqv": {
     "title": "@feelfree_ai: 토스터기에서도 돌아갈 만큼 가볍고 빠른 비전 모델 RF-DETR 튜토리얼ᄋ...",
     "sent_at": "2026-06-13T03:32:32.419458+00:00"
-  },
-  "2K9aPHKPuXNJBQtPo0ylUi": {
-    "title": "Scaling Security Insights: how we achieved a 10x increase in global scanning capacity",
-    "sent_at": "2026-06-13T03:32:16.179445+00:00"
-  },
-  "https://huggingface.co/blog/allenai/olmo-eval": {
-    "title": "olmo-eval: An evaluation workbench for the model development loop",
-    "sent_at": "2026-06-13T03:32:14.754701+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94415": {
-    "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
-    "sent_at": "2026-06-13T03:32:13.955583+00:00"
-  },
-  "https://openai.com/index/preply": {
-    "title": "How Preply combines AI and human tutors to personalize learning",
-    "sent_at": "2026-06-13T03:32:12.823351+00:00"
-  },
-  "https://openai.com/index/academy-courses-applying-ai-at-work": {
-    "title": "New OpenAI Academy courses for the next era of work",
-    "sent_at": "2026-06-13T03:32:12.401948+00:00"
-  },
-  "https://github.blog/?p=96755": {
-    "title": "How we made GitHub Copilot CLI more selective about delegation",
-    "sent_at": "2026-06-13T03:32:01.338769+00:00"
-  },
-  "https://techcrunch.com/?p=3132393": {
-    "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
-    "sent_at": "2026-06-13T03:32:00.696316+00:00"
-  },
-  "https://techcrunch.com/?p=3132480": {
-    "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-    "sent_at": "2026-06-13T03:32:00.297936+00:00"
-  },
-  "https://techcrunch.com/?p=3132623": {
-    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-    "sent_at": "2026-06-13T03:31:59.901556+00:00"
-  },
-  "https://techcrunch.com/?p=3132276": {
-    "title": "SpaceX IPO: Live updates on everything you need to know",
-    "sent_at": "2026-06-13T03:31:59.483135+00:00"
-  },
-  "https://techcrunch.com/?p=3132661": {
-    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-    "sent_at": "2026-06-13T03:31:58.119737+00:00"
-  },
-  "https://www.threads.com/t/DZcJbWjkVVg": {
-    "title": "@feelfree_ai: ServiceNow가 공개한 음성 벤치마크(EVA-Bench)에서 'Grok Voice Think Fast 1.0'이 대화 타이미...",
-    "sent_at": "2026-06-12T03:44:01.777719+00:00"
-  },
-  "https://www.threads.com/t/DZdwdZ7Ehw7": {
-    "title": "@feelfree_ai: 배포되면 끝이 아니라, 실행할 때마다 모델 가중치와 구조(스캐폴딩)...",
-    "sent_at": "2026-06-12T03:44:01.269935+00:00"
-  },
-  "https://huggingface.co/blog/torch-mlp-fusion": {
-    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-    "sent_at": "2026-06-12T03:43:44.208140+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94388": {
-    "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
-    "sent_at": "2026-06-12T03:43:43.207572+00:00"
-  },
-  "https://engineering.fb.com/?p=23959": {
-    "title": "Labyrinth 1.1: Making End-to-End Encrypted Backups Even More Reliable",
-    "sent_at": "2026-06-12T03:43:42.334643+00:00"
-  },
-  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/": {
-    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-    "sent_at": "2026-06-12T03:43:41.517757+00:00"
-  },
-  "https://openai.com/index/openai-to-acquire-ona": {
-    "title": "OpenAI to acquire Ona",
-    "sent_at": "2026-06-12T03:43:40.627880+00:00"
-  },
-  "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem": {
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "sent_at": "2026-06-12T03:43:40.142323+00:00"
-  },
-  "https://openai.com/index/bbva": {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "sent_at": "2026-06-12T03:43:39.656193+00:00"
   }
 }
