@@ -1,4 +1,56 @@
 {
+  "https://www.threads.com/t/Da5BBr_AclX": {
+    "title": "@feelfree_ai: LLM 에이전트들이 유출된 인증 정보를 무서운 속도로 탐색하고 수...",
+    "sent_at": "2026-07-18T02:13:10.881592+00:00"
+  },
+  "https://www.threads.com/t/Da6kgkbAQpk": {
+    "title": "@feelfree_ai: 화면을 캡처해서 버튼을 찾는 비효율적인 모바일 AI 방식은 이ᄌ...",
+    "sent_at": "2026-07-18T02:13:10.491802+00:00"
+  },
+  "01KXQS1XDD7HKB324JEWG6BZDA": {
+    "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities",
+    "sent_at": "2026-07-18T02:12:54.903080+00:00"
+  },
+  "https://medium.com/p/a5a8e799ea2c": {
+    "title": "In-House LLM Serving at Netflix",
+    "sent_at": "2026-07-18T02:12:53.777260+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel": {
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "sent_at": "2026-07-18T02:12:52.954994+00:00"
+  },
+  "https://blogs.nvidia.com/?p=96417&preview=true&preview_id=96417": {
+    "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+    "sent_at": "2026-07-18T02:12:52.100149+00:00"
+  },
+  "https://openai.com/index/a-scorecard-for-the-ai-age": {
+    "title": "A scorecard for the AI age",
+    "sent_at": "2026-07-18T02:12:50.950047+00:00"
+  },
+  "https://github.blog/?p=97604": {
+    "title": "The cost of saying yes has changed",
+    "sent_at": "2026-07-18T02:12:38.976106+00:00"
+  },
+  "https://techcrunch.com/?p=3143772": {
+    "title": "Agility Robotics plants its flag in Tesla’s backyard",
+    "sent_at": "2026-07-18T02:12:38.363048+00:00"
+  },
+  "https://techcrunch.com/?p=3143936": {
+    "title": "The Zoom hack that says, ‘Don’t record me’",
+    "sent_at": "2026-07-18T02:12:37.968797+00:00"
+  },
+  "https://techcrunch.com/?p=3143817": {
+    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+    "sent_at": "2026-07-18T02:12:37.579481+00:00"
+  },
+  "https://techcrunch.com/?p=3143864": {
+    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+    "sent_at": "2026-07-18T02:12:37.124816+00:00"
+  },
+  "https://techcrunch.com/?p=3143024": {
+    "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+    "sent_at": "2026-07-18T02:12:36.748681+00:00"
+  },
   "https://www.threads.com/t/Da1zSZIE__S": {
     "title": "@feelfree_ai: 구글이 보안 취약점을 알아서 찾아내고, 검증하고, 패치까지 스스로 ...",
     "sent_at": "2026-07-17T02:28:19.682439+00:00"
@@ -1946,57 +1998,5 @@
   "https://toss.tech/article/deadend": {
     "title": "디자이너가 시안 대신 앱을 만든 이유",
     "sent_at": "2026-06-16T03:54:55.738521+00:00"
-  },
-  "d4a483b5504b40c977cc5d689275cac967902536": {
-    "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
-    "sent_at": "2026-06-16T03:54:49.005169+00:00"
-  },
-  "b888b8d60a4fd57cdcb13b3f7ef4d08b578e7e5d": {
-    "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access",
-    "sent_at": "2026-06-16T03:54:48.581651+00:00"
-  },
-  "5MWTPJGehyLgdL2HT49JHB": {
-    "title": "Growing the Cloudflare AI team with talent from Ensemble AI",
-    "sent_at": "2026-06-16T03:54:46.741205+00:00"
-  },
-  "https://engineering.fb.com/?p=23982": {
-    "title": "Reel Friends: Building Social Discovery that Scales to Billions",
-    "sent_at": "2026-06-16T03:54:44.619546+00:00"
-  },
-  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/": {
-    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-    "sent_at": "2026-06-16T03:54:43.708855+00:00"
-  },
-  "https://github.blog/?p=96776": {
-    "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
-    "sent_at": "2026-06-16T03:54:29.714497+00:00"
-  },
-  "https://github.blog/?p=96773": {
-    "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
-    "sent_at": "2026-06-16T03:54:29.298952+00:00"
-  },
-  "https://techcrunch.com/?p=3092894": {
-    "title": "These are the countries moving to ban social media for children",
-    "sent_at": "2026-06-16T03:54:27.565489+00:00"
-  },
-  "https://techcrunch.com/?p=3132926": {
-    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-    "sent_at": "2026-06-16T03:54:27.154606+00:00"
-  },
-  "https://techcrunch.com/?p=3133070": {
-    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
-    "sent_at": "2026-06-16T03:54:26.709529+00:00"
-  },
-  "https://techcrunch.com/?p=3133119": {
-    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
-    "sent_at": "2026-06-16T03:54:26.298015+00:00"
-  },
-  "https://www.threads.com/t/DZjtv_PAeR7": {
-    "title": "@feelfree_ai: 성능 저하 전혀 없이 Gemma 4 12B 모델 용량을 24GB에서 15GB로 확 줄이는 까...",
-    "sent_at": "2026-06-15T04:04:50.421217+00:00"
-  },
-  "https://www.threads.com/t/DZkL0XjgYiB": {
-    "title": "@feelfree_ai: 이제 비싼 프론티어 모델 하나만 고집할 게 아니라, 여러 LLM을 묶어 쓰...",
-    "sent_at": "2026-06-15T04:04:50.038113+00:00"
   }
 }
