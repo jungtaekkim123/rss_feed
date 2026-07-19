@@ -1,4 +1,32 @@
 {
+  "https://www.threads.com/t/Da7BEl7AT-D": {
+    "title": "@feelfree_ai: 코딩 에이전트에게 8만 개의 그림 데이터를 맡기고 1시간을 방치했ᄃ...",
+    "sent_at": "2026-07-19T02:30:03.465157+00:00"
+  },
+  "https://www.threads.com/t/Da72yZaAfXo": {
+    "title": "@feelfree_ai: 1.7B 소형 에이전트 모델이 스스로를 가르치는 방식으로 4배 더 큰 7B 모ᄃ...",
+    "sent_at": "2026-07-19T02:30:03.073694+00:00"
+  },
+  "https://techcrunch.com/?p=3143790": {
+    "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+    "sent_at": "2026-07-19T02:29:31.475452+00:00"
+  },
+  "https://techcrunch.com/?p=3144053": {
+    "title": "Federal employees can download TikTok on their work phones again",
+    "sent_at": "2026-07-19T02:29:31.100864+00:00"
+  },
+  "https://techcrunch.com/?p=3143473": {
+    "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+    "sent_at": "2026-07-19T02:29:30.720955+00:00"
+  },
+  "https://techcrunch.com/?p=3144070": {
+    "title": "Kimi: Threat or menace?",
+    "sent_at": "2026-07-19T02:29:30.336600+00:00"
+  },
+  "https://techcrunch.com/?p=3144073": {
+    "title": "Waymo says San Francisco service has resumed after one-hour pause",
+    "sent_at": "2026-07-19T02:29:29.958001+00:00"
+  },
   "https://www.threads.com/t/Da5BBr_AclX": {
     "title": "@feelfree_ai: LLM 에이전트들이 유출된 인증 정보를 무서운 속도로 탐색하고 수...",
     "sent_at": "2026-07-18T02:13:10.881592+00:00"
@@ -1970,33 +1998,5 @@
   "https://techcrunch.com/?p=3133363": {
     "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
     "sent_at": "2026-06-17T03:55:46.667981+00:00"
-  },
-  "https://techcrunch.com/?p=3133253": {
-    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-    "sent_at": "2026-06-17T03:55:46.124833+00:00"
-  },
-  "https://techcrunch.com/?p=3133645": {
-    "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
-    "sent_at": "2026-06-17T03:55:45.567067+00:00"
-  },
-  "https://techcrunch.com/?p=3133474": {
-    "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-    "sent_at": "2026-06-17T03:55:45.074673+00:00"
-  },
-  "https://www.threads.com/t/DZm3LDvCl1Y": {
-    "title": "@feelfree_ai: AI 코딩 에이전트의 메모리를 설계할 때, 벡터 DB를 무조건적인 ‘소스...",
-    "sent_at": "2026-06-16T03:55:07.933726+00:00"
-  },
-  "https://www.threads.com/t/DZnu7jpjXYM": {
-    "title": "@feelfree_ai: 말만 많고 코드도 비대하게 짜는 AI 에이전트의 토큰 낭비가 고민이어...",
-    "sent_at": "2026-06-16T03:55:07.523377+00:00"
-  },
-  "https://toss.tech/article/tues": {
-    "title": "2,800만 MAU를 이해하는 유저 Segmentation, TUES",
-    "sent_at": "2026-06-16T03:54:56.142804+00:00"
-  },
-  "https://toss.tech/article/deadend": {
-    "title": "디자이너가 시안 대신 앱을 만든 이유",
-    "sent_at": "2026-06-16T03:54:55.738521+00:00"
   }
 }
