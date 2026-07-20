@@ -1,4 +1,36 @@
 {
+  "https://www.threads.com/t/Da9h5B9gXvn": {
+    "title": "@feelfree_ai: 이제 AI가 단순히 SQL 코드를 짜주는 수준을 넘어, 내 데이터 환경 전ᄎ...",
+    "sent_at": "2026-07-20T02:45:25.956696+00:00"
+  },
+  "https://www.threads.com/t/Da_OeG2AWnF": {
+    "title": "@feelfree_ai: 구글이 AI 에이전트 구축부터 스케일링, 최적화까지 전체 라이프사이크...",
+    "sent_at": "2026-07-20T02:45:25.460321+00:00"
+  },
+  "https://goddaehee.tistory.com/626": {
+    "title": "llmfit vs whichllm 비교(설치 및 사용법) : 로컬 LLM 모델 추천 도구, 내 하드웨어에 맞는 AI 모델 찾기",
+    "sent_at": "2026-07-20T02:45:06.233458+00:00"
+  },
+  "https://techcrunch.com/?p=3144080": {
+    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+    "sent_at": "2026-07-20T02:44:59.834831+00:00"
+  },
+  "https://techcrunch.com/?p=3143973": {
+    "title": "TechCrunch Mobility: The battle over robotaxi rules",
+    "sent_at": "2026-07-20T02:44:59.276371+00:00"
+  },
+  "https://techcrunch.com/?p=3144101": {
+    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+    "sent_at": "2026-07-20T02:44:58.723056+00:00"
+  },
+  "https://techcrunch.com/?p=3144105": {
+    "title": "What to watch for after Jensen Huang’s Japan visit",
+    "sent_at": "2026-07-20T02:44:58.233902+00:00"
+  },
+  "https://techcrunch.com/?p=3144113": {
+    "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+    "sent_at": "2026-07-20T02:44:57.740282+00:00"
+  },
   "https://www.threads.com/t/Da7BEl7AT-D": {
     "title": "@feelfree_ai: 코딩 에이전트에게 8만 개의 그림 데이터를 맡기고 1시간을 방치했ᄃ...",
     "sent_at": "2026-07-19T02:30:03.465157+00:00"
@@ -1966,37 +1998,5 @@
   "1Ng3fFBbnnbu6qxP1HMqpB": {
     "title": "Cloudflare DMARC Management is now generally available",
     "sent_at": "2026-06-17T03:56:05.604529+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94478": {
-    "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
-    "sent_at": "2026-06-17T03:56:03.072220+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94468": {
-    "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
-    "sent_at": "2026-06-17T03:56:02.588389+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94475": {
-    "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
-    "sent_at": "2026-06-17T03:56:02.096717+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94578": {
-    "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
-    "sent_at": "2026-06-17T03:56:01.538510+00:00"
-  },
-  "https://openai.com/index/deployment-simulation": {
-    "title": "Predicting model behavior before release by simulating deployment",
-    "sent_at": "2026-06-17T03:55:56.718107+00:00"
-  },
-  "https://github.blog/?p=96793": {
-    "title": "What are git worktrees, and why should I use them?",
-    "sent_at": "2026-06-17T03:55:48.111815+00:00"
-  },
-  "https://techcrunch.com/?p=3133488": {
-    "title": "Bug in FIFA World Cup internal system gave anyone ability to modify TV stream",
-    "sent_at": "2026-06-17T03:55:47.160653+00:00"
-  },
-  "https://techcrunch.com/?p=3133363": {
-    "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
-    "sent_at": "2026-06-17T03:55:46.667981+00:00"
   }
 }
