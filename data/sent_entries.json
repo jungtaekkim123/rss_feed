@@ -1,4 +1,72 @@
 {
+  "https://www.threads.com/t/DbA2Bh2geaQ": {
+    "title": "@feelfree_ai: 데이터 파이프라인에서 LightGBM 때문에 억지로 Pandas로 우회하며 속도 낭비하...",
+    "sent_at": "2026-07-21T02:29:20.185456+00:00"
+  },
+  "https://www.threads.com/t/DbBOhvHAbr-": {
+    "title": "@feelfree_ai: Unsloth가 AMD를 공식 지원하기 시작했습니다. 이제 단 3GB VRAM만으로도 500개...",
+    "sent_at": "2026-07-21T02:29:19.707660+00:00"
+  },
+  "https://www.threads.com/t/DbCFqpmgZ7Z": {
+    "title": "@feelfree_ai: Cursor 팀에서 AI 에이전트 스웜만으로 835페이지짜리 매뉴얼을 학습시켜 S...",
+    "sent_at": "2026-07-21T02:29:19.222427+00:00"
+  },
+  "https://www.threads.com/t/DbCSUIWgeHp": {
+    "title": "@feelfree_ai: 고작 4B 크기의 소형 모델이 SQL 쿼리 작성 테스트에서 거대한 Claude Opus의 서...",
+    "sent_at": "2026-07-21T02:29:18.722085+00:00"
+  },
+  "27dde8580d688a55e51f9a85a22645896b60028e": {
+    "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
+    "sent_at": "2026-07-21T02:29:00.937893+00:00"
+  },
+  "01KXNA2XDCKTZTZQ1NC6HM40AZ": {
+    "title": "Cloudflare Internal DNS is now generally available",
+    "sent_at": "2026-07-21T02:29:00.060973+00:00"
+  },
+  "https://engineering.atspotify.com/?p=60dcNVzos5DWmTFQLUR5O2": {
+    "title": "Content Ingestion & Podcast Video Incident Report",
+    "sent_at": "2026-07-21T02:28:59.279853+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/cosmos3edge": {
+    "title": "Introducing Cosmos 3 Edge",
+    "sent_at": "2026-07-21T02:28:57.693945+00:00"
+  },
+  "https://blogs.nvidia.com/?p=96588": {
+    "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+    "sent_at": "2026-07-21T02:28:56.793901+00:00"
+  },
+  "https://blogs.nvidia.com/?p=96137": {
+    "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+    "sent_at": "2026-07-21T02:28:56.268947+00:00"
+  },
+  "https://openai.com/index/safety-alignment-long-horizon-models": {
+    "title": "Safety and alignment in an era of long-horizon models",
+    "sent_at": "2026-07-21T02:28:53.777753+00:00"
+  },
+  "https://github.blog/?p=97607": {
+    "title": "$100 million for open source: A milestone built by the community",
+    "sent_at": "2026-07-21T02:28:39.698726+00:00"
+  },
+  "https://techcrunch.com/?p=3144390": {
+    "title": "AI’s most important protocol is getting a little bit easier to use",
+    "sent_at": "2026-07-21T02:28:38.976948+00:00"
+  },
+  "https://techcrunch.com/?p=3144366": {
+    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "sent_at": "2026-07-21T02:28:38.509777+00:00"
+  },
+  "https://techcrunch.com/?p=3144451": {
+    "title": "Trump’s latest AI czar has already resigned",
+    "sent_at": "2026-07-21T02:28:38.018056+00:00"
+  },
+  "https://techcrunch.com/?p=3144524": {
+    "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+    "sent_at": "2026-07-21T02:28:37.521280+00:00"
+  },
+  "https://techcrunch.com/?p=3144516": {
+    "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+    "sent_at": "2026-07-21T02:28:37.028279+00:00"
+  },
   "https://www.threads.com/t/Da9h5B9gXvn": {
     "title": "@feelfree_ai: 이제 AI가 단순히 SQL 코드를 짜주는 수준을 넘어, 내 데이터 환경 전ᄎ...",
     "sent_at": "2026-07-20T02:45:25.956696+00:00"
@@ -1930,73 +1998,5 @@
   "48yPgdpb7RGTBdh4DPPCUF": {
     "title": "Bringing more agent harnesses and frameworks to Cloudflare, starting with Flue",
     "sent_at": "2026-06-18T04:10:03.457073+00:00"
-  },
-  "https://huggingface.co/blog/agentic-resource-discovery-launch": {
-    "title": "Agentic Resource Discovery: Let agents search",
-    "sent_at": "2026-06-18T03:42:59.244760+00:00"
-  },
-  "https://huggingface.co/blog/zai-org/glm-52-blog": {
-    "title": "GLM-5.2: Built for Long-Horizon Tasks",
-    "sent_at": "2026-06-18T03:42:58.679014+00:00"
-  },
-  "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware": {
-    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-    "sent_at": "2026-06-18T03:42:58.095944+00:00"
-  },
-  "https://huggingface.co/blog/allenai/molmomotion": {
-    "title": "MolmoMotion: Language-guided 3D motion forecasting",
-    "sent_at": "2026-06-18T03:42:57.546395+00:00"
-  },
-  "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/": {
-    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-    "sent_at": "2026-06-18T03:42:52.427602+00:00"
-  },
-  "https://openai.com/index/introducing-life-sci-bench": {
-    "title": "Introducing LifeSciBench",
-    "sent_at": "2026-06-18T03:42:51.353458+00:00"
-  },
-  "https://openai.com/index/ai-chemist-improves-reaction": {
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "sent_at": "2026-06-18T03:42:50.783797+00:00"
-  },
-  "https://github.blog/?p=96832": {
-    "title": "Getting more from each token: How Copilot improves context handling and model routing",
-    "sent_at": "2026-06-18T03:42:37.005484+00:00"
-  },
-  "https://techcrunch.com/?p=3133859": {
-    "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
-    "sent_at": "2026-06-18T03:42:36.129260+00:00"
-  },
-  "https://techcrunch.com/?p=3133982": {
-    "title": "Roelof Botha joins SpaceX’s board of directors",
-    "sent_at": "2026-06-18T03:42:35.573168+00:00"
-  },
-  "https://techcrunch.com/?p=3134007": {
-    "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
-    "sent_at": "2026-06-18T03:42:34.919017+00:00"
-  },
-  "https://techcrunch.com/?p=3134047": {
-    "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
-    "sent_at": "2026-06-18T03:42:34.351358+00:00"
-  },
-  "https://techcrunch.com/?p=3134048": {
-    "title": "How to turn off AI in your Google Docs",
-    "sent_at": "2026-06-18T03:42:33.805916+00:00"
-  },
-  "https://d2.naver.com/helloworld/8319114": {
-    "title": "SaaS 대체하기: AI와 함께한 광고SDK 에러 모니터링 시스템 구축기",
-    "sent_at": "2026-06-17T03:56:10.268677+00:00"
-  },
-  "https://d2.naver.com/helloworld/4399330": {
-    "title": "도구에서 동료로 — AI 에이전트 자율 성장 프레임워크",
-    "sent_at": "2026-06-17T03:56:09.785736+00:00"
-  },
-  "d825f9d469e21e76b22344398328d967de0264d2": {
-    "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
-    "sent_at": "2026-06-17T03:56:06.385853+00:00"
-  },
-  "1Ng3fFBbnnbu6qxP1HMqpB": {
-    "title": "Cloudflare DMARC Management is now generally available",
-    "sent_at": "2026-06-17T03:56:05.604529+00:00"
   }
 }
