@@ -1,4 +1,76 @@
 {
+  "https://www.threads.com/t/DbFaonVAfW8": {
+    "title": "@feelfree_ai: “한국에서도 드디어 이런 모델이 나오는구나.” 라는 생각이 먼저 드...",
+    "sent_at": "2026-07-23T02:32:43.759050+00:00"
+  },
+  "https://www.threads.com/t/DbF7bV0ARFg": {
+    "title": "@feelfree_ai: 이런 Agent 오픈소스는 한 번쯤 봐둘 만합니다. EverMind AI가 공개한 Ravenᄋ...",
+    "sent_at": "2026-07-23T02:32:43.334560+00:00"
+  },
+  "https://www.threads.com/t/DbHghbIgUrZ": {
+    "title": "@feelfree_ai: LangChain이 Eval Engineering Skill을 공개했습니다. 이 스킬은 저장소와 Agent Trace를 ᄇ...",
+    "sent_at": "2026-07-23T02:32:42.910195+00:00"
+  },
+  "https://blogs.nvidia.com/?p=96734": {
+    "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+    "sent_at": "2026-07-23T02:32:24.128201+00:00"
+  },
+  "https://blogs.nvidia.com/?p=96787": {
+    "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+    "sent_at": "2026-07-23T02:32:23.708145+00:00"
+  },
+  "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/": {
+    "title": "3 Google updates from Galaxy Unpacked 2026",
+    "sent_at": "2026-07-23T02:32:21.679078+00:00"
+  },
+  "https://openai.com/index/ntt-data": {
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "sent_at": "2026-07-23T02:32:20.963224+00:00"
+  },
+  "https://openai.com/index/introducing-openai-presence": {
+    "title": "Introducing OpenAI Presence",
+    "sent_at": "2026-07-23T02:32:20.551008+00:00"
+  },
+  "https://openai.com/index/advancing-the-next-era-of-national-science": {
+    "title": "Advancing the next era of national science",
+    "sent_at": "2026-07-23T02:32:20.141796+00:00"
+  },
+  "https://openai.com/index/how-news-organizations-are-using-ai": {
+    "title": "How news organizations are using AI to advance their vital missions",
+    "sent_at": "2026-07-23T02:32:19.729798+00:00"
+  },
+  "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community": {
+    "title": "Building AI infrastructure with the Effingham County community",
+    "sent_at": "2026-07-23T02:32:19.311115+00:00"
+  },
+  "https://github.blog/?p=97671": {
+    "title": "Next chapter: Restructuring GitHub’s bug bounty program",
+    "sent_at": "2026-07-23T02:32:01.461609+00:00"
+  },
+  "https://github.blog/?p=97686": {
+    "title": "Copilot vs. raw API access: What are you actually paying for?",
+    "sent_at": "2026-07-23T02:32:01.027882+00:00"
+  },
+  "https://techcrunch.com/?p=3145505": {
+    "title": "Social media addiction lawsuit against Meta is dropped",
+    "sent_at": "2026-07-23T02:31:59.299313+00:00"
+  },
+  "https://techcrunch.com/?p=3145498": {
+    "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
+    "sent_at": "2026-07-23T02:31:58.859499+00:00"
+  },
+  "https://techcrunch.com/?p=3145517": {
+    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+    "sent_at": "2026-07-23T02:31:58.444189+00:00"
+  },
+  "https://techcrunch.com/?p=3145503": {
+    "title": "Google justifies its massive AI spending with a booming cloud business",
+    "sent_at": "2026-07-23T02:31:58.034623+00:00"
+  },
+  "https://techcrunch.com/?p=3145616": {
+    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+    "sent_at": "2026-07-23T02:31:57.607876+00:00"
+  },
   "https://www.threads.com/t/DbCpGVbgYUR": {
     "title": "@feelfree_ai: 스스로 학습하고 진화하는 AI 에이전트, 도대체 어떤 기준으로 평가해...",
     "sent_at": "2026-07-22T02:27:32.326232+00:00"
@@ -1926,77 +1998,5 @@
   "https://www.threads.com/t/DZug8AtgeDL": {
     "title": "@feelfree_ai: 수식부터 들이미는 방식에 지쳐 강화학습(RL) 공부를 미뤄두셨다며...",
     "sent_at": "2026-06-19T04:34:01.974625+00:00"
-  },
-  "https://www.threads.com/t/DZvx-ZxDw8A": {
-    "title": "@feelfree_ai: 깃허브(GitHub) 레포지토리 링크만 던져주면 코딩 AI를 위한 강화학습(...",
-    "sent_at": "2026-06-19T04:34:01.480459+00:00"
-  },
-  "https://www.threads.com/t/DZwQqjRAUlo": {
-    "title": "@feelfree_ai: AI 에이전트 쓰면서 토큰 비용 때문에 매번 고민이셨죠? 넷플릭스 ᄋ...",
-    "sent_at": "2026-06-19T04:34:00.986816+00:00"
-  },
-  "https://toss.tech/article/technical-writing-1": {
-    "title": "세상에 없던 직무를 만들어가기",
-    "sent_at": "2026-06-19T04:33:48.706746+00:00"
-  },
-  "https://toss.tech/article/technical-writing-2": {
-    "title": "전문성 밖으로 나아가기",
-    "sent_at": "2026-06-19T04:33:48.216996+00:00"
-  },
-  "abebfba02b3b7c0c3c3ed08a23aeb25f8830da3f": {
-    "title": "Amazon ECS introduces new high-resolution metrics for faster service auto scaling",
-    "sent_at": "2026-06-19T04:33:42.334398+00:00"
-  },
-  "9c5d4385212a06a322e30ee7f64a694ffd756b6d": {
-    "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs",
-    "sent_at": "2026-06-19T04:33:41.847148+00:00"
-  },
-  "1kBoofDb8dfLiYnekjlUaX": {
-    "title": "Celebrating 12 years of Project Galileo",
-    "sent_at": "2026-06-19T04:33:39.933133+00:00"
-  },
-  "5Ad3Svz0xFxJQNx6eQZjJP": {
-    "title": "Build your own vulnerability harness",
-    "sent_at": "2026-06-19T04:33:39.450974+00:00"
-  },
-  "https://huggingface.co/blog/is-it-agentic-enough": {
-    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-    "sent_at": "2026-06-19T04:06:31.095345+00:00"
-  },
-  "https://huggingface.co/blog/peft-beyond-lora": {
-    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-    "sent_at": "2026-06-19T04:06:30.603898+00:00"
-  },
-  "https://huggingface.co/blog/ServiceNow/mosaicleaks": {
-    "title": "MosaicLeaks: Can your research agent keep a secret?",
-    "sent_at": "2026-06-19T04:06:30.116106+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94747": {
-    "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
-    "sent_at": "2026-06-19T04:06:26.953755+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94725": {
-    "title": "Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices",
-    "sent_at": "2026-06-19T04:06:26.403654+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94755": {
-    "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
-    "sent_at": "2026-06-19T04:06:25.908776+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94782": {
-    "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
-    "sent_at": "2026-06-19T04:06:25.415841+00:00"
-  },
-  "https://openai.com/index/diagnose-rare-childhood-diseases": {
-    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-    "sent_at": "2026-06-19T04:06:20.677040+00:00"
-  },
-  "https://openai.com/index/improving-health-intelligence-in-chatgpt": {
-    "title": "Improving health intelligence in ChatGPT",
-    "sent_at": "2026-06-19T04:06:20.185544+00:00"
-  },
-  "https://openai.com/index/chatgpt-enterprise-spend-controls": {
-    "title": "New usage analytics and updated spend controls for enterprises",
-    "sent_at": "2026-06-19T04:06:19.694147+00:00"
   }
 }
