@@ -1,4 +1,40 @@
 {
+  "https://www.threads.com/t/DbLF60agTed": {
+    "title": "@feelfree_ai: VRAM 부담 때문에 대형 이미지 모델 못 돌리셨던 분들한테 반가운 ...",
+    "sent_at": "2026-07-25T02:27:32.906958+00:00"
+  },
+  "https://www.threads.com/t/DbMQ2ZEiupw": {
+    "title": "@feelfree_ai: 기존 HuggingFace나 tiktoken 토크나이저보다 무려 980배나 빠른 토크나이저가 등장ᄒ...",
+    "sent_at": "2026-07-25T02:27:32.521644+00:00"
+  },
+  "https://www.threads.com/t/DbMsUNDgep7": {
+    "title": "@feelfree_ai: 이번에 공유드릴 내용은 Harness Handbook 논문인데, 정적 분석과 LLM을 ᄀ...",
+    "sent_at": "2026-07-25T02:27:32.113840+00:00"
+  },
+  "01KYAFZ0EEBE4R099P8HT79D5X": {
+    "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+    "sent_at": "2026-07-25T02:27:15.788075+00:00"
+  },
+  "https://blogs.nvidia.com/?p=96807": {
+    "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+    "sent_at": "2026-07-25T02:27:14.177760+00:00"
+  },
+  "https://techcrunch.com/?p=3146498": {
+    "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+    "sent_at": "2026-07-25T02:27:05.195628+00:00"
+  },
+  "https://techcrunch.com/?p=3146619": {
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "sent_at": "2026-07-25T02:27:04.814148+00:00"
+  },
+  "https://techcrunch.com/?p=3146675": {
+    "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+    "sent_at": "2026-07-25T02:27:04.443456+00:00"
+  },
+  "https://techcrunch.com/?p=3144285": {
+    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "sent_at": "2026-07-25T02:27:04.070164+00:00"
+  },
   "https://www.threads.com/t/DbJAN7xATsi": {
     "title": "@feelfree_ai: OpenAI 담당자가 Codex Security 플러그인을 오픈소스로 다시 공개했습니다. ᄋ...",
     "sent_at": "2026-07-24T02:29:07.213818+00:00"
@@ -1962,41 +1998,5 @@
   "https://techcrunch.com/?p=3134746": {
     "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
     "sent_at": "2026-06-22T04:00:53.375543+00:00"
-  },
-  "https://www.threads.com/t/DZyyRNBAUn_": {
-    "title": "@feelfree_ai: GRPO 돌릴 때 VRAM 부족해서 고생하셨던 분들, 이제 무거운 vLLM 세팅 없ᄋ...",
-    "sent_at": "2026-06-21T04:26:53.342933+00:00"
-  },
-  "https://www.threads.com/t/DZ07jvQCERe": {
-    "title": "@feelfree_ai: 검색 시스템의 속도를 13배나 높일 수 있다면 어떨까요? 인덱싱 ᄃ...",
-    "sent_at": "2026-06-21T04:26:52.926415+00:00"
-  },
-  "https://www.threads.com/t/DZ1WJibAWnk": {
-    "title": "@feelfree_ai: AI 에이전트가 수집한 데이터를 노션이나 슬랙으로 곧바로 꽂아 넣ᄋ...",
-    "sent_at": "2026-06-21T04:26:52.544138+00:00"
-  },
-  "https://techcrunch.com/?p=3131372": {
-    "title": "Every new iOS 27 feature that’s worth knowing about",
-    "sent_at": "2026-06-21T03:59:20.327001+00:00"
-  },
-  "https://techcrunch.com/?p=3134677": {
-    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-    "sent_at": "2026-06-21T03:59:19.948693+00:00"
-  },
-  "https://techcrunch.com/?p=3134422": {
-    "title": "This startup built a fish-killing robot and chefs love the results",
-    "sent_at": "2026-06-21T03:59:19.576666+00:00"
-  },
-  "https://techcrunch.com/?p=3134695": {
-    "title": "In the Weights is your new AI-centric vanity search",
-    "sent_at": "2026-06-21T03:59:19.201335+00:00"
-  },
-  "https://techcrunch.com/?p=3134719": {
-    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-    "sent_at": "2026-06-21T03:59:18.820010+00:00"
-  },
-  "https://www.threads.com/t/DZwsm5yAbaM": {
-    "title": "@feelfree_ai: AI 코딩 툴마다 제각각이던 설정 파일들(⁠.cursorrules⁠, ⁠CLAUDE.md⁠ 등), 이제 ...",
-    "sent_at": "2026-06-20T03:57:08.309872+00:00"
   }
 }
