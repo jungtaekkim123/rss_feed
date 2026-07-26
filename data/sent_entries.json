@@ -1,4 +1,28 @@
 {
+  "https://www.threads.com/t/DbNnqhjgYOq": {
+    "title": "@feelfree_ai: Ollama, Open WebUI, n8n, ComfyUI까지 로컬 AI 구축할 때 일일이 세팅하느라 번거로우...",
+    "sent_at": "2026-07-26T02:34:22.279847+00:00"
+  },
+  "https://www.threads.com/t/DbPTFAcAcXS": {
+    "title": "@feelfree_ai: vLLM이 이제 텍스트랑 비전 넘어서 오디오 모델까지 직접 서빙하기 시ᄌ...",
+    "sent_at": "2026-07-26T02:34:21.838674+00:00"
+  },
+  "https://techcrunch.com/?p=3146737": {
+    "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+    "sent_at": "2026-07-26T02:33:56.860594+00:00"
+  },
+  "https://techcrunch.com/?p=3146740": {
+    "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+    "sent_at": "2026-07-26T02:33:56.384708+00:00"
+  },
+  "https://techcrunch.com/?p=3143811": {
+    "title": "The hacker who humiliated spyware makers and was never caught",
+    "sent_at": "2026-07-26T02:33:55.951927+00:00"
+  },
+  "https://techcrunch.com/?p=3146746": {
+    "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+    "sent_at": "2026-07-26T02:33:55.429042+00:00"
+  },
   "https://www.threads.com/t/DbLF60agTed": {
     "title": "@feelfree_ai: VRAM 부담 때문에 대형 이미지 모델 못 돌리셨던 분들한테 반가운 ...",
     "sent_at": "2026-07-25T02:27:32.906958+00:00"
@@ -1974,29 +1998,5 @@
   "https://engineering.atspotify.com/?p=1XeG8OFPaFVQT83ShkXhoz": {
     "title": "Better Experiments with LLM Evals — A funnel, not a fork",
     "sent_at": "2026-06-22T04:28:09.145172+00:00"
-  },
-  "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "sent_at": "2026-06-22T04:01:04.786356+00:00"
-  },
-  "https://techcrunch.com/?p=3134254": {
-    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-    "sent_at": "2026-06-22T04:00:55.640868+00:00"
-  },
-  "https://techcrunch.com/?p=3134737": {
-    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-    "sent_at": "2026-06-22T04:00:55.070864+00:00"
-  },
-  "https://techcrunch.com/?p=3134646": {
-    "title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
-    "sent_at": "2026-06-22T04:00:54.488189+00:00"
-  },
-  "https://techcrunch.com/?p=3134741": {
-    "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
-    "sent_at": "2026-06-22T04:00:53.908193+00:00"
-  },
-  "https://techcrunch.com/?p=3134746": {
-    "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
-    "sent_at": "2026-06-22T04:00:53.375543+00:00"
   }
 }
