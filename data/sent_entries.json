@@ -1,4 +1,48 @@
 {
+  "https://www.threads.com/t/DbQBNuQjncQ": {
+    "title": "@feelfree_ai: \"단일 세션 루프가 계획 기반 워크플로보다 9배나 저렴하다\"는 말에 ᄒ...",
+    "sent_at": "2026-07-27T02:42:03.066946+00:00"
+  },
+  "https://www.threads.com/t/DbQVvgRCiwh": {
+    "title": "@feelfree_ai: 밤마다 버려지던 Claude 할당량을 야간 알바처럼 굴리는 오픈소스 ᄃ...",
+    "sent_at": "2026-07-27T02:42:02.682424+00:00"
+  },
+  "https://www.threads.com/t/DbRRKIhEydV": {
+    "title": "@feelfree_ai: 앤드류 웅 교수가 답변만 주는 수준을 넘어 실행까지 해주는 오ᄑ...",
+    "sent_at": "2026-07-27T02:42:02.302494+00:00"
+  },
+  "https://www.threads.com/t/DbRoMdAgtuC": {
+    "title": "@feelfree_ai: 단 14만 개의 파라미터로 Voice AI의 핵심인 음성 활동 감지(VAD) 모델을...",
+    "sent_at": "2026-07-27T02:42:01.885895+00:00"
+  },
+  "https://d2.naver.com/helloworld/4821538": {
+    "title": "[AI 해커톤 후기] AI 해커톤 1위 팀이 AI에게 맡기지 않은 것",
+    "sent_at": "2026-07-27T02:41:46.725301+00:00"
+  },
+  "https://blogs.nvidia.com/?p=96867": {
+    "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+    "sent_at": "2026-07-27T02:41:42.968316+00:00"
+  },
+  "https://techcrunch.com/?p=3146775": {
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "sent_at": "2026-07-27T02:41:34.078557+00:00"
+  },
+  "https://techcrunch.com/?p=3146052": {
+    "title": "Inside one London founder house rewriting the founder-house rules",
+    "sent_at": "2026-07-27T02:41:33.707378+00:00"
+  },
+  "https://techcrunch.com/?p=3146794": {
+    "title": "Making sense of the panic over Chinese AI",
+    "sent_at": "2026-07-27T02:41:33.314112+00:00"
+  },
+  "https://techcrunch.com/?p=3146797": {
+    "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+    "sent_at": "2026-07-27T02:41:32.933073+00:00"
+  },
+  "https://techcrunch.com/?p=3146429": {
+    "title": "Are brain waves the next unlock for physical AI?",
+    "sent_at": "2026-07-27T02:41:32.506473+00:00"
+  },
   "https://www.threads.com/t/DbNnqhjgYOq": {
     "title": "@feelfree_ai: Ollama, Open WebUI, n8n, ComfyUI까지 로컬 AI 구축할 때 일일이 세팅하느라 번거로우...",
     "sent_at": "2026-07-26T02:34:22.279847+00:00"
@@ -1954,49 +1998,5 @@
   "https://openai.com/index/daybreak-securing-the-world": {
     "title": "Daybreak: Tools for securing every organization in the world",
     "sent_at": "2026-06-23T02:58:44.899301+00:00"
-  },
-  "https://openai.com/index/patch-the-planet": {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "sent_at": "2026-06-23T02:58:44.516469+00:00"
-  },
-  "https://github.blog/?p=96917": {
-    "title": "From pledge to practice: Building a more inclusive open source ecosystem",
-    "sent_at": "2026-06-23T02:58:33.149686+00:00"
-  },
-  "https://techcrunch.com/?p=3135102": {
-    "title": "The AI world is getting ‘loopy’",
-    "sent_at": "2026-06-23T02:58:32.518981+00:00"
-  },
-  "https://techcrunch.com/?p=3135146": {
-    "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
-    "sent_at": "2026-06-23T02:58:32.102764+00:00"
-  },
-  "https://techcrunch.com/?p=3135180": {
-    "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
-    "sent_at": "2026-06-23T02:58:31.702713+00:00"
-  },
-  "https://techcrunch.com/?p=3135162": {
-    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
-    "sent_at": "2026-06-23T02:58:31.311734+00:00"
-  },
-  "https://techcrunch.com/?p=3132769": {
-    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-    "sent_at": "2026-06-23T02:58:30.908214+00:00"
-  },
-  "https://toss.tech/article/technical-writing-3": {
-    "title": "3. 우리 팀의 문서화는 왜 실패할까? (1)",
-    "sent_at": "2026-06-22T04:28:16.771530+00:00"
-  },
-  "https://toss.tech/article/technical-writing-4": {
-    "title": "4. 우리 팀의 문서화는 왜 실패할까? (2)",
-    "sent_at": "2026-06-22T04:28:16.175302+00:00"
-  },
-  "https://d2.naver.com/helloworld/7056385": {
-    "title": "사람과 AI Agent를 위한 통합 Context Provider 구축",
-    "sent_at": "2026-06-22T04:28:12.486601+00:00"
-  },
-  "https://engineering.atspotify.com/?p=1XeG8OFPaFVQT83ShkXhoz": {
-    "title": "Better Experiments with LLM Evals — A funnel, not a fork",
-    "sent_at": "2026-06-22T04:28:09.145172+00:00"
   }
 }
