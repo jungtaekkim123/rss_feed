@@ -1,4 +1,80 @@
 {
+  "https://www.threads.com/t/DbSZza7gR2Y": {
+    "title": "@feelfree_ai: 삼성전자 전 임직원한테 ChatGPT 엔터프라이즈랑 Codex를 도입한다느...",
+    "sent_at": "2026-07-28T02:22:27.626605+00:00"
+  },
+  "https://www.threads.com/t/DbS6lC_kxSu": {
+    "title": "@feelfree_ai: 클로드에 매번 긴 프롬프트 치는 게 귀찮아서 찾아보다가 진짜 쓸마...",
+    "sent_at": "2026-07-28T02:22:27.250271+00:00"
+  },
+  "https://www.threads.com/t/DbTIUbiDUgp": {
+    "title": "@feelfree_ai: LLM끼리 대화할 땐 굳이 사람이 읽기 편한 완벽한 문장을 쓸 필...",
+    "sent_at": "2026-07-28T02:22:26.836079+00:00"
+  },
+  "https://www.threads.com/t/DbUcM7TAWuT": {
+    "title": "@feelfree_ai: 3B짜리 가벼운 모델이 12B 모델의 에이전트 성능을 압도하는 연구가 ᄂ...",
+    "sent_at": "2026-07-28T02:22:26.440802+00:00"
+  },
+  "77c18d2b47b8dea484a97205ea56792640d7b37a": {
+    "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
+    "sent_at": "2026-07-28T02:22:09.103278+00:00"
+  },
+  "01KYGZXPC2FQ4NSXSKXXYY86FZ": {
+    "title": "We’re open-sourcing our privacy proxy CLI",
+    "sent_at": "2026-07-28T02:22:08.355161+00:00"
+  },
+  "https://engineering.atspotify.com/?p=1XeG8OFPaFVQT83ShkXhoz": {
+    "title": "Better Experiments with LLM Evals — A funnel, not a fork",
+    "sent_at": "2026-07-28T02:22:07.648646+00:00"
+  },
+  "https://engineering.atspotify.com/?p=2BHiaulFaaun4MVkEBakNn": {
+    "title": "Indexing the Data Lake for Online Point Queries",
+    "sent_at": "2026-07-28T02:22:07.269863+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/cosmos-h-dreams": {
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "sent_at": "2026-07-28T02:22:05.093606+00:00"
+  },
+  "https://blogs.nvidia.com/?p=96884": {
+    "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+    "sent_at": "2026-07-28T02:22:04.269911+00:00"
+  },
+  "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work": {
+    "title": "How AI is expanding what people do at work",
+    "sent_at": "2026-07-28T02:22:02.930155+00:00"
+  },
+  "https://goddaehee.tistory.com/627": {
+    "title": "Claude Opus 5 리뷰 - 스펙&middot;가격&middot;Fast mode&middot;실사용 사례 등(출시 후 커뮤니티 반응 정리)",
+    "sent_at": "2026-07-28T02:22:01.651458+00:00"
+  },
+  "https://github.blog/?p=97758": {
+    "title": "GitHub Copilot app for Beginners: Getting started",
+    "sent_at": "2026-07-28T02:21:54.193254+00:00"
+  },
+  "https://github.blog/?p=97740": {
+    "title": "The harness is all you need (mostly)",
+    "sent_at": "2026-07-28T02:21:53.819832+00:00"
+  },
+  "https://techcrunch.com/?p=3147064": {
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "sent_at": "2026-07-28T02:21:52.127886+00:00"
+  },
+  "https://techcrunch.com/?p=3147146": {
+    "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
+    "sent_at": "2026-07-28T02:21:51.725536+00:00"
+  },
+  "https://techcrunch.com/?p=3147128": {
+    "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+    "sent_at": "2026-07-28T02:21:51.351480+00:00"
+  },
+  "https://techcrunch.com/?p=3147049": {
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "sent_at": "2026-07-28T02:21:50.978438+00:00"
+  },
+  "https://techcrunch.com/?p=3147197": {
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "sent_at": "2026-07-28T02:21:50.583009+00:00"
+  },
   "https://www.threads.com/t/DbQBNuQjncQ": {
     "title": "@feelfree_ai: \"단일 세션 루프가 계획 기반 워크플로보다 9배나 저렴하다\"는 말에 ᄒ...",
     "sent_at": "2026-07-27T02:42:03.066946+00:00"
@@ -1922,81 +1998,5 @@
   "https://toss.tech/article/50761": {
     "title": "es-toolkit, 사내 작은 라이브러리가 전세계적인 라이브러리가 되기까지",
     "sent_at": "2026-06-23T02:59:12.366620+00:00"
-  },
-  "https://toss.tech/article/technical-writing-5": {
-    "title": "5. Technical Writer, 사라질 결심",
-    "sent_at": "2026-06-23T02:59:11.981710+00:00"
-  },
-  "https://toss.tech/article/technical-writing-6": {
-    "title": "6. 도구를 넘어, 기준과 책임으로",
-    "sent_at": "2026-06-23T02:59:11.592763+00:00"
-  },
-  "48f31f6fe142a62eba1b6ad460759328491f8672": {
-    "title": "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)",
-    "sent_at": "2026-06-23T02:59:04.254348+00:00"
-  },
-  "28b0196fbc8cdde62bdcc235123c0f1926871df6": {
-    "title": "Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs",
-    "sent_at": "2026-06-23T02:59:03.818866+00:00"
-  },
-  "5X4Vz9KDcjIBXgHIFSuJFZ": {
-    "title": "How we found a bug in the hyper HTTP library",
-    "sent_at": "2026-06-23T02:59:01.950638+00:00"
-  },
-  "https://medium.com/p/587b1f2de928": {
-    "title": "Predicting Risk in Content Launches: How Data-Driven Insights can Transform Launch Planning",
-    "sent_at": "2026-06-23T02:59:00.498759+00:00"
-  },
-  "https://medium.com/p/7ca25888591e": {
-    "title": "Data Projects: Managing Data Assets at Netflix Scale",
-    "sent_at": "2026-06-23T02:59:00.107647+00:00"
-  },
-  "https://medium.com/p/18b699d58e36": {
-    "title": "The Data Canary: How Netflix Validates Catalog Metadata",
-    "sent_at": "2026-06-23T02:58:59.719995+00:00"
-  },
-  "https://medium.com/p/87860682629c": {
-    "title": "How Netflix Simplified Batch Compute with Kueue",
-    "sent_at": "2026-06-23T02:58:59.327012+00:00"
-  },
-  "https://medium.com/p/eb8160ed60a2": {
-    "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
-    "sent_at": "2026-06-23T02:58:58.940979+00:00"
-  },
-  "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6": {
-    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-    "sent_at": "2026-06-23T02:58:53.799326+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94802": {
-    "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
-    "sent_at": "2026-06-23T02:58:53.026047+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94818": {
-    "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-    "sent_at": "2026-06-23T02:58:52.572689+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94790": {
-    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-    "sent_at": "2026-06-23T02:58:52.167000+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94851": {
-    "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
-    "sent_at": "2026-06-23T02:58:51.785079+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94825": {
-    "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
-    "sent_at": "2026-06-23T02:58:51.395835+00:00"
-  },
-  "https://engineering.fb.com/?p=24054": {
-    "title": "Adopting AV1 for Real-Time Communication (RTC) at Scale",
-    "sent_at": "2026-06-23T02:58:46.307229+00:00"
-  },
-  "https://openai.com/index/codex-maxxing-long-running-work": {
-    "title": "Codex-maxxing for long-running work",
-    "sent_at": "2026-06-23T02:58:45.296009+00:00"
-  },
-  "https://openai.com/index/daybreak-securing-the-world": {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "sent_at": "2026-06-23T02:58:44.899301+00:00"
   }
 }
