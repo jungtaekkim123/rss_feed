@@ -1,4 +1,92 @@
 {
+  "https://www.threads.com/t/DbVAuc1AU60": {
+    "title": "@feelfree_ai: Anthropic이 오픈 가중치(Open-weights) 모델에 대한 공식 입장을 발표하면서...",
+    "sent_at": "2026-07-29T02:26:35.734368+00:00"
+  },
+  "https://www.threads.com/t/DbVz8ZkDd-M": {
+    "title": "@feelfree_ai: \"벡터 DB는 끝났다\"던 예측과 달리 market은 오히려 폭발적으로 성장...",
+    "sent_at": "2026-07-29T02:26:35.258166+00:00"
+  },
+  "https://www.threads.com/t/DbW34SYgdpr": {
+    "title": "@feelfree_ai: 거대 모델의 추론 과정을 작은 모델에 무작정 베껴 쓰게 하면, 문ᄌ...",
+    "sent_at": "2026-07-29T02:26:34.748335+00:00"
+  },
+  "https://toss.tech/article/technical-writing-5": {
+    "title": "5. Technical Writer, 사라질 결심",
+    "sent_at": "2026-07-29T02:26:23.413504+00:00"
+  },
+  "https://toss.tech/article/technical-writing-6": {
+    "title": "6. 도구를 넘어, 기준과 책임으로",
+    "sent_at": "2026-07-29T02:26:22.958267+00:00"
+  },
+  "01KYJZQZHMFNYN2EGYDF73J99A": {
+    "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption events",
+    "sent_at": "2026-07-29T02:26:16.483742+00:00"
+  },
+  "https://medium.com/p/87860682629c": {
+    "title": "How Netflix Simplified Batch Compute with Kueue",
+    "sent_at": "2026-07-29T02:26:14.714667+00:00"
+  },
+  "https://medium.com/p/eb8160ed60a2": {
+    "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
+    "sent_at": "2026-07-29T02:26:14.264968+00:00"
+  },
+  "https://huggingface.co/blog/agent-intrusion-technical-timeline": {
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "sent_at": "2026-07-29T02:26:12.295786+00:00"
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders": {
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "sent_at": "2026-07-29T02:26:11.817670+00:00"
+  },
+  "https://huggingface.co/blog/allenai/olmoearth-infrastructure": {
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "sent_at": "2026-07-29T02:26:11.375053+00:00"
+  },
+  "https://blogs.nvidia.com/?p=96921": {
+    "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+    "sent_at": "2026-07-29T02:26:08.354233+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/": {
+    "title": "5 ways to host the ultimate dinner party with Google Search",
+    "sent_at": "2026-07-29T02:26:07.025264+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/": {
+    "title": "5 ways AI Mode in Search helps you enjoy the real world",
+    "sent_at": "2026-07-29T02:26:06.575820+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/": {
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "sent_at": "2026-07-29T02:26:06.135452+00:00"
+  },
+  "https://openai.com/index/scientific-computing-agentic-ai": {
+    "title": "Scientific computing in the age of agentic AI",
+    "sent_at": "2026-07-29T02:26:03.104012+00:00"
+  },
+  "https://github.blog/?p=97755": {
+    "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+    "sent_at": "2026-07-29T02:25:56.263397+00:00"
+  },
+  "https://techcrunch.com/?p=3147414": {
+    "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
+    "sent_at": "2026-07-29T02:25:55.539398+00:00"
+  },
+  "https://techcrunch.com/?p=3147554": {
+    "title": "Sam Altman is ready to decelerate",
+    "sent_at": "2026-07-29T02:25:55.063465+00:00"
+  },
+  "https://techcrunch.com/?p=3147500": {
+    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "sent_at": "2026-07-29T02:25:54.585585+00:00"
+  },
+  "https://techcrunch.com/?p=3147594": {
+    "title": "Bot-detection startup Spur nabs $200M from Insight",
+    "sent_at": "2026-07-29T02:25:54.140231+00:00"
+  },
+  "https://techcrunch.com/?p=3147673": {
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "sent_at": "2026-07-29T02:25:53.679770+00:00"
+  },
   "https://www.threads.com/t/DbSZza7gR2Y": {
     "title": "@feelfree_ai: 삼성전자 전 임직원한테 ChatGPT 엔터프라이즈랑 Codex를 도입한다느...",
     "sent_at": "2026-07-28T02:22:27.626605+00:00"
@@ -1910,93 +1998,5 @@
   "https://huggingface.co/blog/cross-origin-storage": {
     "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
     "sent_at": "2026-06-24T03:24:43.095424+00:00"
-  },
-  "https://huggingface.co/blog/huggingface-hub-release-ci": {
-    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-    "sent_at": "2026-06-24T03:24:42.603685+00:00"
-  },
-  "https://huggingface.co/blog/ibm-research/cuga-apps": {
-    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-    "sent_at": "2026-06-24T03:24:42.117407+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94833": {
-    "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
-    "sent_at": "2026-06-24T03:24:37.574569+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94919": {
-    "title": "NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers",
-    "sent_at": "2026-06-24T03:24:37.083877+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94905": {
-    "title": "How Businesses Are Building Specialized AI They Can Trust",
-    "sent_at": "2026-06-24T03:24:36.599398+00:00"
-  },
-  "https://blogs.nvidia.com/?p=94934": {
-    "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
-    "sent_at": "2026-06-24T03:24:36.114204+00:00"
-  },
-  "https://engineering.fb.com/?p=24113": {
-    "title": "How Meta Engineered Ultra-Narrow Batteries for AI Glasses",
-    "sent_at": "2026-06-24T03:24:31.904344+00:00"
-  },
-  "https://openai.com/index/omio": {
-    "title": "How Omio is building the future of conversational travel",
-    "sent_at": "2026-06-24T03:24:30.638125+00:00"
-  },
-  "https://openai.com/index/gpt-5-immunology-mystery": {
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "sent_at": "2026-06-24T03:24:30.141129+00:00"
-  },
-  "https://openai.com/index/helping-build-shared-standards-for-advanced-ai": {
-    "title": "Helping build shared standards for advanced AI",
-    "sent_at": "2026-06-24T03:24:29.595722+00:00"
-  },
-  "https://github.blog/?p=96970": {
-    "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
-    "sent_at": "2026-06-24T03:24:19.375258+00:00"
-  },
-  "https://github.blog/?p=96931": {
-    "title": "I automated my job (and it made me a better leader)",
-    "sent_at": "2026-06-24T03:24:18.895513+00:00"
-  },
-  "https://techcrunch.com/?p=3135483": {
-    "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
-    "sent_at": "2026-06-24T03:24:16.971356+00:00"
-  },
-  "https://techcrunch.com/?p=3135406": {
-    "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
-    "sent_at": "2026-06-24T03:24:16.485561+00:00"
-  },
-  "https://techcrunch.com/?p=3135465": {
-    "title": "Superhuman acquires AI detection startup GPTZero",
-    "sent_at": "2026-06-24T03:24:15.988750+00:00"
-  },
-  "https://techcrunch.com/?p=3135480": {
-    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-    "sent_at": "2026-06-24T03:24:15.505919+00:00"
-  },
-  "https://techcrunch.com/?p=3135446": {
-    "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
-    "sent_at": "2026-06-24T03:24:15.006579+00:00"
-  },
-  "https://www.threads.com/t/DZ3gTpqjKQb": {
-    "title": "@feelfree_ai: 폰에서 무거운 LLM을 돌릴 때 모델이 느린 진짜 이유는 연산력 부ᄌ...",
-    "sent_at": "2026-06-23T02:59:26.176933+00:00"
-  },
-  "https://www.threads.com/t/DZ372BpAhvu": {
-    "title": "@feelfree_ai: 이미지 생성 모델이랑 LLM을 각각 다른 방식으로 학습시키느라 고...",
-    "sent_at": "2026-06-23T02:59:25.779739+00:00"
-  },
-  "https://www.threads.com/t/DZ4n0qzgata": {
-    "title": "@feelfree_ai: 오늘 서울여대 지능정보보호학부 강은성 교수님의 칼럼을 읽어...",
-    "sent_at": "2026-06-23T02:59:25.381378+00:00"
-  },
-  "https://www.threads.com/t/DZ6FKzvgq6n": {
-    "title": "@feelfree_ai: AI 에이전트에게 사이버 보안 실무를 맡기고 싶다면, 26개 보안 영역ᄋ...",
-    "sent_at": "2026-06-23T02:59:24.988207+00:00"
-  },
-  "https://toss.tech/article/50761": {
-    "title": "es-toolkit, 사내 작은 라이브러리가 전세계적인 라이브러리가 되기까지",
-    "sent_at": "2026-06-23T02:59:12.366620+00:00"
   }
 }
