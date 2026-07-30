@@ -1,4 +1,64 @@
 {
+  "https://www.threads.com/t/DbXJqTUAbGW": {
+    "title": "@feelfree_ai: 마이크로소프트가 실시간 구동 없이 AI 에이전트 학습 비용을 확 나...",
+    "sent_at": "2026-07-30T02:08:50.054874+00:00"
+  },
+  "https://www.threads.com/t/DbXwRFBgWn2": {
+    "title": "@feelfree_ai: 파이썬으로 1억 개의 데이터를 단 0.08초 만에 시각화하는 압도적인 ᄑ...",
+    "sent_at": "2026-07-30T02:08:49.535090+00:00"
+  },
+  "https://www.threads.com/t/DbZcULmAbmH": {
+    "title": "@feelfree_ai: 단돈 8달러짜리 마이크로컨트롤러(ESP32)에서 오프라인으로 2,890만 파라미...",
+    "sent_at": "2026-07-30T02:08:49.038982+00:00"
+  },
+  "https://toss.tech/article/50761": {
+    "title": "es-toolkit, 사내 작은 라이브러리가 전세계적인 라이브러리가 되기까지",
+    "sent_at": "2026-07-30T02:08:38.039135+00:00"
+  },
+  "01KYMH71B35NXQ00E0M2D0WMQV": {
+    "title": "Post-quantum authentication to origins is now supported",
+    "sent_at": "2026-07-30T02:08:33.243643+00:00"
+  },
+  "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency": {
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "sent_at": "2026-07-30T02:08:30.316551+00:00"
+  },
+  "https://openai.com/index/chatgpt-for-academic-researchers": {
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "sent_at": "2026-07-30T02:08:29.836863+00:00"
+  },
+  "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores": {
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "sent_at": "2026-07-30T02:08:29.348460+00:00"
+  },
+  "https://goddaehee.tistory.com/628": {
+    "title": "그래프 엔지니어링 팩트체크 - Loop Engineering은 끝났나? : 루프 vs 그래프, LangGraph, Anthropic 패턴, 가짜 수치 걸러내기",
+    "sent_at": "2026-07-30T02:08:25.772707+00:00"
+  },
+  "https://github.blog/?p=97770": {
+    "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+    "sent_at": "2026-07-30T02:08:19.545623+00:00"
+  },
+  "https://techcrunch.com/?p=3147648": {
+    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "sent_at": "2026-07-30T02:08:18.847895+00:00"
+  },
+  "https://techcrunch.com/?p=3148020": {
+    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+    "sent_at": "2026-07-30T02:08:18.366058+00:00"
+  },
+  "https://techcrunch.com/?p=3148002": {
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "sent_at": "2026-07-30T02:08:17.882176+00:00"
+  },
+  "https://techcrunch.com/?p=3148017": {
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "sent_at": "2026-07-30T02:08:17.395991+00:00"
+  },
+  "https://techcrunch.com/?p=3148055": {
+    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "sent_at": "2026-07-30T02:08:16.910676+00:00"
+  },
   "https://www.threads.com/t/DbVAuc1AU60": {
     "title": "@feelfree_ai: Anthropic이 오픈 가중치(Open-weights) 모델에 대한 공식 입장을 발표하면서...",
     "sent_at": "2026-07-29T02:26:35.734368+00:00"
@@ -1938,65 +1998,5 @@
   "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel": {
     "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
     "sent_at": "2026-06-25T02:59:15.522474+00:00"
-  },
-  "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "sent_at": "2026-06-25T02:59:13.012772+00:00"
-  },
-  "https://techcrunch.com/?p=3135912": {
-    "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-    "sent_at": "2026-06-25T02:59:02.267825+00:00"
-  },
-  "https://techcrunch.com/?p=3135956": {
-    "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-    "sent_at": "2026-06-25T02:59:01.884780+00:00"
-  },
-  "https://techcrunch.com/?p=3135941": {
-    "title": "Elon suffers another day short of trillionaire status",
-    "sent_at": "2026-06-25T02:59:01.499117+00:00"
-  },
-  "https://techcrunch.com/?p=3135964": {
-    "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-    "sent_at": "2026-06-25T02:59:01.052947+00:00"
-  },
-  "https://techcrunch.com/?p=3136032": {
-    "title": "Europe is pushing back on Washington’s chip war",
-    "sent_at": "2026-06-25T02:59:00.662003+00:00"
-  },
-  "https://www.threads.com/t/DZ6teRygROG": {
-    "title": "@feelfree_ai: 프롬프트 작성이 막막하셨다면 구글이 직접 푼 6가지 핵심 가이...",
-    "sent_at": "2026-06-24T03:25:08.503775+00:00"
-  },
-  "https://www.threads.com/t/DZ7V-LgAX46": {
-    "title": "@feelfree_ai: 랭체인(LangChain)의 시드니 런클(Sydney Runkle)님이 공유한 '루프 엔지니어링' ...",
-    "sent_at": "2026-06-24T03:25:08.004459+00:00"
-  },
-  "https://www.threads.com/t/DZ8tp0PgRCV": {
-    "title": "@feelfree_ai: 엔비디아 공식 런타임보다 자사 음성 모델을 더 빠르게 돌려버리느...",
-    "sent_at": "2026-06-24T03:25:07.435525+00:00"
-  },
-  "https://www.threads.com/t/DZ8-jjqkuXB": {
-    "title": "@feelfree_ai: 민감한 사내 문서 유출 걱정 없이 단일 컨테이너 로컬 환경에ᄉ...",
-    "sent_at": "2026-06-24T03:25:06.943987+00:00"
-  },
-  "https://d2.naver.com/helloworld/4394359": {
-    "title": "SNOW의 Automatic Sharding 도입기",
-    "sent_at": "2026-06-24T03:24:49.501108+00:00"
-  },
-  "https://d2.naver.com/helloworld/3015479": {
-    "title": "Kelos - 쿠버네티스 네이티브 자율 코딩 에이전트 프레임워크",
-    "sent_at": "2026-06-24T03:24:49.004207+00:00"
-  },
-  "6ecffq4Al52D0ka1U4p2OR": {
-    "title": "The post-quantum EO is an important milestone. Now it’s time to get to work",
-    "sent_at": "2026-06-24T03:24:45.531360+00:00"
-  },
-  "https://huggingface.co/blog/local-models-pr-triage": {
-    "title": "We got local models to triage the OpenClaw repo for FREE!*",
-    "sent_at": "2026-06-24T03:24:43.637015+00:00"
-  },
-  "https://huggingface.co/blog/cross-origin-storage": {
-    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-    "sent_at": "2026-06-24T03:24:43.095424+00:00"
   }
 }
