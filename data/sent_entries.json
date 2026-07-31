@@ -1,4 +1,68 @@
 {
+  "https://www.threads.com/t/DbZ4CFeAdF4": {
+    "title": "@feelfree_ai: 구글 Gemini Managed Agents와 GitHub Actions를 연동해 PR 코멘트부터 원클릭 코드 수ᄌ...",
+    "sent_at": "2026-07-31T02:36:36.218711+00:00"
+  },
+  "https://www.threads.com/t/Dbb0x9dAV16": {
+    "title": "@feelfree_ai: AI 에이전트에게 회사 규정을 읽혔다고 해서, 그들이 규정대로 안전ᄒ...",
+    "sent_at": "2026-07-31T02:36:35.724520+00:00"
+  },
+  "https://toss.tech/article/device-farm-nebula": {
+    "title": "토스의 디바이스 팜 만들기",
+    "sent_at": "2026-07-31T02:36:25.977185+00:00"
+  },
+  "https://toss.tech/article/llm_context_topic": {
+    "title": "LLM은 똑똑한데, 왜 우리 회사 일은 모를까",
+    "sent_at": "2026-07-31T02:36:25.499412+00:00"
+  },
+  "01KYQNRTVJ54SHCVBMMXFYGJ5P": {
+    "title": "Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform",
+    "sent_at": "2026-07-31T02:36:19.204460+00:00"
+  },
+  "https://medium.com/p/f20be6f643e3": {
+    "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+    "sent_at": "2026-07-31T02:36:18.049393+00:00"
+  },
+  "https://huggingface.co/blog/Dharma-AI/gpu-management": {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "sent_at": "2026-07-31T02:36:17.083927+00:00"
+  },
+  "https://blogs.nvidia.com/?p=96983": {
+    "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
+    "sent_at": "2026-07-31T02:36:16.133829+00:00"
+  },
+  "https://openai.com/index/avatarin": {
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "sent_at": "2026-07-31T02:36:14.547531+00:00"
+  },
+  "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": {
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "sent_at": "2026-07-31T02:36:14.061766+00:00"
+  },
+  "https://github.blog/?p=97813": {
+    "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+    "sent_at": "2026-07-31T02:36:05.663978+00:00"
+  },
+  "https://techcrunch.com/?p=3148562": {
+    "title": "Investors love AI, as long as you’re a cloud host",
+    "sent_at": "2026-07-31T02:36:04.939353+00:00"
+  },
+  "https://techcrunch.com/?p=3148540": {
+    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+    "sent_at": "2026-07-31T02:36:04.443058+00:00"
+  },
+  "https://techcrunch.com/?p=3148482": {
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "sent_at": "2026-07-31T02:36:03.953328+00:00"
+  },
+  "https://techcrunch.com/?p=3148575": {
+    "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+    "sent_at": "2026-07-31T02:36:03.464695+00:00"
+  },
+  "https://techcrunch.com/?p=3148621": {
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "sent_at": "2026-07-31T02:36:02.975903+00:00"
+  },
   "https://www.threads.com/t/DbXJqTUAbGW": {
     "title": "@feelfree_ai: 마이크로소프트가 실시간 구동 없이 AI 에이전트 학습 비용을 확 나...",
     "sent_at": "2026-07-30T02:08:50.054874+00:00"
@@ -1934,69 +1998,5 @@
   "https://blogs.nvidia.com/?p=95467": {
     "title": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
     "sent_at": "2026-06-26T03:30:49.909048+00:00"
-  },
-  "https://engineering.fb.com/?p=24095": {
-    "title": "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study",
-    "sent_at": "2026-06-26T03:30:48.878311+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/": {
-    "title": "Our latest Google Finance upgrades, including a new app",
-    "sent_at": "2026-06-26T03:30:47.834096+00:00"
-  },
-  "https://openai.com/index/how-agents-are-transforming-work": {
-    "title": "How agents are transforming work",
-    "sent_at": "2026-06-26T03:30:46.826096+00:00"
-  },
-  "https://github.blog/?p=97041": {
-    "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-    "sent_at": "2026-06-26T03:30:36.710971+00:00"
-  },
-  "https://techcrunch.com/?p=3136464": {
-    "title": "Xbox follows Apple with price increases",
-    "sent_at": "2026-06-26T03:30:35.752170+00:00"
-  },
-  "https://techcrunch.com/?p=3136473": {
-    "title": "Polymarket says hackers stole users’ funds",
-    "sent_at": "2026-06-26T03:30:35.154983+00:00"
-  },
-  "https://techcrunch.com/?p=3136499": {
-    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-    "sent_at": "2026-06-26T03:30:34.615659+00:00"
-  },
-  "https://techcrunch.com/?p=3136461": {
-    "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
-    "sent_at": "2026-06-26T03:30:34.054890+00:00"
-  },
-  "https://techcrunch.com/?p=3136540": {
-    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-    "sent_at": "2026-06-26T03:30:33.491797+00:00"
-  },
-  "https://www.threads.com/t/DZ9xxJsAbEy": {
-    "title": "@feelfree_ai: 이제 LLM이 환경 안에서 행동하는 것을 넘어, 웹이나 OS 등 7가지 에이...",
-    "sent_at": "2026-06-25T02:59:37.111535+00:00"
-  },
-  "https://www.threads.com/t/DZ_KFtBAQ6d": {
-    "title": "@feelfree_ai: 실시간 비디오 AI 구동 시 아무 변화 없는 장면까지 클라우드로 전소...",
-    "sent_at": "2026-06-25T02:59:36.611075+00:00"
-  },
-  "https://www.threads.com/t/DZ_fjJuAePL": {
-    "title": "@feelfree_ai: 11.9B 거대 모델의 성능을 단 2% 크기(0.22B)의 초소형 모델로 맞먹거나 오ᄒ...",
-    "sent_at": "2026-06-25T02:59:36.193800+00:00"
-  },
-  "https://toss.tech/article/50693": {
-    "title": "es-toolkit: How a Small Internal Library Became a Global Project",
-    "sent_at": "2026-06-25T02:59:23.680432+00:00"
-  },
-  "77AgsHNNnpUDvP0Z6gqgp6": {
-    "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
-    "sent_at": "2026-06-25T02:59:17.836857+00:00"
-  },
-  "https://huggingface.co/blog/ffasr-leaderboard": {
-    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-    "sent_at": "2026-06-25T02:59:15.895343+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel": {
-    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-    "sent_at": "2026-06-25T02:59:15.522474+00:00"
   }
 }
