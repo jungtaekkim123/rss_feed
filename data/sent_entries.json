@@ -1,4 +1,68 @@
 {
+  "https://www.threads.com/t/DbdJopYgVMT": {
+    "title": "@feelfree_ai: LG에서 상업적 이용이 가능한 7,500억 파라미터 규모의 한국형 초대혀...",
+    "sent_at": "2026-08-01T02:35:04.032765+00:00"
+  },
+  "https://www.threads.com/t/DbenDb7DpqW": {
+    "title": "@feelfree_ai: 터미널에서 돌아가는 코딩 에이전트가 굳이 무거울 필요가 없다는 ...",
+    "sent_at": "2026-08-01T02:35:03.552241+00:00"
+  },
+  "https://toss.tech/article/50693": {
+    "title": "es-toolkit: How a Small Internal Library Became a Global Project",
+    "sent_at": "2026-08-01T02:34:52.674500+00:00"
+  },
+  "01KYVQDQC4RNEJ8Q0PMDQV2RGB": {
+    "title": "An API for MoQ: provision your own isolated relays",
+    "sent_at": "2026-08-01T02:34:47.104597+00:00"
+  },
+  "https://medium.com/p/e7607acebde8": {
+    "title": "Modeling Device Capabilities for Analytics",
+    "sent_at": "2026-08-01T02:34:44.752890+00:00"
+  },
+  "https://engineering.fb.com/?p=24095": {
+    "title": "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study",
+    "sent_at": "2026-08-01T02:34:42.921805+00:00"
+  },
+  "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": {
+    "title": "Disrupting a Criminal Scam Operation",
+    "sent_at": "2026-08-01T02:34:41.715114+00:00"
+  },
+  "https://openai.com/index/unive": {
+    "title": "Univé builds an AI-ready workforce",
+    "sent_at": "2026-08-01T02:34:41.244095+00:00"
+  },
+  "https://openai.com/index/building-abundant-intelligence": {
+    "title": "Building abundant intelligence",
+    "sent_at": "2026-08-01T02:34:40.788629+00:00"
+  },
+  "https://openai.com/index/advancing-responsible-ai-across-europe": {
+    "title": "Advancing responsible AI across Europe",
+    "sent_at": "2026-08-01T02:34:40.298180+00:00"
+  },
+  "https://github.blog/?p=97648": {
+    "title": "Don’t stop early: Case-folding source code at memory speed",
+    "sent_at": "2026-08-01T02:34:29.194172+00:00"
+  },
+  "https://techcrunch.com/?p=3148844": {
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "sent_at": "2026-08-01T02:34:28.366250+00:00"
+  },
+  "https://techcrunch.com/?p=3148857": {
+    "title": "India is starting to pay for apps, not just download them",
+    "sent_at": "2026-08-01T02:34:27.866306+00:00"
+  },
+  "https://techcrunch.com/?p=3145635": {
+    "title": "Silicon Valley loves young founders. Until it doesn’t.",
+    "sent_at": "2026-08-01T02:34:27.320921+00:00"
+  },
+  "https://techcrunch.com/?p=3148946": {
+    "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+    "sent_at": "2026-08-01T02:34:26.829714+00:00"
+  },
+  "https://techcrunch.com/?p=3148949": {
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "sent_at": "2026-08-01T02:34:26.313583+00:00"
+  },
   "https://www.threads.com/t/DbZ4CFeAdF4": {
     "title": "@feelfree_ai: 구글 Gemini Managed Agents와 GitHub Actions를 연동해 PR 코멘트부터 원클릭 코드 수ᄌ...",
     "sent_at": "2026-07-31T02:36:36.218711+00:00"
@@ -1934,69 +1998,5 @@
   "https://www.threads.com/t/DaEgppbAfia": {
     "title": "@feelfree_ai: 어제 구글이 블로그로 이미 다 만들어진 AI 모델을 뜯어고치지 않고ᄃ...",
     "sent_at": "2026-06-27T02:54:09.647899+00:00"
-  },
-  "https://openai.com/index/previewing-gpt-5-6-sol": {
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "sent_at": "2026-06-27T02:53:50.688257+00:00"
-  },
-  "https://github.blog/?p=97031": {
-    "title": "Transitioning as a Hubber",
-    "sent_at": "2026-06-27T02:53:38.302809+00:00"
-  },
-  "https://github.blog/?p=97118": {
-    "title": "GitHub and UNDP team up to advance development priorities in Ghana with open source",
-    "sent_at": "2026-06-27T02:53:37.924995+00:00"
-  },
-  "https://techcrunch.com/?p=3136773": {
-    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-    "sent_at": "2026-06-27T02:53:36.180756+00:00"
-  },
-  "https://techcrunch.com/?p=3136777": {
-    "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
-    "sent_at": "2026-06-27T02:53:35.801986+00:00"
-  },
-  "https://techcrunch.com/?p=3136556": {
-    "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
-    "sent_at": "2026-06-27T02:53:35.424189+00:00"
-  },
-  "https://techcrunch.com/?p=3136946": {
-    "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
-    "sent_at": "2026-06-27T02:53:35.050293+00:00"
-  },
-  "https://techcrunch.com/?p=3136944": {
-    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
-    "sent_at": "2026-06-27T02:53:34.664911+00:00"
-  },
-  "https://www.threads.com/t/DZ_yCk2AdJ7": {
-    "title": "@feelfree_ai: \"의료 AI의 신뢰는 결코 밀실에서 만들어질 수 없습니다.\" 프랑스 헤...",
-    "sent_at": "2026-06-26T03:31:14.143719+00:00"
-  },
-  "https://www.threads.com/t/DaAfP2bAT8e": {
-    "title": "@feelfree_ai: AI 코딩 에이전트가 빛의 속도로 쏟아내는 커밋들, 사람이 일일이 ᄅ...",
-    "sent_at": "2026-06-26T03:31:13.518189+00:00"
-  },
-  "https://www.threads.com/t/DaBpqeDjySx": {
-    "title": "@feelfree_ai: LLM 에이전트의 메모리는 이미 단순 검색을 넘어 거대한 데이터 시스ᄐ...",
-    "sent_at": "2026-06-26T03:31:12.977460+00:00"
-  },
-  "https://toss.tech/article/50893": {
-    "title": "누군가는 토스를 테스트하는 동안, 우리는 테스트하는 법을 만듭니다.",
-    "sent_at": "2026-06-26T03:31:00.379729+00:00"
-  },
-  "6BmERiKIIt4pIJoFmNy7Jn": {
-    "title": "How we built saga rollbacks for Cloudflare Workflows",
-    "sent_at": "2026-06-26T03:30:54.943879+00:00"
-  },
-  "https://huggingface.co/blog/allenai/hybrid-token-prediction": {
-    "title": "Which tokens does a hybrid model predict better?",
-    "sent_at": "2026-06-26T03:30:52.590782+00:00"
-  },
-  "https://huggingface.co/blog/vllm-jobs": {
-    "title": "Run a vLLM Server on HF Jobs in One Command",
-    "sent_at": "2026-06-26T03:30:52.026084+00:00"
-  },
-  "https://blogs.nvidia.com/?p=95467": {
-    "title": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
-    "sent_at": "2026-06-26T03:30:49.909048+00:00"
   }
 }
