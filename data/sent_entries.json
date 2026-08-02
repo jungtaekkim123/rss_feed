@@ -1,4 +1,44 @@
 {
+  "https://www.threads.com/t/DbfTsZLjXyF": {
+    "title": "@feelfree_ai: AWS에서 무려 2.8T 파라미터 크기를 자랑하는 Kimi K3의 공식 배포 가이드를 고...",
+    "sent_at": "2026-08-02T02:33:47.902534+00:00"
+  },
+  "https://www.threads.com/t/DbfwmNRAT8X": {
+    "title": "@feelfree_ai: 단 하나의 파이썬 패키지로 나만의 완벽한(?) '로컬 실시간 음성 AI ᄇ...",
+    "sent_at": "2026-08-02T02:33:47.448392+00:00"
+  },
+  "https://www.threads.com/t/DbgAUCSkpxL": {
+    "title": "@feelfree_ai: 무거운 VLM 없이 순수 C++과 TensorRT만으로 단일 GPU에서 초당 20페이지의 표와 ...",
+    "sent_at": "2026-08-02T02:33:47.064383+00:00"
+  },
+  "https://www.threads.com/t/DbhRtPLAWhx": {
+    "title": "@feelfree_ai: GPT-5.5를 뛰어넘는데 필요한 활성 파라미터는 단 3B면 충분했습니...",
+    "sent_at": "2026-08-02T02:33:46.680963+00:00"
+  },
+  "https://toss.tech/article/50893": {
+    "title": "누군가는 토스를 테스트하는 동안, 우리는 테스트하는 법을 만듭니다.",
+    "sent_at": "2026-08-02T02:33:34.287300+00:00"
+  },
+  "https://openai.com/index/ten-advances-in-mathematics": {
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "sent_at": "2026-08-02T02:33:26.388090+00:00"
+  },
+  "https://techcrunch.com/?p=3149010": {
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "sent_at": "2026-08-02T02:33:17.865727+00:00"
+  },
+  "https://techcrunch.com/?p=3149003": {
+    "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+    "sent_at": "2026-08-02T02:33:17.478855+00:00"
+  },
+  "https://techcrunch.com/?p=3149017": {
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "sent_at": "2026-08-02T02:33:17.105473+00:00"
+  },
+  "https://techcrunch.com/?p=3149027": {
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "sent_at": "2026-08-02T02:33:16.699318+00:00"
+  },
   "https://www.threads.com/t/DbdJopYgVMT": {
     "title": "@feelfree_ai: LG에서 상업적 이용이 가능한 7,500억 파라미터 규모의 한국형 초대혀...",
     "sent_at": "2026-08-01T02:35:04.032765+00:00"
@@ -1958,45 +1998,5 @@
   "https://techcrunch.com/?p=3137041": {
     "title": "California law targeting loud streaming ads takes effect on July 1",
     "sent_at": "2026-06-29T03:40:49.593933+00:00"
-  },
-  "https://www.threads.com/t/DaEwwfHgS2U": {
-    "title": "@feelfree_ai: 딥시크(DeepSeek) 같은 거대 MoE 모델 추론 시 발생하는 고질적인 런타ᄋ...",
-    "sent_at": "2026-06-28T03:36:52.124692+00:00"
-  },
-  "https://www.threads.com/t/DaFc_LHAS4J": {
-    "title": "@feelfree_ai: 요즘 엔지니어들은 더 이상 수동으로 프롬프트를 깎지 않고, AI가 스...",
-    "sent_at": "2026-06-28T03:36:51.728893+00:00"
-  },
-  "https://techcrunch.com/?p=3136677": {
-    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-    "sent_at": "2026-06-28T03:36:22.356307+00:00"
-  },
-  "https://techcrunch.com/?p=3136695": {
-    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-    "sent_at": "2026-06-28T03:36:21.969731+00:00"
-  },
-  "https://techcrunch.com/?p=3136981": {
-    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-    "sent_at": "2026-06-28T03:36:21.575071+00:00"
-  },
-  "https://techcrunch.com/?p=3136985": {
-    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-    "sent_at": "2026-06-28T03:36:21.188180+00:00"
-  },
-  "https://techcrunch.com/?p=3136988": {
-    "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
-    "sent_at": "2026-06-28T03:36:20.800440+00:00"
-  },
-  "https://www.threads.com/t/DaCZ1U9gaWf": {
-    "title": "@feelfree_ai: 어제 허깅페이스에서 Llama.cpp 최적화 및 양자화 기술을 바탕으로 Pi나 OpenCl...",
-    "sent_at": "2026-06-27T02:54:10.417658+00:00"
-  },
-  "https://www.threads.com/t/DaC-HsbAe5k": {
-    "title": "@feelfree_ai: Claude Code를 쓰다가 OpenClaw로 툴을 바꿔도, AI가 이전 작업 맥락을 잊지 아...",
-    "sent_at": "2026-06-27T02:54:10.030597+00:00"
-  },
-  "https://www.threads.com/t/DaEgppbAfia": {
-    "title": "@feelfree_ai: 어제 구글이 블로그로 이미 다 만들어진 AI 모델을 뜯어고치지 않고ᄃ...",
-    "sent_at": "2026-06-27T02:54:09.647899+00:00"
   }
 }
