@@ -1,4 +1,68 @@
 {
+  "https://www.threads.com/t/DbpPLiJAR4I": {
+    "title": "@feelfree_ai: Cursor가 AI 모델 학습 속도를 최대 2.37배 끌어올린 강력한 MoE 트레이니...",
+    "sent_at": "2026-08-06T02:23:09.604649+00:00"
+  },
+  "https://www.threads.com/t/Dbp_dmjAY_i": {
+    "title": "@feelfree_ai: 코딩 에이전트 생태계에 SWE-bench가 있다면, 프로덕션 서버 장애 대응에...",
+    "sent_at": "2026-08-06T02:23:09.060267+00:00"
+  },
+  "https://www.threads.com/t/DbrZLFhgYvC": {
+    "title": "@feelfree_ai: 맥 미니 같은 개인 기기에서 20B 파라미터 모델이 초당 218 토큰으로 뿜ᄋ...",
+    "sent_at": "2026-08-06T02:23:08.509251+00:00"
+  },
+  "https://d2.naver.com/news/1783497": {
+    "title": "FE News 26년 8월 소식을 전해드립니다.",
+    "sent_at": "2026-08-06T02:22:51.495008+00:00"
+  },
+  "13572f01241ca7108f49e50344decc868ddde5d7": {
+    "title": "Amazon DynamoDB now supports real-time vector search at any scale",
+    "sent_at": "2026-08-06T02:22:49.060005+00:00"
+  },
+  "01KZ7CKXC5ECVNAP2GSTX54B48": {
+    "title": "WriteGuard: fine-grained controls for MCP Servers",
+    "sent_at": "2026-08-06T02:22:48.147726+00:00"
+  },
+  "01KZ7PERAEJK3G9KDWDQ3BXZZQ": {
+    "title": "Cloudflare OS: an open platform for agents, apps, and work",
+    "sent_at": "2026-08-06T02:22:47.536474+00:00"
+  },
+  "01KZ7KS18W44EAET2511C0NY3V": {
+    "title": "How we’re rethinking work at Cloudflare with Cloudflare OS",
+    "sent_at": "2026-08-06T02:22:47.012563+00:00"
+  },
+  "01KZ7MGHAX6C81BVS5AM1DRP2Q": {
+    "title": "The Agent Access Model",
+    "sent_at": "2026-08-06T02:22:46.483568+00:00"
+  },
+  "01KZ7BXG1WSAKP11NS16P6XPPE": {
+    "title": "Cloudflare is the only vendor named a Visionary in 2026 SASE and SSE reports",
+    "sent_at": "2026-08-06T02:22:45.950871+00:00"
+  },
+  "https://engineering.fb.com/?p=23996": {
+    "title": "From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking",
+    "sent_at": "2026-08-06T02:22:38.601501+00:00"
+  },
+  "https://techcrunch.com/?p=3150305": {
+    "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+    "sent_at": "2026-08-06T02:22:29.967432+00:00"
+  },
+  "https://techcrunch.com/?p=3150382": {
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "sent_at": "2026-08-06T02:22:29.433806+00:00"
+  },
+  "https://techcrunch.com/?p=3150393": {
+    "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+    "sent_at": "2026-08-06T02:22:28.900444+00:00"
+  },
+  "https://techcrunch.com/?p=3150451": {
+    "title": "Nikita Bier steps down as X’s head of product",
+    "sent_at": "2026-08-06T02:22:28.345881+00:00"
+  },
+  "https://techcrunch.com/?p=3149365": {
+    "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+    "sent_at": "2026-08-06T02:22:27.805318+00:00"
+  },
   "https://www.threads.com/t/DbnBim7gcuz": {
     "title": "@feelfree_ai: 커스텀 반도체 없이 초당 2,000 토큰 이상을 생성해내는 압도적인 ...",
     "sent_at": "2026-08-05T02:15:10.789688+00:00"
@@ -1934,69 +1998,5 @@
   "https://blogs.nvidia.com/?p=95626": {
     "title": "NVIDIA and Partners Build in America, for America",
     "sent_at": "2026-07-02T03:23:13.970723+00:00"
-  },
-  "https://engineering.fb.com/?p=24150": {
-    "title": "Meta’s AI Storage Blueprint at Scale",
-    "sent_at": "2026-07-02T03:23:13.023562+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/": {
-    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-    "sent_at": "2026-07-02T03:23:12.111952+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/": {
-    "title": "The latest AI news we announced in June 2026",
-    "sent_at": "2026-07-02T03:23:11.530331+00:00"
-  },
-  "https://goddaehee.tistory.com/617": {
-    "title": "Claude Sonnet 5 출시 : 공식 문서 살펴보기(주요 변화, 가격, 모델 ID, 플랜별 접근성, 1M 컨텍스트 등)",
-    "sent_at": "2026-07-02T03:23:03.488868+00:00"
-  },
-  "https://github.blog/?p=97204": {
-    "title": "6 security settings every GitHub maintainer should enable this week",
-    "sent_at": "2026-07-02T03:22:57.026565+00:00"
-  },
-  "https://techcrunch.com/?p=3138250": {
-    "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
-    "sent_at": "2026-07-02T03:22:56.107139+00:00"
-  },
-  "https://techcrunch.com/?p=3138390": {
-    "title": "WhatsApp usernames are already raising impersonation red flags",
-    "sent_at": "2026-07-02T03:22:55.561864+00:00"
-  },
-  "https://techcrunch.com/?p=3138160": {
-    "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
-    "sent_at": "2026-07-02T03:22:55.009554+00:00"
-  },
-  "https://techcrunch.com/?p=3138404": {
-    "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
-    "sent_at": "2026-07-02T03:22:54.463177+00:00"
-  },
-  "https://techcrunch.com/?p=3138400": {
-    "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
-    "sent_at": "2026-07-02T03:22:53.885896+00:00"
-  },
-  "https://www.threads.com/t/DaNJ7xjgUXM": {
-    "title": "@feelfree_ai: 매번 로컬 우분투 환경에서 CUDA 버전 맞추며 끙끙댈 필요 없이, 며...",
-    "sent_at": "2026-07-01T03:38:24.428808+00:00"
-  },
-  "https://www.threads.com/t/DaOtaZCgR0f": {
-    "title": "@feelfree_ai: Liquid AI가 현실의 지저분한 프롬프트 제약 조건을 그대로 반영한 새...",
-    "sent_at": "2026-07-01T03:38:23.860869+00:00"
-  },
-  "https://www.threads.com/t/DaO1uubAVfb": {
-    "title": "@feelfree_ai: 1천억 개 토큰으로 바닥부터 학습해야 했던 1.58비트 초경량 모델으...",
-    "sent_at": "2026-07-01T03:38:23.364503+00:00"
-  },
-  "https://www.threads.com/t/DaPAGCNAgg4": {
-    "title": "@feelfree_ai: 이제 실시간 음성인식(STT) AI도 이전 대화의 '문맥'을 기억하고 똑ᄄ...",
-    "sent_at": "2026-07-01T03:38:22.868309+00:00"
-  },
-  "eecd301bc56dd721583bbbd8024097ca3ad82fd6": {
-    "title": "Automate public TLS certificate issuance with ACME support in AWS Certificate Manager",
-    "sent_at": "2026-07-01T03:38:01.400380+00:00"
-  },
-  "d668a838bb33c15b4742302284561effb3be54a0": {
-    "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
-    "sent_at": "2026-07-01T03:38:00.904179+00:00"
   }
 }
