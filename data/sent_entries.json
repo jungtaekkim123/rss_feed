@@ -1,4 +1,88 @@
 {
+  "https://www.threads.com/t/Dbr0ISACk7F": {
+    "title": "@feelfree_ai: 이제 맥(Mac) 유저라면 인터넷 연결 없이도 내 기기 안에서 빠르고 안ᄌ...",
+    "sent_at": "2026-08-07T02:33:01.394505+00:00"
+  },
+  "https://www.threads.com/t/Dbs3qOdAaYz": {
+    "title": "@feelfree_ai: AI가 반년 전에 내린 결정, 누군가 \"왜 그랬냐\"고 물었을 때 단순ᄒ...",
+    "sent_at": "2026-08-07T02:33:00.853849+00:00"
+  },
+  "7bc89749c1b638955cb1927019d33a1150693c0f": {
+    "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
+    "sent_at": "2026-08-07T02:32:45.693968+00:00"
+  },
+  "01KZ9Z9511J0G655EQ0XMSVWQV": {
+    "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
+    "sent_at": "2026-08-07T02:32:44.692293+00:00"
+  },
+  "01KZA0G6ZQF7ZGG8EJ2VPCFY2B": {
+    "title": "Building an open Agentic Internet: readable, discoverable, callable, and payable",
+    "sent_at": "2026-08-07T02:32:44.157184+00:00"
+  },
+  "01KZA2T3ZHH6G6Q1Z3CQJD7Q4D": {
+    "title": "From ranking to recommended: get your site ready to thrive in the age of AI agents",
+    "sent_at": "2026-08-07T02:32:43.626037+00:00"
+  },
+  "01KZA4H1D8PD7BXJ5RQBK5JQX0": {
+    "title": "The next generation of MCP",
+    "sent_at": "2026-08-07T02:32:43.084597+00:00"
+  },
+  "01KZA4HXGQQ9FD8XRZB8E0CJEN": {
+    "title": "Cloudflare AI Search: give your agents a search engine for your data",
+    "sent_at": "2026-08-07T02:32:42.562864+00:00"
+  },
+  "https://huggingface.co/blog/baseten": {
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "sent_at": "2026-08-07T02:32:36.581045+00:00"
+  },
+  "https://blogs.nvidia.com/?p=97234&preview=true&preview_id=97234": {
+    "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+    "sent_at": "2026-08-07T02:32:35.670331+00:00"
+  },
+  "https://blogs.nvidia.com/?p=97219": {
+    "title": "GeForce NOW Shakes Up August With 26 New Games",
+    "sent_at": "2026-08-07T02:32:35.138003+00:00"
+  },
+  "https://engineering.fb.com/?p=24150": {
+    "title": "Meta’s AI Storage Blueprint at Scale",
+    "sent_at": "2026-08-07T02:32:33.158949+00:00"
+  },
+  "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work": {
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "sent_at": "2026-08-07T02:32:31.804183+00:00"
+  },
+  "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai": {
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "sent_at": "2026-08-07T02:32:31.254061+00:00"
+  },
+  "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt": {
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "sent_at": "2026-08-07T02:32:30.698346+00:00"
+  },
+  "https://github.blog/?p=97978": {
+    "title": "How we took malware advisories beyond npm",
+    "sent_at": "2026-08-07T02:32:21.492708+00:00"
+  },
+  "https://github.blog/?p=98013": {
+    "title": "A guide to slash commands in the GitHub Copilot app",
+    "sent_at": "2026-08-07T02:32:20.949797+00:00"
+  },
+  "https://techcrunch.com/?p=3150918": {
+    "title": "Google says hackers are calling financial firm employees to hack and extort victims",
+    "sent_at": "2026-08-07T02:32:19.107653+00:00"
+  },
+  "https://techcrunch.com/?p=3150875": {
+    "title": "Vogue just gave another nod of approval to the tech world",
+    "sent_at": "2026-08-07T02:32:18.574665+00:00"
+  },
+  "https://techcrunch.com/?p=3150489": {
+    "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+    "sent_at": "2026-08-07T02:32:18.039584+00:00"
+  },
+  "https://techcrunch.com/?p=3151017": {
+    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "sent_at": "2026-08-07T02:32:17.473711+00:00"
+  },
   "https://www.threads.com/t/DbpPLiJAR4I": {
     "title": "@feelfree_ai: Cursor가 AI 모델 학습 속도를 최대 2.37배 끌어올린 강력한 MoE 트레이니...",
     "sent_at": "2026-08-06T02:23:09.604649+00:00"
@@ -1914,89 +1998,5 @@
   "https://www.threads.com/t/DaT1Ed8CXfX": {
     "title": "@feelfree_ai: 매번 비싼 API 비용을 내며 ChatGPT를 쓰고 계시다면 이 스탠포드 연구 결...",
     "sent_at": "2026-07-03T02:46:08.703196+00:00"
-  },
-  "https://blogs.nvidia.com/?p=95940": {
-    "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
-    "sent_at": "2026-07-03T02:45:48.776809+00:00"
-  },
-  "https://blogs.nvidia.com/?p=95896": {
-    "title": "Joyride Through July With 12 Games Coming to GeForce NOW",
-    "sent_at": "2026-07-03T02:45:48.231581+00:00"
-  },
-  "https://goddaehee.tistory.com/618": {
-    "title": "ZCode란? GLM-5.2 + ZCode 사용방법 - GLM 제작사가 만든 Claude Code 대항마(z.ai 가입, GLM Coding Plan, API 키 발급 등)",
-    "sent_at": "2026-07-03T02:45:39.216665+00:00"
-  },
-  "https://github.blog/?p=97226": {
-    "title": "How GitHub used secret scanning to reach inbox zero",
-    "sent_at": "2026-07-03T02:45:32.837507+00:00"
-  },
-  "https://techcrunch.com/?p=3138636": {
-    "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
-    "sent_at": "2026-07-03T02:45:32.096703+00:00"
-  },
-  "https://techcrunch.com/?p=3138848": {
-    "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-    "sent_at": "2026-07-03T02:45:31.558465+00:00"
-  },
-  "https://techcrunch.com/?p=3138764": {
-    "title": "Private space pilots are flying orbital missions for the US Space Force",
-    "sent_at": "2026-07-03T02:45:31.011616+00:00"
-  },
-  "https://techcrunch.com/?p=3138873": {
-    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-    "sent_at": "2026-07-03T02:45:30.467584+00:00"
-  },
-  "https://techcrunch.com/?p=3137658": {
-    "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-    "sent_at": "2026-07-03T02:45:29.848287+00:00"
-  },
-  "https://www.threads.com/t/DaPHAMIkjPx": {
-    "title": "@feelfree_ai: \"이 AI 모델 내 PC에서 돌아갈까?\" 매번 고민하셨다면, 이제 허깅페이스ᄋ...",
-    "sent_at": "2026-07-02T03:23:45.557346+00:00"
-  },
-  "https://www.threads.com/t/DaPquQugX_9": {
-    "title": "@feelfree_ai: FAISS가 이미 꽉 잡고 있는 벡터 검색 시장에 극강의 모듈화와 성느...",
-    "sent_at": "2026-07-02T03:23:44.969868+00:00"
-  },
-  "https://www.threads.com/t/DaRNapXge5q": {
-    "title": "@feelfree_ai: 매번 코드 바뀔 때마다 문서 수정하는 귀찮은 작업, 이제 AI에게 온ᄌ...",
-    "sent_at": "2026-07-02T03:23:44.412763+00:00"
-  },
-  "25f64a6bf2f8d46827f51c3f9dcc34b99f7955fd": {
-    "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
-    "sent_at": "2026-07-02T03:23:25.625970+00:00"
-  },
-  "3wrqj94tEFsKCZ8OBUE52R": {
-    "title": "Unmasking the crawls with Attribution Business Insights",
-    "sent_at": "2026-07-02T03:23:24.514221+00:00"
-  },
-  "FWKHybUFEZFSsFCrbEwAd": {
-    "title": "Your site, your rules: new AI traffic options for all customers",
-    "sent_at": "2026-07-02T03:23:23.970502+00:00"
-  },
-  "YqZRSH26JlDBUNvwASOr2": {
-    "title": "Making AI search smarter",
-    "sent_at": "2026-07-02T03:23:23.331174+00:00"
-  },
-  "3qEwyKxigFNDK4JTlPfl8A": {
-    "title": "Content Independence Day, one year on: building the business model for the agentic Internet",
-    "sent_at": "2026-07-02T03:23:22.782269+00:00"
-  },
-  "6dNg0U03j4cnbacP8txDok": {
-    "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
-    "sent_at": "2026-07-02T03:23:22.158530+00:00"
-  },
-  "https://engineering.atspotify.com/?p=2zovdZH0l6DqvR2015Vw6b": {
-    "title": "Building a Natural Language Interface to the Spotify Ads API with Claude Code Plugins",
-    "sent_at": "2026-07-02T03:23:16.607691+00:00"
-  },
-  "https://huggingface.co/blog/cerebras-gemma4-voice-ai": {
-    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "sent_at": "2026-07-02T03:23:14.955689+00:00"
-  },
-  "https://blogs.nvidia.com/?p=95626": {
-    "title": "NVIDIA and Partners Build in America, for America",
-    "sent_at": "2026-07-02T03:23:13.970723+00:00"
   }
 }
