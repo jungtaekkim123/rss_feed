@@ -1,4 +1,76 @@
 {
+  "https://www.threads.com/t/DbuS_rfAW-f": {
+    "title": "@feelfree_ai: AI 에이전트를 학습시킬 때 나오는 '실패한 결과물' 속에도 사실 ᄌ...",
+    "sent_at": "2026-08-08T01:22:25.607499+00:00"
+  },
+  "https://www.threads.com/t/Dbu5O64AYxz": {
+    "title": "@feelfree_ai: 코딩할 때 모델 하나만 쓰셨나요? 커서(Cursor)가 작업에 맞춰 최적의 모...",
+    "sent_at": "2026-08-08T01:22:25.221983+00:00"
+  },
+  "https://www.threads.com/t/DbvhXqNgXR4": {
+    "title": "@feelfree_ai: 맥북 에어 하나로 단 7분 만에 영어 위키백과 전체를 임베딩하는 7...",
+    "sent_at": "2026-08-08T01:22:24.833768+00:00"
+  },
+  "https://www.threads.com/t/DbwGNo8Ekzv": {
+    "title": "@feelfree_ai: 4B 크기의 소형 오픈소스 모델이 GPT-5.6급 검색 정확도를 뽑아내면서 ...",
+    "sent_at": "2026-08-08T01:22:24.446789+00:00"
+  },
+  "01KZA4HFQTZ276N6FJQ3CS9ACG": {
+    "title": "Unifying Workers AI and AI Gateway into a single AI control plane",
+    "sent_at": "2026-08-08T01:22:05.501805+00:00"
+  },
+  "01KZCB7QVKW1EKYJAYCVTDKH4K": {
+    "title": "Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding",
+    "sent_at": "2026-08-08T01:22:05.124913+00:00"
+  },
+  "01KZCGVT7YXBW6BH8Y05159WAR": {
+    "title": "Introducing Radar Researcher: An AI tool for exploring Internet data in plain language",
+    "sent_at": "2026-08-08T01:22:04.751881+00:00"
+  },
+  "01KZCHBWNB93JTTPTBKQZF0SG9": {
+    "title": "Unveiling good and bad behaviors on the Agentic Internet",
+    "sent_at": "2026-08-08T01:22:04.376199+00:00"
+  },
+  "https://medium.com/p/0f3468349607": {
+    "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+    "sent_at": "2026-08-08T01:22:00.034203+00:00"
+  },
+  "https://huggingface.co/blog/allenai/tutormoments": {
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "sent_at": "2026-08-08T01:21:59.241152+00:00"
+  },
+  "https://blogs.nvidia.com/?p=95626": {
+    "title": "NVIDIA and Partners Build in America, for America",
+    "sent_at": "2026-08-08T01:21:58.275551+00:00"
+  },
+  "https://openai.com/index/hsp-gruppe": {
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "sent_at": "2026-08-08T01:21:56.903169+00:00"
+  },
+  "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": {
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "sent_at": "2026-08-08T01:21:56.531456+00:00"
+  },
+  "https://techcrunch.com/?p=3151175": {
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "sent_at": "2026-08-08T01:21:46.922439+00:00"
+  },
+  "https://techcrunch.com/?p=3151288": {
+    "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+    "sent_at": "2026-08-08T01:21:46.513822+00:00"
+  },
+  "https://techcrunch.com/?p=3149296": {
+    "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+    "sent_at": "2026-08-08T01:21:46.134192+00:00"
+  },
+  "https://techcrunch.com/?p=3151218": {
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "sent_at": "2026-08-08T01:21:45.764440+00:00"
+  },
+  "https://techcrunch.com/?p=3151331": {
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "sent_at": "2026-08-08T01:21:45.386663+00:00"
+  },
   "https://www.threads.com/t/Dbr0ISACk7F": {
     "title": "@feelfree_ai: 이제 맥(Mac) 유저라면 인터넷 연결 없이도 내 기기 안에서 빠르고 안ᄌ...",
     "sent_at": "2026-08-07T02:33:01.394505+00:00"
@@ -1926,77 +1998,5 @@
   "https://techcrunch.com/?p=3139008": {
     "title": "Amazon will stop accepting new customers for Mechanical Turk",
     "sent_at": "2026-07-06T02:58:54.973311+00:00"
-  },
-  "https://techcrunch.com/?p=3139015": {
-    "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
-    "sent_at": "2026-07-06T02:58:54.586513+00:00"
-  },
-  "https://techcrunch.com/?p=3139023": {
-    "title": "Uber’s European expansion plans may have hit a speed bump",
-    "sent_at": "2026-07-06T02:58:54.188113+00:00"
-  },
-  "https://techcrunch.com/?p=2970347": {
-    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-    "sent_at": "2026-07-05T02:52:13.299936+00:00"
-  },
-  "https://techcrunch.com/?p=3138976": {
-    "title": "Alibaba reportedly bans employees from using Claude Code",
-    "sent_at": "2026-07-05T02:52:12.921052+00:00"
-  },
-  "https://techcrunch.com/?p=3138980": {
-    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-    "sent_at": "2026-07-05T02:52:12.541627+00:00"
-  },
-  "https://techcrunch.com/?p=3138982": {
-    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-    "sent_at": "2026-07-05T02:52:12.167098+00:00"
-  },
-  "https://www.threads.com/t/DaUpVWDASkG": {
-    "title": "@feelfree_ai: 이제는 AI가 LLM 추론 엔진의 성능 최적화까지 직접 해결하는 시대가...",
-    "sent_at": "2026-07-04T02:41:46.849436+00:00"
-  },
-  "https://www.threads.com/t/DaU5wWLjjkH": {
-    "title": "@feelfree_ai: AI 에이전트에게 무거운 원시 데이터를 통째로 던져주면 컨텍스트 차...",
-    "sent_at": "2026-07-04T02:41:46.237567+00:00"
-  },
-  "https://www.threads.com/t/DaWY1LjgY9m": {
-    "title": "@feelfree_ai: 현업에서 수백만 번 돌아가는 AI 에이전트들, 정작 실전 데이터ᄋ...",
-    "sent_at": "2026-07-04T02:41:45.637946+00:00"
-  },
-  "https://techcrunch.com/?p=3138739": {
-    "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-    "sent_at": "2026-07-04T02:41:17.910975+00:00"
-  },
-  "https://techcrunch.com/?p=3138306": {
-    "title": "Chevy built an all-American EV truck — why is nobody buying it?",
-    "sent_at": "2026-07-04T02:41:17.279116+00:00"
-  },
-  "https://techcrunch.com/?p=3134572": {
-    "title": "The Dune keypad device can be your meeting controller and more",
-    "sent_at": "2026-07-04T02:41:16.676647+00:00"
-  },
-  "https://techcrunch.com/?p=3026701": {
-    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-    "sent_at": "2026-07-04T02:41:16.053835+00:00"
-  },
-  "https://techcrunch.com/?p=2973217": {
-    "title": "The only AI glossary you’ll need this year",
-    "sent_at": "2026-07-04T02:41:15.436054+00:00"
-  },
-  "https://www.threads.com/t/DaRt8sqAfE4": {
-    "title": "@feelfree_ai: LLM에 데이터를 무작정 다 때려 넣고 학습시키는 게 과연 정답일까ᄋ...",
-    "sent_at": "2026-07-03T02:46:10.401073+00:00"
-  },
-  "https://www.threads.com/t/DaSXEkPAT8s": {
-    "title": "@feelfree_ai: 구글에서 정형(테이블) 데이터 분석의 판도를 바꿀 전용 파운데ᄋ...",
-    "sent_at": "2026-07-03T02:46:09.856027+00:00"
-  },
-  "https://www.threads.com/t/DaSwbkHAdBo": {
-    "title": "@feelfree_ai: AI 코딩 에이전트에게 단순 코딩만 맡기고 있다면, 사실상 가장 가...",
-    "sent_at": "2026-07-03T02:46:09.249089+00:00"
-  },
-  "https://www.threads.com/t/DaT1Ed8CXfX": {
-    "title": "@feelfree_ai: 매번 비싼 API 비용을 내며 ChatGPT를 쓰고 계시다면 이 스탠포드 연구 결...",
-    "sent_at": "2026-07-03T02:46:08.703196+00:00"
   }
 }
