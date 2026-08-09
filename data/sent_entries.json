@@ -1,4 +1,36 @@
 {
+  "https://www.threads.com/t/Dbw7j14Am1M": {
+    "title": "@feelfree_ai: FastAPI와 LLM을 결합해 실제 프로덕션 수준의 고객지원 AI 백엔드를 ᄋ...",
+    "sent_at": "2026-08-09T01:27:23.675211+00:00"
+  },
+  "https://www.threads.com/t/DbyG7mTAV2t": {
+    "title": "@feelfree_ai: 복잡한 인프라 세팅 없이 터미널 하나로 AI 에이전트를 프로덕션 ᄅ...",
+    "sent_at": "2026-08-09T01:27:23.172274+00:00"
+  },
+  "https://blogs.nvidia.com/?p=97258": {
+    "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+    "sent_at": "2026-08-09T01:27:06.914283+00:00"
+  },
+  "https://techcrunch.com/?p=3151281": {
+    "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+    "sent_at": "2026-08-09T01:26:59.079241+00:00"
+  },
+  "https://techcrunch.com/?p=3151237": {
+    "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
+    "sent_at": "2026-08-09T01:26:58.551757+00:00"
+  },
+  "https://techcrunch.com/?p=3151374": {
+    "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+    "sent_at": "2026-08-09T01:26:58.069410+00:00"
+  },
+  "https://techcrunch.com/?p=3151377": {
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "sent_at": "2026-08-09T01:26:57.576466+00:00"
+  },
+  "https://techcrunch.com/?p=3151379": {
+    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "sent_at": "2026-08-09T01:26:57.065227+00:00"
+  },
   "https://www.threads.com/t/DbuS_rfAW-f": {
     "title": "@feelfree_ai: AI 에이전트를 학습시킬 때 나오는 '실패한 결과물' 속에도 사실 ᄌ...",
     "sent_at": "2026-08-08T01:22:25.607499+00:00"
@@ -1966,37 +1998,5 @@
   "https://techcrunch.com/?p=3139436": {
     "title": "The ‘first’ AI-run ransomware attack still needed a human",
     "sent_at": "2026-07-07T02:52:51.868495+00:00"
-  },
-  "https://techcrunch.com/?p=3139394": {
-    "title": "Netflix invented binge-watching. Now it may have outgrown it.",
-    "sent_at": "2026-07-07T02:52:51.497628+00:00"
-  },
-  "https://www.threads.com/t/DaZN42YAZGP": {
-    "title": "@feelfree_ai: AI 코딩 에이전트 쓸 때마다 컨텍스트 토큰이 줄줄 새는 게 아쉬웠느...",
-    "sent_at": "2026-07-06T02:59:31.065014+00:00"
-  },
-  "https://www.threads.com/t/DaZt6h1gZsQ": {
-    "title": "@feelfree_ai: 무거운 비전 모델(VLM)이나 스크린샷 없이, 순수 자바스크립트만으로 ...",
-    "sent_at": "2026-07-06T02:59:30.640818+00:00"
-  },
-  "https://www.threads.com/t/DaaKKuFkchn": {
-    "title": "@feelfree_ai: 엔비디아 리서치에서 사람의 개입 없이 하드웨어 설계(RTL) 벤치마크를 1...",
-    "sent_at": "2026-07-06T02:59:30.235334+00:00"
-  },
-  "https://www.threads.com/t/DabRUL-k3Ym": {
-    "title": "@feelfree_ai: AI 에이전트에게 수많은 툴을 한 번에 던져주면 오히려 길을 잃고 ...",
-    "sent_at": "2026-07-06T02:59:29.840776+00:00"
-  },
-  "https://techcrunch.com/?p=3064419": {
-    "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
-    "sent_at": "2026-07-06T02:58:55.771824+00:00"
-  },
-  "https://techcrunch.com/?p=3138201": {
-    "title": "5 desk gadgets that can make your workday better",
-    "sent_at": "2026-07-06T02:58:55.372987+00:00"
-  },
-  "https://techcrunch.com/?p=3139008": {
-    "title": "Amazon will stop accepting new customers for Mechanical Turk",
-    "sent_at": "2026-07-06T02:58:54.973311+00:00"
   }
 }
