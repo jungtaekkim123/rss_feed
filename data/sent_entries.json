@@ -1,4 +1,40 @@
 {
+  "https://www.threads.com/t/DbzozCGAe3C": {
+    "title": "@feelfree_ai: 3만 3천 페이지 분량의 문헌을 CPU만으로 1초 이내에 의미 기반으로 찾...",
+    "sent_at": "2026-08-10T01:29:27.480915+00:00"
+  },
+  "https://www.threads.com/t/Db0ESKtAaQR": {
+    "title": "@feelfree_ai: LLM 서비스 운영 비용의 주범이던 '프리필(Prefill)' 연산 폭탄, 엔비디ᄋ...",
+    "sent_at": "2026-08-10T01:29:26.903851+00:00"
+  },
+  "https://www.threads.com/t/Db0jl48AaZz": {
+    "title": "@feelfree_ai: 도커(Docker)는 너무 느리고 일반 가상머신(VM)은 무거워서 고민이셨다면...",
+    "sent_at": "2026-08-10T01:29:26.351762+00:00"
+  },
+  "https://www.threads.com/t/Db1q22vAZCA": {
+    "title": "@feelfree_ai: Sakana AI가 여러 모델에 적절히 작업을 할당하는 'Fugu'의 지휘자(라우팅)...",
+    "sent_at": "2026-08-10T01:29:25.786733+00:00"
+  },
+  "https://techcrunch.com/?p=3151324": {
+    "title": "The AI safety test is becoming a safety risk",
+    "sent_at": "2026-08-10T01:28:58.561038+00:00"
+  },
+  "https://techcrunch.com/?p=3151401": {
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "sent_at": "2026-08-10T01:28:58.026024+00:00"
+  },
+  "https://techcrunch.com/?p=3151220": {
+    "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+    "sent_at": "2026-08-10T01:28:57.475851+00:00"
+  },
+  "https://techcrunch.com/?p=3151431": {
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "sent_at": "2026-08-10T01:28:56.861839+00:00"
+  },
+  "https://techcrunch.com/?p=3151435": {
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "sent_at": "2026-08-10T01:28:56.281685+00:00"
+  },
   "https://www.threads.com/t/Dbw7j14Am1M": {
     "title": "@feelfree_ai: FastAPI와 LLM을 결합해 실제 프로덕션 수준의 고객지원 AI 백엔드를 ᄋ...",
     "sent_at": "2026-08-09T01:27:23.675211+00:00"
@@ -1962,41 +1998,5 @@
   "https://huggingface.co/blog/revamped-kernels": {
     "title": "🤗 Kernels: Major Updates",
     "sent_at": "2026-07-07T02:53:12.156207+00:00"
-  },
-  "https://huggingface.co/blog/Photoroom/prx-part4-data": {
-    "title": "PRX Part 4: Our Data Strategy",
-    "sent_at": "2026-07-07T02:53:11.787973+00:00"
-  },
-  "https://huggingface.co/blog/lerobot-release-v060": {
-    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-    "sent_at": "2026-07-07T02:53:11.413202+00:00"
-  },
-  "https://blogs.nvidia.com/?p=95955": {
-    "title": "How Nations Are Deploying AI for Strategic Priorities",
-    "sent_at": "2026-07-07T02:53:08.423270+00:00"
-  },
-  "https://blogs.nvidia.com/?p=95963": {
-    "title": "How Open Models Are Driving AI Research",
-    "sent_at": "2026-07-07T02:53:08.041846+00:00"
-  },
-  "https://goddaehee.tistory.com/619": {
-    "title": "Claude Tag란? @Claude로 업무를 위임하는 Slack 협업 방식(Slack in Claude, Claude Tag는 무엇이 다른가)",
-    "sent_at": "2026-07-07T02:53:00.346163+00:00"
-  },
-  "https://techcrunch.com/?p=3139329": {
-    "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-    "sent_at": "2026-07-07T02:52:53.000844+00:00"
-  },
-  "https://techcrunch.com/?p=3139318": {
-    "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-    "sent_at": "2026-07-07T02:52:52.621146+00:00"
-  },
-  "https://techcrunch.com/?p=3139406": {
-    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-    "sent_at": "2026-07-07T02:52:52.244056+00:00"
-  },
-  "https://techcrunch.com/?p=3139436": {
-    "title": "The ‘first’ AI-run ransomware attack still needed a human",
-    "sent_at": "2026-07-07T02:52:51.868495+00:00"
   }
 }
