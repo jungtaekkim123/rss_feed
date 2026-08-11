@@ -1,4 +1,104 @@
 {
+  "https://www.threads.com/t/Db2BtDNgTJs": {
+    "title": "@feelfree_ai: AI 개발 중 복잡한 문서 파싱 때문에 스트레스 받으셨다면, Firecrawl이 ...",
+    "sent_at": "2026-08-11T01:27:20.359905+00:00"
+  },
+  "https://www.threads.com/t/Db2bawQkcoI": {
+    "title": "@feelfree_ai: 논문 쓰시는 분들의 작업 방식을 완전히 바꿔놓을, 레퍼런스 ...",
+    "sent_at": "2026-08-11T01:27:19.827254+00:00"
+  },
+  "https://www.threads.com/t/Db28RLRAUwM": {
+    "title": "@feelfree_ai: 메타가 단 18GB 램으로 로컬 구동이 가능한 에이전틱 코딩용 오픈소...",
+    "sent_at": "2026-08-11T01:27:19.328155+00:00"
+  },
+  "https://toss.tech/article/52209": {
+    "title": "모노리포 희망편, 절망의 리포가 희망의 리포로 부활하기까지 걸린 1년",
+    "sent_at": "2026-08-11T01:27:07.844493+00:00"
+  },
+  "https://toss.tech/article/tossion": {
+    "title": "토스의 속도와 품질, 상용 도구로 충분한가 — 토션(Tossion)",
+    "sent_at": "2026-08-11T01:27:07.342623+00:00"
+  },
+  "https://d2.naver.com/helloworld/0525182": {
+    "title": "우리 팀만의 vLLM 플러그인 만들기 1편 - 검색 AI 모델 서빙 성능 극대화하기",
+    "sent_at": "2026-08-11T01:27:02.998813+00:00"
+  },
+  "https://d2.naver.com/helloworld/7337586": {
+    "title": "우리 팀만의 vLLM 플러그인 만들기 2편 - 모델 변환부터 배포까지 AI-native로 자동화하기",
+    "sent_at": "2026-08-11T01:27:02.526313+00:00"
+  },
+  "23fc16a0c48a8aaf8de130ae8e5719b50ba6f960": {
+    "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
+    "sent_at": "2026-08-11T01:26:58.780690+00:00"
+  },
+  "2qQZuefCfPJvVRRFrHQgKC": {
+    "title": "Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status",
+    "sent_at": "2026-08-11T01:26:57.956771+00:00"
+  },
+  "01KZEF237MMZ9CHJ8RTKBA8G7A": {
+    "title": "Everything we launched during Agents Week",
+    "sent_at": "2026-08-11T01:26:57.464522+00:00"
+  },
+  "https://huggingface.co/blog/muse-glimmer": {
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "sent_at": "2026-08-11T01:26:54.418777+00:00"
+  },
+  "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation": {
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "sent_at": "2026-08-11T01:26:53.933876+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents": {
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "sent_at": "2026-08-11T01:26:53.431844+00:00"
+  },
+  "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/": {
+    "title": "Evolve your marketing with new AI tools",
+    "sent_at": "2026-08-11T01:26:49.904020+00:00"
+  },
+  "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands": {
+    "title": "Putting frontier cyber models in more trusted hands",
+    "sent_at": "2026-08-11T01:26:49.009356+00:00"
+  },
+  "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": {
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "sent_at": "2026-08-11T01:26:48.512396+00:00"
+  },
+  "https://openai.com/index/building-an-ai-native-finance-function": {
+    "title": "What building an AI-native finance function taught me",
+    "sent_at": "2026-08-11T01:26:47.960828+00:00"
+  },
+  "https://openai.com/index/model-ml": {
+    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "sent_at": "2026-08-11T01:26:47.461034+00:00"
+  },
+  "https://openai.com/index/responsible-ai-infrastructure-texas": {
+    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "sent_at": "2026-08-11T01:26:46.989335+00:00"
+  },
+  "https://github.blog/?p=97992": {
+    "title": "Using the GitHub Copilot SDK for Java",
+    "sent_at": "2026-08-11T01:26:35.770279+00:00"
+  },
+  "https://techcrunch.com/?p=3151622": {
+    "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+    "sent_at": "2026-08-11T01:26:34.992604+00:00"
+  },
+  "https://techcrunch.com/?p=3151661": {
+    "title": "Now Rippling is counter-suing tiny startup Runlayer",
+    "sent_at": "2026-08-11T01:26:34.508648+00:00"
+  },
+  "https://techcrunch.com/?p=3151689": {
+    "title": "Jeff Bezos might finally get his hands on a sports team",
+    "sent_at": "2026-08-11T01:26:34.024057+00:00"
+  },
+  "https://techcrunch.com/?p=3151655": {
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "sent_at": "2026-08-11T01:26:33.470555+00:00"
+  },
+  "https://techcrunch.com/?p=3151767": {
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "sent_at": "2026-08-11T01:26:32.968420+00:00"
+  },
   "https://www.threads.com/t/DbzozCGAe3C": {
     "title": "@feelfree_ai: 3만 3천 페이지 분량의 문헌을 CPU만으로 1초 이내에 의미 기반으로 찾...",
     "sent_at": "2026-08-10T01:29:27.480915+00:00"
@@ -1898,105 +1998,5 @@
   "https://www.threads.com/t/Dafnu8aARnu": {
     "title": "@feelfree_ai: 매번 자소서 쓰느라 고통받고 계시다면, 덴마크의 한 과학자가 본인 ...",
     "sent_at": "2026-07-08T02:30:22.768320+00:00"
-  },
-  "https://www.threads.com/t/DafvD3WgZQk": {
-    "title": "@feelfree_ai: 소형 AI 모델들이 어려운 문제에서 똑같은 단어만 무한 반복하다...",
-    "sent_at": "2026-07-08T02:30:22.380146+00:00"
-  },
-  "https://www.threads.com/t/Dag9pyWAR9N": {
-    "title": "@feelfree_ai: 외부 라이브러리 하나 없이 순수 Rust 300줄만으로 카파시(Karpathy)의 Micrograd를 ᄌ...",
-    "sent_at": "2026-07-08T02:30:21.928365+00:00"
-  },
-  "3xHevpKOOM76zUSrlPcQno": {
-    "title": "Cloudflare proudly joins the UK government's Cyber Resilience Pledge",
-    "sent_at": "2026-07-08T02:30:03.094553+00:00"
-  },
-  "https://engineering.atspotify.com/?p=2d34o9wKbvUemRP62vcSEJ": {
-    "title": "Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify",
-    "sent_at": "2026-07-08T02:30:02.223171+00:00"
-  },
-  "https://huggingface.co/blog/skypilot-hf-storage": {
-    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-    "sent_at": "2026-07-08T02:30:00.922372+00:00"
-  },
-  "https://huggingface.co/blog/microsoft/foundry-managed-compute": {
-    "title": "Hugging Face Models on Foundry Managed Compute",
-    "sent_at": "2026-07-08T02:30:00.533451+00:00"
-  },
-  "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
-    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-    "sent_at": "2026-07-08T02:30:00.153124+00:00"
-  },
-  "https://blogs.nvidia.com/?p=95979": {
-    "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
-    "sent_at": "2026-07-08T02:29:57.195796+00:00"
-  },
-  "https://blogs.nvidia.com/?p=95986": {
-    "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
-    "sent_at": "2026-07-08T02:29:56.817221+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/": {
-    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-    "sent_at": "2026-07-08T02:29:54.841075+00:00"
-  },
-  "https://openai.com/index/mufg": {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "sent_at": "2026-07-08T02:29:53.948008+00:00"
-  },
-  "https://openai.com/index/australian-payments-plus": {
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "sent_at": "2026-07-08T02:29:53.571941+00:00"
-  },
-  "https://goddaehee.tistory.com/620": {
-    "title": "Ollama Launch 사용 방법(ollama 사용방법) : Claude Code, OpenCode, Codex App을 Ollama 모델로 실행 해보기",
-    "sent_at": "2026-07-08T02:29:50.864598+00:00"
-  },
-  "https://github.blog/?p=97322": {
-    "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
-    "sent_at": "2026-07-08T02:29:43.542685+00:00"
-  },
-  "https://techcrunch.com/?p=3139842": {
-    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-    "sent_at": "2026-07-08T02:29:42.912789+00:00"
-  },
-  "https://techcrunch.com/?p=3139819": {
-    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-    "sent_at": "2026-07-08T02:29:42.508916+00:00"
-  },
-  "https://techcrunch.com/?p=3139798": {
-    "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-    "sent_at": "2026-07-08T02:29:42.130601+00:00"
-  },
-  "https://techcrunch.com/?p=3139892": {
-    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-    "sent_at": "2026-07-08T02:29:41.746871+00:00"
-  },
-  "https://techcrunch.com/?p=3137907": {
-    "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-    "sent_at": "2026-07-08T02:29:41.340934+00:00"
-  },
-  "https://www.threads.com/t/DacXjrCAVHR": {
-    "title": "@feelfree_ai: 단 한 줄의 코드로 완벽하게 오프라인에서 동작하는 헬스케어 AI 스...",
-    "sent_at": "2026-07-07T02:53:32.259221+00:00"
-  },
-  "https://www.threads.com/t/DaeX7R4gWbR": {
-    "title": "@feelfree_ai: 허깅페이스가 모델과 데이터셋을 넘어, 이제 귀찮은 빌드 과정 없ᄋ...",
-    "sent_at": "2026-07-07T02:53:31.872453+00:00"
-  },
-  "https://d2.naver.com/helloworld/2541696": {
-    "title": "[AI 해커톤 후기] 코드와 문서만 읽은 LLM은 어떻게 사람과 같은 팀을 1위로 골랐을까",
-    "sent_at": "2026-07-07T02:53:17.000752+00:00"
-  },
-  "93f6e85a83e5307a20b77095977f07cd1f1ca301": {
-    "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
-    "sent_at": "2026-07-07T02:53:14.616365+00:00"
-  },
-  "1WYEYtVwQSo4H3jKHTcKmO": {
-    "title": "Your Worker can now have its own cache in front of it",
-    "sent_at": "2026-07-07T02:53:13.823882+00:00"
-  },
-  "https://huggingface.co/blog/revamped-kernels": {
-    "title": "🤗 Kernels: Major Updates",
-    "sent_at": "2026-07-07T02:53:12.156207+00:00"
   }
 }
