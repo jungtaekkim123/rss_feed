@@ -1,4 +1,84 @@
 {
+  "https://www.threads.com/t/Db4aJRyATDN": {
+    "title": "@feelfree_ai: 이제 LLM 사전 학습 예산을 기획할 때, 기존 법칙들이 빗나가던 그...",
+    "sent_at": "2026-08-12T01:44:40.591729+00:00"
+  },
+  "https://www.threads.com/t/Db4zx7Rgd9m": {
+    "title": "@feelfree_ai: 맥북이나 맥미니에서도 API 비용 없이 쌩쌩 돌아가는 8B 체급의 가성...",
+    "sent_at": "2026-08-12T01:44:40.197057+00:00"
+  },
+  "https://www.threads.com/t/Db6gPrggC3Q": {
+    "title": "@feelfree_ai: LLM에서 쓰던 LoRA를 YOLO 같은 객체 탐지 모델에 그대로 적용하면 디텍...",
+    "sent_at": "2026-08-12T01:44:39.789668+00:00"
+  },
+  "https://www.threads.com/t/Db6-GCXgY0M": {
+    "title": "@feelfree_ai: Unsloth에서 로컬 환경에서 모델 실행부터 학습까지 한 번에 해결할 ...",
+    "sent_at": "2026-08-12T01:44:39.396474+00:00"
+  },
+  "01KZQNDKFVX2ZXMBEHCJJHFH8N": {
+    "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
+    "sent_at": "2026-08-12T01:44:21.306681+00:00"
+  },
+  "https://engineering.atspotify.com/?p=2d34o9wKbvUemRP62vcSEJ": {
+    "title": "Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify",
+    "sent_at": "2026-08-12T01:44:20.579056+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/altk-evolve-sldd": {
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "sent_at": "2026-08-12T01:44:19.010591+00:00"
+  },
+  "https://blogs.nvidia.com/?p=97256": {
+    "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+    "sent_at": "2026-08-12T01:44:18.187500+00:00"
+  },
+  "https://blogs.nvidia.com/?p=97373": {
+    "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+    "sent_at": "2026-08-12T01:44:17.804747+00:00"
+  },
+  "https://blogs.nvidia.com/?p=97323": {
+    "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+    "sent_at": "2026-08-12T01:44:17.416792+00:00"
+  },
+  "https://blogs.nvidia.com/?p=97441": {
+    "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+    "sent_at": "2026-08-12T01:44:16.997829+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/": {
+    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "sent_at": "2026-08-12T01:44:12.737312+00:00"
+  },
+  "https://openai.com/index/daybreak-models-are-now-available-on-aws": {
+    "title": "Daybreak models are now available on AWS",
+    "sent_at": "2026-08-12T01:44:12.034500+00:00"
+  },
+  "https://openai.com/index/testing-ads-in-chatgpt": {
+    "title": "Testing ads in ChatGPT",
+    "sent_at": "2026-08-12T01:44:11.643744+00:00"
+  },
+  "https://github.blog/?p=98090": {
+    "title": "From coder to orchestrator: How agents shift the role of a developer",
+    "sent_at": "2026-08-12T01:44:02.669420+00:00"
+  },
+  "https://techcrunch.com/?p=3152063": {
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "sent_at": "2026-08-12T01:44:02.026788+00:00"
+  },
+  "https://techcrunch.com/?p=3152105": {
+    "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
+    "sent_at": "2026-08-12T01:44:01.627238+00:00"
+  },
+  "https://techcrunch.com/?p=3152046": {
+    "title": "Uber surprised robotics company Serve by selling its entire stake",
+    "sent_at": "2026-08-12T01:44:01.241621+00:00"
+  },
+  "https://techcrunch.com/?p=3151839": {
+    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "sent_at": "2026-08-12T01:44:00.843186+00:00"
+  },
+  "https://techcrunch.com/?p=3152180": {
+    "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+    "sent_at": "2026-08-12T01:44:00.458307+00:00"
+  },
   "https://www.threads.com/t/Db2BtDNgTJs": {
     "title": "@feelfree_ai: AI 개발 중 복잡한 문서 파싱 때문에 스트레스 받으셨다면, Firecrawl이 ...",
     "sent_at": "2026-08-11T01:27:20.359905+00:00"
@@ -1918,85 +1998,5 @@
   "https://www.threads.com/t/Dah7EkTAQqL": {
     "title": "@feelfree_ai: LLM의 VRAM을 무한정 잡아먹던 주범인 KV 캐시를 무려 88%나 압축하고도 ...",
     "sent_at": "2026-07-09T02:46:46.861576+00:00"
-  },
-  "https://www.threads.com/t/Dai9P3WinSn": {
-    "title": "@feelfree_ai: 단순 변경점만 훑는 게 아니라 전체 파일 문맥을 이해하고 정ᄒ...",
-    "sent_at": "2026-07-09T02:46:46.466471+00:00"
-  },
-  "https://d2.naver.com/news/7560502": {
-    "title": "FE News 26년 7월 소식을 전해드립니다.",
-    "sent_at": "2026-07-09T02:46:33.562097+00:00"
-  },
-  "7zbgYCOZDfvIIsVrPpZ8xJ": {
-    "title": "Introducing Meerkat: an experiment in global consensus",
-    "sent_at": "2026-07-09T02:46:30.863492+00:00"
-  },
-  "https://huggingface.co/blog/native-speed-vllm-transformers-backend": {
-    "title": "Native-speed vLLM transformers modeling backend",
-    "sent_at": "2026-07-09T02:46:28.171636+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/open-data-for-agents": {
-    "title": "Data for Agents",
-    "sent_at": "2026-07-09T02:46:27.769230+00:00"
-  },
-  "https://blogs.nvidia.com/?p=96008": {
-    "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
-    "sent_at": "2026-07-09T02:46:25.924343+00:00"
-  },
-  "https://openai.com/index/introducing-gpt-live": {
-    "title": "Introducing GPT-Live",
-    "sent_at": "2026-07-09T02:46:24.791233+00:00"
-  },
-  "https://openai.com/index/k-12-educators-practical-skills": {
-    "title": "Helping K–12 educators build practical AI skills",
-    "sent_at": "2026-07-09T02:46:24.405727+00:00"
-  },
-  "https://openai.com/index/separating-signal-from-noise-coding-evaluations": {
-    "title": "Separating signal from noise in coding evaluations",
-    "sent_at": "2026-07-09T02:46:24.020757+00:00"
-  },
-  "https://openai.com/index/government-national-security-partnerships": {
-    "title": "Our approach to government and national security partnerships",
-    "sent_at": "2026-07-09T02:46:23.636105+00:00"
-  },
-  "https://github.blog/?p=97349": {
-    "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-    "sent_at": "2026-07-09T02:46:11.803682+00:00"
-  },
-  "https://github.blog/?p=97408": {
-    "title": "GitHub availability report: June 2026",
-    "sent_at": "2026-07-09T02:46:11.407642+00:00"
-  },
-  "https://github.blog/?p=97282": {
-    "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
-    "sent_at": "2026-07-09T02:46:11.010750+00:00"
-  },
-  "https://techcrunch.com/?p=3140297": {
-    "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-    "sent_at": "2026-07-09T02:46:08.220559+00:00"
-  },
-  "https://techcrunch.com/?p=3140325": {
-    "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
-    "sent_at": "2026-07-09T02:46:07.820349+00:00"
-  },
-  "https://techcrunch.com/?p=3140358": {
-    "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-    "sent_at": "2026-07-09T02:46:07.425016+00:00"
-  },
-  "https://techcrunch.com/?p=3140352": {
-    "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
-    "sent_at": "2026-07-09T02:46:07.038747+00:00"
-  },
-  "https://techcrunch.com/?p=3140329": {
-    "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
-    "sent_at": "2026-07-09T02:46:06.643964+00:00"
-  },
-  "https://www.threads.com/t/Dae_1d_Afwk": {
-    "title": "@feelfree_ai: 학습이 끝난 AI가 처음 보는 낯선 환경에 마주쳤을 때 당황하지 ...",
-    "sent_at": "2026-07-08T02:30:23.150873+00:00"
-  },
-  "https://www.threads.com/t/Dafnu8aARnu": {
-    "title": "@feelfree_ai: 매번 자소서 쓰느라 고통받고 계시다면, 덴마크의 한 과학자가 본인 ...",
-    "sent_at": "2026-07-08T02:30:22.768320+00:00"
   }
 }
