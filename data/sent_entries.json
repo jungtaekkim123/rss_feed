@@ -1,4 +1,72 @@
 {
+  "https://www.threads.com/t/Db7p1WeAbAs": {
+    "title": "@feelfree_ai: OpenAI, Anthropic, Gemini가 암호화해 숨겨둔 AI의 '생각 과정(Reasoning)'을 대규모로 ᄎ...",
+    "sent_at": "2026-08-13T01:47:01.710394+00:00"
+  },
+  "https://www.threads.com/t/Db8RIqTgd43": {
+    "title": "@feelfree_ai: GPU 성능과 인프라 비용 고민이 깊어지는 요즘, 구글이 자사의 머신ᄅ...",
+    "sent_at": "2026-08-13T01:47:01.237743+00:00"
+  },
+  "https://toss.tech/article/tech_talk_talk_1": {
+    "title": "AI에게 투자정보를 말하게 하기까지",
+    "sent_at": "2026-08-13T01:46:49.567681+00:00"
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b": {
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "sent_at": "2026-08-13T01:46:43.330974+00:00"
+  },
+  "https://huggingface.co/blog/allenai/olmoearth-embeddings": {
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "sent_at": "2026-08-13T01:46:42.867838+00:00"
+  },
+  "https://blogs.nvidia.com/?p=97450": {
+    "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+    "sent_at": "2026-08-13T01:46:40.742079+00:00"
+  },
+  "https://engineering.fb.com/?p=24092": {
+    "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
+    "sent_at": "2026-08-13T01:46:39.904166+00:00"
+  },
+  "https://openai.com/index/ringcentral": {
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "sent_at": "2026-08-13T01:46:38.527010+00:00"
+  },
+  "https://openai.com/index/how-enterprises-put-ai-to-work": {
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "sent_at": "2026-08-13T01:46:38.069066+00:00"
+  },
+  "https://github.blog/?p=98128": {
+    "title": "Your contributors are AI-first now. Is your project?",
+    "sent_at": "2026-08-13T01:46:29.727495+00:00"
+  },
+  "https://github.blog/?p=98221": {
+    "title": "Write your first prompt with the GitHub Copilot app",
+    "sent_at": "2026-08-13T01:46:29.267540+00:00"
+  },
+  "https://github.blog/?p=98241": {
+    "title": "GitHub availability report: July 2026",
+    "sent_at": "2026-08-13T01:46:28.805913+00:00"
+  },
+  "https://techcrunch.com/?p=3152496": {
+    "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
+    "sent_at": "2026-08-13T01:46:25.783004+00:00"
+  },
+  "https://techcrunch.com/?p=3152544": {
+    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "sent_at": "2026-08-13T01:46:25.322802+00:00"
+  },
+  "https://techcrunch.com/?p=3152444": {
+    "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+    "sent_at": "2026-08-13T01:46:24.831396+00:00"
+  },
+  "https://techcrunch.com/?p=3152615": {
+    "title": "AI nuclear power firm Fermi finally has a new CEO",
+    "sent_at": "2026-08-13T01:46:24.347733+00:00"
+  },
+  "https://techcrunch.com/?p=3152533": {
+    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+    "sent_at": "2026-08-13T01:46:23.861080+00:00"
+  },
   "https://www.threads.com/t/Db4aJRyATDN": {
     "title": "@feelfree_ai: 이제 LLM 사전 학습 예산을 기획할 때, 기존 법칙들이 빗나가던 그...",
     "sent_at": "2026-08-12T01:44:40.591729+00:00"
@@ -1930,73 +1998,5 @@
   "https://techcrunch.com/?p=3141357": {
     "title": "Meta removes controversial AI feature on Instagram after backlash",
     "sent_at": "2026-07-11T02:27:36.454768+00:00"
-  },
-  "https://techcrunch.com/?p=3141355": {
-    "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-    "sent_at": "2026-07-11T02:27:36.075963+00:00"
-  },
-  "https://techcrunch.com/?p=3141180": {
-    "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-    "sent_at": "2026-07-11T02:27:35.649722+00:00"
-  },
-  "https://www.threads.com/t/DajlyMHAdB6": {
-    "title": "@feelfree_ai: 단순히 토큰 생성 속도가 빠르다고 실제 서비스하기에 좋은 AI 모델...",
-    "sent_at": "2026-07-10T02:50:03.725093+00:00"
-  },
-  "https://www.threads.com/t/Dalkm3Akw_1": {
-    "title": "@feelfree_ai: AI 개발자라면 한번씩 보고 써봤을. 써보는것을 추천하는 탑 12가...",
-    "sent_at": "2026-07-10T02:50:03.210929+00:00"
-  },
-  "5wMIF1Oa7DES2YNRpqiVB0": {
-    "title": "Why we cannot wait for better post-quantum signature algorithms",
-    "sent_at": "2026-07-10T02:49:47.495995+00:00"
-  },
-  "https://blogs.nvidia.com/?p=96029": {
-    "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
-    "sent_at": "2026-07-10T02:49:45.052518+00:00"
-  },
-  "https://openai.com/index/gpt-5-6": {
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "sent_at": "2026-07-10T02:49:43.594912+00:00"
-  },
-  "https://openai.com/index/bio-bug-bounty": {
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "sent_at": "2026-07-10T02:49:43.026976+00:00"
-  },
-  "https://openai.com/index/chatgpt-for-your-most-ambitious-work": {
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "sent_at": "2026-07-10T02:49:42.466556+00:00"
-  },
-  "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": {
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "sent_at": "2026-07-10T02:49:41.976250+00:00"
-  },
-  "https://github.blog/?p=97373": {
-    "title": "How GitHub gave every repository a durable owner",
-    "sent_at": "2026-07-10T02:49:31.045597+00:00"
-  },
-  "https://techcrunch.com/?p=3140819": {
-    "title": "An AI agent startup just let its agent run its $100M fundraise",
-    "sent_at": "2026-07-10T02:49:30.230995+00:00"
-  },
-  "https://techcrunch.com/?p=3140805": {
-    "title": "OpenAI launches its new family of models with GPT-5.6",
-    "sent_at": "2026-07-10T02:49:29.671265+00:00"
-  },
-  "https://techcrunch.com/?p=3140900": {
-    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
-    "sent_at": "2026-07-10T02:49:29.169567+00:00"
-  },
-  "https://techcrunch.com/?p=3140787": {
-    "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
-    "sent_at": "2026-07-10T02:49:28.675523+00:00"
-  },
-  "https://techcrunch.com/?p=3140881": {
-    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-    "sent_at": "2026-07-10T02:49:28.174737+00:00"
-  },
-  "https://www.threads.com/t/Dah7EkTAQqL": {
-    "title": "@feelfree_ai: LLM의 VRAM을 무한정 잡아먹던 주범인 KV 캐시를 무려 88%나 압축하고도 ...",
-    "sent_at": "2026-07-09T02:46:46.861576+00:00"
   }
 }
