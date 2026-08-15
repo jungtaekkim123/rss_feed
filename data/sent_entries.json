@@ -1,4 +1,56 @@
 {
+  "https://www.threads.com/t/DcAL7NLgbrR": {
+    "title": "@feelfree_ai: AI 보안이 단순히 모델 자체의 문제라 생각했다면, 이제는 완전히 ...",
+    "sent_at": "2026-08-15T01:05:30.692781+00:00"
+  },
+  "https://www.threads.com/t/DcAa7C5D6k_": {
+    "title": "@feelfree_ai: 기존 코드 임베딩이 단순 정적 검색에 치우쳐 있던 문제를 파고...",
+    "sent_at": "2026-08-15T01:05:30.130795+00:00"
+  },
+  "https://www.threads.com/t/DcBJ-F9gZvV": {
+    "title": "@feelfree_ai: 사람이 빽빽하게 겹치거나 물체가 순간적으로 가려질 때 객체 추저...",
+    "sent_at": "2026-08-15T01:05:29.569654+00:00"
+  },
+  "01KZW0MF4VJTZW3F7601QANQ7Z": {
+    "title": "Secure all your internal vibe-coded applications — in one click",
+    "sent_at": "2026-08-15T01:05:11.949587+00:00"
+  },
+  "01M005AFBW9P2YGZT4HH64D2BQ": {
+    "title": "How Cloudflare detects MCP traffic and helps secure it",
+    "sent_at": "2026-08-15T01:05:11.382670+00:00"
+  },
+  "https://huggingface.co/blog/state-of-open-models-summer-2026": {
+    "title": "State of Open Models: Summer 2026 Observations",
+    "sent_at": "2026-08-15T01:05:07.896729+00:00"
+  },
+  "https://blogs.nvidia.com/?p=97549": {
+    "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+    "sent_at": "2026-08-15T01:05:06.830073+00:00"
+  },
+  "https://github.blog/?p=98252": {
+    "title": "How to bring your software delivery workflow into GitHub with agent apps",
+    "sent_at": "2026-08-15T01:04:57.790551+00:00"
+  },
+  "https://techcrunch.com/?p=3011907": {
+    "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+    "sent_at": "2026-08-15T01:04:56.795668+00:00"
+  },
+  "https://techcrunch.com/?p=3153226": {
+    "title": "What we know about the alleged Iranian hacks on US water utilities",
+    "sent_at": "2026-08-15T01:04:56.257801+00:00"
+  },
+  "https://techcrunch.com/?p=3153180": {
+    "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+    "sent_at": "2026-08-15T01:04:55.717685+00:00"
+  },
+  "https://techcrunch.com/?p=3153246": {
+    "title": "Self-driving trucks are officially testing on California highways",
+    "sent_at": "2026-08-15T01:04:55.163820+00:00"
+  },
+  "https://techcrunch.com/?p=3153275": {
+    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+    "sent_at": "2026-08-15T01:04:54.596378+00:00"
+  },
   "https://www.threads.com/t/Db9mtt6AZ6-": {
     "title": "@feelfree_ai: 다른 모델로 세션을 전환할 때마다 KV 캐시를 처음부터 다시 재계산...",
     "sent_at": "2026-08-14T01:44:46.445133+00:00"
@@ -1946,57 +1998,5 @@
   "795943e111b58ed576073f2b1f72bcebff6b9306": {
     "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
     "sent_at": "2026-07-14T02:13:35.571784+00:00"
-  },
-  "4208480ff12de823b05e88106fa2cdbe89cd4c2e": {
-    "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
-    "sent_at": "2026-07-14T02:13:35.167608+00:00"
-  },
-  "6ePF6Vl7bAXNNpdFDoFbqs": {
-    "title": "Introducing Precursor: detecting agentic behavior with continuous client-side signals",
-    "sent_at": "2026-07-14T02:13:33.371367+00:00"
-  },
-  "https://medium.com/p/f4b792f3f0d8": {
-    "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
-    "sent_at": "2026-07-14T02:13:32.069243+00:00"
-  },
-  "https://engineering.fb.com/?p=24221": {
-    "title": "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler",
-    "sent_at": "2026-07-14T02:13:30.499528+00:00"
-  },
-  "https://openai.com/academy/getting-started": {
-    "title": "Getting started with ChatGPT",
-    "sent_at": "2026-07-14T02:13:29.481763+00:00"
-  },
-  "https://goddaehee.tistory.com/622": {
-    "title": "GPT-5.6 입문, 완전 기초 | Chat, Codex, Spark 활용 하는 법(Chat&middot;Work&middot;Codex 구분하여 사용하기)",
-    "sent_at": "2026-07-14T02:13:27.300955+00:00"
-  },
-  "https://techcrunch.com/?p=3141632": {
-    "title": "Satya Nadella has issued a shocking warning to companies using AI",
-    "sent_at": "2026-07-14T02:13:20.184200+00:00"
-  },
-  "https://techcrunch.com/?p=3141670": {
-    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-    "sent_at": "2026-07-14T02:13:19.792923+00:00"
-  },
-  "https://techcrunch.com/?p=3141807": {
-    "title": "X just tweaked its algorithm to make it more friendly, less battleground",
-    "sent_at": "2026-07-14T02:13:19.389440+00:00"
-  },
-  "https://techcrunch.com/?p=3141426": {
-    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-    "sent_at": "2026-07-14T02:13:18.766473+00:00"
-  },
-  "https://techcrunch.com/?p=3141573": {
-    "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-    "sent_at": "2026-07-14T02:13:18.374543+00:00"
-  },
-  "https://www.threads.com/t/DaralBbAfgF": {
-    "title": "@feelfree_ai: GPU 없이 고작 25GB 램만 장착된 일반 PC에서 744B 파라미터 크기의 초거대 A...",
-    "sent_at": "2026-07-13T02:35:03.141293+00:00"
-  },
-  "https://www.threads.com/t/Dar8vWegbF0": {
-    "title": "@feelfree_ai: AI가 프롬프트에 있는 지시사항을 뻔히 알면서도 무시하고 딴소리하...",
-    "sent_at": "2026-07-13T02:35:02.572653+00:00"
   }
 }
