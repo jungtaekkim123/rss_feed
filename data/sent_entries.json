@@ -1,4 +1,44 @@
 {
+  "https://www.threads.com/t/DcCwm9ZgWaH": {
+    "title": "@feelfree_ai: 맥북 에어 16GB 메모리만으로 이번에 새로 나온 Qwen3.8 27B LLM을 92% 정확도로 ...",
+    "sent_at": "2026-08-16T01:09:16.200452+00:00"
+  },
+  "https://www.threads.com/t/DcDMEXdASEK": {
+    "title": "@feelfree_ai: 단순 키워드 매칭에 의존하던 기존 RAG 검색의 답답함을 해결하ᄀ...",
+    "sent_at": "2026-08-16T01:09:15.664688+00:00"
+  },
+  "https://www.threads.com/t/DcD_hrCgSLg": {
+    "title": "@feelfree_ai: 한국어 RAG 구축할 때 보던 MTEB 임베딩 리더보드가 v2로 전면 개편되어...",
+    "sent_at": "2026-08-16T01:09:15.129713+00:00"
+  },
+  "https://medium.com/p/f4b792f3f0d8": {
+    "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
+    "sent_at": "2026-08-16T01:08:57.829918+00:00"
+  },
+  "https://engineering.fb.com/?p=24221": {
+    "title": "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler",
+    "sent_at": "2026-08-16T01:08:55.917379+00:00"
+  },
+  "https://techcrunch.com/?p=2878248": {
+    "title": "Every fusion startup that has raised over $100M",
+    "sent_at": "2026-08-16T01:08:47.314828+00:00"
+  },
+  "https://techcrunch.com/?p=3153258": {
+    "title": "How to tell if your AI platforms’ accounts have been hacked",
+    "sent_at": "2026-08-16T01:08:46.797804+00:00"
+  },
+  "https://techcrunch.com/?p=3153306": {
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "sent_at": "2026-08-16T01:08:46.310197+00:00"
+  },
+  "https://techcrunch.com/?p=3153310": {
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "sent_at": "2026-08-16T01:08:45.818532+00:00"
+  },
+  "https://techcrunch.com/?p=3153313": {
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "sent_at": "2026-08-16T01:08:45.259723+00:00"
+  },
   "https://www.threads.com/t/DcAL7NLgbrR": {
     "title": "@feelfree_ai: AI 보안이 단순히 모델 자체의 문제라 생각했다면, 이제는 완전히 ...",
     "sent_at": "2026-08-15T01:05:30.692781+00:00"
@@ -1958,45 +1998,5 @@
   "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
     "title": "How sales teams use ChatGPT Work",
     "sent_at": "2026-07-15T02:11:59.372549+00:00"
-  },
-  "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
-    "title": "How data science teams use ChatGPT Work",
-    "sent_at": "2026-07-15T02:11:58.994990+00:00"
-  },
-  "https://openai.com/index/managing-ai-investments-in-agentic-era": {
-    "title": "How to manage AI investments in the agentic era",
-    "sent_at": "2026-07-15T02:11:58.613993+00:00"
-  },
-  "https://goddaehee.tistory.com/623": {
-    "title": "Orca 사용 방법(Orca 설치 및 사용법) : Codex, Claude Code, Grok을 Git Worktree로 동시에 실행하기",
-    "sent_at": "2026-07-15T02:11:53.746290+00:00"
-  },
-  "https://techcrunch.com/?p=3142242": {
-    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-    "sent_at": "2026-07-15T02:11:46.695681+00:00"
-  },
-  "https://techcrunch.com/?p=3142355": {
-    "title": "OpenAI pushes back on Apple trade secret lawsuit",
-    "sent_at": "2026-07-15T02:11:46.309006+00:00"
-  },
-  "https://techcrunch.com/?p=3142378": {
-    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-    "sent_at": "2026-07-15T02:11:45.904295+00:00"
-  },
-  "https://techcrunch.com/?p=3142316": {
-    "title": "Lorde says AI glasses are ‘not sexy’",
-    "sent_at": "2026-07-15T02:11:45.512573+00:00"
-  },
-  "https://techcrunch.com/?p=3142345": {
-    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-    "sent_at": "2026-07-15T02:11:45.127033+00:00"
-  },
-  "https://www.threads.com/t/Daur2elk0uH": {
-    "title": "@feelfree_ai: 대화 한 번이면 여러 AI 에이전트가 각자의 깃(Git) 브랜치에서 동시에 ᄏ...",
-    "sent_at": "2026-07-14T02:13:52.149981+00:00"
-  },
-  "795943e111b58ed576073f2b1f72bcebff6b9306": {
-    "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
-    "sent_at": "2026-07-14T02:13:35.571784+00:00"
   }
 }
