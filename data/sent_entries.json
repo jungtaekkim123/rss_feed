@@ -1,4 +1,32 @@
 {
+  "https://www.threads.com/t/DcFabvZAfLs": {
+    "title": "@feelfree_ai: 단 28MB RAM만 써서 기기 내부에서 툴 콜링을 처리하는 45M 파라미터 모델ᄋ...",
+    "sent_at": "2026-08-17T01:06:28.723557+00:00"
+  },
+  "https://www.threads.com/t/DcF8kDSgUvS": {
+    "title": "@feelfree_ai: AI 에이전트에 API 키나 OAuth 토큰을 직접 넘겨주는 게 불안해서 연동ᄋ...",
+    "sent_at": "2026-08-17T01:06:28.281176+00:00"
+  },
+  "https://goddaehee.tistory.com/630": {
+    "title": "Grok 4.6 출시 요약 - Grok 4.6 어떤 사람에게 맞을까(&quot;코딩 1위&quot;는 어디까지 맞나?)",
+    "sent_at": "2026-08-17T01:06:07.111332+00:00"
+  },
+  "https://techcrunch.com/?p=3153291": {
+    "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+    "sent_at": "2026-08-17T01:05:59.603306+00:00"
+  },
+  "https://techcrunch.com/?p=3153318": {
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "sent_at": "2026-08-17T01:05:59.160031+00:00"
+  },
+  "https://techcrunch.com/?p=3153329": {
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "sent_at": "2026-08-17T01:05:58.729801+00:00"
+  },
+  "https://techcrunch.com/?p=3153332": {
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "sent_at": "2026-08-17T01:05:58.257148+00:00"
+  },
   "https://www.threads.com/t/DcCwm9ZgWaH": {
     "title": "@feelfree_ai: 맥북 에어 16GB 메모리만으로 이번에 새로 나온 Qwen3.8 27B LLM을 92% 정확도로 ...",
     "sent_at": "2026-08-16T01:09:16.200452+00:00"
@@ -1970,33 +1998,5 @@
   "https://www.threads.com/t/DaxcRYtirUo": {
     "title": "@feelfree_ai: 텍스트나 이미지 임베딩은 다들 익숙하시겠지만, 이제는 '지구(특...",
     "sent_at": "2026-07-15T02:12:23.291700+00:00"
-  },
-  "https://www.threads.com/t/Dayql1YAWru": {
-    "title": "@feelfree_ai: 고가의 워크스테이션이나 클라우드에서만 구동되던 27B 체급의 멀티모...",
-    "sent_at": "2026-07-15T02:12:22.886963+00:00"
-  },
-  "https://www.threads.com/t/Day8WQkCohs": {
-    "title": "@feelfree_ai: 1.5B짜리 경량 AI가 7B AI의 성능을 역으로 끌어올리는 재밌는 연구가 ...",
-    "sent_at": "2026-07-15T02:12:22.492313+00:00"
-  },
-  "4k8LbDKkNXwcJVEFYF1ije": {
-    "title": "A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed",
-    "sent_at": "2026-07-15T02:12:04.447926+00:00"
-  },
-  "https://blogs.nvidia.com/?p=96103": {
-    "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
-    "sent_at": "2026-07-15T02:12:02.443797+00:00"
-  },
-  "https://blogs.nvidia.com/?p=96074": {
-    "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
-    "sent_at": "2026-07-15T02:12:02.049780+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/": {
-    "title": "Celebrating 25 years of visual search innovation",
-    "sent_at": "2026-07-15T02:12:00.061178+00:00"
-  },
-  "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
-    "title": "How sales teams use ChatGPT Work",
-    "sent_at": "2026-07-15T02:11:59.372549+00:00"
   }
 }
