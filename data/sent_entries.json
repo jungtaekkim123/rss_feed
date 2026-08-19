@@ -1,4 +1,80 @@
 {
+  "https://www.threads.com/t/DcKdKNqgSh3": {
+    "title": "@feelfree_ai: LLM 추론 성능을 극대화할 때 늘 발목을 잡던 CUDA Graph의 메모리 및 ᄒ...",
+    "sent_at": "2026-08-19T01:05:54.473195+00:00"
+  },
+  "https://www.threads.com/t/DcK3peiE7rR": {
+    "title": "@feelfree_ai: 이제 AI 에이전트에게 단순히 '툴(Tool)'만 쥐여주는 방식은 한계가 명...",
+    "sent_at": "2026-08-19T01:05:54.085295+00:00"
+  },
+  "https://www.threads.com/t/DcLs1XNgfiP": {
+    "title": "@feelfree_ai: 1억 7,900만 건의 대용량 데이터를 처리할 때 GPU로 SQL을 돌리면 작업 ...",
+    "sent_at": "2026-08-19T01:05:53.693404+00:00"
+  },
+  "https://www.threads.com/t/DcMzkRuARcY": {
+    "title": "@feelfree_ai: AI 코딩 에이전트에게 단순 명령만 내려서는 실제 프로덕션 수준ᄋ...",
+    "sent_at": "2026-08-19T01:05:53.306036+00:00"
+  },
+  "5bd92664f8ba6ec61ac2d68e8b4b52a7f2988613": {
+    "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo",
+    "sent_at": "2026-08-19T01:05:35.214726+00:00"
+  },
+  "01M0ANY0TKGXDWAN9C58T3A1HR": {
+    "title": "BGP Role model: tracking the adoption of RFC 9234",
+    "sent_at": "2026-08-19T01:05:34.539778+00:00"
+  },
+  "https://engineering.atspotify.com/?p=6OwIaRIOSFOCZSHMjmLIxv": {
+    "title": "Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant",
+    "sent_at": "2026-08-19T01:05:33.862696+00:00"
+  },
+  "https://huggingface.co/blog/multi-vector-encoder": {
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "sent_at": "2026-08-19T01:05:32.518401+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/altk-evolve-hmm": {
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "sent_at": "2026-08-19T01:05:32.137337+00:00"
+  },
+  "https://engineering.fb.com/?p=24251": {
+    "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
+    "sent_at": "2026-08-19T01:05:30.076696+00:00"
+  },
+  "https://openai.com/index/nvidia/chatgpt-work": {
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "sent_at": "2026-08-19T01:05:29.082931+00:00"
+  },
+  "https://openai.com/index/chatgpt-for-teens": {
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "sent_at": "2026-08-19T01:05:28.710431+00:00"
+  },
+  "https://openai.com/index/pacing-model-development-cyber-capabilities": {
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "sent_at": "2026-08-19T01:05:28.320676+00:00"
+  },
+  "https://openai.com/index/partnering-with-codeai": {
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "sent_at": "2026-08-19T01:05:27.936033+00:00"
+  },
+  "https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
+    "title": "Strengthening democratic oversight in national security",
+    "sent_at": "2026-08-19T01:05:27.564930+00:00"
+  },
+  "https://techcrunch.com/?p=3154044": {
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "sent_at": "2026-08-19T01:05:14.996800+00:00"
+  },
+  "https://techcrunch.com/?p=3154071": {
+    "title": "TikTok explores peer-to-peer payments via DMs, report says",
+    "sent_at": "2026-08-19T01:05:14.614694+00:00"
+  },
+  "https://techcrunch.com/?p=3154080": {
+    "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+    "sent_at": "2026-08-19T01:05:14.234777+00:00"
+  },
+  "https://techcrunch.com/?p=3154081": {
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "sent_at": "2026-08-19T01:05:13.852024+00:00"
+  },
   "https://www.threads.com/t/DcH2v76AS2R": {
     "title": "@feelfree_ai: 음색 복제 성능부터 54ms 초저지연 반응까지 다 잡은 2B 크기의 오픈ᄉ...",
     "sent_at": "2026-08-18T01:04:48.542004+00:00"
@@ -1922,81 +1998,5 @@
   "https://www.threads.com/t/Da3D0lEARy2": {
     "title": "@feelfree_ai: RAG 모델의 응답 정확도를 좌우하는 것은 결국 '검색'인데, 엔비...",
     "sent_at": "2026-07-17T02:28:18.576324+00:00"
-  },
-  "https://www.threads.com/t/Da37iNGAd9k": {
-    "title": "@feelfree_ai: 무려 11배나 작은 0.6B 학생 모델이 8B 스승 모델의 성능을 뛰어넘는 ...",
-    "sent_at": "2026-07-17T02:28:18.031030+00:00"
-  },
-  "https://huggingface.co/blog/security-incident-july-2026": {
-    "title": "Security incident disclosure — July 2026",
-    "sent_at": "2026-07-17T02:27:58.304227+00:00"
-  },
-  "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages": {
-    "title": "Newer Models, Same Advantage",
-    "sent_at": "2026-07-17T02:27:57.755346+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb": {
-    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-    "sent_at": "2026-07-17T02:27:57.218045+00:00"
-  },
-  "https://blogs.nvidia.com/?p=96182": {
-    "title": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
-    "sent_at": "2026-07-17T02:27:54.082930+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/": {
-    "title": "Create, edit and star in videos with two Google Vids updates",
-    "sent_at": "2026-07-17T02:27:52.933529+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/search/connected-apps/": {
-    "title": "Connect more of your apps to Search",
-    "sent_at": "2026-07-17T02:27:52.395318+00:00"
-  },
-  "https://openai.com/index/cars24": {
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "sent_at": "2026-07-17T02:27:50.456967+00:00"
-  },
-  "https://openai.com/index/why-teens-deserve-access-safe-ai": {
-    "title": "Why teens deserve access to safe AI",
-    "sent_at": "2026-07-17T02:27:49.911763+00:00"
-  },
-  "https://goddaehee.tistory.com/624": {
-    "title": "Grok 4.5 출시 요약 - 코딩 벤치마크와 토큰 가격 한눈에 보기( Grok Build  CLI 사용전 Grok 4.5 가볍게 살펴보기 )",
-    "sent_at": "2026-07-17T02:27:47.173075+00:00"
-  },
-  "https://goddaehee.tistory.com/625": {
-    "title": "Grok Build CLI 사용 방법(grok 설치 및 사용법) : Grok 4.5 모델을 터미널에서 코딩 에이전트로 실행하기",
-    "sent_at": "2026-07-17T02:27:46.633045+00:00"
-  },
-  "https://techcrunch.com/?p=3143447": {
-    "title": "Google Vids now lets you star in your own AI videos",
-    "sent_at": "2026-07-17T02:27:38.859211+00:00"
-  },
-  "https://techcrunch.com/?p=3143465": {
-    "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
-    "sent_at": "2026-07-17T02:27:38.316886+00:00"
-  },
-  "https://techcrunch.com/?p=3143530": {
-    "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
-    "sent_at": "2026-07-17T02:27:37.781979+00:00"
-  },
-  "https://techcrunch.com/?p=3143576": {
-    "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
-    "sent_at": "2026-07-17T02:27:37.224698+00:00"
-  },
-  "https://techcrunch.com/?p=3143520": {
-    "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
-    "sent_at": "2026-07-17T02:27:36.683924+00:00"
-  },
-  "https://www.threads.com/t/DazLg-NiDZc": {
-    "title": "@feelfree_ai: LLM 라우터 쓰실 때 정확도만 높다고 안심하셨다면, 사실 아무 일도 ...",
-    "sent_at": "2026-07-16T02:25:15.663475+00:00"
-  },
-  "https://www.threads.com/t/DazkyZFgWTn": {
-    "title": "@feelfree_ai: 온디바이스 VLM의 에너지를 아끼려면 이미지 토큰을 깎아내는 것보다 ...",
-    "sent_at": "2026-07-16T02:25:15.257144+00:00"
-  },
-  "https://www.threads.com/t/Da0H4Lkgbmk": {
-    "title": "@feelfree_ai: 무거운 LLM을 서빙할 때 감당하기 힘든 GPU 비용이 고민이셨다면, AWS...",
-    "sent_at": "2026-07-16T02:25:14.844014+00:00"
   }
 }
