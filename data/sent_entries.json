@@ -1,4 +1,64 @@
 {
+  "https://www.threads.com/t/DcOJRV9gaiL": {
+    "title": "@feelfree_ai: NVIDIA가 허깅페이스 모델을 단 2개의 명령어만으로 TensorRT 최적화까지 끄...",
+    "sent_at": "2026-08-20T01:05:12.990195+00:00"
+  },
+  "https://www.threads.com/t/DcOkbHTgZdL": {
+    "title": "@feelfree_ai: Liquid AI가 양자화 인지 증류(QAD) 기술을 적용해 4비트 모델의 성능 손ᄉ...",
+    "sent_at": "2026-08-20T01:05:12.426322+00:00"
+  },
+  "https://toss.tech/article/ads_dashboard_fe": {
+    "title": "전체 데이터를 브라우저에 두는 광고 대시보드 만들기",
+    "sent_at": "2026-08-20T01:05:01.265233+00:00"
+  },
+  "01M00Y54SDH5EBZBFJ1FQZ2BX9": {
+    "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+    "sent_at": "2026-08-20T01:04:55.793514+00:00"
+  },
+  "https://huggingface.co/blog/LiquidAI/qad": {
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "sent_at": "2026-08-20T01:04:54.161973+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/": {
+    "title": "5 new ways to level up your learning with Search",
+    "sent_at": "2026-08-20T01:04:52.454508+00:00"
+  },
+  "https://openai.com/index/chatgpt-ads-expands-across-europe": {
+    "title": "ChatGPT Ads expands across Europe",
+    "sent_at": "2026-08-20T01:04:51.575826+00:00"
+  },
+  "https://openai.com/index/replit": {
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "sent_at": "2026-08-20T01:04:51.044485+00:00"
+  },
+  "https://openai.com/index/offering-zero-data-retention-for-frontier-models": {
+    "title": "Offering Zero Data Retention for frontier models",
+    "sent_at": "2026-08-20T01:04:50.513638+00:00"
+  },
+  "https://github.blog/?p=98348": {
+    "title": "GitHub Copilot app for Beginners: Managing your work",
+    "sent_at": "2026-08-20T01:04:40.686734+00:00"
+  },
+  "https://techcrunch.com/?p=3154186": {
+    "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+    "sent_at": "2026-08-20T01:04:39.908350+00:00"
+  },
+  "https://techcrunch.com/?p=3154652": {
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "sent_at": "2026-08-20T01:04:39.346047+00:00"
+  },
+  "https://techcrunch.com/?p=3154506": {
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "sent_at": "2026-08-20T01:04:38.815043+00:00"
+  },
+  "https://techcrunch.com/?p=3154552": {
+    "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+    "sent_at": "2026-08-20T01:04:38.278736+00:00"
+  },
+  "https://techcrunch.com/?p=3154600": {
+    "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+    "sent_at": "2026-08-20T01:04:37.751738+00:00"
+  },
   "https://www.threads.com/t/DcKdKNqgSh3": {
     "title": "@feelfree_ai: LLM 추론 성능을 극대화할 때 늘 발목을 잡던 CUDA Graph의 메모리 및 ᄒ...",
     "sent_at": "2026-08-19T01:05:54.473195+00:00"
@@ -1938,65 +1998,5 @@
   "https://www.threads.com/t/Da5BBr_AclX": {
     "title": "@feelfree_ai: LLM 에이전트들이 유출된 인증 정보를 무서운 속도로 탐색하고 수...",
     "sent_at": "2026-07-18T02:13:10.881592+00:00"
-  },
-  "https://www.threads.com/t/Da6kgkbAQpk": {
-    "title": "@feelfree_ai: 화면을 캡처해서 버튼을 찾는 비효율적인 모바일 AI 방식은 이ᄌ...",
-    "sent_at": "2026-07-18T02:13:10.491802+00:00"
-  },
-  "01KXQS1XDD7HKB324JEWG6BZDA": {
-    "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities",
-    "sent_at": "2026-07-18T02:12:54.903080+00:00"
-  },
-  "https://medium.com/p/a5a8e799ea2c": {
-    "title": "In-House LLM Serving at Netflix",
-    "sent_at": "2026-07-18T02:12:53.777260+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel": {
-    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-    "sent_at": "2026-07-18T02:12:52.954994+00:00"
-  },
-  "https://blogs.nvidia.com/?p=96417&preview=true&preview_id=96417": {
-    "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
-    "sent_at": "2026-07-18T02:12:52.100149+00:00"
-  },
-  "https://openai.com/index/a-scorecard-for-the-ai-age": {
-    "title": "A scorecard for the AI age",
-    "sent_at": "2026-07-18T02:12:50.950047+00:00"
-  },
-  "https://github.blog/?p=97604": {
-    "title": "The cost of saying yes has changed",
-    "sent_at": "2026-07-18T02:12:38.976106+00:00"
-  },
-  "https://techcrunch.com/?p=3143772": {
-    "title": "Agility Robotics plants its flag in Tesla’s backyard",
-    "sent_at": "2026-07-18T02:12:38.363048+00:00"
-  },
-  "https://techcrunch.com/?p=3143936": {
-    "title": "The Zoom hack that says, ‘Don’t record me’",
-    "sent_at": "2026-07-18T02:12:37.968797+00:00"
-  },
-  "https://techcrunch.com/?p=3143817": {
-    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-    "sent_at": "2026-07-18T02:12:37.579481+00:00"
-  },
-  "https://techcrunch.com/?p=3143864": {
-    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-    "sent_at": "2026-07-18T02:12:37.124816+00:00"
-  },
-  "https://techcrunch.com/?p=3143024": {
-    "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-    "sent_at": "2026-07-18T02:12:36.748681+00:00"
-  },
-  "https://www.threads.com/t/Da1zSZIE__S": {
-    "title": "@feelfree_ai: 구글이 보안 취약점을 알아서 찾아내고, 검증하고, 패치까지 스스로 ...",
-    "sent_at": "2026-07-17T02:28:19.682439+00:00"
-  },
-  "https://www.threads.com/t/Da2btpZkwe3": {
-    "title": "@feelfree_ai: LLM을 파인튜닝해 새로운 지식을 주입해도, 정작 복잡한 추론에ᄂ...",
-    "sent_at": "2026-07-17T02:28:19.130005+00:00"
-  },
-  "https://www.threads.com/t/Da3D0lEARy2": {
-    "title": "@feelfree_ai: RAG 모델의 응답 정확도를 좌우하는 것은 결국 '검색'인데, 엔비...",
-    "sent_at": "2026-07-17T02:28:18.576324+00:00"
   }
 }
