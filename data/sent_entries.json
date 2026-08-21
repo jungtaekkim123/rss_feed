@@ -1,4 +1,56 @@
 {
+  "https://toss.tech/article/tech_talk_talk_2": {
+    "title": "LLM 서빙, 띄우는 것과 잘 띄우는 것 사이",
+    "sent_at": "2026-08-21T01:08:13.327053+00:00"
+  },
+  "01M0E1JC8D74SDDVJCVBVX8EFA": {
+    "title": "From all-or-nothing to task-based OAuth consent",
+    "sent_at": "2026-08-21T01:08:08.022613+00:00"
+  },
+  "https://medium.com/p/a5a8e799ea2c": {
+    "title": "In-House LLM Serving at Netflix",
+    "sent_at": "2026-08-21T01:08:06.819309+00:00"
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm25-dspark": {
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "sent_at": "2026-08-21T01:08:05.873310+00:00"
+  },
+  "https://blogs.nvidia.com/?p=97798": {
+    "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+    "sent_at": "2026-08-21T01:08:04.890602+00:00"
+  },
+  "https://openai.com/index/stampli": {
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "sent_at": "2026-08-21T01:08:03.464869+00:00"
+  },
+  "https://openai.com/index/introducing-ai-futures": {
+    "title": "Introducing AI Futures",
+    "sent_at": "2026-08-21T01:08:02.970804+00:00"
+  },
+  "https://github.blog/?p=98377": {
+    "title": "The August 17 outage, and the work ahead",
+    "sent_at": "2026-08-21T01:07:54.342158+00:00"
+  },
+  "https://techcrunch.com/?p=3155224": {
+    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    "sent_at": "2026-08-21T01:07:53.607738+00:00"
+  },
+  "https://techcrunch.com/?p=3155215": {
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "sent_at": "2026-08-21T01:07:53.109404+00:00"
+  },
+  "https://techcrunch.com/?post_type=tc_video&p=3155294": {
+    "title": "Learn what VCs actually want, from a founder who’s raised $1B",
+    "sent_at": "2026-08-21T01:07:52.615823+00:00"
+  },
+  "https://techcrunch.com/?p=3155270": {
+    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "sent_at": "2026-08-21T01:07:52.119680+00:00"
+  },
+  "https://techcrunch.com/?p=3155276": {
+    "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+    "sent_at": "2026-08-21T01:07:51.625980+00:00"
+  },
   "https://www.threads.com/t/DcOJRV9gaiL": {
     "title": "@feelfree_ai: NVIDIA가 허깅페이스 모델을 단 2개의 명령어만으로 TensorRT 최적화까지 끄...",
     "sent_at": "2026-08-20T01:05:12.990195+00:00"
@@ -1946,57 +1998,5 @@
   "https://goddaehee.tistory.com/626": {
     "title": "llmfit vs whichllm 비교(설치 및 사용법) : 로컬 LLM 모델 추천 도구, 내 하드웨어에 맞는 AI 모델 찾기",
     "sent_at": "2026-07-20T02:45:06.233458+00:00"
-  },
-  "https://techcrunch.com/?p=3144080": {
-    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-    "sent_at": "2026-07-20T02:44:59.834831+00:00"
-  },
-  "https://techcrunch.com/?p=3143973": {
-    "title": "TechCrunch Mobility: The battle over robotaxi rules",
-    "sent_at": "2026-07-20T02:44:59.276371+00:00"
-  },
-  "https://techcrunch.com/?p=3144101": {
-    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-    "sent_at": "2026-07-20T02:44:58.723056+00:00"
-  },
-  "https://techcrunch.com/?p=3144105": {
-    "title": "What to watch for after Jensen Huang’s Japan visit",
-    "sent_at": "2026-07-20T02:44:58.233902+00:00"
-  },
-  "https://techcrunch.com/?p=3144113": {
-    "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-    "sent_at": "2026-07-20T02:44:57.740282+00:00"
-  },
-  "https://www.threads.com/t/Da7BEl7AT-D": {
-    "title": "@feelfree_ai: 코딩 에이전트에게 8만 개의 그림 데이터를 맡기고 1시간을 방치했ᄃ...",
-    "sent_at": "2026-07-19T02:30:03.465157+00:00"
-  },
-  "https://www.threads.com/t/Da72yZaAfXo": {
-    "title": "@feelfree_ai: 1.7B 소형 에이전트 모델이 스스로를 가르치는 방식으로 4배 더 큰 7B 모ᄃ...",
-    "sent_at": "2026-07-19T02:30:03.073694+00:00"
-  },
-  "https://techcrunch.com/?p=3143790": {
-    "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
-    "sent_at": "2026-07-19T02:29:31.475452+00:00"
-  },
-  "https://techcrunch.com/?p=3144053": {
-    "title": "Federal employees can download TikTok on their work phones again",
-    "sent_at": "2026-07-19T02:29:31.100864+00:00"
-  },
-  "https://techcrunch.com/?p=3143473": {
-    "title": "All the EVs that were discontinued or killed off in the U.S. this year",
-    "sent_at": "2026-07-19T02:29:30.720955+00:00"
-  },
-  "https://techcrunch.com/?p=3144070": {
-    "title": "Kimi: Threat or menace?",
-    "sent_at": "2026-07-19T02:29:30.336600+00:00"
-  },
-  "https://techcrunch.com/?p=3144073": {
-    "title": "Waymo says San Francisco service has resumed after one-hour pause",
-    "sent_at": "2026-07-19T02:29:29.958001+00:00"
-  },
-  "https://www.threads.com/t/Da5BBr_AclX": {
-    "title": "@feelfree_ai: LLM 에이전트들이 유출된 인증 정보를 무서운 속도로 탐색하고 수...",
-    "sent_at": "2026-07-18T02:13:10.881592+00:00"
   }
 }
