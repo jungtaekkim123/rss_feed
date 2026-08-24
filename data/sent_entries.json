@@ -1,4 +1,32 @@
 {
+  "https://www.threads.com/t/DcXZ2TTATRJ": {
+    "title": "@feelfree_ai: 이제 AI 에이전트한테 길고 복잡한 프롬프트를 짤 필요 없이, 내가 ...",
+    "sent_at": "2026-08-24T01:07:54.522274+00:00"
+  },
+  "https://www.threads.com/t/DcYHZaxDqAw": {
+    "title": "@feelfree_ai: 앤드류 응 교수가 최근에 공개한 AI 엔지니어가 되기 위한 전체 로드매...",
+    "sent_at": "2026-08-24T01:07:54.114130+00:00"
+  },
+  "https://techcrunch.com/?p=3155870": {
+    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "sent_at": "2026-08-24T01:07:28.234446+00:00"
+  },
+  "https://techcrunch.com/?p=3155695": {
+    "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+    "sent_at": "2026-08-24T01:07:27.855213+00:00"
+  },
+  "https://techcrunch.com/?p=3155017": {
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "sent_at": "2026-08-24T01:07:27.425964+00:00"
+  },
+  "https://techcrunch.com/?p=3155874": {
+    "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+    "sent_at": "2026-08-24T01:07:27.049155+00:00"
+  },
+  "https://techcrunch.com/?p=3155879": {
+    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "sent_at": "2026-08-24T01:07:26.645410+00:00"
+  },
   "https://www.threads.com/t/DcU4HDNATHS": {
     "title": "@feelfree_ai: LLM을 진짜 '바닥'부터 만들어보고 싶다면 무조건 정주행해야 할 가...",
     "sent_at": "2026-08-23T01:10:08.609447+00:00"
@@ -1970,33 +1998,5 @@
   "https://blogs.nvidia.com/?p=96620": {
     "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
     "sent_at": "2026-07-22T02:27:09.335981+00:00"
-  },
-  "https://blogs.nvidia.com/?p=96709": {
-    "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
-    "sent_at": "2026-07-22T02:27:08.964051+00:00"
-  },
-  "https://openai.com/index/david-velez-robin-vince-join-openai-boards": {
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-    "sent_at": "2026-07-22T02:27:05.433963+00:00"
-  },
-  "https://openai.com/index/hugging-face-model-evaluation-security-incident": {
-    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-    "sent_at": "2026-07-22T02:27:05.060142+00:00"
-  },
-  "https://openai.com/index/introducing-chatgpt-small-business-program": {
-    "title": "Introducing the ChatGPT for small business program",
-    "sent_at": "2026-07-22T02:27:04.677945+00:00"
-  },
-  "https://github.blog/?p=97611": {
-    "title": "How to build interactive experiences with canvases",
-    "sent_at": "2026-07-22T02:26:51.555622+00:00"
-  },
-  "https://techcrunch.com/?p=3144907": {
-    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-    "sent_at": "2026-07-22T02:26:50.828687+00:00"
-  },
-  "https://techcrunch.com/?p=3144991": {
-    "title": "OpenAI says Hugging Face was breached by its pre-release models",
-    "sent_at": "2026-07-22T02:26:50.457864+00:00"
   }
 }
