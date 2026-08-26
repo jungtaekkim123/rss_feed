@@ -1,4 +1,96 @@
 {
+  "https://www.threads.com/t/DcciE8_AT9a": {
+    "title": "@feelfree_ai: 이제 메모리 용량이 부족해서 대형 LLM을 못 돌린다는 건 옛말이 ᄃ...",
+    "sent_at": "2026-08-26T01:09:16.883341+00:00"
+  },
+  "https://www.threads.com/t/Dcc7koIjJvZ": {
+    "title": "@feelfree_ai: AI 에이전트 스킬을 검증할 때 기존처럼 코드 구조나 정적 스타일ᄆ...",
+    "sent_at": "2026-08-26T01:09:16.407591+00:00"
+  },
+  "https://www.threads.com/t/DcdrHtVAbTL": {
+    "title": "@feelfree_ai: 왜 AI 에이전트 성능 평가 결과는 테스트 환경마다 매번 엇갈리고 ᄆ...",
+    "sent_at": "2026-08-26T01:09:15.899701+00:00"
+  },
+  "https://www.threads.com/t/DcexI21Dxjs": {
+    "title": "@feelfree_ai: AI 에이전트 만들 때 매번 수작업으로 하네스 튜닝하느라 고생하셨다...",
+    "sent_at": "2026-08-26T01:09:15.413685+00:00"
+  },
+  "https://toss.tech/article/tech_talk_talk_3": {
+    "title": "토스증권 추천과 검색은 어떻게 진화하고 있을까?",
+    "sent_at": "2026-08-26T01:09:01.122015+00:00"
+  },
+  "https://d2.naver.com/helloworld/5788040": {
+    "title": "VictoriaMetrics 운영기 2편 — 장비 증설 없이 리소스 위기를 해결한 3단계 최적화 전략",
+    "sent_at": "2026-08-26T01:08:57.113141+00:00"
+  },
+  "0d62c0134c150af14fc409516cdf59aff26dc9e1": {
+    "title": "Happy 20th Birthday, Amazon EC2",
+    "sent_at": "2026-08-26T01:08:55.028808+00:00"
+  },
+  "https://huggingface.co/blog/pwc-search": {
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "sent_at": "2026-08-26T01:08:52.420233+00:00"
+  },
+  "https://huggingface.co/blog/gradio-workflow-guide": {
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "sent_at": "2026-08-26T01:08:51.945850+00:00"
+  },
+  "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": {
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "sent_at": "2026-08-26T01:08:51.465034+00:00"
+  },
+  "https://huggingface.co/blog/ibm-granite/granite-4-2": {
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "sent_at": "2026-08-26T01:08:50.991967+00:00"
+  },
+  "https://blogs.nvidia.com/?p=97918": {
+    "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+    "sent_at": "2026-08-26T01:08:46.716015+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/home-decor-tips/": {
+    "title": "5 ways to upgrade your home decor with Google Search",
+    "sent_at": "2026-08-26T01:08:45.529640+00:00"
+  },
+  "https://openai.com/index/introducing-admin-plugin": {
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "sent_at": "2026-08-26T01:08:44.583503+00:00"
+  },
+  "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": {
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "sent_at": "2026-08-26T01:08:44.122733+00:00"
+  },
+  "https://openai.com/index/jalapeno-first-results": {
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "sent_at": "2026-08-26T01:08:43.656775+00:00"
+  },
+  "https://openai.com/index/the-full-stack-behind-abundant-intelligence": {
+    "title": "The full stack behind abundant intelligence",
+    "sent_at": "2026-08-26T01:08:43.185434+00:00"
+  },
+  "https://github.blog/?p=98316": {
+    "title": "How to evaluate LLMs before production",
+    "sent_at": "2026-08-26T01:08:32.628243+00:00"
+  },
+  "https://techcrunch.com/?p=3156618": {
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "sent_at": "2026-08-26T01:08:31.747292+00:00"
+  },
+  "https://techcrunch.com/?p=3156733": {
+    "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+    "sent_at": "2026-08-26T01:08:31.273917+00:00"
+  },
+  "https://techcrunch.com/?p=3156746": {
+    "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+    "sent_at": "2026-08-26T01:08:30.800976+00:00"
+  },
+  "https://techcrunch.com/?p=3156793": {
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "sent_at": "2026-08-26T01:08:30.331900+00:00"
+  },
+  "https://techcrunch.com/?p=3156922": {
+    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "sent_at": "2026-08-26T01:08:29.861901+00:00"
+  },
   "https://www.threads.com/t/DcaEVGlgb-A": {
     "title": "@feelfree_ai: 기존 강화학습(PPO·GRPO)이 에이전트 작업의 호흡이 길어질수록 왜 무...",
     "sent_at": "2026-08-25T01:06:58.118565+00:00"
@@ -1906,97 +1998,5 @@
   "https://www.threads.com/t/DbJAN7xATsi": {
     "title": "@feelfree_ai: OpenAI 담당자가 Codex Security 플러그인을 오픈소스로 다시 공개했습니다. ᄋ...",
     "sent_at": "2026-07-24T02:29:07.213818+00:00"
-  },
-  "https://www.threads.com/t/DbJQoMeARdj": {
-    "title": "@feelfree_ai: 구글이 일반 모델들은 놓치는 취약점까지 찾아내는 보안 특화 ...",
-    "sent_at": "2026-07-24T02:29:06.808949+00:00"
-  },
-  "https://www.threads.com/t/DbJsFOVEgQg": {
-    "title": "@feelfree_ai: 단 5달러로 소형 AI 모델의 수학 정확도를 22%에서 91%까지 올리는 방ᄇ...",
-    "sent_at": "2026-07-24T02:29:06.412648+00:00"
-  },
-  "https://www.threads.com/t/DbKHdoOgBGx": {
-    "title": "@feelfree_ai: 고작 350M 파라미터 크기의 소형 AI가 대형 모델들을 제치고 소스코드 취야...",
-    "sent_at": "2026-07-24T02:29:06.008710+00:00"
-  },
-  "01KY05J6W4B4TF7X9348W51RWP": {
-    "title": "Introducing Cache Response Rules",
-    "sent_at": "2026-07-24T02:28:48.617957+00:00"
-  },
-  "https://huggingface.co/blog/nunchaku-diffusers": {
-    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-    "sent_at": "2026-07-24T02:28:47.181550+00:00"
-  },
-  "https://blogs.nvidia.com/?p=96768": {
-    "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
-    "sent_at": "2026-07-24T02:28:46.435205+00:00"
-  },
-  "https://openai.com/index/health-in-chatgpt": {
-    "title": "Launching Health in ChatGPT",
-    "sent_at": "2026-07-24T02:28:44.771325+00:00"
-  },
-  "https://github.blog/?p=97619": {
-    "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
-    "sent_at": "2026-07-24T02:28:32.148239+00:00"
-  },
-  "https://techcrunch.com/?p=3145963": {
-    "title": "Patreon lays off 20% of its workforce",
-    "sent_at": "2026-07-24T02:28:31.355872+00:00"
-  },
-  "https://techcrunch.com/?p=3145851": {
-    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-    "sent_at": "2026-07-24T02:28:30.958236+00:00"
-  },
-  "https://techcrunch.com/?p=3146068": {
-    "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-    "sent_at": "2026-07-24T02:28:30.574368+00:00"
-  },
-  "https://techcrunch.com/?p=3145581": {
-    "title": "Meet the judges who will crown Australia’s next breakout startup",
-    "sent_at": "2026-07-24T02:28:30.181093+00:00"
-  },
-  "https://techcrunch.com/?p=3145932": {
-    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-    "sent_at": "2026-07-24T02:28:29.790310+00:00"
-  },
-  "https://www.threads.com/t/DbFaonVAfW8": {
-    "title": "@feelfree_ai: “한국에서도 드디어 이런 모델이 나오는구나.” 라는 생각이 먼저 드...",
-    "sent_at": "2026-07-23T02:32:43.759050+00:00"
-  },
-  "https://www.threads.com/t/DbF7bV0ARFg": {
-    "title": "@feelfree_ai: 이런 Agent 오픈소스는 한 번쯤 봐둘 만합니다. EverMind AI가 공개한 Ravenᄋ...",
-    "sent_at": "2026-07-23T02:32:43.334560+00:00"
-  },
-  "https://www.threads.com/t/DbHghbIgUrZ": {
-    "title": "@feelfree_ai: LangChain이 Eval Engineering Skill을 공개했습니다. 이 스킬은 저장소와 Agent Trace를 ᄇ...",
-    "sent_at": "2026-07-23T02:32:42.910195+00:00"
-  },
-  "https://blogs.nvidia.com/?p=96734": {
-    "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
-    "sent_at": "2026-07-23T02:32:24.128201+00:00"
-  },
-  "https://blogs.nvidia.com/?p=96787": {
-    "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
-    "sent_at": "2026-07-23T02:32:23.708145+00:00"
-  },
-  "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/": {
-    "title": "3 Google updates from Galaxy Unpacked 2026",
-    "sent_at": "2026-07-23T02:32:21.679078+00:00"
-  },
-  "https://openai.com/index/ntt-data": {
-    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-    "sent_at": "2026-07-23T02:32:20.963224+00:00"
-  },
-  "https://openai.com/index/introducing-openai-presence": {
-    "title": "Introducing OpenAI Presence",
-    "sent_at": "2026-07-23T02:32:20.551008+00:00"
-  },
-  "https://openai.com/index/advancing-the-next-era-of-national-science": {
-    "title": "Advancing the next era of national science",
-    "sent_at": "2026-07-23T02:32:20.141796+00:00"
-  },
-  "https://openai.com/index/how-news-organizations-are-using-ai": {
-    "title": "How news organizations are using AI to advance their vital missions",
-    "sent_at": "2026-07-23T02:32:19.729798+00:00"
   }
 }
