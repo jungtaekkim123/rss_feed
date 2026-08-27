@@ -1,4 +1,56 @@
 {
+  "https://huggingface.co/blog/train-multi-vector-encoder": {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "sent_at": "2026-08-27T07:16:55.307632+00:00"
+  },
+  "https://blogs.nvidia.com/?p=97957": {
+    "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+    "sent_at": "2026-08-27T07:16:54.308139+00:00"
+  },
+  "https://openai.com/index/loveholidays": {
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "sent_at": "2026-08-27T07:16:52.894703+00:00"
+  },
+  "https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
+    "title": "The Hugging Face incident and the road ahead",
+    "sent_at": "2026-08-27T07:16:52.346317+00:00"
+  },
+  "https://openai.com/index/learning-never-stops": {
+    "title": "Learning never stops: How AI makes learning continuous",
+    "sent_at": "2026-08-27T07:16:51.859224+00:00"
+  },
+  "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "sent_at": "2026-08-27T07:16:51.366669+00:00"
+  },
+  "https://goddaehee.tistory.com/634": {
+    "title": "Grok Bot이란? - Grok Bot 설치 및 사용 방법(플랜, 일반 Grok과 다른 점, 가격, 활용 사례)",
+    "sent_at": "2026-08-27T07:16:46.643393+00:00"
+  },
+  "https://github.blog/?p=98460": {
+    "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+    "sent_at": "2026-08-27T07:16:40.023073+00:00"
+  },
+  "https://techcrunch.com/?p=3157364": {
+    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+    "sent_at": "2026-08-27T07:16:39.250595+00:00"
+  },
+  "https://techcrunch.com/?p=3157338": {
+    "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
+    "sent_at": "2026-08-27T07:16:38.765803+00:00"
+  },
+  "https://techcrunch.com/?p=3157431": {
+    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+    "sent_at": "2026-08-27T07:16:38.252634+00:00"
+  },
+  "https://techcrunch.com/?p=3157433": {
+    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+    "sent_at": "2026-08-27T07:16:37.758858+00:00"
+  },
+  "https://techcrunch.com/?p=3157522": {
+    "title": "Nvidia closes in on Hugging Face acquisition",
+    "sent_at": "2026-08-27T07:16:37.207116+00:00"
+  },
   "https://www.threads.com/t/DcciE8_AT9a": {
     "title": "@feelfree_ai: 이제 메모리 용량이 부족해서 대형 LLM을 못 돌린다는 건 옛말이 ᄃ...",
     "sent_at": "2026-08-26T01:09:16.883341+00:00"
@@ -1946,57 +1998,5 @@
   "https://techcrunch.com/?p=3146737": {
     "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
     "sent_at": "2026-07-26T02:33:56.860594+00:00"
-  },
-  "https://techcrunch.com/?p=3146740": {
-    "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
-    "sent_at": "2026-07-26T02:33:56.384708+00:00"
-  },
-  "https://techcrunch.com/?p=3143811": {
-    "title": "The hacker who humiliated spyware makers and was never caught",
-    "sent_at": "2026-07-26T02:33:55.951927+00:00"
-  },
-  "https://techcrunch.com/?p=3146746": {
-    "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-    "sent_at": "2026-07-26T02:33:55.429042+00:00"
-  },
-  "https://www.threads.com/t/DbLF60agTed": {
-    "title": "@feelfree_ai: VRAM 부담 때문에 대형 이미지 모델 못 돌리셨던 분들한테 반가운 ...",
-    "sent_at": "2026-07-25T02:27:32.906958+00:00"
-  },
-  "https://www.threads.com/t/DbMQ2ZEiupw": {
-    "title": "@feelfree_ai: 기존 HuggingFace나 tiktoken 토크나이저보다 무려 980배나 빠른 토크나이저가 등장ᄒ...",
-    "sent_at": "2026-07-25T02:27:32.521644+00:00"
-  },
-  "https://www.threads.com/t/DbMsUNDgep7": {
-    "title": "@feelfree_ai: 이번에 공유드릴 내용은 Harness Handbook 논문인데, 정적 분석과 LLM을 ᄀ...",
-    "sent_at": "2026-07-25T02:27:32.113840+00:00"
-  },
-  "01KYAFZ0EEBE4R099P8HT79D5X": {
-    "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
-    "sent_at": "2026-07-25T02:27:15.788075+00:00"
-  },
-  "https://blogs.nvidia.com/?p=96807": {
-    "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
-    "sent_at": "2026-07-25T02:27:14.177760+00:00"
-  },
-  "https://techcrunch.com/?p=3146498": {
-    "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
-    "sent_at": "2026-07-25T02:27:05.195628+00:00"
-  },
-  "https://techcrunch.com/?p=3146619": {
-    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-    "sent_at": "2026-07-25T02:27:04.814148+00:00"
-  },
-  "https://techcrunch.com/?p=3146675": {
-    "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-    "sent_at": "2026-07-25T02:27:04.443456+00:00"
-  },
-  "https://techcrunch.com/?p=3144285": {
-    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-    "sent_at": "2026-07-25T02:27:04.070164+00:00"
-  },
-  "https://www.threads.com/t/DbJAN7xATsi": {
-    "title": "@feelfree_ai: OpenAI 담당자가 Codex Security 플러그인을 오픈소스로 다시 공개했습니다. ᄋ...",
-    "sent_at": "2026-07-24T02:29:07.213818+00:00"
   }
 }
