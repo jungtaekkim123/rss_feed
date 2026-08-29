@@ -1,4 +1,60 @@
 {
+  "https://www.threads.com/t/DckdEy_ij0F": {
+    "title": "@feelfree_ai: 직접 에이전트 하네스를 짜느라 고생하고 계셨다면, 이제 하네스 자체...",
+    "sent_at": "2026-08-29T05:37:24.460724+00:00"
+  },
+  "https://www.threads.com/t/DclQ9Q9AQOQ": {
+    "title": "@feelfree_ai: AI 코딩 에이전트 쓰다가 세션 압축(Compaction) 터져서 작업 맥락 한순ᄀ...",
+    "sent_at": "2026-08-29T05:37:24.004704+00:00"
+  },
+  "https://www.threads.com/t/DclrR1ggat0": {
+    "title": "@feelfree_ai: 작은 AI 모델도 경험을 위키(Wiki) 형태로 축적해 스킬을 진화시키며...",
+    "sent_at": "2026-08-29T05:37:23.539163+00:00"
+  },
+  "https://www.threads.com/t/DcnCSn0ge1o": {
+    "title": "@feelfree_ai: 보이스 에이전트에 메모리를 붙일 때 반응 속도가 늘어져 고민이었...",
+    "sent_at": "2026-08-29T05:37:23.085827+00:00"
+  },
+  "https://d2.naver.com/helloworld/4821538": {
+    "title": "[AI 해커톤 후기] AI 해커톤 1위 팀이 AI에게 맡기지 않은 것",
+    "sent_at": "2026-08-29T05:37:07.969650+00:00"
+  },
+  "01M0GDENDTZTAJ4BWXRH29NYBZ": {
+    "title": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
+    "sent_at": "2026-08-29T05:37:05.243380+00:00"
+  },
+  "https://medium.com/p/32f96320785e": {
+    "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
+    "sent_at": "2026-08-29T05:37:04.193287+00:00"
+  },
+  "https://huggingface.co/blog/open-asr-leaderboard-global-south": {
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "sent_at": "2026-08-29T05:37:03.240777+00:00"
+  },
+  "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": {
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "sent_at": "2026-08-29T05:37:01.465217+00:00"
+  },
+  "https://techcrunch.com/?p=3158484": {
+    "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+    "sent_at": "2026-08-29T05:36:54.062200+00:00"
+  },
+  "https://techcrunch.com/?p=3158505": {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "sent_at": "2026-08-29T05:36:53.615067+00:00"
+  },
+  "https://techcrunch.com/?p=3158531": {
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "sent_at": "2026-08-29T05:36:53.157275+00:00"
+  },
+  "https://techcrunch.com/?p=3158066": {
+    "title": "Is the best way to watch a movie on a pair of sunglasses?",
+    "sent_at": "2026-08-29T05:36:52.708984+00:00"
+  },
+  "https://techcrunch.com/?p=3157765": {
+    "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+    "sent_at": "2026-08-29T05:36:52.271869+00:00"
+  },
   "https://toss.tech/article/qa_hotfix": {
     "title": "1%가 겪은 버그 고쳐야할까요?",
     "sent_at": "2026-08-28T09:30:50.759757+00:00"
@@ -1942,61 +1998,5 @@
   "77c18d2b47b8dea484a97205ea56792640d7b37a": {
     "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
     "sent_at": "2026-07-28T02:22:09.103278+00:00"
-  },
-  "01KYGZXPC2FQ4NSXSKXXYY86FZ": {
-    "title": "We’re open-sourcing our privacy proxy CLI",
-    "sent_at": "2026-07-28T02:22:08.355161+00:00"
-  },
-  "https://engineering.atspotify.com/?p=1XeG8OFPaFVQT83ShkXhoz": {
-    "title": "Better Experiments with LLM Evals — A funnel, not a fork",
-    "sent_at": "2026-07-28T02:22:07.648646+00:00"
-  },
-  "https://engineering.atspotify.com/?p=2BHiaulFaaun4MVkEBakNn": {
-    "title": "Indexing the Data Lake for Online Point Queries",
-    "sent_at": "2026-07-28T02:22:07.269863+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/cosmos-h-dreams": {
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "sent_at": "2026-07-28T02:22:05.093606+00:00"
-  },
-  "https://blogs.nvidia.com/?p=96884": {
-    "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-    "sent_at": "2026-07-28T02:22:04.269911+00:00"
-  },
-  "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work": {
-    "title": "How AI is expanding what people do at work",
-    "sent_at": "2026-07-28T02:22:02.930155+00:00"
-  },
-  "https://goddaehee.tistory.com/627": {
-    "title": "Claude Opus 5 리뷰 - 스펙&middot;가격&middot;Fast mode&middot;실사용 사례 등(출시 후 커뮤니티 반응 정리)",
-    "sent_at": "2026-07-28T02:22:01.651458+00:00"
-  },
-  "https://github.blog/?p=97758": {
-    "title": "GitHub Copilot app for Beginners: Getting started",
-    "sent_at": "2026-07-28T02:21:54.193254+00:00"
-  },
-  "https://github.blog/?p=97740": {
-    "title": "The harness is all you need (mostly)",
-    "sent_at": "2026-07-28T02:21:53.819832+00:00"
-  },
-  "https://techcrunch.com/?p=3147064": {
-    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-    "sent_at": "2026-07-28T02:21:52.127886+00:00"
-  },
-  "https://techcrunch.com/?p=3147146": {
-    "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
-    "sent_at": "2026-07-28T02:21:51.725536+00:00"
-  },
-  "https://techcrunch.com/?p=3147128": {
-    "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
-    "sent_at": "2026-07-28T02:21:51.351480+00:00"
-  },
-  "https://techcrunch.com/?p=3147049": {
-    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-    "sent_at": "2026-07-28T02:21:50.978438+00:00"
-  },
-  "https://techcrunch.com/?p=3147197": {
-    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-    "sent_at": "2026-07-28T02:21:50.583009+00:00"
   }
 }
