@@ -1,4 +1,36 @@
 {
+  "https://www.threads.com/t/DcnrFuhCRhd": {
+    "title": "@feelfree_ai: 앤드류 응의 따끈따끈한 최신 글이 올라왔습니다. AI가 코드를 알...",
+    "sent_at": "2026-08-30T03:37:07.648926+00:00"
+  },
+  "https://www.threads.com/t/DcpVczPgVJl": {
+    "title": "@feelfree_ai: 소비자용 그래픽카드인 RTX 5090으로 2B 규모의 LLM을 바닥부터 사전학습시...",
+    "sent_at": "2026-08-30T03:37:07.237285+00:00"
+  },
+  "https://engineering.atspotify.com/?p=2BHiaulFaaun4MVkEBakNn": {
+    "title": "Indexing the Data Lake for Online Point Queries",
+    "sent_at": "2026-08-30T03:36:50.873095+00:00"
+  },
+  "https://techcrunch.com/?p=3158456": {
+    "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+    "sent_at": "2026-08-30T03:36:41.000014+00:00"
+  },
+  "https://techcrunch.com/?p=3157660": {
+    "title": "Hollywood celebs are getting into microdrama apps",
+    "sent_at": "2026-08-30T03:36:40.597498+00:00"
+  },
+  "https://techcrunch.com/?p=3156771": {
+    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "sent_at": "2026-08-30T03:36:40.186856+00:00"
+  },
+  "https://techcrunch.com/?p=3158394": {
+    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+    "sent_at": "2026-08-30T03:36:39.758499+00:00"
+  },
+  "https://techcrunch.com/?p=3158639": {
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "sent_at": "2026-08-30T03:36:39.361576+00:00"
+  },
   "https://www.threads.com/t/DckdEy_ij0F": {
     "title": "@feelfree_ai: 직접 에이전트 하네스를 짜느라 고생하고 계셨다면, 이제 하네스 자체...",
     "sent_at": "2026-08-29T05:37:24.460724+00:00"
@@ -1966,37 +1998,5 @@
   "https://techcrunch.com/?p=3147554": {
     "title": "Sam Altman is ready to decelerate",
     "sent_at": "2026-07-29T02:25:55.063465+00:00"
-  },
-  "https://techcrunch.com/?p=3147500": {
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "sent_at": "2026-07-29T02:25:54.585585+00:00"
-  },
-  "https://techcrunch.com/?p=3147594": {
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "sent_at": "2026-07-29T02:25:54.140231+00:00"
-  },
-  "https://techcrunch.com/?p=3147673": {
-    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "sent_at": "2026-07-29T02:25:53.679770+00:00"
-  },
-  "https://www.threads.com/t/DbSZza7gR2Y": {
-    "title": "@feelfree_ai: 삼성전자 전 임직원한테 ChatGPT 엔터프라이즈랑 Codex를 도입한다느...",
-    "sent_at": "2026-07-28T02:22:27.626605+00:00"
-  },
-  "https://www.threads.com/t/DbS6lC_kxSu": {
-    "title": "@feelfree_ai: 클로드에 매번 긴 프롬프트 치는 게 귀찮아서 찾아보다가 진짜 쓸마...",
-    "sent_at": "2026-07-28T02:22:27.250271+00:00"
-  },
-  "https://www.threads.com/t/DbTIUbiDUgp": {
-    "title": "@feelfree_ai: LLM끼리 대화할 땐 굳이 사람이 읽기 편한 완벽한 문장을 쓸 필...",
-    "sent_at": "2026-07-28T02:22:26.836079+00:00"
-  },
-  "https://www.threads.com/t/DbUcM7TAWuT": {
-    "title": "@feelfree_ai: 3B짜리 가벼운 모델이 12B 모델의 에이전트 성능을 압도하는 연구가 ᄂ...",
-    "sent_at": "2026-07-28T02:22:26.440802+00:00"
-  },
-  "77c18d2b47b8dea484a97205ea56792640d7b37a": {
-    "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
-    "sent_at": "2026-07-28T02:22:09.103278+00:00"
   }
 }
