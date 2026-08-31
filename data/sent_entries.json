@@ -1,4 +1,44 @@
 {
+  "https://www.threads.com/t/DcqJDTGifZS": {
+    "title": "@feelfree_ai: MCP 서버 다룰 때 에이전트 평가(Eval) 세트 새로 만드는 게 제일 귀찮았느...",
+    "sent_at": "2026-08-31T03:36:39.183123+00:00"
+  },
+  "https://www.threads.com/t/DcrclmtkzIu": {
+    "title": "@feelfree_ai: 우리가 흔히 쓰던 표준 SFT 방식이 오히려 강화학습(RL)의 탐색 범위ᄅ...",
+    "sent_at": "2026-08-31T03:36:38.793961+00:00"
+  },
+  "https://www.threads.com/t/DcsDbk8AaYs": {
+    "title": "@feelfree_ai: 여러 AI 에이전트를 동시에 돌릴 때 서로의 코드를 덮어씌우며 작업ᄋ...",
+    "sent_at": "2026-08-31T03:36:38.393006+00:00"
+  },
+  "https://goddaehee.tistory.com/636": {
+    "title": "karpathy-guidelines란? 네 가지 원칙과 활용방법 정리(AI 코딩 에이전트가 과하게 수정할 때 써볼 스킬)",
+    "sent_at": "2026-08-31T03:36:18.606055+00:00"
+  },
+  "https://goddaehee.tistory.com/637": {
+    "title": "Caveman Skill 사용법: 답변 압축, 토큰 절감 검증, 설치 가이드와 커뮤니티 평가(정말 토큰을 줄일까? -  짧은 답변의 장점과 숨은 비용)",
+    "sent_at": "2026-08-31T03:36:18.222449+00:00"
+  },
+  "https://techcrunch.com/?p=3158566": {
+    "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+    "sent_at": "2026-08-31T03:36:09.776628+00:00"
+  },
+  "https://techcrunch.com/?p=3158648": {
+    "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+    "sent_at": "2026-08-31T03:36:09.358798+00:00"
+  },
+  "https://techcrunch.com/?p=3158554": {
+    "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+    "sent_at": "2026-08-31T03:36:08.969155+00:00"
+  },
+  "https://techcrunch.com/?p=3158659": {
+    "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+    "sent_at": "2026-08-31T03:36:08.573368+00:00"
+  },
+  "https://techcrunch.com/?p=3157348": {
+    "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+    "sent_at": "2026-08-31T03:36:08.179228+00:00"
+  },
   "https://www.threads.com/t/DcnrFuhCRhd": {
     "title": "@feelfree_ai: 앤드류 응의 따끈따끈한 최신 글이 올라왔습니다. AI가 코드를 알...",
     "sent_at": "2026-08-30T03:37:07.648926+00:00"
@@ -1958,45 +1998,5 @@
   "https://huggingface.co/blog/agent-intrusion-technical-timeline": {
     "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
     "sent_at": "2026-07-29T02:26:12.295786+00:00"
-  },
-  "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders": {
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "sent_at": "2026-07-29T02:26:11.817670+00:00"
-  },
-  "https://huggingface.co/blog/allenai/olmoearth-infrastructure": {
-    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "sent_at": "2026-07-29T02:26:11.375053+00:00"
-  },
-  "https://blogs.nvidia.com/?p=96921": {
-    "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
-    "sent_at": "2026-07-29T02:26:08.354233+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/": {
-    "title": "5 ways to host the ultimate dinner party with Google Search",
-    "sent_at": "2026-07-29T02:26:07.025264+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/": {
-    "title": "5 ways AI Mode in Search helps you enjoy the real world",
-    "sent_at": "2026-07-29T02:26:06.575820+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/": {
-    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "sent_at": "2026-07-29T02:26:06.135452+00:00"
-  },
-  "https://openai.com/index/scientific-computing-agentic-ai": {
-    "title": "Scientific computing in the age of agentic AI",
-    "sent_at": "2026-07-29T02:26:03.104012+00:00"
-  },
-  "https://github.blog/?p=97755": {
-    "title": "Disrupting supply chain attacks on npm and GitHub Actions",
-    "sent_at": "2026-07-29T02:25:56.263397+00:00"
-  },
-  "https://techcrunch.com/?p=3147414": {
-    "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
-    "sent_at": "2026-07-29T02:25:55.539398+00:00"
-  },
-  "https://techcrunch.com/?p=3147554": {
-    "title": "Sam Altman is ready to decelerate",
-    "sent_at": "2026-07-29T02:25:55.063465+00:00"
   }
 }
