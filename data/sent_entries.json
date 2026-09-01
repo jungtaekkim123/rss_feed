@@ -1,4 +1,52 @@
 {
+  "https://www.threads.com/t/DcsvWITAYUa": {
+    "title": "@feelfree_ai: 기존 RAG처럼 매번 청크를 새로 검색하는 대신, 문서를 위키 형태ᄅ...",
+    "sent_at": "2026-09-01T03:33:26.549872+00:00"
+  },
+  "3418fcf622154fda93d6ae0475d0ab9d6ec4180f": {
+    "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
+    "sent_at": "2026-09-01T03:33:11.564421+00:00"
+  },
+  "691506bc5e95268a961b15cf0a07d63a6837a457": {
+    "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
+    "sent_at": "2026-09-01T03:33:11.035305+00:00"
+  },
+  "01M15GV7R8AFPM9KDM9HXDKJZ4": {
+    "title": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
+    "sent_at": "2026-09-01T03:33:09.052655+00:00"
+  },
+  "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": {
+    "title": "A milestone in expanding access to AI",
+    "sent_at": "2026-09-01T03:33:05.395563+00:00"
+  },
+  "https://openai.com/index/polimill": {
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "sent_at": "2026-09-01T03:33:04.835808+00:00"
+  },
+  "https://goddaehee.tistory.com/638": {
+    "title": "Claude Academy 시작하기 : 무료 강의 목록과 추천 학습 순서(클로드 무료 강의 - 어디까지 진짜 무료일까?)",
+    "sent_at": "2026-09-01T03:33:02.322896+00:00"
+  },
+  "https://techcrunch.com/?p=3159355": {
+    "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+    "sent_at": "2026-09-01T03:32:55.961096+00:00"
+  },
+  "https://techcrunch.com/?p=3159453": {
+    "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+    "sent_at": "2026-09-01T03:32:55.422459+00:00"
+  },
+  "https://techcrunch.com/?p=3159466": {
+    "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+    "sent_at": "2026-09-01T03:32:54.863379+00:00"
+  },
+  "https://techcrunch.com/?p=3159449": {
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "sent_at": "2026-09-01T03:32:54.324294+00:00"
+  },
+  "https://techcrunch.com/?p=3158726": {
+    "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+    "sent_at": "2026-09-01T03:32:53.767146+00:00"
+  },
   "https://www.threads.com/t/DcqJDTGifZS": {
     "title": "@feelfree_ai: MCP 서버 다룰 때 에이전트 평가(Eval) 세트 새로 만드는 게 제일 귀찮았느...",
     "sent_at": "2026-08-31T03:36:39.183123+00:00"
@@ -1950,53 +1998,5 @@
   "https://techcrunch.com/?p=3148020": {
     "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
     "sent_at": "2026-07-30T02:08:18.366058+00:00"
-  },
-  "https://techcrunch.com/?p=3148002": {
-    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-    "sent_at": "2026-07-30T02:08:17.882176+00:00"
-  },
-  "https://techcrunch.com/?p=3148017": {
-    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "sent_at": "2026-07-30T02:08:17.395991+00:00"
-  },
-  "https://techcrunch.com/?p=3148055": {
-    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "sent_at": "2026-07-30T02:08:16.910676+00:00"
-  },
-  "https://www.threads.com/t/DbVAuc1AU60": {
-    "title": "@feelfree_ai: Anthropic이 오픈 가중치(Open-weights) 모델에 대한 공식 입장을 발표하면서...",
-    "sent_at": "2026-07-29T02:26:35.734368+00:00"
-  },
-  "https://www.threads.com/t/DbVz8ZkDd-M": {
-    "title": "@feelfree_ai: \"벡터 DB는 끝났다\"던 예측과 달리 market은 오히려 폭발적으로 성장...",
-    "sent_at": "2026-07-29T02:26:35.258166+00:00"
-  },
-  "https://www.threads.com/t/DbW34SYgdpr": {
-    "title": "@feelfree_ai: 거대 모델의 추론 과정을 작은 모델에 무작정 베껴 쓰게 하면, 문ᄌ...",
-    "sent_at": "2026-07-29T02:26:34.748335+00:00"
-  },
-  "https://toss.tech/article/technical-writing-5": {
-    "title": "5. Technical Writer, 사라질 결심",
-    "sent_at": "2026-07-29T02:26:23.413504+00:00"
-  },
-  "https://toss.tech/article/technical-writing-6": {
-    "title": "6. 도구를 넘어, 기준과 책임으로",
-    "sent_at": "2026-07-29T02:26:22.958267+00:00"
-  },
-  "01KYJZQZHMFNYN2EGYDF73J99A": {
-    "title": "Natural disasters and government interference: examining Q2 2026’s major Internet disruption events",
-    "sent_at": "2026-07-29T02:26:16.483742+00:00"
-  },
-  "https://medium.com/p/87860682629c": {
-    "title": "How Netflix Simplified Batch Compute with Kueue",
-    "sent_at": "2026-07-29T02:26:14.714667+00:00"
-  },
-  "https://medium.com/p/eb8160ed60a2": {
-    "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
-    "sent_at": "2026-07-29T02:26:14.264968+00:00"
-  },
-  "https://huggingface.co/blog/agent-intrusion-technical-timeline": {
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "sent_at": "2026-07-29T02:26:12.295786+00:00"
   }
 }
