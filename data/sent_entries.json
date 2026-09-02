@@ -1,4 +1,88 @@
 {
+  "https://www.threads.com/t/DcuvsoMgV3a": {
+    "title": "@feelfree_ai: 4일 전에 올렸던 건데 이건 진짜 중요해서 한번 더 가져왔습니다...",
+    "sent_at": "2026-09-02T02:51:43.328113+00:00"
+  },
+  "https://www.threads.com/t/DcvNeD3gV9s": {
+    "title": "@feelfree_ai: AI 에이전트가 오랫동안 작동할수록 느려지고 성능이 떨어지는 ᄋ...",
+    "sent_at": "2026-09-02T02:51:42.791924+00:00"
+  },
+  "https://www.threads.com/t/DcvhfaBAbs7": {
+    "title": "@feelfree_ai: 스마트폰에서 MoE 모델을 3GB 미만 메모리로 가볍게 돌리는 시대가 드디ᄋ...",
+    "sent_at": "2026-09-02T02:51:42.233695+00:00"
+  },
+  "https://d2.naver.com/helloworld/4452165": {
+    "title": "Python의 멀티프로세싱과 Airflow, 그리고 관련된 문제 해결기 1편",
+    "sent_at": "2026-09-02T02:51:27.160460+00:00"
+  },
+  "01M1DAE3EH5FEG7RQMQD63A731": {
+    "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+    "sent_at": "2026-09-02T02:51:24.231456+00:00"
+  },
+  "https://huggingface.co/blog/webgpu-kernels": {
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "sent_at": "2026-09-02T02:51:22.379768+00:00"
+  },
+  "https://huggingface.co/blog/allenai/benchmirt": {
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "sent_at": "2026-09-02T02:51:21.851302+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98014": {
+    "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+    "sent_at": "2026-09-02T02:51:19.789837+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/workspace/google-pics/": {
+    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+    "sent_at": "2026-09-02T02:51:18.649536+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/": {
+    "title": "The latest AI news we announced in August 2026",
+    "sent_at": "2026-09-02T02:51:18.124152+00:00"
+  },
+  "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "sent_at": "2026-09-02T02:51:16.115672+00:00"
+  },
+  "https://openai.com/index/gilbert-tobin": {
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "sent_at": "2026-09-02T02:51:15.580005+00:00"
+  },
+  "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": {
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "sent_at": "2026-09-02T02:51:15.043243+00:00"
+  },
+  "https://openai.com/index/path-to-astra": {
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "sent_at": "2026-09-02T02:51:14.517493+00:00"
+  },
+  "https://openai.com/index/ai-native-company-workflows": {
+    "title": "How AI-native companies turn workflows into operating capability",
+    "sent_at": "2026-09-02T02:51:13.983048+00:00"
+  },
+  "https://goddaehee.tistory.com/639": {
+    "title": "UI/UX Pro Max 사용법 - skills 설치부터 구조&middot;사용법&middot;커뮤니티 반응 정리(UI/UX Pro Max 보안&middot;설치&middot;사용법)",
+    "sent_at": "2026-09-02T02:51:07.460385+00:00"
+  },
+  "https://techcrunch.com/?p=3159895": {
+    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+    "sent_at": "2026-09-02T02:51:00.315995+00:00"
+  },
+  "https://techcrunch.com/?p=3159934": {
+    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "sent_at": "2026-09-02T02:50:59.787401+00:00"
+  },
+  "https://techcrunch.com/?p=3159931": {
+    "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+    "sent_at": "2026-09-02T02:50:59.188701+00:00"
+  },
+  "https://techcrunch.com/?p=3159531": {
+    "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+    "sent_at": "2026-09-02T02:50:58.652320+00:00"
+  },
+  "https://techcrunch.com/?p=3159987": {
+    "title": "Larry Page’s flying car company Pivotal loses its CEO",
+    "sent_at": "2026-09-02T02:50:58.115414+00:00"
+  },
   "https://www.threads.com/t/DcsvWITAYUa": {
     "title": "@feelfree_ai: 기존 RAG처럼 매번 청크를 새로 검색하는 대신, 문서를 위키 형태ᄅ...",
     "sent_at": "2026-09-01T03:33:26.549872+00:00"
@@ -1914,89 +1998,5 @@
   "https://huggingface.co/blog/Dharma-AI/gpu-management": {
     "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
     "sent_at": "2026-07-31T02:36:17.083927+00:00"
-  },
-  "https://blogs.nvidia.com/?p=96983": {
-    "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
-    "sent_at": "2026-07-31T02:36:16.133829+00:00"
-  },
-  "https://openai.com/index/avatarin": {
-    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "sent_at": "2026-07-31T02:36:14.547531+00:00"
-  },
-  "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": {
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "sent_at": "2026-07-31T02:36:14.061766+00:00"
-  },
-  "https://github.blog/?p=97813": {
-    "title": "Stacked sessions and pull requests in the GitHub Copilot app",
-    "sent_at": "2026-07-31T02:36:05.663978+00:00"
-  },
-  "https://techcrunch.com/?p=3148562": {
-    "title": "Investors love AI, as long as you’re a cloud host",
-    "sent_at": "2026-07-31T02:36:04.939353+00:00"
-  },
-  "https://techcrunch.com/?p=3148540": {
-    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-    "sent_at": "2026-07-31T02:36:04.443058+00:00"
-  },
-  "https://techcrunch.com/?p=3148482": {
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "sent_at": "2026-07-31T02:36:03.953328+00:00"
-  },
-  "https://techcrunch.com/?p=3148575": {
-    "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
-    "sent_at": "2026-07-31T02:36:03.464695+00:00"
-  },
-  "https://techcrunch.com/?p=3148621": {
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "sent_at": "2026-07-31T02:36:02.975903+00:00"
-  },
-  "https://www.threads.com/t/DbXJqTUAbGW": {
-    "title": "@feelfree_ai: 마이크로소프트가 실시간 구동 없이 AI 에이전트 학습 비용을 확 나...",
-    "sent_at": "2026-07-30T02:08:50.054874+00:00"
-  },
-  "https://www.threads.com/t/DbXwRFBgWn2": {
-    "title": "@feelfree_ai: 파이썬으로 1억 개의 데이터를 단 0.08초 만에 시각화하는 압도적인 ᄑ...",
-    "sent_at": "2026-07-30T02:08:49.535090+00:00"
-  },
-  "https://www.threads.com/t/DbZcULmAbmH": {
-    "title": "@feelfree_ai: 단돈 8달러짜리 마이크로컨트롤러(ESP32)에서 오프라인으로 2,890만 파라미...",
-    "sent_at": "2026-07-30T02:08:49.038982+00:00"
-  },
-  "https://toss.tech/article/50761": {
-    "title": "es-toolkit, 사내 작은 라이브러리가 전세계적인 라이브러리가 되기까지",
-    "sent_at": "2026-07-30T02:08:38.039135+00:00"
-  },
-  "01KYMH71B35NXQ00E0M2D0WMQV": {
-    "title": "Post-quantum authentication to origins is now supported",
-    "sent_at": "2026-07-30T02:08:33.243643+00:00"
-  },
-  "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency": {
-    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "sent_at": "2026-07-30T02:08:30.316551+00:00"
-  },
-  "https://openai.com/index/chatgpt-for-academic-researchers": {
-    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "sent_at": "2026-07-30T02:08:29.836863+00:00"
-  },
-  "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores": {
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "sent_at": "2026-07-30T02:08:29.348460+00:00"
-  },
-  "https://goddaehee.tistory.com/628": {
-    "title": "그래프 엔지니어링 팩트체크 - Loop Engineering은 끝났나? : 루프 vs 그래프, LangGraph, Anthropic 패턴, 가짜 수치 걸러내기",
-    "sent_at": "2026-07-30T02:08:25.772707+00:00"
-  },
-  "https://github.blog/?p=97770": {
-    "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
-    "sent_at": "2026-07-30T02:08:19.545623+00:00"
-  },
-  "https://techcrunch.com/?p=3147648": {
-    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-    "sent_at": "2026-07-30T02:08:18.847895+00:00"
-  },
-  "https://techcrunch.com/?p=3148020": {
-    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-    "sent_at": "2026-07-30T02:08:18.366058+00:00"
   }
 }
