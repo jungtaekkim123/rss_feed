@@ -1,4 +1,64 @@
 {
+  "https://www.threads.com/t/DcxRnGugUB8": {
+    "title": "@feelfree_ai: AI 에이전트에게 365일간 온라인 쇼핑몰 운영을 맡겨봤더니, 수익...",
+    "sent_at": "2026-09-03T02:55:30.056587+00:00"
+  },
+  "https://www.threads.com/t/DcyIf08AeWK": {
+    "title": "@feelfree_ai: 프로덕션 환경에서 AI 에이전트를 구축할 때 프롬프트 단건만 압...",
+    "sent_at": "2026-09-03T02:55:29.561882+00:00"
+  },
+  "https://www.threads.com/t/DczcgtaAYVD": {
+    "title": "@feelfree_ai: 인간 개입 없이 며칠 동안 스스로 코드를 짜고 테스트하며 FPS 게임까...",
+    "sent_at": "2026-09-03T02:55:29.068230+00:00"
+  },
+  "https://d2.naver.com/news/3092933": {
+    "title": "[네이버피셜] 네이버 개발자라면 꼭 만나게 됩니다",
+    "sent_at": "2026-09-03T02:55:14.855466+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/real-time-intelligence": {
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "sent_at": "2026-09-03T02:55:10.430644+00:00"
+  },
+  "https://engineering.fb.com/?p=24419": {
+    "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
+    "sent_at": "2026-09-03T02:55:09.166634+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/": {
+    "title": "Proactive cyber defense for governments and enterprises",
+    "sent_at": "2026-09-03T02:55:08.284519+00:00"
+  },
+  "https://openai.com/index/atv-big-air-tour": {
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "sent_at": "2026-09-03T02:55:07.282886+00:00"
+  },
+  "https://github.blog/?p=98586": {
+    "title": "How we make AI coding more cost efficient without sacrificing task quality",
+    "sent_at": "2026-09-03T02:54:59.842306+00:00"
+  },
+  "https://github.blog/?p=98631": {
+    "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+    "sent_at": "2026-09-03T02:54:59.352534+00:00"
+  },
+  "https://techcrunch.com/?p=3160225": {
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "sent_at": "2026-09-03T02:54:57.546195+00:00"
+  },
+  "https://techcrunch.com/?p=3160198": {
+    "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+    "sent_at": "2026-09-03T02:54:57.060748+00:00"
+  },
+  "https://techcrunch.com/?p=3149903": {
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "sent_at": "2026-09-03T02:54:56.556247+00:00"
+  },
+  "https://techcrunch.com/?p=3160290": {
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "sent_at": "2026-09-03T02:54:56.070862+00:00"
+  },
+  "https://techcrunch.com/?p=3137969": {
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "sent_at": "2026-09-03T02:54:55.580964+00:00"
+  },
   "https://www.threads.com/t/DcuvsoMgV3a": {
     "title": "@feelfree_ai: 4일 전에 올렸던 건데 이건 진짜 중요해서 한번 더 가져왔습니다...",
     "sent_at": "2026-09-02T02:51:43.328113+00:00"
@@ -1938,65 +1998,5 @@
   "https://openai.com/index/unive": {
     "title": "Univé builds an AI-ready workforce",
     "sent_at": "2026-08-01T02:34:41.244095+00:00"
-  },
-  "https://openai.com/index/building-abundant-intelligence": {
-    "title": "Building abundant intelligence",
-    "sent_at": "2026-08-01T02:34:40.788629+00:00"
-  },
-  "https://openai.com/index/advancing-responsible-ai-across-europe": {
-    "title": "Advancing responsible AI across Europe",
-    "sent_at": "2026-08-01T02:34:40.298180+00:00"
-  },
-  "https://github.blog/?p=97648": {
-    "title": "Don’t stop early: Case-folding source code at memory speed",
-    "sent_at": "2026-08-01T02:34:29.194172+00:00"
-  },
-  "https://techcrunch.com/?p=3148844": {
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "sent_at": "2026-08-01T02:34:28.366250+00:00"
-  },
-  "https://techcrunch.com/?p=3148857": {
-    "title": "India is starting to pay for apps, not just download them",
-    "sent_at": "2026-08-01T02:34:27.866306+00:00"
-  },
-  "https://techcrunch.com/?p=3145635": {
-    "title": "Silicon Valley loves young founders. Until it doesn’t.",
-    "sent_at": "2026-08-01T02:34:27.320921+00:00"
-  },
-  "https://techcrunch.com/?p=3148946": {
-    "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-    "sent_at": "2026-08-01T02:34:26.829714+00:00"
-  },
-  "https://techcrunch.com/?p=3148949": {
-    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "sent_at": "2026-08-01T02:34:26.313583+00:00"
-  },
-  "https://www.threads.com/t/DbZ4CFeAdF4": {
-    "title": "@feelfree_ai: 구글 Gemini Managed Agents와 GitHub Actions를 연동해 PR 코멘트부터 원클릭 코드 수ᄌ...",
-    "sent_at": "2026-07-31T02:36:36.218711+00:00"
-  },
-  "https://www.threads.com/t/Dbb0x9dAV16": {
-    "title": "@feelfree_ai: AI 에이전트에게 회사 규정을 읽혔다고 해서, 그들이 규정대로 안전ᄒ...",
-    "sent_at": "2026-07-31T02:36:35.724520+00:00"
-  },
-  "https://toss.tech/article/device-farm-nebula": {
-    "title": "토스의 디바이스 팜 만들기",
-    "sent_at": "2026-07-31T02:36:25.977185+00:00"
-  },
-  "https://toss.tech/article/llm_context_topic": {
-    "title": "LLM은 똑똑한데, 왜 우리 회사 일은 모를까",
-    "sent_at": "2026-07-31T02:36:25.499412+00:00"
-  },
-  "01KYQNRTVJ54SHCVBMMXFYGJ5P": {
-    "title": "Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform",
-    "sent_at": "2026-07-31T02:36:19.204460+00:00"
-  },
-  "https://medium.com/p/f20be6f643e3": {
-    "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
-    "sent_at": "2026-07-31T02:36:18.049393+00:00"
-  },
-  "https://huggingface.co/blog/Dharma-AI/gpu-management": {
-    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-    "sent_at": "2026-07-31T02:36:17.083927+00:00"
   }
 }
