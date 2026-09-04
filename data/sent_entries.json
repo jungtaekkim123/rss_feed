@@ -1,4 +1,104 @@
 {
+  "https://www.threads.com/t/Dc0dEVDgRY1": {
+    "title": "@feelfree_ai: AI 모델이나 서버가 바뀌어도 내 에이전트의 기억과 정체성을 그대로 유...",
+    "sent_at": "2026-09-04T02:54:55.958336+00:00"
+  },
+  "https://www.threads.com/t/Dc1NPilgX7e": {
+    "title": "@feelfree_ai: 리서치 에이전트의 진짜 성능 한계는 모델 자체보다 깃허브에 흩어ᄌ...",
+    "sent_at": "2026-09-04T02:54:55.464861+00:00"
+  },
+  "https://www.threads.com/t/Dc2WLAogb7-": {
+    "title": "@feelfree_ai: LLM 에이전트가 매번 작은 행동 하나하나까지 다시 판단하느라 토큰ᄋ...",
+    "sent_at": "2026-09-04T02:54:54.972379+00:00"
+  },
+  "https://d2.naver.com/news/7360495": {
+    "title": "FE News 26년 9월 소식을 전해드립니다.",
+    "sent_at": "2026-09-04T02:54:41.155177+00:00"
+  },
+  "01M1JE1CN6W3KJCTMCDZ6Y1M59": {
+    "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+    "sent_at": "2026-09-04T02:54:38.391725+00:00"
+  },
+  "https://engineering.atspotify.com/?p=4Q95CxFeg0bPD9rsoBjQuk": {
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "sent_at": "2026-09-04T02:54:37.630207+00:00"
+  },
+  "https://medium.com/p/f20be6f643e3": {
+    "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+    "sent_at": "2026-09-04T02:54:36.720439+00:00"
+  },
+  "https://huggingface.co/blog/train-to-paint-with-code": {
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "sent_at": "2026-09-04T02:54:35.767192+00:00"
+  },
+  "https://huggingface.co/blog/funes": {
+    "title": "Give Your Coding Agents a Memory You Own",
+    "sent_at": "2026-09-04T02:54:35.275579+00:00"
+  },
+  "https://huggingface.co/blog/grpo-with-trl-ifstruct": {
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "sent_at": "2026-09-04T02:54:34.792764+00:00"
+  },
+  "https://huggingface.co/blog/Hcompany/neomme": {
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "sent_at": "2026-09-04T02:54:34.308979+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98049": {
+    "title": "NVIDIA to Acquire Hugging Face",
+    "sent_at": "2026-09-04T02:54:30.127089+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98028": {
+    "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+    "sent_at": "2026-09-04T02:54:29.639136+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98045": {
+    "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+    "sent_at": "2026-09-04T02:54:29.139723+00:00"
+  },
+  "https://engineering.fb.com/?p=24463": {
+    "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
+    "sent_at": "2026-09-04T02:54:26.142126+00:00"
+  },
+  "https://openai.com/index/safety-overview-gpt-6-astra": {
+    "title": "Safety overview: GPT-6 Astra",
+    "sent_at": "2026-09-04T02:54:24.892898+00:00"
+  },
+  "https://openai.com/index/playco-game-prototyping-with-astra": {
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "sent_at": "2026-09-04T02:54:24.400729+00:00"
+  },
+  "https://openai.com/index/legora-financial-statement-review-with-astra": {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "sent_at": "2026-09-04T02:54:23.910421+00:00"
+  },
+  "https://openai.com/index/daybreak-for-frontline-defenders": {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "sent_at": "2026-09-04T02:54:23.418491+00:00"
+  },
+  "https://github.blog/?p=98638": {
+    "title": "GitHub Copilot app for Beginners: Run several agents at once",
+    "sent_at": "2026-09-04T02:54:12.705672+00:00"
+  },
+  "https://techcrunch.com/?p=3160634": {
+    "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+    "sent_at": "2026-09-04T02:54:11.976247+00:00"
+  },
+  "https://techcrunch.com/?p=3160602": {
+    "title": "Startup ARR is less secure than ever, new research shows",
+    "sent_at": "2026-09-04T02:54:11.494510+00:00"
+  },
+  "https://techcrunch.com/?p=3160662": {
+    "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+    "sent_at": "2026-09-04T02:54:11.010722+00:00"
+  },
+  "https://techcrunch.com/?p=3160717": {
+    "title": "Oura files to go public",
+    "sent_at": "2026-09-04T02:54:10.523941+00:00"
+  },
+  "https://techcrunch.com/?p=3160771": {
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "sent_at": "2026-09-04T02:54:10.018883+00:00"
+  },
   "https://www.threads.com/t/DcxRnGugUB8": {
     "title": "@feelfree_ai: AI 에이전트에게 365일간 온라인 쇼핑몰 운영을 맡겨봤더니, 수익...",
     "sent_at": "2026-09-03T02:55:30.056587+00:00"
@@ -1898,105 +1998,5 @@
   "https://www.threads.com/t/Dbhn3nxDMX8": {
     "title": "@feelfree_ai: 마인크래프트 안에서 내 말을 알아듣고 움직이는 AI 에이전트를 Node...",
     "sent_at": "2026-08-03T02:35:50.703269+00:00"
-  },
-  "https://www.threads.com/t/Dbiemw_AfiQ": {
-    "title": "@feelfree_ai: 한 번 세팅하면 끝이 아니라, 실행 결과를 바탕으로 스스로 스킬으...",
-    "sent_at": "2026-08-03T02:35:50.243470+00:00"
-  },
-  "01KYZDDR9B6VG028YHK8T709TD": {
-    "title": "Welcome to Agents Week",
-    "sent_at": "2026-08-03T02:35:31.665940+00:00"
-  },
-  "https://techcrunch.com/?p=3146922": {
-    "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-    "sent_at": "2026-08-03T02:35:20.625394+00:00"
-  },
-  "https://techcrunch.com/?p=3148962": {
-    "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-    "sent_at": "2026-08-03T02:35:20.248857+00:00"
-  },
-  "https://techcrunch.com/?p=3149041": {
-    "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
-    "sent_at": "2026-08-03T02:35:19.802961+00:00"
-  },
-  "https://techcrunch.com/?p=3149056": {
-    "title": "Sam Altman and AI’s decel debate",
-    "sent_at": "2026-08-03T02:35:19.427700+00:00"
-  },
-  "https://techcrunch.com/?p=3149059": {
-    "title": "The global memory shortage hits the MacBook Air",
-    "sent_at": "2026-08-03T02:35:19.051891+00:00"
-  },
-  "https://www.threads.com/t/DbfTsZLjXyF": {
-    "title": "@feelfree_ai: AWS에서 무려 2.8T 파라미터 크기를 자랑하는 Kimi K3의 공식 배포 가이드를 고...",
-    "sent_at": "2026-08-02T02:33:47.902534+00:00"
-  },
-  "https://www.threads.com/t/DbfwmNRAT8X": {
-    "title": "@feelfree_ai: 단 하나의 파이썬 패키지로 나만의 완벽한(?) '로컬 실시간 음성 AI ᄇ...",
-    "sent_at": "2026-08-02T02:33:47.448392+00:00"
-  },
-  "https://www.threads.com/t/DbgAUCSkpxL": {
-    "title": "@feelfree_ai: 무거운 VLM 없이 순수 C++과 TensorRT만으로 단일 GPU에서 초당 20페이지의 표와 ...",
-    "sent_at": "2026-08-02T02:33:47.064383+00:00"
-  },
-  "https://www.threads.com/t/DbhRtPLAWhx": {
-    "title": "@feelfree_ai: GPT-5.5를 뛰어넘는데 필요한 활성 파라미터는 단 3B면 충분했습니...",
-    "sent_at": "2026-08-02T02:33:46.680963+00:00"
-  },
-  "https://toss.tech/article/50893": {
-    "title": "누군가는 토스를 테스트하는 동안, 우리는 테스트하는 법을 만듭니다.",
-    "sent_at": "2026-08-02T02:33:34.287300+00:00"
-  },
-  "https://openai.com/index/ten-advances-in-mathematics": {
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "sent_at": "2026-08-02T02:33:26.388090+00:00"
-  },
-  "https://techcrunch.com/?p=3149010": {
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "sent_at": "2026-08-02T02:33:17.865727+00:00"
-  },
-  "https://techcrunch.com/?p=3149003": {
-    "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-    "sent_at": "2026-08-02T02:33:17.478855+00:00"
-  },
-  "https://techcrunch.com/?p=3149017": {
-    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "sent_at": "2026-08-02T02:33:17.105473+00:00"
-  },
-  "https://techcrunch.com/?p=3149027": {
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "sent_at": "2026-08-02T02:33:16.699318+00:00"
-  },
-  "https://www.threads.com/t/DbdJopYgVMT": {
-    "title": "@feelfree_ai: LG에서 상업적 이용이 가능한 7,500억 파라미터 규모의 한국형 초대혀...",
-    "sent_at": "2026-08-01T02:35:04.032765+00:00"
-  },
-  "https://www.threads.com/t/DbenDb7DpqW": {
-    "title": "@feelfree_ai: 터미널에서 돌아가는 코딩 에이전트가 굳이 무거울 필요가 없다는 ...",
-    "sent_at": "2026-08-01T02:35:03.552241+00:00"
-  },
-  "https://toss.tech/article/50693": {
-    "title": "es-toolkit: How a Small Internal Library Became a Global Project",
-    "sent_at": "2026-08-01T02:34:52.674500+00:00"
-  },
-  "01KYVQDQC4RNEJ8Q0PMDQV2RGB": {
-    "title": "An API for MoQ: provision your own isolated relays",
-    "sent_at": "2026-08-01T02:34:47.104597+00:00"
-  },
-  "https://medium.com/p/e7607acebde8": {
-    "title": "Modeling Device Capabilities for Analytics",
-    "sent_at": "2026-08-01T02:34:44.752890+00:00"
-  },
-  "https://engineering.fb.com/?p=24095": {
-    "title": "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study",
-    "sent_at": "2026-08-01T02:34:42.921805+00:00"
-  },
-  "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": {
-    "title": "Disrupting a Criminal Scam Operation",
-    "sent_at": "2026-08-01T02:34:41.715114+00:00"
-  },
-  "https://openai.com/index/unive": {
-    "title": "Univé builds an AI-ready workforce",
-    "sent_at": "2026-08-01T02:34:41.244095+00:00"
   }
 }
