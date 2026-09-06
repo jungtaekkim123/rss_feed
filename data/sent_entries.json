@@ -1,4 +1,40 @@
 {
+  "https://www.threads.com/t/Dc5tALngaLN": {
+    "title": "@feelfree_ai: 한번도 본 적 없는 신종 사이버 공격을 AI가 스스로 분석하고 방...",
+    "sent_at": "2026-09-06T02:55:42.184497+00:00"
+  },
+  "https://www.threads.com/t/Dc7e72MgQL1": {
+    "title": "@feelfree_ai: 스마트폰 RAM이 1~2GB만 남아있어도 7B LLM을 초당 15토큰 속도로 돌릴 수 ᄋ...",
+    "sent_at": "2026-09-06T02:55:41.569587+00:00"
+  },
+  "https://openai.com/index/gpt-6-astra": {
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "sent_at": "2026-09-06T02:55:22.258854+00:00"
+  },
+  "https://goddaehee.tistory.com/640": {
+    "title": "Ponytail 사용법(Ponytail 이란?) AI 코딩 에이전트의 과잉 구현(코드 과잉 설계)을 줄이는 룰셋(Claude Code Ponytail 설정)",
+    "sent_at": "2026-09-06T02:55:20.652479+00:00"
+  },
+  "https://techcrunch.com/?p=3160959": {
+    "title": "Oura is going public, but these smart ring companies are coming for its crown",
+    "sent_at": "2026-09-06T02:55:14.366869+00:00"
+  },
+  "https://techcrunch.com/?p=3157241": {
+    "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+    "sent_at": "2026-09-06T02:55:13.722248+00:00"
+  },
+  "https://techcrunch.com/?p=3161042": {
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "sent_at": "2026-09-06T02:55:13.116068+00:00"
+  },
+  "https://techcrunch.com/?p=3161045": {
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "sent_at": "2026-09-06T02:55:11.096449+00:00"
+  },
+  "https://techcrunch.com/?p=3161049": {
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "sent_at": "2026-09-06T02:55:10.463112+00:00"
+  },
   "https://www.threads.com/t/Dc28tokgftd": {
     "title": "@feelfree_ai: Meta가 수십억 명이 쓰는 실제 서비스의 추천 시스템을 모델 파라미터 업데이트 없이 AI 에이전트로 실시간 자동 최적화하는 'CORAL' 프레임워크...",
     "sent_at": "2026-09-05T02:56:41.015121+00:00"
@@ -1962,41 +1998,5 @@
   "https://www.threads.com/t/Dbj7wMYgU-v": {
     "title": "@feelfree_ai: 빈 폴더만 던져줘도 10일 동안 알아서 코딩을 완성하는 2.4조 파라...",
     "sent_at": "2026-08-04T02:18:55.905047+00:00"
-  },
-  "https://www.threads.com/t/Dbk0CgagWwF": {
-    "title": "@feelfree_ai: 구글 딥마인드가 그동안 AI 모델 크기를 줄이는 데 쓰던 프루닝(Prunin...",
-    "sent_at": "2026-08-04T02:18:55.358021+00:00"
-  },
-  "https://www.threads.com/t/DblFSXVAIQZ": {
-    "title": "@feelfree_ai: Y 콤비네이터가 내부에서 알차게 쓰던 멀티 에이전트 시스템 'QM'을 드디...",
-    "sent_at": "2026-08-04T02:18:54.809239+00:00"
-  },
-  "https://www.threads.com/t/DbmbzYkAVZN": {
-    "title": "@feelfree_ai: 단 8GB 램과 CPU만으로 2.7조(2.7T) 파라미터 규모의 모델을 구동하는 놀라우...",
-    "sent_at": "2026-08-04T02:18:54.238868+00:00"
-  },
-  "https://toss.tech/article/ds-mle-cowork": {
-    "title": "DS와 MLE가 함께 일하는 법",
-    "sent_at": "2026-08-04T02:18:40.840543+00:00"
-  },
-  "b0d8b064b69ed668c9ddbe686c1284b90aaefbe3": {
-    "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
-    "sent_at": "2026-08-04T02:18:36.047478+00:00"
-  },
-  "01KYT15YJPSYBNRFS8G400P5P5": {
-    "title": "Workers RPC now works across Python and JavaScript",
-    "sent_at": "2026-08-04T02:18:35.060573+00:00"
-  },
-  "01KZ1PQYERR7GDZ61F4H35QVT1": {
-    "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-    "sent_at": "2026-08-04T02:18:34.524782+00:00"
-  },
-  "01KZ1X08HVW808ZTAF030PTT5X": {
-    "title": "Introducing the Billable Usage API: programmatic cost visibility for Cloudflare",
-    "sent_at": "2026-08-04T02:18:33.970565+00:00"
-  },
-  "01KZ21C4W4K7E7W8E61PNSYFQ1": {
-    "title": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
-    "sent_at": "2026-08-04T02:18:33.427399+00:00"
   }
 }
