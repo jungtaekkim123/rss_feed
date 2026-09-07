@@ -1,4 +1,32 @@
 {
+  "https://openai.com/index/research-acceleration-view-inside-openai": {
+    "title": "Research acceleration: The view inside OpenAI",
+    "sent_at": "2026-09-07T02:52:33.383528+00:00"
+  },
+  "https://openai.com/index/an-alien-mind": {
+    "title": "An Alien Mind",
+    "sent_at": "2026-09-07T02:52:32.904930+00:00"
+  },
+  "https://goddaehee.tistory.com/641": {
+    "title": "GPT-6 Astra 리뷰(GPT-6 Astra 란?) - 무엇이 좋아졌고 무엇이 비싸졌나(벤치마크, 요금제, 접근 제한 살펴 보기)",
+    "sent_at": "2026-09-07T02:52:30.453858+00:00"
+  },
+  "https://techcrunch.com/?p=3160993": {
+    "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+    "sent_at": "2026-09-07T02:52:23.743613+00:00"
+  },
+  "https://techcrunch.com/?p=3161054": {
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "sent_at": "2026-09-07T02:52:23.239342+00:00"
+  },
+  "https://techcrunch.com/?p=3161058": {
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "sent_at": "2026-09-07T02:52:22.745770+00:00"
+  },
+  "https://techcrunch.com/?p=3161062": {
+    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+    "sent_at": "2026-09-07T02:52:22.227922+00:00"
+  },
   "https://www.threads.com/t/Dc5tALngaLN": {
     "title": "@feelfree_ai: 한번도 본 적 없는 신종 사이버 공격을 AI가 스스로 분석하고 방...",
     "sent_at": "2026-09-06T02:55:42.184497+00:00"
@@ -1970,33 +1998,5 @@
   "https://github.blog/?p=97894": {
     "title": "Turn one giant AI-generated pull request to a reviewable stack",
     "sent_at": "2026-08-05T02:14:19.188930+00:00"
-  },
-  "https://github.blog/?p=97698": {
-    "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-    "sent_at": "2026-08-05T02:14:18.481910+00:00"
-  },
-  "https://techcrunch.com/?p=3149811": {
-    "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-    "sent_at": "2026-08-05T02:14:16.422430+00:00"
-  },
-  "https://techcrunch.com/?p=3149877": {
-    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-    "sent_at": "2026-08-05T02:14:15.852222+00:00"
-  },
-  "https://techcrunch.com/?p=3149899": {
-    "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
-    "sent_at": "2026-08-05T02:14:15.283875+00:00"
-  },
-  "https://techcrunch.com/?p=3149894": {
-    "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
-    "sent_at": "2026-08-05T02:14:14.703662+00:00"
-  },
-  "https://techcrunch.com/?p=3149906": {
-    "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
-    "sent_at": "2026-08-05T02:14:14.142709+00:00"
-  },
-  "https://www.threads.com/t/Dbj7wMYgU-v": {
-    "title": "@feelfree_ai: 빈 폴더만 던져줘도 10일 동안 알아서 코딩을 완성하는 2.4조 파라...",
-    "sent_at": "2026-08-04T02:18:55.905047+00:00"
   }
 }
