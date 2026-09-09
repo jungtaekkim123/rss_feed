@@ -1,4 +1,64 @@
 {
+  "https://www.threads.com/t/DdAs2mjk7_X": {
+    "title": "@feelfree_ai: 문서로만 아키텍처 규칙을 강조해봤자 코드 리뷰나 바쁜 일정 속ᄋ...",
+    "sent_at": "2026-09-09T03:03:54.433395+00:00"
+  },
+  "https://www.threads.com/t/DdBtioJk2hM": {
+    "title": "@feelfree_ai: 회원가입이나 복잡한 설정 없이 바로 사용할 수 있는 AI·개발 오...",
+    "sent_at": "2026-09-09T03:03:54.037017+00:00"
+  },
+  "01M1PVWQ383YJ6PFVFNJM3X122": {
+    "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
+    "sent_at": "2026-09-09T03:03:38.139400+00:00"
+  },
+  "https://engineering.atspotify.com/?p=4ode0KMR0ZNP2v8r180XjX": {
+    "title": "Why Spotify Is Not Using Bayesian A/B Testing",
+    "sent_at": "2026-09-09T03:03:37.452607+00:00"
+  },
+  "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom": {
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "sent_at": "2026-09-09T03:03:36.283361+00:00"
+  },
+  "https://openai.com/index/teen-development-research-grants": {
+    "title": "Funding grants for new research into AI and teen development",
+    "sent_at": "2026-09-09T03:03:34.643880+00:00"
+  },
+  "https://openai.com/index/navier-stokes-solution": {
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "sent_at": "2026-09-09T03:03:34.262792+00:00"
+  },
+  "https://openai.com/index/introducing-chatgpt-images-2-5": {
+    "title": "Introducing ChatGPT Images 2.5",
+    "sent_at": "2026-09-09T03:03:33.887580+00:00"
+  },
+  "https://openai.com/index/the-work-now-within-reach": {
+    "title": "The Work Now Within Reach",
+    "sent_at": "2026-09-09T03:03:33.514895+00:00"
+  },
+  "https://openai.com/index/codex-quantum-computing-experiments": {
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "sent_at": "2026-09-09T03:03:33.133899+00:00"
+  },
+  "https://techcrunch.com/?p=3161372": {
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "sent_at": "2026-09-09T03:03:20.089921+00:00"
+  },
+  "https://techcrunch.com/?p=3161299": {
+    "title": "The Exploration Company nabs $450 million to challenge SpaceX",
+    "sent_at": "2026-09-09T03:03:19.705779+00:00"
+  },
+  "https://techcrunch.com/?p=3161658": {
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "sent_at": "2026-09-09T03:03:19.317394+00:00"
+  },
+  "https://techcrunch.com/?p=3161463": {
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "sent_at": "2026-09-09T03:03:18.936765+00:00"
+  },
+  "https://techcrunch.com/?p=3161759": {
+    "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+    "sent_at": "2026-09-09T03:03:18.559145+00:00"
+  },
   "https://www.threads.com/t/Dc-GdqSAQiO": {
     "title": "@feelfree_ai: 구글 딥마인드가 단순 자동완성을 넘어 글쓰기 과정에 선제적...",
     "sent_at": "2026-09-08T03:02:53.074303+00:00"
@@ -1938,65 +1998,5 @@
   "01KZ7CKXC5ECVNAP2GSTX54B48": {
     "title": "WriteGuard: fine-grained controls for MCP Servers",
     "sent_at": "2026-08-06T02:22:48.147726+00:00"
-  },
-  "01KZ7PERAEJK3G9KDWDQ3BXZZQ": {
-    "title": "Cloudflare OS: an open platform for agents, apps, and work",
-    "sent_at": "2026-08-06T02:22:47.536474+00:00"
-  },
-  "01KZ7KS18W44EAET2511C0NY3V": {
-    "title": "How we’re rethinking work at Cloudflare with Cloudflare OS",
-    "sent_at": "2026-08-06T02:22:47.012563+00:00"
-  },
-  "01KZ7MGHAX6C81BVS5AM1DRP2Q": {
-    "title": "The Agent Access Model",
-    "sent_at": "2026-08-06T02:22:46.483568+00:00"
-  },
-  "01KZ7BXG1WSAKP11NS16P6XPPE": {
-    "title": "Cloudflare is the only vendor named a Visionary in 2026 SASE and SSE reports",
-    "sent_at": "2026-08-06T02:22:45.950871+00:00"
-  },
-  "https://engineering.fb.com/?p=23996": {
-    "title": "From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking",
-    "sent_at": "2026-08-06T02:22:38.601501+00:00"
-  },
-  "https://techcrunch.com/?p=3150305": {
-    "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
-    "sent_at": "2026-08-06T02:22:29.967432+00:00"
-  },
-  "https://techcrunch.com/?p=3150382": {
-    "title": "Meta launches Muse Code, an AI agent for large code bases",
-    "sent_at": "2026-08-06T02:22:29.433806+00:00"
-  },
-  "https://techcrunch.com/?p=3150393": {
-    "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
-    "sent_at": "2026-08-06T02:22:28.900444+00:00"
-  },
-  "https://techcrunch.com/?p=3150451": {
-    "title": "Nikita Bier steps down as X’s head of product",
-    "sent_at": "2026-08-06T02:22:28.345881+00:00"
-  },
-  "https://techcrunch.com/?p=3149365": {
-    "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
-    "sent_at": "2026-08-06T02:22:27.805318+00:00"
-  },
-  "https://www.threads.com/t/DbnBim7gcuz": {
-    "title": "@feelfree_ai: 커스텀 반도체 없이 초당 2,000 토큰 이상을 생성해내는 압도적인 ...",
-    "sent_at": "2026-08-05T02:15:10.789688+00:00"
-  },
-  "https://www.threads.com/t/Dbn4BD4AXJn": {
-    "title": "@feelfree_ai: 단 한 명의 개발자가 260억 파라미터(26B) 모델을 8GB 램이 탑재된 기본...",
-    "sent_at": "2026-08-05T02:15:10.232893+00:00"
-  },
-  "https://www.threads.com/t/Dbn5agvAZlp": {
-    "title": "@feelfree_ai: Liquid AI가 공개한 LFM2.5-2.6B는 128K 컨텍스트를 지원하며, llama.cpp나 OpenClaw 같은...",
-    "sent_at": "2026-08-05T02:15:09.646224+00:00"
-  },
-  "01KZ4WJAC5X5TGJJZKJDY8XHTD": {
-    "title": "Introducing: Cloudflare Agents",
-    "sent_at": "2026-08-05T02:14:49.624933+00:00"
-  },
-  "01KZ4XGGJ39E5ZDS4AHVQSB0M3": {
-    "title": "How Cloudflare enforces engineering standards using AI",
-    "sent_at": "2026-08-05T02:14:49.065409+00:00"
   }
 }
