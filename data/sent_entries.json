@@ -1,4 +1,80 @@
 {
+  "https://www.threads.com/t/DdDnNVoAbd4": {
+    "title": "@feelfree_ai: RTX 5090 노트북 한 대만으로 100만 토큰 크기의 AI 에이전트 워크스페이스를...",
+    "sent_at": "2026-09-10T03:04:34.931328+00:00"
+  },
+  "https://www.threads.com/t/DdEBZvrgbzO": {
+    "title": "@feelfree_ai: 이번 공유드릴 내용은 LLM API 비용을 무려 78%나 줄인 인프랩의 AI Gateway ...",
+    "sent_at": "2026-09-10T03:04:34.369619+00:00"
+  },
+  "https://www.threads.com/t/DdFqwqQgb86": {
+    "title": "@feelfree_ai: AI 에이전트가 긴 작업에서 목표를 놓치고 무한 루프에 빠지는 문제...",
+    "sent_at": "2026-09-10T03:04:33.831517+00:00"
+  },
+  "https://toss.tech/article/52999": {
+    "title": "App Router의 장점은 우리에게도 장점일까요?",
+    "sent_at": "2026-09-10T03:04:21.293067+00:00"
+  },
+  "01M1WCCYXD65TK4WBQW6QVC79V": {
+    "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
+    "sent_at": "2026-09-10T03:04:15.323665+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": {
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "sent_at": "2026-09-10T03:04:13.452980+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98109": {
+    "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+    "sent_at": "2026-09-10T03:04:12.551467+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/": {
+    "title": "Recreating a 70-year love story frame by frame",
+    "sent_at": "2026-09-10T03:04:11.284773+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/football-features-google-search/": {
+    "title": "Get ready for the game with new football features in Search",
+    "sent_at": "2026-09-10T03:04:10.745849+00:00"
+  },
+  "https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "sent_at": "2026-09-10T03:04:08.720232+00:00"
+  },
+  "https://openai.com/index/gpt-6-astra-next-generation-work": {
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "sent_at": "2026-09-10T03:04:08.083958+00:00"
+  },
+  "https://openai.com/index/ai-policy-window": {
+    "title": "The AI policy window is open. We need to act.",
+    "sent_at": "2026-09-10T03:04:07.557446+00:00"
+  },
+  "https://goddaehee.tistory.com/643": {
+    "title": "ChatGPT Images 2.5 사용법 : 정밀 편집부터 @Sketch&middot;프롬프트 공유까지(GPT Image 2와 무엇이 달라졌을까?)",
+    "sent_at": "2026-09-10T03:04:04.062264+00:00"
+  },
+  "https://github.blog/?p=98774": {
+    "title": "GitHub availability report: August 2026",
+    "sent_at": "2026-09-10T03:03:57.844763+00:00"
+  },
+  "https://techcrunch.com/?p=3162282": {
+    "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+    "sent_at": "2026-09-10T03:03:57.041928+00:00"
+  },
+  "https://techcrunch.com/?p=3162041": {
+    "title": "Massachusetts hits data centers with new clean power rules",
+    "sent_at": "2026-09-10T03:03:56.507049+00:00"
+  },
+  "https://techcrunch.com/?p=3162350": {
+    "title": "OpenAI adds a prominent AI doomer to its board of directors",
+    "sent_at": "2026-09-10T03:03:55.957931+00:00"
+  },
+  "https://techcrunch.com/?p=3162370": {
+    "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+    "sent_at": "2026-09-10T03:03:55.392622+00:00"
+  },
+  "https://techcrunch.com/?p=3162445": {
+    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+    "sent_at": "2026-09-10T03:03:54.860312+00:00"
+  },
   "https://www.threads.com/t/DdAs2mjk7_X": {
     "title": "@feelfree_ai: 문서로만 아키텍처 규칙을 강조해봤자 코드 리뷰나 바쁜 일정 속ᄋ...",
     "sent_at": "2026-09-09T03:03:54.433395+00:00"
@@ -1922,81 +1998,5 @@
   "01KZA4HXGQQ9FD8XRZB8E0CJEN": {
     "title": "Cloudflare AI Search: give your agents a search engine for your data",
     "sent_at": "2026-08-07T02:32:42.562864+00:00"
-  },
-  "https://huggingface.co/blog/baseten": {
-    "title": "Baseten on Hugging Face Inference Providers 🔥",
-    "sent_at": "2026-08-07T02:32:36.581045+00:00"
-  },
-  "https://blogs.nvidia.com/?p=97234&preview=true&preview_id=97234": {
-    "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
-    "sent_at": "2026-08-07T02:32:35.670331+00:00"
-  },
-  "https://blogs.nvidia.com/?p=97219": {
-    "title": "GeForce NOW Shakes Up August With 26 New Games",
-    "sent_at": "2026-08-07T02:32:35.138003+00:00"
-  },
-  "https://engineering.fb.com/?p=24150": {
-    "title": "Meta’s AI Storage Blueprint at Scale",
-    "sent_at": "2026-08-07T02:32:33.158949+00:00"
-  },
-  "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work": {
-    "title": "From asking to doing: How the world is putting ChatGPT to work",
-    "sent_at": "2026-08-07T02:32:31.804183+00:00"
-  },
-  "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai": {
-    "title": "Working with the American Psychological Association on youth mental health and AI",
-    "sent_at": "2026-08-07T02:32:31.254061+00:00"
-  },
-  "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt": {
-    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "sent_at": "2026-08-07T02:32:30.698346+00:00"
-  },
-  "https://github.blog/?p=97978": {
-    "title": "How we took malware advisories beyond npm",
-    "sent_at": "2026-08-07T02:32:21.492708+00:00"
-  },
-  "https://github.blog/?p=98013": {
-    "title": "A guide to slash commands in the GitHub Copilot app",
-    "sent_at": "2026-08-07T02:32:20.949797+00:00"
-  },
-  "https://techcrunch.com/?p=3150918": {
-    "title": "Google says hackers are calling financial firm employees to hack and extort victims",
-    "sent_at": "2026-08-07T02:32:19.107653+00:00"
-  },
-  "https://techcrunch.com/?p=3150875": {
-    "title": "Vogue just gave another nod of approval to the tech world",
-    "sent_at": "2026-08-07T02:32:18.574665+00:00"
-  },
-  "https://techcrunch.com/?p=3150489": {
-    "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-    "sent_at": "2026-08-07T02:32:18.039584+00:00"
-  },
-  "https://techcrunch.com/?p=3151017": {
-    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-    "sent_at": "2026-08-07T02:32:17.473711+00:00"
-  },
-  "https://www.threads.com/t/DbpPLiJAR4I": {
-    "title": "@feelfree_ai: Cursor가 AI 모델 학습 속도를 최대 2.37배 끌어올린 강력한 MoE 트레이니...",
-    "sent_at": "2026-08-06T02:23:09.604649+00:00"
-  },
-  "https://www.threads.com/t/Dbp_dmjAY_i": {
-    "title": "@feelfree_ai: 코딩 에이전트 생태계에 SWE-bench가 있다면, 프로덕션 서버 장애 대응에...",
-    "sent_at": "2026-08-06T02:23:09.060267+00:00"
-  },
-  "https://www.threads.com/t/DbrZLFhgYvC": {
-    "title": "@feelfree_ai: 맥 미니 같은 개인 기기에서 20B 파라미터 모델이 초당 218 토큰으로 뿜ᄋ...",
-    "sent_at": "2026-08-06T02:23:08.509251+00:00"
-  },
-  "https://d2.naver.com/news/1783497": {
-    "title": "FE News 26년 8월 소식을 전해드립니다.",
-    "sent_at": "2026-08-06T02:22:51.495008+00:00"
-  },
-  "13572f01241ca7108f49e50344decc868ddde5d7": {
-    "title": "Amazon DynamoDB now supports real-time vector search at any scale",
-    "sent_at": "2026-08-06T02:22:49.060005+00:00"
-  },
-  "01KZ7CKXC5ECVNAP2GSTX54B48": {
-    "title": "WriteGuard: fine-grained controls for MCP Servers",
-    "sent_at": "2026-08-06T02:22:48.147726+00:00"
   }
 }
