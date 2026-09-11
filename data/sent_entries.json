@@ -1,4 +1,88 @@
 {
+  "https://www.threads.com/t/DdGWR62gfsa": {
+    "title": "@feelfree_ai: 로컬에서 LLM을 돌린다고 해서 내 데이터가 무조건 안전한 건 아닐 ᄉ...",
+    "sent_at": "2026-09-11T03:00:01.735967+00:00"
+  },
+  "https://www.threads.com/t/DdIEl7rgVI1": {
+    "title": "@feelfree_ai: 스마트폰 RAM 용량 때문에 고성능 온디바이스 AI를 못 돌린다는 선...",
+    "sent_at": "2026-09-11T03:00:01.190095+00:00"
+  },
+  "a7eafcc0229cd1fa7f057426d064a4eca2d0738b": {
+    "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
+    "sent_at": "2026-09-11T02:59:45.318218+00:00"
+  },
+  "01M23Q2R3K11Z1TNGRS35GYWR6": {
+    "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+    "sent_at": "2026-09-11T02:59:44.430068+00:00"
+  },
+  "https://huggingface.co/blog/gradio-workflow-1111": {
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "sent_at": "2026-09-11T02:59:42.058210+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98103": {
+    "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
+    "sent_at": "2026-09-11T02:59:41.194464+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98153": {
+    "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+    "sent_at": "2026-09-11T02:59:40.725204+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98141": {
+    "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+    "sent_at": "2026-09-11T02:59:40.253878+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98131": {
+    "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+    "sent_at": "2026-09-11T02:59:39.773702+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/running-race-training-tips/": {
+    "title": "3 ways to prep for your next big race with Search",
+    "sent_at": "2026-09-11T02:59:35.255019+00:00"
+  },
+  "https://openai.com/index/introducing-the-agents-api": {
+    "title": "Introducing the Agents API",
+    "sent_at": "2026-09-11T02:59:34.366099+00:00"
+  },
+  "https://openai.com/index/expanding-ai-access-us-government": {
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "sent_at": "2026-09-11T02:59:33.872027+00:00"
+  },
+  "https://openai.com/index/introducing-chatgpt-financial-services": {
+    "title": "Introducing ChatGPT for Financial Services",
+    "sent_at": "2026-09-11T02:59:33.404529+00:00"
+  },
+  "https://openai.com/index/put-data-to-work": {
+    "title": "Now everyone can put data to work",
+    "sent_at": "2026-09-11T02:59:32.950767+00:00"
+  },
+  "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "sent_at": "2026-09-11T02:59:32.476315+00:00"
+  },
+  "https://github.blog/?p=98771": {
+    "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+    "sent_at": "2026-09-11T02:59:20.085775+00:00"
+  },
+  "https://techcrunch.com/?p=3162919": {
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "sent_at": "2026-09-11T02:59:19.201872+00:00"
+  },
+  "https://techcrunch.com/?p=3162967": {
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "sent_at": "2026-09-11T02:59:18.725512+00:00"
+  },
+  "https://techcrunch.com/?p=3162704": {
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "sent_at": "2026-09-11T02:59:18.083545+00:00"
+  },
+  "https://techcrunch.com/?p=3162873": {
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "sent_at": "2026-09-11T02:59:17.609074+00:00"
+  },
+  "https://techcrunch.com/?p=3162788": {
+    "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+    "sent_at": "2026-09-11T02:59:17.151711+00:00"
+  },
   "https://www.threads.com/t/DdDnNVoAbd4": {
     "title": "@feelfree_ai: RTX 5090 노트북 한 대만으로 100만 토큰 크기의 AI 에이전트 워크스페이스를...",
     "sent_at": "2026-09-10T03:04:34.931328+00:00"
@@ -1914,89 +1998,5 @@
   "01KZA4HFQTZ276N6FJQ3CS9ACG": {
     "title": "Unifying Workers AI and AI Gateway into a single AI control plane",
     "sent_at": "2026-08-08T01:22:05.501805+00:00"
-  },
-  "01KZCB7QVKW1EKYJAYCVTDKH4K": {
-    "title": "Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding",
-    "sent_at": "2026-08-08T01:22:05.124913+00:00"
-  },
-  "01KZCGVT7YXBW6BH8Y05159WAR": {
-    "title": "Introducing Radar Researcher: An AI tool for exploring Internet data in plain language",
-    "sent_at": "2026-08-08T01:22:04.751881+00:00"
-  },
-  "01KZCHBWNB93JTTPTBKQZF0SG9": {
-    "title": "Unveiling good and bad behaviors on the Agentic Internet",
-    "sent_at": "2026-08-08T01:22:04.376199+00:00"
-  },
-  "https://medium.com/p/0f3468349607": {
-    "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
-    "sent_at": "2026-08-08T01:22:00.034203+00:00"
-  },
-  "https://huggingface.co/blog/allenai/tutormoments": {
-    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-    "sent_at": "2026-08-08T01:21:59.241152+00:00"
-  },
-  "https://blogs.nvidia.com/?p=95626": {
-    "title": "NVIDIA and Partners Build in America, for America",
-    "sent_at": "2026-08-08T01:21:58.275551+00:00"
-  },
-  "https://openai.com/index/hsp-gruppe": {
-    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "sent_at": "2026-08-08T01:21:56.903169+00:00"
-  },
-  "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": {
-    "title": "Responding to the next frontier of critical cyber capabilities",
-    "sent_at": "2026-08-08T01:21:56.531456+00:00"
-  },
-  "https://techcrunch.com/?p=3151175": {
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "sent_at": "2026-08-08T01:21:46.922439+00:00"
-  },
-  "https://techcrunch.com/?p=3151288": {
-    "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-    "sent_at": "2026-08-08T01:21:46.513822+00:00"
-  },
-  "https://techcrunch.com/?p=3149296": {
-    "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
-    "sent_at": "2026-08-08T01:21:46.134192+00:00"
-  },
-  "https://techcrunch.com/?p=3151218": {
-    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-    "sent_at": "2026-08-08T01:21:45.764440+00:00"
-  },
-  "https://techcrunch.com/?p=3151331": {
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "sent_at": "2026-08-08T01:21:45.386663+00:00"
-  },
-  "https://www.threads.com/t/Dbr0ISACk7F": {
-    "title": "@feelfree_ai: 이제 맥(Mac) 유저라면 인터넷 연결 없이도 내 기기 안에서 빠르고 안ᄌ...",
-    "sent_at": "2026-08-07T02:33:01.394505+00:00"
-  },
-  "https://www.threads.com/t/Dbs3qOdAaYz": {
-    "title": "@feelfree_ai: AI가 반년 전에 내린 결정, 누군가 \"왜 그랬냐\"고 물었을 때 단순ᄒ...",
-    "sent_at": "2026-08-07T02:33:00.853849+00:00"
-  },
-  "7bc89749c1b638955cb1927019d33a1150693c0f": {
-    "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
-    "sent_at": "2026-08-07T02:32:45.693968+00:00"
-  },
-  "01KZ9Z9511J0G655EQ0XMSVWQV": {
-    "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
-    "sent_at": "2026-08-07T02:32:44.692293+00:00"
-  },
-  "01KZA0G6ZQF7ZGG8EJ2VPCFY2B": {
-    "title": "Building an open Agentic Internet: readable, discoverable, callable, and payable",
-    "sent_at": "2026-08-07T02:32:44.157184+00:00"
-  },
-  "01KZA2T3ZHH6G6Q1Z3CQJD7Q4D": {
-    "title": "From ranking to recommended: get your site ready to thrive in the age of AI agents",
-    "sent_at": "2026-08-07T02:32:43.626037+00:00"
-  },
-  "01KZA4H1D8PD7BXJ5RQBK5JQX0": {
-    "title": "The next generation of MCP",
-    "sent_at": "2026-08-07T02:32:43.084597+00:00"
-  },
-  "01KZA4HXGQQ9FD8XRZB8E0CJEN": {
-    "title": "Cloudflare AI Search: give your agents a search engine for your data",
-    "sent_at": "2026-08-07T02:32:42.562864+00:00"
   }
 }
