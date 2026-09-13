@@ -1,4 +1,32 @@
 {
+  "https://www.threads.com/t/DdLslvNAblU": {
+    "title": "@feelfree_ai: AI 에이전트에 무작정 메모리를 붙이면 잘못된 지식까지 쌓이곤 ᄒ...",
+    "sent_at": "2026-09-13T03:08:30.230366+00:00"
+  },
+  "https://www.threads.com/t/DdNau-kAcv9": {
+    "title": "@feelfree_ai: 프론티어 AI 개발 속도가 안전 장치보다 훨씬 빠르게 앞서나가고 있...",
+    "sent_at": "2026-09-13T03:08:29.730790+00:00"
+  },
+  "https://techcrunch.com/?p=3163369": {
+    "title": "Revolut confirms customer data breach through fake government requests",
+    "sent_at": "2026-09-13T03:08:04.664519+00:00"
+  },
+  "https://techcrunch.com/?p=3163377": {
+    "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+    "sent_at": "2026-09-13T03:08:04.211096+00:00"
+  },
+  "https://techcrunch.com/?p=3163373": {
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "sent_at": "2026-09-13T03:08:03.724680+00:00"
+  },
+  "https://techcrunch.com/?p=3163386": {
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "sent_at": "2026-09-13T03:08:03.226742+00:00"
+  },
+  "https://techcrunch.com/?p=3163427": {
+    "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+    "sent_at": "2026-09-13T03:08:02.745631+00:00"
+  },
   "https://www.threads.com/t/DdI3yUxgQqP": {
     "title": "@feelfree_ai: AI 에이전트가 스스로 스킬을 다듬을 때 자꾸 기존 수정을 덮어씌우ᄆ...",
     "sent_at": "2026-09-12T03:06:39.318434+00:00"
@@ -1970,33 +1998,5 @@
   "https://www.threads.com/t/DbzozCGAe3C": {
     "title": "@feelfree_ai: 3만 3천 페이지 분량의 문헌을 CPU만으로 1초 이내에 의미 기반으로 찾...",
     "sent_at": "2026-08-10T01:29:27.480915+00:00"
-  },
-  "https://www.threads.com/t/Db0ESKtAaQR": {
-    "title": "@feelfree_ai: LLM 서비스 운영 비용의 주범이던 '프리필(Prefill)' 연산 폭탄, 엔비디ᄋ...",
-    "sent_at": "2026-08-10T01:29:26.903851+00:00"
-  },
-  "https://www.threads.com/t/Db0jl48AaZz": {
-    "title": "@feelfree_ai: 도커(Docker)는 너무 느리고 일반 가상머신(VM)은 무거워서 고민이셨다면...",
-    "sent_at": "2026-08-10T01:29:26.351762+00:00"
-  },
-  "https://www.threads.com/t/Db1q22vAZCA": {
-    "title": "@feelfree_ai: Sakana AI가 여러 모델에 적절히 작업을 할당하는 'Fugu'의 지휘자(라우팅)...",
-    "sent_at": "2026-08-10T01:29:25.786733+00:00"
-  },
-  "https://techcrunch.com/?p=3151324": {
-    "title": "The AI safety test is becoming a safety risk",
-    "sent_at": "2026-08-10T01:28:58.561038+00:00"
-  },
-  "https://techcrunch.com/?p=3151401": {
-    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-    "sent_at": "2026-08-10T01:28:58.026024+00:00"
-  },
-  "https://techcrunch.com/?p=3151220": {
-    "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
-    "sent_at": "2026-08-10T01:28:57.475851+00:00"
-  },
-  "https://techcrunch.com/?p=3151431": {
-    "title": "Anthropic is turning Claude Code’s auto mode on by default",
-    "sent_at": "2026-08-10T01:28:56.861839+00:00"
   }
 }
