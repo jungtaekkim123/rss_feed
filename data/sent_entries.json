@@ -1,4 +1,64 @@
 {
+  "https://www.threads.com/t/DdQkmp1gU1k": {
+    "title": "@feelfree_ai: AI 에이전트나 MCP를 도입할 때 정작 AI가 우리 시스템 어디까지 건드릴 ...",
+    "sent_at": "2026-09-15T03:23:27.704808+00:00"
+  },
+  "https://www.threads.com/t/DdSLQzvkzTb": {
+    "title": "@feelfree_ai: 토큰 기반 LLM이 가진 성능 한계를 깨고, 연산량이 늘어날수록 기...",
+    "sent_at": "2026-09-15T03:23:27.222919+00:00"
+  },
+  "https://toss.tech/article/gpu-native-cluster": {
+    "title": "토스증권이 GPU-aware를 넘어 GPU-native 클러스터를 구축한 방법",
+    "sent_at": "2026-09-15T03:23:16.957360+00:00"
+  },
+  "936acd2588551fb9eea86f9b0eaf5f722128dc6e": {
+    "title": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)",
+    "sent_at": "2026-09-15T03:23:11.015615+00:00"
+  },
+  "https://huggingface.co/blog/asyncgrpo-lora-hfjobs": {
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "sent_at": "2026-09-15T03:23:08.834747+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98202": {
+    "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+    "sent_at": "2026-09-15T03:23:07.946659+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/": {
+    "title": "DevFest is back",
+    "sent_at": "2026-09-15T03:23:06.623447+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/": {
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "sent_at": "2026-09-15T03:23:06.138565+00:00"
+  },
+  "https://openai.com/index/fyxer": {
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "sent_at": "2026-09-15T03:23:04.186688+00:00"
+  },
+  "https://goddaehee.tistory.com/644": {
+    "title": "OmniRoute란?(OmniRoute 사용법) - 무료 AI 티어를 모아 Claude Code&middot;VS Code에 연결하기",
+    "sent_at": "2026-09-15T03:23:02.830595+00:00"
+  },
+  "https://techcrunch.com/?p=3163695": {
+    "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+    "sent_at": "2026-09-15T03:22:55.573141+00:00"
+  },
+  "https://techcrunch.com/?p=3163813": {
+    "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+    "sent_at": "2026-09-15T03:22:55.086463+00:00"
+  },
+  "https://techcrunch.com/?p=3163844": {
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "sent_at": "2026-09-15T03:22:54.615522+00:00"
+  },
+  "https://techcrunch.com/?p=3163882": {
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "sent_at": "2026-09-15T03:22:53.876255+00:00"
+  },
+  "https://techcrunch.com/?p=3164024": {
+    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+    "sent_at": "2026-09-15T03:22:53.366218+00:00"
+  },
   "https://www.threads.com/t/DdN7r5JAY1p": {
     "title": "@feelfree_ai: 파라미터를 더 늘리지 않고도 AI의 추론 능력을 극대화하는 'Looped Flows' ...",
     "sent_at": "2026-09-14T03:21:48.256324+00:00"
@@ -1938,65 +1998,5 @@
   "https://toss.tech/article/52209": {
     "title": "모노리포 희망편, 절망의 리포가 희망의 리포로 부활하기까지 걸린 1년",
     "sent_at": "2026-08-11T01:27:07.844493+00:00"
-  },
-  "https://toss.tech/article/tossion": {
-    "title": "토스의 속도와 품질, 상용 도구로 충분한가 — 토션(Tossion)",
-    "sent_at": "2026-08-11T01:27:07.342623+00:00"
-  },
-  "https://d2.naver.com/helloworld/0525182": {
-    "title": "우리 팀만의 vLLM 플러그인 만들기 1편 - 검색 AI 모델 서빙 성능 극대화하기",
-    "sent_at": "2026-08-11T01:27:02.998813+00:00"
-  },
-  "https://d2.naver.com/helloworld/7337586": {
-    "title": "우리 팀만의 vLLM 플러그인 만들기 2편 - 모델 변환부터 배포까지 AI-native로 자동화하기",
-    "sent_at": "2026-08-11T01:27:02.526313+00:00"
-  },
-  "23fc16a0c48a8aaf8de130ae8e5719b50ba6f960": {
-    "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
-    "sent_at": "2026-08-11T01:26:58.780690+00:00"
-  },
-  "2qQZuefCfPJvVRRFrHQgKC": {
-    "title": "Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status",
-    "sent_at": "2026-08-11T01:26:57.956771+00:00"
-  },
-  "01KZEF237MMZ9CHJ8RTKBA8G7A": {
-    "title": "Everything we launched during Agents Week",
-    "sent_at": "2026-08-11T01:26:57.464522+00:00"
-  },
-  "https://huggingface.co/blog/muse-glimmer": {
-    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-    "sent_at": "2026-08-11T01:26:54.418777+00:00"
-  },
-  "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation": {
-    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-    "sent_at": "2026-08-11T01:26:53.933876+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents": {
-    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "sent_at": "2026-08-11T01:26:53.431844+00:00"
-  },
-  "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/": {
-    "title": "Evolve your marketing with new AI tools",
-    "sent_at": "2026-08-11T01:26:49.904020+00:00"
-  },
-  "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands": {
-    "title": "Putting frontier cyber models in more trusted hands",
-    "sent_at": "2026-08-11T01:26:49.009356+00:00"
-  },
-  "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": {
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "sent_at": "2026-08-11T01:26:48.512396+00:00"
-  },
-  "https://openai.com/index/building-an-ai-native-finance-function": {
-    "title": "What building an AI-native finance function taught me",
-    "sent_at": "2026-08-11T01:26:47.960828+00:00"
-  },
-  "https://openai.com/index/model-ml": {
-    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-    "sent_at": "2026-08-11T01:26:47.461034+00:00"
-  },
-  "https://openai.com/index/responsible-ai-infrastructure-texas": {
-    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "sent_at": "2026-08-11T01:26:46.989335+00:00"
   }
 }
