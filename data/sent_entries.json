@@ -1,4 +1,72 @@
 {
+  "https://www.threads.com/t/DdYg0u1gYxU": {
+    "title": "@feelfree_ai: 거대한 모델을 쓰지 않고 단 230M 파라미터만으로 체스 Elo 2000점을 찍으...",
+    "sent_at": "2026-09-18T03:11:26.190950+00:00"
+  },
+  "https://www.threads.com/t/DdY8LDKgdp9": {
+    "title": "@feelfree_ai: AI 에이전트 토큰 비용 줄이겠다고 컨텍스트를 함부로 요약하거나 ᄎ...",
+    "sent_at": "2026-09-18T03:11:25.675868+00:00"
+  },
+  "https://www.threads.com/t/DdaGMpUgaHF": {
+    "title": "@feelfree_ai: 멀티 에이전트 시스템에서 에이전트 단 한 대의 오작동이 전염병ᄎ...",
+    "sent_at": "2026-09-18T03:11:25.171688+00:00"
+  },
+  "https://www.threads.com/t/Ddaa6x0keLm": {
+    "title": "@feelfree_ai: RAG 검색 성능을 극대화해 줄 150M 파라미터 크기의 최신 희소 임베딩 ᄆ...",
+    "sent_at": "2026-09-18T03:11:24.697883+00:00"
+  },
+  "871c44b03c81444dbf2768f2c7efdf2a156c5808": {
+    "title": "AWS Elastic Beanstalk introduces Cluster Mode",
+    "sent_at": "2026-09-18T03:11:07.191866+00:00"
+  },
+  "e54808ff9073a2b426d2baf919a0236eb2f63e40": {
+    "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
+    "sent_at": "2026-09-18T03:11:06.718636+00:00"
+  },
+  "https://engineering.atspotify.com/?p=3PqIQGV6v5xB9DK6ql80CA": {
+    "title": "AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity",
+    "sent_at": "2026-09-18T03:11:04.467721+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98338": {
+    "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
+    "sent_at": "2026-09-18T03:11:02.534854+00:00"
+  },
+  "https://engineering.fb.com/?p=24092": {
+    "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
+    "sent_at": "2026-09-18T03:11:01.675224+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/": {
+    "title": "Making global data easier to explore",
+    "sent_at": "2026-09-18T03:11:00.539222+00:00"
+  },
+  "https://openai.com/index/astra-for-law": {
+    "title": "Introducing Astra for Law",
+    "sent_at": "2026-09-18T03:10:59.681676+00:00"
+  },
+  "https://openai.com/index/cooley-gopublic": {
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "sent_at": "2026-09-18T03:10:59.199308+00:00"
+  },
+  "https://techcrunch.com/?p=3165541": {
+    "title": "PrismML hopes its tiny LLM will change how we all use AI",
+    "sent_at": "2026-09-18T03:10:50.145266+00:00"
+  },
+  "https://techcrunch.com/?p=3165713": {
+    "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+    "sent_at": "2026-09-18T03:10:49.667567+00:00"
+  },
+  "https://techcrunch.com/?p=3165803": {
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "sent_at": "2026-09-18T03:10:49.128276+00:00"
+  },
+  "https://techcrunch.com/?p=3165830": {
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+    "sent_at": "2026-09-18T03:10:48.640267+00:00"
+  },
+  "https://techcrunch.com/?p=3165871": {
+    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+    "sent_at": "2026-09-18T03:10:48.147450+00:00"
+  },
   "https://www.threads.com/t/DdVZR9rggUz": {
     "title": "@feelfree_ai: PyTorch 래퍼만 써서 모델을 띄우다 보면 실제 GPU 내부에서 무슨 일이 일ᄋ...",
     "sent_at": "2026-09-17T03:25:34.850059+00:00"
@@ -1930,73 +1998,5 @@
   "https://www.threads.com/t/Db_ERfHgcw6": {
     "title": "@feelfree_ai: AI 답변의 환각(Hallucination)을 검증할 때 굳이 무거운 대형 모델을 고...",
     "sent_at": "2026-08-14T01:44:45.236254+00:00"
-  },
-  "01KZQPY0C41XKPVZ5HRG3E1ZK3": {
-    "title": "Certificate Transparency Monitoring is now generally available",
-    "sent_at": "2026-08-14T01:44:26.503194+00:00"
-  },
-  "01KZY9EY62FCNTTQG8TX7R4GWK": {
-    "title": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal",
-    "sent_at": "2026-08-14T01:44:25.029339+00:00"
-  },
-  "https://engineering.atspotify.com/?p=ln7E2AsSaOEViz9VzHqlL": {
-    "title": "When Can LLMs Replace Humans in A/B Tests?",
-    "sent_at": "2026-08-14T01:44:23.274668+00:00"
-  },
-  "https://huggingface.co/blog/icml-2026-open-reproductions": {
-    "title": "What We Learned by Reproducing 2,200 papers from ICML",
-    "sent_at": "2026-08-14T01:44:22.097556+00:00"
-  },
-  "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop": {
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "sent_at": "2026-08-14T01:44:21.699116+00:00"
-  },
-  "https://blogs.nvidia.com/?p=97471": {
-    "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
-    "sent_at": "2026-08-14T01:44:19.824047+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/": {
-    "title": "Bring your spreadsheet data to life with Sheets canvas",
-    "sent_at": "2026-08-14T01:44:18.837348+00:00"
-  },
-  "https://openai.com/index/dali-rajic-chief-revenue-officer": {
-    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "sent_at": "2026-08-14T01:44:18.097653+00:00"
-  },
-  "https://openai.com/index/previewing-ultrafast": {
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "sent_at": "2026-08-14T01:44:17.713084+00:00"
-  },
-  "https://openai.com/index/builders-guide-to-gpt-5-6": {
-    "title": "The builder’s guide to GPT‑5.6",
-    "sent_at": "2026-08-14T01:44:17.316052+00:00"
-  },
-  "https://github.blog/?p=98152": {
-    "title": "What 50 open source projects taught us about security in the AI era",
-    "sent_at": "2026-08-14T01:44:07.297174+00:00"
-  },
-  "https://github.blog/?p=98265": {
-    "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
-    "sent_at": "2026-08-14T01:44:06.912318+00:00"
-  },
-  "https://techcrunch.com/?p=3152870": {
-    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "sent_at": "2026-08-14T01:44:05.105489+00:00"
-  },
-  "https://techcrunch.com/?p=3152760": {
-    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "sent_at": "2026-08-14T01:44:04.709618+00:00"
-  },
-  "https://techcrunch.com/?p=3152998": {
-    "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-    "sent_at": "2026-08-14T01:44:04.319146+00:00"
-  },
-  "https://techcrunch.com/?p=3152977": {
-    "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-    "sent_at": "2026-08-14T01:44:03.906257+00:00"
-  },
-  "https://techcrunch.com/?p=3152989": {
-    "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-    "sent_at": "2026-08-14T01:44:03.467897+00:00"
   }
 }
