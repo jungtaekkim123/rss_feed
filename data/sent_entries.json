@@ -1,4 +1,64 @@
 {
+  "https://www.threads.com/t/Dda-bwnARjq": {
+    "title": "@feelfree_ai: 이제 복잡한 의존성 설치 없이 도커 명령어 한 줄로 500개가 넘는 ...",
+    "sent_at": "2026-09-19T03:07:30.071588+00:00"
+  },
+  "https://www.threads.com/t/DdcyNJ6AX1E": {
+    "title": "@feelfree_ai: 엔비디아가 에이전트 하네스를 스스로 최적화하는 SoL-Pi를 공개했는ᄃ...",
+    "sent_at": "2026-09-19T03:07:29.685931+00:00"
+  },
+  "https://toss.tech/article/lockbank": {
+    "title": "사용자를 위해 일부러 어렵게 만드는 경험, 어디까지 괜찮을까?",
+    "sent_at": "2026-09-19T03:07:19.849566+00:00"
+  },
+  "01M2PG0CV1HQN5RRFVQ49YYMWY": {
+    "title": "Saving another 100TB of RAM with math (and Rust)",
+    "sent_at": "2026-09-19T03:07:13.286433+00:00"
+  },
+  "https://engineering.atspotify.com/?p=ln7E2AsSaOEViz9VzHqlL": {
+    "title": "When Can LLMs Replace Humans in A/B Tests?",
+    "sent_at": "2026-09-19T03:07:12.575271+00:00"
+  },
+  "https://medium.com/p/67a85b15b6be": {
+    "title": "Leave the Class Path in the Rearview Mirror",
+    "sent_at": "2026-09-19T03:07:11.623229+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/": {
+    "title": "Co-creating the future of fashion with Google",
+    "sent_at": "2026-09-19T03:07:10.116859+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/": {
+    "title": "New experts join Google’s AI & Economy team",
+    "sent_at": "2026-09-19T03:07:09.742605+00:00"
+  },
+  "https://openai.com/index/hex-gpt-6-astra": {
+    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "sent_at": "2026-09-19T03:07:07.968481+00:00"
+  },
+  "https://github.blog/?p=98893": {
+    "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+    "sent_at": "2026-09-19T03:06:58.847345+00:00"
+  },
+  "https://techcrunch.com/?p=3166487": {
+    "title": "AI hallucination nearly triggers US military operation",
+    "sent_at": "2026-09-19T03:06:57.801381+00:00"
+  },
+  "https://techcrunch.com/?p=3166494": {
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "sent_at": "2026-09-19T03:06:57.426514+00:00"
+  },
+  "https://techcrunch.com/?p=3166504": {
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "sent_at": "2026-09-19T03:06:56.970193+00:00"
+  },
+  "https://techcrunch.com/?p=3166469": {
+    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+    "sent_at": "2026-09-19T03:06:56.593634+00:00"
+  },
+  "https://techcrunch.com/?p=3166409": {
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "sent_at": "2026-09-19T03:06:56.221392+00:00"
+  },
   "https://www.threads.com/t/DdYg0u1gYxU": {
     "title": "@feelfree_ai: 거대한 모델을 쓰지 않고 단 230M 파라미터만으로 체스 Elo 2000점을 찍으...",
     "sent_at": "2026-09-18T03:11:26.190950+00:00"
@@ -1938,65 +1998,5 @@
   "https://www.threads.com/t/DcAa7C5D6k_": {
     "title": "@feelfree_ai: 기존 코드 임베딩이 단순 정적 검색에 치우쳐 있던 문제를 파고...",
     "sent_at": "2026-08-15T01:05:30.130795+00:00"
-  },
-  "https://www.threads.com/t/DcBJ-F9gZvV": {
-    "title": "@feelfree_ai: 사람이 빽빽하게 겹치거나 물체가 순간적으로 가려질 때 객체 추저...",
-    "sent_at": "2026-08-15T01:05:29.569654+00:00"
-  },
-  "01KZW0MF4VJTZW3F7601QANQ7Z": {
-    "title": "Secure all your internal vibe-coded applications — in one click",
-    "sent_at": "2026-08-15T01:05:11.949587+00:00"
-  },
-  "01M005AFBW9P2YGZT4HH64D2BQ": {
-    "title": "How Cloudflare detects MCP traffic and helps secure it",
-    "sent_at": "2026-08-15T01:05:11.382670+00:00"
-  },
-  "https://huggingface.co/blog/state-of-open-models-summer-2026": {
-    "title": "State of Open Models: Summer 2026 Observations",
-    "sent_at": "2026-08-15T01:05:07.896729+00:00"
-  },
-  "https://blogs.nvidia.com/?p=97549": {
-    "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
-    "sent_at": "2026-08-15T01:05:06.830073+00:00"
-  },
-  "https://github.blog/?p=98252": {
-    "title": "How to bring your software delivery workflow into GitHub with agent apps",
-    "sent_at": "2026-08-15T01:04:57.790551+00:00"
-  },
-  "https://techcrunch.com/?p=3011907": {
-    "title": "Read-it-later app Pocket shut down — here are the best alternatives",
-    "sent_at": "2026-08-15T01:04:56.795668+00:00"
-  },
-  "https://techcrunch.com/?p=3153226": {
-    "title": "What we know about the alleged Iranian hacks on US water utilities",
-    "sent_at": "2026-08-15T01:04:56.257801+00:00"
-  },
-  "https://techcrunch.com/?p=3153180": {
-    "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-    "sent_at": "2026-08-15T01:04:55.717685+00:00"
-  },
-  "https://techcrunch.com/?p=3153246": {
-    "title": "Self-driving trucks are officially testing on California highways",
-    "sent_at": "2026-08-15T01:04:55.163820+00:00"
-  },
-  "https://techcrunch.com/?p=3153275": {
-    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-    "sent_at": "2026-08-15T01:04:54.596378+00:00"
-  },
-  "https://www.threads.com/t/Db9mtt6AZ6-": {
-    "title": "@feelfree_ai: 다른 모델로 세션을 전환할 때마다 KV 캐시를 처음부터 다시 재계산...",
-    "sent_at": "2026-08-14T01:44:46.445133+00:00"
-  },
-  "https://www.threads.com/t/Db-fES-gauY": {
-    "title": "@feelfree_ai: 코딩 에이전트가 매 작업마다 코드베이스를 처음부터 다시 탐색하며 ...",
-    "sent_at": "2026-08-14T01:44:46.025706+00:00"
-  },
-  "https://www.threads.com/t/Db-i-jKgY1m": {
-    "title": "@feelfree_ai: AI 에이전트를 돌릴 때 반복되는 JSON이나 로그 때문에 낭비되는 토크...",
-    "sent_at": "2026-08-14T01:44:45.631915+00:00"
-  },
-  "https://www.threads.com/t/Db_ERfHgcw6": {
-    "title": "@feelfree_ai: AI 답변의 환각(Hallucination)을 검증할 때 굳이 무거운 대형 모델을 고...",
-    "sent_at": "2026-08-14T01:44:45.236254+00:00"
   }
 }
