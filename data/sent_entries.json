@@ -1,4 +1,32 @@
 {
+  "https://www.threads.com/t/DddsrEZgZIQ": {
+    "title": "@feelfree_ai: AI가 코드 검수를 넘어 아예 전용 정적 분석기까지 직접 만들어 ᄉ...",
+    "sent_at": "2026-09-20T03:23:55.551533+00:00"
+  },
+  "https://openai.com/index/australian-youth-safety-blueprint": {
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "sent_at": "2026-09-20T03:23:37.337000+00:00"
+  },
+  "https://techcrunch.com/?p=3162545": {
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "sent_at": "2026-09-20T03:23:27.935145+00:00"
+  },
+  "https://techcrunch.com/?p=3166634": {
+    "title": "The US Navy just told us what’s on its tech wish list for the next several years",
+    "sent_at": "2026-09-20T03:23:27.428517+00:00"
+  },
+  "https://techcrunch.com/?p=3166647": {
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "sent_at": "2026-09-20T03:23:26.962725+00:00"
+  },
+  "https://techcrunch.com/?p=3166662": {
+    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+    "sent_at": "2026-09-20T03:23:26.471723+00:00"
+  },
+  "https://techcrunch.com/?p=3166668": {
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "sent_at": "2026-09-20T03:23:25.976342+00:00"
+  },
   "https://www.threads.com/t/Dda-bwnARjq": {
     "title": "@feelfree_ai: 이제 복잡한 의존성 설치 없이 도커 명령어 한 줄로 500개가 넘는 ...",
     "sent_at": "2026-09-19T03:07:30.071588+00:00"
@@ -1970,33 +1998,5 @@
   "https://engineering.fb.com/?p=24221": {
     "title": "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler",
     "sent_at": "2026-08-16T01:08:55.917379+00:00"
-  },
-  "https://techcrunch.com/?p=2878248": {
-    "title": "Every fusion startup that has raised over $100M",
-    "sent_at": "2026-08-16T01:08:47.314828+00:00"
-  },
-  "https://techcrunch.com/?p=3153258": {
-    "title": "How to tell if your AI platforms’ accounts have been hacked",
-    "sent_at": "2026-08-16T01:08:46.797804+00:00"
-  },
-  "https://techcrunch.com/?p=3153306": {
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "sent_at": "2026-08-16T01:08:46.310197+00:00"
-  },
-  "https://techcrunch.com/?p=3153310": {
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "sent_at": "2026-08-16T01:08:45.818532+00:00"
-  },
-  "https://techcrunch.com/?p=3153313": {
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "sent_at": "2026-08-16T01:08:45.259723+00:00"
-  },
-  "https://www.threads.com/t/DcAL7NLgbrR": {
-    "title": "@feelfree_ai: AI 보안이 단순히 모델 자체의 문제라 생각했다면, 이제는 완전히 ...",
-    "sent_at": "2026-08-15T01:05:30.692781+00:00"
-  },
-  "https://www.threads.com/t/DcAa7C5D6k_": {
-    "title": "@feelfree_ai: 기존 코드 임베딩이 단순 정적 검색에 치우쳐 있던 문제를 파고...",
-    "sent_at": "2026-08-15T01:05:30.130795+00:00"
   }
 }
