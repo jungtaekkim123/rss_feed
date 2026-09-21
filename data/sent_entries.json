@@ -1,4 +1,36 @@
 {
+  "https://www.threads.com/t/Ddfo4hQAbi-": {
+    "title": "@feelfree_ai: LLM으로 AI 에이전트를 평가하느라 비용과 일관성 문제로 고민하셨다...",
+    "sent_at": "2026-09-21T03:18:53.433819+00:00"
+  },
+  "https://www.threads.com/t/DdgpG9hgXXD": {
+    "title": "@feelfree_ai: LLM API 구축해두고 트래픽 몰릴 때 latency 터지는 경험 해보신분 계신가...",
+    "sent_at": "2026-09-21T03:18:52.923620+00:00"
+  },
+  "https://www.threads.com/t/DdiCeALjseR": {
+    "title": "@feelfree_ai: 인간이 만드는 마지막 AI는 결국 스스로를 개량하고 그 개선 프로ᄉ...",
+    "sent_at": "2026-09-21T03:18:52.455186+00:00"
+  },
+  "https://techcrunch.com/?p=3152751": {
+    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+    "sent_at": "2026-09-21T03:18:25.176586+00:00"
+  },
+  "https://techcrunch.com/?p=3166716": {
+    "title": "Is the AI industry really ready to slow down?",
+    "sent_at": "2026-09-21T03:18:24.714763+00:00"
+  },
+  "https://techcrunch.com/?p=3166721": {
+    "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+    "sent_at": "2026-09-21T03:18:24.221697+00:00"
+  },
+  "https://techcrunch.com/?p=3166196": {
+    "title": "World model companies are keeping a lot of secrets",
+    "sent_at": "2026-09-21T03:18:23.765172+00:00"
+  },
+  "https://techcrunch.com/?p=3166682": {
+    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+    "sent_at": "2026-09-21T03:18:23.272708+00:00"
+  },
   "https://www.threads.com/t/DddsrEZgZIQ": {
     "title": "@feelfree_ai: AI가 코드 검수를 넘어 아예 전용 정적 분석기까지 직접 만들어 ᄉ...",
     "sent_at": "2026-09-20T03:23:55.551533+00:00"
@@ -1966,37 +1998,5 @@
   "https://techcrunch.com/?p=3153291": {
     "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
     "sent_at": "2026-08-17T01:05:59.603306+00:00"
-  },
-  "https://techcrunch.com/?p=3153318": {
-    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "sent_at": "2026-08-17T01:05:59.160031+00:00"
-  },
-  "https://techcrunch.com/?p=3153329": {
-    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-    "sent_at": "2026-08-17T01:05:58.729801+00:00"
-  },
-  "https://techcrunch.com/?p=3153332": {
-    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "sent_at": "2026-08-17T01:05:58.257148+00:00"
-  },
-  "https://www.threads.com/t/DcCwm9ZgWaH": {
-    "title": "@feelfree_ai: 맥북 에어 16GB 메모리만으로 이번에 새로 나온 Qwen3.8 27B LLM을 92% 정확도로 ...",
-    "sent_at": "2026-08-16T01:09:16.200452+00:00"
-  },
-  "https://www.threads.com/t/DcDMEXdASEK": {
-    "title": "@feelfree_ai: 단순 키워드 매칭에 의존하던 기존 RAG 검색의 답답함을 해결하ᄀ...",
-    "sent_at": "2026-08-16T01:09:15.664688+00:00"
-  },
-  "https://www.threads.com/t/DcD_hrCgSLg": {
-    "title": "@feelfree_ai: 한국어 RAG 구축할 때 보던 MTEB 임베딩 리더보드가 v2로 전면 개편되어...",
-    "sent_at": "2026-08-16T01:09:15.129713+00:00"
-  },
-  "https://medium.com/p/f4b792f3f0d8": {
-    "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
-    "sent_at": "2026-08-16T01:08:57.829918+00:00"
-  },
-  "https://engineering.fb.com/?p=24221": {
-    "title": "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler",
-    "sent_at": "2026-08-16T01:08:55.917379+00:00"
   }
 }
