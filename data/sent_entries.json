@@ -1,4 +1,112 @@
 {
+  "https://www.threads.com/t/DdisAnQAZR5": {
+    "title": "@feelfree_ai: 코딩 에이전트 구축을 고민 중이셨다면 Z.ai가 'ZCode'를 전격 오픈소...",
+    "sent_at": "2026-09-22T03:18:47.233361+00:00"
+  },
+  "https://www.threads.com/t/DdjcvO7AeTN": {
+    "title": "@feelfree_ai: LLM이 작성한 요약문을 검증하려고 또 다른 LLM을 검토자로 붙이면...",
+    "sent_at": "2026-09-22T03:18:46.675749+00:00"
+  },
+  "https://www.threads.com/t/DdkbbVGAVvq": {
+    "title": "@feelfree_ai: AI 에이전트의 성능을 개선할 때마다 들어가던 비싼 토큰 비용을 ...",
+    "sent_at": "2026-09-22T03:18:46.129884+00:00"
+  },
+  "https://www.threads.com/t/DdkuGkQgZpr": {
+    "title": "@feelfree_ai: 스마트폰에서 AI가 제대로 돌아가려면 기존의 거대한 모델을 단순히 ...",
+    "sent_at": "2026-09-22T03:18:45.573165+00:00"
+  },
+  "https://toss.tech/article/remittance_transfer": {
+    "title": "도메인 지식 없는 디자이너가 팀의 기준을 바꾼 방법",
+    "sent_at": "2026-09-22T03:18:32.629787+00:00"
+  },
+  "efef7c6cb4883104326929e4006dcf8d1349cb2d": {
+    "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
+    "sent_at": "2026-09-22T03:18:26.744762+00:00"
+  },
+  "01M2V3682PGT0BQZV5H15J7FSE": {
+    "title": "Python Workers are now generally available",
+    "sent_at": "2026-09-22T03:18:25.714328+00:00"
+  },
+  "https://huggingface.co/blog/tokenizers-v1": {
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "sent_at": "2026-09-22T03:18:23.898925+00:00"
+  },
+  "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": {
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "sent_at": "2026-09-22T03:18:23.343308+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98393": {
+    "title": "5 Companies Using NVIDIA AI for Clean Energy",
+    "sent_at": "2026-09-22T03:18:21.308219+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98407": {
+    "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+    "sent_at": "2026-09-22T03:18:20.766129+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98372": {
+    "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+    "sent_at": "2026-09-22T03:18:20.211211+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98364": {
+    "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+    "sent_at": "2026-09-22T03:18:19.677570+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98386": {
+    "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+    "sent_at": "2026-09-22T03:18:19.111675+00:00"
+  },
+  "https://engineering.fb.com/?p=24485": {
+    "title": "Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable",
+    "sent_at": "2026-09-22T03:18:13.708151+00:00"
+  },
+  "https://engineering.fb.com/?p=24447": {
+    "title": "Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems",
+    "sent_at": "2026-09-22T03:18:13.167604+00:00"
+  },
+  "https://openai.com/index/v7": {
+    "title": "How V7 gives AI agents institutional memory",
+    "sent_at": "2026-09-22T03:18:10.782873+00:00"
+  },
+  "https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "sent_at": "2026-09-22T03:18:10.224226+00:00"
+  },
+  "https://openai.com/index/building-standards-next-phase-ai": {
+    "title": "Building standards for the next phase of AI",
+    "sent_at": "2026-09-22T03:18:09.673847+00:00"
+  },
+  "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": {
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "sent_at": "2026-09-22T03:18:09.115303+00:00"
+  },
+  "https://openai.com/index/advisory-group-on-mathematics-and-ai": {
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "sent_at": "2026-09-22T03:18:08.578202+00:00"
+  },
+  "https://goddaehee.tistory.com/645": {
+    "title": "Aside 브라우저란? Aside 브라우저(AI 브라우저) 사용방법 - Claude Code와 Codex에 브라우저를 연결하는 방법, Aside 사용 가이드",
+    "sent_at": "2026-09-22T03:18:02.779357+00:00"
+  },
+  "https://techcrunch.com/?p=3167037": {
+    "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+    "sent_at": "2026-09-22T03:17:55.777169+00:00"
+  },
+  "https://techcrunch.com/?p=3167075": {
+    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "sent_at": "2026-09-22T03:17:55.203732+00:00"
+  },
+  "https://techcrunch.com/?p=3167098": {
+    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+    "sent_at": "2026-09-22T03:17:54.661984+00:00"
+  },
+  "https://techcrunch.com/?p=3167174": {
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "sent_at": "2026-09-22T03:17:54.082280+00:00"
+  },
+  "https://techcrunch.com/?p=3167267": {
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "sent_at": "2026-09-22T03:17:53.273923+00:00"
+  },
   "https://www.threads.com/t/Ddfo4hQAbi-": {
     "title": "@feelfree_ai: LLM으로 AI 에이전트를 평가하느라 비용과 일관성 문제로 고민하셨다...",
     "sent_at": "2026-09-21T03:18:53.433819+00:00"
@@ -1890,113 +1998,5 @@
   "https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
     "title": "Strengthening democratic oversight in national security",
     "sent_at": "2026-08-19T01:05:27.564930+00:00"
-  },
-  "https://techcrunch.com/?p=3154044": {
-    "title": "OpenAI institutes new safeguards after Hugging Face breach",
-    "sent_at": "2026-08-19T01:05:14.996800+00:00"
-  },
-  "https://techcrunch.com/?p=3154071": {
-    "title": "TikTok explores peer-to-peer payments via DMs, report says",
-    "sent_at": "2026-08-19T01:05:14.614694+00:00"
-  },
-  "https://techcrunch.com/?p=3154080": {
-    "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
-    "sent_at": "2026-08-19T01:05:14.234777+00:00"
-  },
-  "https://techcrunch.com/?p=3154081": {
-    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-    "sent_at": "2026-08-19T01:05:13.852024+00:00"
-  },
-  "https://www.threads.com/t/DcH2v76AS2R": {
-    "title": "@feelfree_ai: 음색 복제 성능부터 54ms 초저지연 반응까지 다 잡은 2B 크기의 오픈ᄉ...",
-    "sent_at": "2026-08-18T01:04:48.542004+00:00"
-  },
-  "https://www.threads.com/t/DcIa6lsgV0B": {
-    "title": "@feelfree_ai: 에이전틱 AI 데모는 노트북 안에서만 화려할 뿐, 실제 프로덕션에 ᄋ...",
-    "sent_at": "2026-08-18T01:04:48.006484+00:00"
-  },
-  "https://www.threads.com/t/DcI4cETAAJh": {
-    "title": "@feelfree_ai: 키워드 하나만 입력하면 AI가 대본 작성부터 자막, 음성, 영상 수ᄀ...",
-    "sent_at": "2026-08-18T01:04:47.468232+00:00"
-  },
-  "https://www.threads.com/t/DcJHWgDARV5": {
-    "title": "@feelfree_ai: 엔비디아가 별도 프롬프트 템플릿이나 툴 정의 없이, 오직 파이썬 ...",
-    "sent_at": "2026-08-18T01:04:46.937179+00:00"
-  },
-  "https://toss.tech/article/games-in-ads": {
-    "title": "토스는 어떻게 광고 속에 게임을 넣었을까",
-    "sent_at": "2026-08-18T01:04:34.101686+00:00"
-  },
-  "e0eaa8dc02bf3dada9e373bdf284e82bd4d4e86c": {
-    "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
-    "sent_at": "2026-08-18T01:04:29.041282+00:00"
-  },
-  "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2": {
-    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-    "sent_at": "2026-08-18T01:04:27.216591+00:00"
-  },
-  "https://blogs.nvidia.com/?p=97752": {
-    "title": "Securing the Infrastructure of Intelligence",
-    "sent_at": "2026-08-18T01:04:26.203689+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/": {
-    "title": "Get closer to the game with Gemini and Pixel",
-    "sent_at": "2026-08-18T01:04:25.110492+00:00"
-  },
-  "https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
-    "title": "New policy ideas for the Intelligence Age",
-    "sent_at": "2026-08-18T01:04:24.172976+00:00"
-  },
-  "https://openai.com/index/openai-joins-ports-pike-project": {
-    "title": "OpenAI joins PORTS-Pike project",
-    "sent_at": "2026-08-18T01:04:23.641880+00:00"
-  },
-  "https://openai.com/index/the-defenders-window": {
-    "title": "The Defender’s Window",
-    "sent_at": "2026-08-18T01:04:23.115296+00:00"
-  },
-  "https://goddaehee.tistory.com/631": {
-    "title": "Grok Imagine Image 2.0 소개 + 튜토리얼 - 사용법(grok-imagine-image-2.0) : 모델명&middot;가격&middot;quality 파라미터 한눈에 보기",
-    "sent_at": "2026-08-18T01:04:19.600918+00:00"
-  },
-  "https://github.blog/?p=98309": {
-    "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-    "sent_at": "2026-08-18T01:04:13.911834+00:00"
-  },
-  "https://techcrunch.com/?p=3153648": {
-    "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
-    "sent_at": "2026-08-18T01:04:13.171300+00:00"
-  },
-  "https://techcrunch.com/?p=3153590": {
-    "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-    "sent_at": "2026-08-18T01:04:12.638040+00:00"
-  },
-  "https://techcrunch.com/?p=3153672": {
-    "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
-    "sent_at": "2026-08-18T01:04:12.105370+00:00"
-  },
-  "https://techcrunch.com/?p=3153653": {
-    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-    "sent_at": "2026-08-18T01:04:11.568173+00:00"
-  },
-  "https://techcrunch.com/?p=3153733": {
-    "title": "Anthropic’s annualized revenue surges to $65B",
-    "sent_at": "2026-08-18T01:04:11.034449+00:00"
-  },
-  "https://www.threads.com/t/DcFabvZAfLs": {
-    "title": "@feelfree_ai: 단 28MB RAM만 써서 기기 내부에서 툴 콜링을 처리하는 45M 파라미터 모델ᄋ...",
-    "sent_at": "2026-08-17T01:06:28.723557+00:00"
-  },
-  "https://www.threads.com/t/DcF8kDSgUvS": {
-    "title": "@feelfree_ai: AI 에이전트에 API 키나 OAuth 토큰을 직접 넘겨주는 게 불안해서 연동ᄋ...",
-    "sent_at": "2026-08-17T01:06:28.281176+00:00"
-  },
-  "https://goddaehee.tistory.com/630": {
-    "title": "Grok 4.6 출시 요약 - Grok 4.6 어떤 사람에게 맞을까(&quot;코딩 1위&quot;는 어디까지 맞나?)",
-    "sent_at": "2026-08-17T01:06:07.111332+00:00"
-  },
-  "https://techcrunch.com/?p=3153291": {
-    "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
-    "sent_at": "2026-08-17T01:05:59.603306+00:00"
   }
 }
