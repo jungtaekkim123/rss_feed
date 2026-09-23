@@ -1,4 +1,100 @@
 {
+  "https://www.threads.com/t/DdlJgDUiE8M": {
+    "title": "@feelfree_ai: LLM 강화학습(RL)이 추론 능력을 획기적으로 올려준다고 알려져 있...",
+    "sent_at": "2026-09-23T03:19:08.197350+00:00"
+  },
+  "https://www.threads.com/t/DdlrCB-gY2Q": {
+    "title": "@feelfree_ai: 아직도 LLM 프롬프트 문구를 손으로 일일이 수정하고 계신다면, 이제...",
+    "sent_at": "2026-09-23T03:19:07.803622+00:00"
+  },
+  "https://www.threads.com/t/Ddl5nGAAti9": {
+    "title": "@feelfree_ai: OpenAI 연구원은 과연 어떤 내용으로 면접을 준비했을까요? 현직 ...",
+    "sent_at": "2026-09-23T03:19:07.424303+00:00"
+  },
+  "https://www.threads.com/t/DdnFtDcgUAH": {
+    "title": "@feelfree_ai: 단 8B 크기의 모델이 어떻게 32B 거대 모델의 SQL 작성 성능을 넘어섰ᄋ...",
+    "sent_at": "2026-09-23T03:19:07.034660+00:00"
+  },
+  "https://toss.tech/article/toss-doctor": {
+    "title": "쉼 없이 도는 테스트, 사람이 어디까지 돌봐야 할까요? - 토스닥터(Toss Doctor)",
+    "sent_at": "2026-09-23T03:18:54.000386+00:00"
+  },
+  "https://toss.tech/article/asset_management": {
+    "title": "방해하지 않고, 눈에 띌 수 있을까",
+    "sent_at": "2026-09-23T03:18:53.634263+00:00"
+  },
+  "3f3cdf7764c9ed9c135b98890bec5b260beeb5ae": {
+    "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
+    "sent_at": "2026-09-23T03:18:46.288828+00:00"
+  },
+  "4fedaed1301f65781a8d0cf0c10d6af080cb9c4c": {
+    "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
+    "sent_at": "2026-09-23T03:18:45.915720+00:00"
+  },
+  "01M31X3A04MPGJV1GB3JFSSSYM": {
+    "title": "Introducing Worker Previews: Isolated preview environments for every change your agent makes",
+    "sent_at": "2026-09-23T03:18:44.130040+00:00"
+  },
+  "01M34JJ73CQHS91WGFD6NM0X09": {
+    "title": "We just shipped support for the ugliest part of HTTP: Vary",
+    "sent_at": "2026-09-23T03:18:43.755065+00:00"
+  },
+  "https://huggingface.co/blog/omlx": {
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "sent_at": "2026-09-23T03:18:41.323439+00:00"
+  },
+  "https://huggingface.co/blog/transformers-llama-cpp-quants": {
+    "title": "Transformers now runs llama.cpp quants",
+    "sent_at": "2026-09-23T03:18:40.950572+00:00"
+  },
+  "https://huggingface.co/blog/evaleval-aisi": {
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "sent_at": "2026-09-23T03:18:40.572564+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98370": {
+    "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+    "sent_at": "2026-09-23T03:18:37.556180+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98374": {
+    "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+    "sent_at": "2026-09-23T03:18:37.179022+00:00"
+  },
+  "https://openai.com/index/priorities-principles-third-party-assessments": {
+    "title": "Priorities and principles for effective third party assessments",
+    "sent_at": "2026-09-23T03:18:34.818101+00:00"
+  },
+  "https://openai.com/index/parallel-cuts-time-and-cost-with-astra": {
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "sent_at": "2026-09-23T03:18:34.439379+00:00"
+  },
+  "https://openai.com/index/introducing-gpt-6-sol-and-luna": {
+    "title": "Introducing GPT-6 Sol and Luna",
+    "sent_at": "2026-09-23T03:18:34.065126+00:00"
+  },
+  "https://openai.com/index/better-prompt-caching-for-gpt-6": {
+    "title": "Better prompt caching for GPT-6",
+    "sent_at": "2026-09-23T03:18:33.689081+00:00"
+  },
+  "https://techcrunch.com/?p=3167713": {
+    "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+    "sent_at": "2026-09-23T03:18:21.349595+00:00"
+  },
+  "https://techcrunch.com/?p=3167744": {
+    "title": "Apple could take on Whoop with a new fitness tracker, report says",
+    "sent_at": "2026-09-23T03:18:20.970615+00:00"
+  },
+  "https://techcrunch.com/?p=3166854": {
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "sent_at": "2026-09-23T03:18:20.588114+00:00"
+  },
+  "https://techcrunch.com/?p=3167901": {
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "sent_at": "2026-09-23T03:18:20.214338+00:00"
+  },
+  "https://techcrunch.com/?p=3167417": {
+    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "sent_at": "2026-09-23T03:18:19.843896+00:00"
+  },
   "https://www.threads.com/t/DdisAnQAZR5": {
     "title": "@feelfree_ai: 코딩 에이전트 구축을 고민 중이셨다면 Z.ai가 'ZCode'를 전격 오픈소...",
     "sent_at": "2026-09-22T03:18:47.233361+00:00"
@@ -1902,101 +1998,5 @@
   "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/": {
     "title": "5 new ways to level up your learning with Search",
     "sent_at": "2026-08-20T01:04:52.454508+00:00"
-  },
-  "https://openai.com/index/chatgpt-ads-expands-across-europe": {
-    "title": "ChatGPT Ads expands across Europe",
-    "sent_at": "2026-08-20T01:04:51.575826+00:00"
-  },
-  "https://openai.com/index/replit": {
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "sent_at": "2026-08-20T01:04:51.044485+00:00"
-  },
-  "https://openai.com/index/offering-zero-data-retention-for-frontier-models": {
-    "title": "Offering Zero Data Retention for frontier models",
-    "sent_at": "2026-08-20T01:04:50.513638+00:00"
-  },
-  "https://github.blog/?p=98348": {
-    "title": "GitHub Copilot app for Beginners: Managing your work",
-    "sent_at": "2026-08-20T01:04:40.686734+00:00"
-  },
-  "https://techcrunch.com/?p=3154186": {
-    "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
-    "sent_at": "2026-08-20T01:04:39.908350+00:00"
-  },
-  "https://techcrunch.com/?p=3154652": {
-    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-    "sent_at": "2026-08-20T01:04:39.346047+00:00"
-  },
-  "https://techcrunch.com/?p=3154506": {
-    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-    "sent_at": "2026-08-20T01:04:38.815043+00:00"
-  },
-  "https://techcrunch.com/?p=3154552": {
-    "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-    "sent_at": "2026-08-20T01:04:38.278736+00:00"
-  },
-  "https://techcrunch.com/?p=3154600": {
-    "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-    "sent_at": "2026-08-20T01:04:37.751738+00:00"
-  },
-  "https://www.threads.com/t/DcKdKNqgSh3": {
-    "title": "@feelfree_ai: LLM 추론 성능을 극대화할 때 늘 발목을 잡던 CUDA Graph의 메모리 및 ᄒ...",
-    "sent_at": "2026-08-19T01:05:54.473195+00:00"
-  },
-  "https://www.threads.com/t/DcK3peiE7rR": {
-    "title": "@feelfree_ai: 이제 AI 에이전트에게 단순히 '툴(Tool)'만 쥐여주는 방식은 한계가 명...",
-    "sent_at": "2026-08-19T01:05:54.085295+00:00"
-  },
-  "https://www.threads.com/t/DcLs1XNgfiP": {
-    "title": "@feelfree_ai: 1억 7,900만 건의 대용량 데이터를 처리할 때 GPU로 SQL을 돌리면 작업 ...",
-    "sent_at": "2026-08-19T01:05:53.693404+00:00"
-  },
-  "https://www.threads.com/t/DcMzkRuARcY": {
-    "title": "@feelfree_ai: AI 코딩 에이전트에게 단순 명령만 내려서는 실제 프로덕션 수준ᄋ...",
-    "sent_at": "2026-08-19T01:05:53.306036+00:00"
-  },
-  "5bd92664f8ba6ec61ac2d68e8b4b52a7f2988613": {
-    "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo",
-    "sent_at": "2026-08-19T01:05:35.214726+00:00"
-  },
-  "01M0ANY0TKGXDWAN9C58T3A1HR": {
-    "title": "BGP Role model: tracking the adoption of RFC 9234",
-    "sent_at": "2026-08-19T01:05:34.539778+00:00"
-  },
-  "https://engineering.atspotify.com/?p=6OwIaRIOSFOCZSHMjmLIxv": {
-    "title": "Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant",
-    "sent_at": "2026-08-19T01:05:33.862696+00:00"
-  },
-  "https://huggingface.co/blog/multi-vector-encoder": {
-    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-    "sent_at": "2026-08-19T01:05:32.518401+00:00"
-  },
-  "https://huggingface.co/blog/ibm-research/altk-evolve-hmm": {
-    "title": "How Much Memory Does Your Agent Actually Need?",
-    "sent_at": "2026-08-19T01:05:32.137337+00:00"
-  },
-  "https://engineering.fb.com/?p=24251": {
-    "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
-    "sent_at": "2026-08-19T01:05:30.076696+00:00"
-  },
-  "https://openai.com/index/nvidia/chatgpt-work": {
-    "title": "How NVIDIA scales expertise with ChatGPT Work",
-    "sent_at": "2026-08-19T01:05:29.082931+00:00"
-  },
-  "https://openai.com/index/chatgpt-for-teens": {
-    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-    "sent_at": "2026-08-19T01:05:28.710431+00:00"
-  },
-  "https://openai.com/index/pacing-model-development-cyber-capabilities": {
-    "title": "Pacing model development in an era of cyber-critical capabilities",
-    "sent_at": "2026-08-19T01:05:28.320676+00:00"
-  },
-  "https://openai.com/index/partnering-with-codeai": {
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "sent_at": "2026-08-19T01:05:27.936033+00:00"
-  },
-  "https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
-    "title": "Strengthening democratic oversight in national security",
-    "sent_at": "2026-08-19T01:05:27.564930+00:00"
   }
 }
