@@ -1,4 +1,80 @@
 {
+  "https://www.threads.com/t/Ddn92S_AesM": {
+    "title": "@feelfree_ai: 이제 로봇 개발도 개발자 혼자가 아니라 AI 에이전트와 협업해 ROS 2 앱ᄋ...",
+    "sent_at": "2026-09-24T03:08:47.555632+00:00"
+  },
+  "https://www.threads.com/t/Ddpe1A1ktO-": {
+    "title": "@feelfree_ai: 벤치마크 점수는 계속 오르는데, 왜 우리 AI 에이전트는 실전 업무에...",
+    "sent_at": "2026-09-24T03:08:47.018342+00:00"
+  },
+  "https://toss.tech/article/AI_chatbot": {
+    "title": "연 300시간을 아낀 AI 상담 서비스",
+    "sent_at": "2026-09-24T03:08:31.203534+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp": {
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "sent_at": "2026-09-24T03:08:23.567363+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98468": {
+    "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+    "sent_at": "2026-09-24T03:08:22.513954+00:00"
+  },
+  "https://engineering.fb.com/?p=24499": {
+    "title": "Bringing Private Processing to Meta AI Glasses",
+    "sent_at": "2026-09-24T03:08:21.529397+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/": {
+    "title": "Google Beam expands with new regions, partners, and customers",
+    "sent_at": "2026-09-24T03:08:20.641961+00:00"
+  },
+  "https://openai.com/index/invideo-builds-with-gpt-6-astra": {
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "sent_at": "2026-09-24T03:08:19.633789+00:00"
+  },
+  "https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "sent_at": "2026-09-24T03:08:19.099644+00:00"
+  },
+  "https://openai.com/index/sam-altman-un-security-council-remarks": {
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "sent_at": "2026-09-24T03:08:18.568257+00:00"
+  },
+  "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "sent_at": "2026-09-24T03:08:18.036454+00:00"
+  },
+  "https://openai.com/index/two-years-of-openai-academy": {
+    "title": "Two years of OpenAI Academy",
+    "sent_at": "2026-09-24T03:08:17.502705+00:00"
+  },
+  "https://github.blog/?p=98976": {
+    "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+    "sent_at": "2026-09-24T03:08:04.560606+00:00"
+  },
+  "https://github.blog/?p=99002": {
+    "title": "Rendering huge pull requests in the GitHub Copilot app",
+    "sent_at": "2026-09-24T03:08:04.016765+00:00"
+  },
+  "https://techcrunch.com/?p=3168578": {
+    "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+    "sent_at": "2026-09-24T03:08:01.963102+00:00"
+  },
+  "https://techcrunch.com/?p=3168626": {
+    "title": "Meta introduces camera-free AI glasses",
+    "sent_at": "2026-09-24T03:08:01.426613+00:00"
+  },
+  "https://techcrunch.com/?p=3168624": {
+    "title": "Meta is trying VR glasses (again), this time with more IMAX",
+    "sent_at": "2026-09-24T03:08:00.880246+00:00"
+  },
+  "https://techcrunch.com/?p=3168692": {
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "sent_at": "2026-09-24T03:08:00.333018+00:00"
+  },
+  "https://techcrunch.com/?p=3168527": {
+    "title": "Everything new coming to Meta’s AI agent Muse",
+    "sent_at": "2026-09-24T03:07:59.795998+00:00"
+  },
   "https://www.threads.com/t/DdlJgDUiE8M": {
     "title": "@feelfree_ai: LLM 강화학습(RL)이 추론 능력을 획기적으로 올려준다고 알려져 있...",
     "sent_at": "2026-09-23T03:19:08.197350+00:00"
@@ -1922,81 +1998,5 @@
   "https://techcrunch.com/?p=3155738": {
     "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
     "sent_at": "2026-08-22T01:04:18.314396+00:00"
-  },
-  "https://toss.tech/article/tech_talk_talk_2": {
-    "title": "LLM 서빙, 띄우는 것과 잘 띄우는 것 사이",
-    "sent_at": "2026-08-21T01:08:13.327053+00:00"
-  },
-  "01M0E1JC8D74SDDVJCVBVX8EFA": {
-    "title": "From all-or-nothing to task-based OAuth consent",
-    "sent_at": "2026-08-21T01:08:08.022613+00:00"
-  },
-  "https://medium.com/p/a5a8e799ea2c": {
-    "title": "In-House LLM Serving at Netflix",
-    "sent_at": "2026-08-21T01:08:06.819309+00:00"
-  },
-  "https://huggingface.co/blog/LiquidAI/lfm25-dspark": {
-    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-    "sent_at": "2026-08-21T01:08:05.873310+00:00"
-  },
-  "https://blogs.nvidia.com/?p=97798": {
-    "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
-    "sent_at": "2026-08-21T01:08:04.890602+00:00"
-  },
-  "https://openai.com/index/stampli": {
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "sent_at": "2026-08-21T01:08:03.464869+00:00"
-  },
-  "https://openai.com/index/introducing-ai-futures": {
-    "title": "Introducing AI Futures",
-    "sent_at": "2026-08-21T01:08:02.970804+00:00"
-  },
-  "https://github.blog/?p=98377": {
-    "title": "The August 17 outage, and the work ahead",
-    "sent_at": "2026-08-21T01:07:54.342158+00:00"
-  },
-  "https://techcrunch.com/?p=3155224": {
-    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "sent_at": "2026-08-21T01:07:53.607738+00:00"
-  },
-  "https://techcrunch.com/?p=3155215": {
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "sent_at": "2026-08-21T01:07:53.109404+00:00"
-  },
-  "https://techcrunch.com/?post_type=tc_video&p=3155294": {
-    "title": "Learn what VCs actually want, from a founder who’s raised $1B",
-    "sent_at": "2026-08-21T01:07:52.615823+00:00"
-  },
-  "https://techcrunch.com/?p=3155270": {
-    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "sent_at": "2026-08-21T01:07:52.119680+00:00"
-  },
-  "https://techcrunch.com/?p=3155276": {
-    "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-    "sent_at": "2026-08-21T01:07:51.625980+00:00"
-  },
-  "https://www.threads.com/t/DcOJRV9gaiL": {
-    "title": "@feelfree_ai: NVIDIA가 허깅페이스 모델을 단 2개의 명령어만으로 TensorRT 최적화까지 끄...",
-    "sent_at": "2026-08-20T01:05:12.990195+00:00"
-  },
-  "https://www.threads.com/t/DcOkbHTgZdL": {
-    "title": "@feelfree_ai: Liquid AI가 양자화 인지 증류(QAD) 기술을 적용해 4비트 모델의 성능 손ᄉ...",
-    "sent_at": "2026-08-20T01:05:12.426322+00:00"
-  },
-  "https://toss.tech/article/ads_dashboard_fe": {
-    "title": "전체 데이터를 브라우저에 두는 광고 대시보드 만들기",
-    "sent_at": "2026-08-20T01:05:01.265233+00:00"
-  },
-  "01M00Y54SDH5EBZBFJ1FQZ2BX9": {
-    "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
-    "sent_at": "2026-08-20T01:04:55.793514+00:00"
-  },
-  "https://huggingface.co/blog/LiquidAI/qad": {
-    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-    "sent_at": "2026-08-20T01:04:54.161973+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/": {
-    "title": "5 new ways to level up your learning with Search",
-    "sent_at": "2026-08-20T01:04:52.454508+00:00"
   }
 }
