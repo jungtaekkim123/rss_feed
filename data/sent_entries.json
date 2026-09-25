@@ -1,4 +1,64 @@
 {
+  "https://www.threads.com/t/DdqMOh6Ez0k": {
+    "title": "@feelfree_ai: LLM 양자화에서 당연하게 여겨지던 ‘하나의 모델 가중치로 모든 걸 처ᄅ...",
+    "sent_at": "2026-09-25T03:25:20.597374+00:00"
+  },
+  "https://www.threads.com/t/Ddq4WZwgRCN": {
+    "title": "@feelfree_ai: 문서 던져두면 검색만 해주던 기존 RAG가 아쉬웠다면, 텐센트가 고...",
+    "sent_at": "2026-09-25T03:25:20.174540+00:00"
+  },
+  "https://www.threads.com/t/DdsVzEQAVWh": {
+    "title": "@feelfree_ai: Liquid AI가 LFM2.5-VL에 추측 디코딩(Speculative Decoding)을 적용한 DSpark를 공개했습...",
+    "sent_at": "2026-09-25T03:25:19.780742+00:00"
+  },
+  "219ec8af489642b8d1376bf298af0a210a58f33c": {
+    "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
+    "sent_at": "2026-09-25T03:25:02.695403+00:00"
+  },
+  "01M38DRFS3KYJZFDF0GNHZHXGF": {
+    "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+    "sent_at": "2026-09-25T03:25:01.889254+00:00"
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark": {
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "sent_at": "2026-09-25T03:25:00.389673+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98480": {
+    "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
+    "sent_at": "2026-09-25T03:24:59.508027+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98486": {
+    "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+    "sent_at": "2026-09-25T03:24:59.123094+00:00"
+  },
+  "https://github.blog/?p=98465": {
+    "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+    "sent_at": "2026-09-25T03:24:48.249492+00:00"
+  },
+  "https://github.blog/?p=98939": {
+    "title": "When chat is the wrong UI",
+    "sent_at": "2026-09-25T03:24:47.862216+00:00"
+  },
+  "https://techcrunch.com/?p=3169157": {
+    "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+    "sent_at": "2026-09-25T03:24:46.070786+00:00"
+  },
+  "https://techcrunch.com/?p=3169128": {
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "sent_at": "2026-09-25T03:24:45.687912+00:00"
+  },
+  "https://techcrunch.com/?p=3169215": {
+    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+    "sent_at": "2026-09-25T03:24:45.299937+00:00"
+  },
+  "https://techcrunch.com/?p=3166972": {
+    "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+    "sent_at": "2026-09-25T03:24:44.916286+00:00"
+  },
+  "https://techcrunch.com/?p=3169174": {
+    "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+    "sent_at": "2026-09-25T03:24:44.531976+00:00"
+  },
   "https://www.threads.com/t/Ddn92S_AesM": {
     "title": "@feelfree_ai: 이제 로봇 개발도 개발자 혼자가 아니라 AI 에이전트와 협업해 ROS 2 앱ᄋ...",
     "sent_at": "2026-09-24T03:08:47.555632+00:00"
@@ -1938,65 +1998,5 @@
   "https://techcrunch.com/?p=3155855": {
     "title": "Will the DOJ’s investigation into a16z spook other VCs?",
     "sent_at": "2026-08-23T01:09:39.057596+00:00"
-  },
-  "https://techcrunch.com/?p=3155861": {
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "sent_at": "2026-08-23T01:09:38.520151+00:00"
-  },
-  "https://www.threads.com/t/DcQRaI-AUZf": {
-    "title": "@feelfree_ai: Claude Code, Codex 같은 다양한 AI 에이전트들을 내 로컬 PC의 단 하나의 컨테...",
-    "sent_at": "2026-08-22T01:04:56.743681+00:00"
-  },
-  "https://www.threads.com/t/DcR9uAwgSGY": {
-    "title": "@feelfree_ai: 8GB 랩탑 GPU 하나로 35B 모델을 초당 39.3토큰으로 돌리는 미친 연구가 나...",
-    "sent_at": "2026-08-22T01:04:56.177012+00:00"
-  },
-  "https://www.threads.com/t/DcSUr9pgT29": {
-    "title": "@feelfree_ai: Liquid AI가 모델 답변 품질은 전혀 떨어뜨리지 않으면서 추론 속도ᄆ...",
-    "sent_at": "2026-08-22T01:04:55.627445+00:00"
-  },
-  "https://www.threads.com/t/DcTFhOCAez9": {
-    "title": "@feelfree_ai: 실무에 투입한 AI 에이전트가 '처리 불가'로 뱉어낸 질문의 95%는 사시...",
-    "sent_at": "2026-08-22T01:04:55.088114+00:00"
-  },
-  "3e7f6047f5812686137b8832bd55b853dd906a34": {
-    "title": "AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support",
-    "sent_at": "2026-08-22T01:04:34.455895+00:00"
-  },
-  "01M0GEDGHWE8A801RQP25T1R91": {
-    "title": "Say it once: introducing Bot Preference SynC",
-    "sent_at": "2026-08-22T01:04:33.261096+00:00"
-  },
-  "https://medium.com/p/e9f6a1b1492b": {
-    "title": "A Tale of Two Flink Autoscalers",
-    "sent_at": "2026-08-22T01:04:31.791923+00:00"
-  },
-  "https://huggingface.co/blog/asr-benchmark-optimization": {
-    "title": "Measuring benchmark optimization in speech recognition",
-    "sent_at": "2026-08-22T01:04:30.760192+00:00"
-  },
-  "https://goddaehee.tistory.com/632": {
-    "title": "ABC Legal Agent 사례 - Git &middot; PR &middot; 피드백 루프로 Production Agent를 키운 방법",
-    "sent_at": "2026-08-22T01:04:27.498524+00:00"
-  },
-  "https://techcrunch.com/?p=3155622": {
-    "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-    "sent_at": "2026-08-22T01:04:20.510145+00:00"
-  },
-  "https://techcrunch.com/?p=3155673": {
-    "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-    "sent_at": "2026-08-22T01:04:19.959399+00:00"
-  },
-  "https://techcrunch.com/?p=3155585": {
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "sent_at": "2026-08-22T01:04:19.421386+00:00"
-  },
-  "https://techcrunch.com/?p=3155131": {
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "sent_at": "2026-08-22T01:04:18.857956+00:00"
-  },
-  "https://techcrunch.com/?p=3155738": {
-    "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-    "sent_at": "2026-08-22T01:04:18.314396+00:00"
   }
 }
