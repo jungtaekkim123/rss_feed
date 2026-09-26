@@ -1,4 +1,56 @@
 {
+  "https://www.threads.com/t/DdtVWhFgR_w": {
+    "title": "@feelfree_ai: 실시간 보이스 AI 에이전트를 만들 때 모델 선택보다 복잡한 파이...",
+    "sent_at": "2026-09-26T03:30:55.345044+00:00"
+  },
+  "https://www.threads.com/t/Ddu-0lmgU_z": {
+    "title": "@feelfree_ai: 최신 AI 에이전트에게 복잡한 작업 중 갈림길에서 '더 나은 방향...",
+    "sent_at": "2026-09-26T03:30:54.808739+00:00"
+  },
+  "01M39NRWHQ3A97HJ70DRJS7VGM": {
+    "title": "Agents can now set up your website’s security with Turnstile Spin",
+    "sent_at": "2026-09-26T03:30:38.876022+00:00"
+  },
+  "https://medium.com/p/e9f6a1b1492b": {
+    "title": "A Tale of Two Flink Autoscalers",
+    "sent_at": "2026-09-26T03:30:37.529646+00:00"
+  },
+  "https://medium.com/p/516d5a29b252": {
+    "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
+    "sent_at": "2026-09-26T03:30:36.997332+00:00"
+  },
+  "https://openai.com/index/proaction": {
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "sent_at": "2026-09-26T03:30:33.715592+00:00"
+  },
+  "https://github.blog/?p=99030": {
+    "title": "Improving site performance by shipping more CSS",
+    "sent_at": "2026-09-26T03:30:26.980607+00:00"
+  },
+  "https://github.blog/?p=99027": {
+    "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+    "sent_at": "2026-09-26T03:30:26.369926+00:00"
+  },
+  "https://techcrunch.com/?p=3170007": {
+    "title": "Meta opens early access program for new Muse features",
+    "sent_at": "2026-09-26T03:30:24.437434+00:00"
+  },
+  "https://techcrunch.com/?p=3170070": {
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "sent_at": "2026-09-26T03:30:23.916918+00:00"
+  },
+  "https://techcrunch.com/?p=3163963": {
+    "title": "Automattic has a new board after failed attempt to put CEO on leave",
+    "sent_at": "2026-09-26T03:30:23.304325+00:00"
+  },
+  "https://techcrunch.com/?p=3170030": {
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "sent_at": "2026-09-26T03:30:22.764181+00:00"
+  },
+  "https://techcrunch.com/?p=3169081": {
+    "title": "At Meta Connect, the company’s smart glasses were everywhere",
+    "sent_at": "2026-09-26T03:30:22.153670+00:00"
+  },
   "https://www.threads.com/t/DdqMOh6Ez0k": {
     "title": "@feelfree_ai: LLM 양자화에서 당연하게 여겨지던 ‘하나의 모델 가중치로 모든 걸 처ᄅ...",
     "sent_at": "2026-09-25T03:25:20.597374+00:00"
@@ -1946,57 +1998,5 @@
   "https://www.threads.com/t/DcYHZaxDqAw": {
     "title": "@feelfree_ai: 앤드류 응 교수가 최근에 공개한 AI 엔지니어가 되기 위한 전체 로드매...",
     "sent_at": "2026-08-24T01:07:54.114130+00:00"
-  },
-  "https://techcrunch.com/?p=3155870": {
-    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-    "sent_at": "2026-08-24T01:07:28.234446+00:00"
-  },
-  "https://techcrunch.com/?p=3155695": {
-    "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
-    "sent_at": "2026-08-24T01:07:27.855213+00:00"
-  },
-  "https://techcrunch.com/?p=3155017": {
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "sent_at": "2026-08-24T01:07:27.425964+00:00"
-  },
-  "https://techcrunch.com/?p=3155874": {
-    "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-    "sent_at": "2026-08-24T01:07:27.049155+00:00"
-  },
-  "https://techcrunch.com/?p=3155879": {
-    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "sent_at": "2026-08-24T01:07:26.645410+00:00"
-  },
-  "https://www.threads.com/t/DcU4HDNATHS": {
-    "title": "@feelfree_ai: LLM을 진짜 '바닥'부터 만들어보고 싶다면 무조건 정주행해야 할 가...",
-    "sent_at": "2026-08-23T01:10:08.609447+00:00"
-  },
-  "https://www.threads.com/t/DcVQntrgTIS": {
-    "title": "@feelfree_ai: AI 에이전트에게 아무리 강력한 지침을 적어줘도, 진짜 보안 통제궈...",
-    "sent_at": "2026-08-23T01:10:08.059082+00:00"
-  },
-  "https://www.threads.com/t/DcVxbaEgZ9X": {
-    "title": "@feelfree_ai: AI 에이전트끼리 연동할 때마다 포트 열고 API 키 관리하는 게 번거로워...",
-    "sent_at": "2026-08-23T01:10:07.571551+00:00"
-  },
-  "https://engineering.atspotify.com/?p=60dcNVzos5DWmTFQLUR5O2": {
-    "title": "Content Ingestion & Podcast Video Incident Report",
-    "sent_at": "2026-08-23T01:09:50.758127+00:00"
-  },
-  "https://techcrunch.com/?p=3155518": {
-    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-    "sent_at": "2026-08-23T01:09:40.695782+00:00"
-  },
-  "https://techcrunch.com/?p=3155841": {
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "sent_at": "2026-08-23T01:09:40.156134+00:00"
-  },
-  "https://techcrunch.com/?p=3155023": {
-    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "sent_at": "2026-08-23T01:09:39.607481+00:00"
-  },
-  "https://techcrunch.com/?p=3155855": {
-    "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-    "sent_at": "2026-08-23T01:09:39.057596+00:00"
   }
 }
