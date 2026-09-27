@@ -1,4 +1,36 @@
 {
+  "https://www.threads.com/t/Ddvj5TOAezP": {
+    "title": "@feelfree_ai: LLM을 서비스에 붙일 때 JSON 스키마가 깨지거나 파싱 에러로 고생해 보셨ᄃ...",
+    "sent_at": "2026-09-27T03:39:47.765897+00:00"
+  },
+  "https://www.threads.com/t/DdwFugcAV85": {
+    "title": "@feelfree_ai: Cursor나 Claude Code 같은 코딩 툴을 단순 구현용을 넘어, 스스로 가설으...",
+    "sent_at": "2026-09-27T03:39:47.196110+00:00"
+  },
+  "https://www.threads.com/t/DdxhD9KgW8n": {
+    "title": "@feelfree_ai: ￼ 복잡한 에이전트 프레임워크가 늘 정답은 아닐지도 모릅니다. MIT...",
+    "sent_at": "2026-09-27T03:39:46.562323+00:00"
+  },
+  "https://techcrunch.com/?p=3170235": {
+    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+    "sent_at": "2026-09-27T03:39:19.702290+00:00"
+  },
+  "https://techcrunch.com/?p=3170281": {
+    "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+    "sent_at": "2026-09-27T03:39:19.085596+00:00"
+  },
+  "https://techcrunch.com/?p=3170285": {
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "sent_at": "2026-09-27T03:39:18.542080+00:00"
+  },
+  "https://techcrunch.com/?p=3170226": {
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "sent_at": "2026-09-27T03:39:17.916270+00:00"
+  },
+  "https://techcrunch.com/?p=3170162": {
+    "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+    "sent_at": "2026-09-27T03:39:17.385232+00:00"
+  },
   "https://www.threads.com/t/DdtVWhFgR_w": {
     "title": "@feelfree_ai: 실시간 보이스 AI 에이전트를 만들 때 모델 선택보다 복잡한 파이...",
     "sent_at": "2026-09-26T03:30:55.345044+00:00"
@@ -1966,37 +1998,5 @@
   "https://openai.com/index/gpt-5-6-in-kiro": {
     "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
     "sent_at": "2026-08-25T01:06:30.642369+00:00"
-  },
-  "https://goddaehee.tistory.com/633": {
-    "title": "Claude Code ELI5 스킬 이란? : Anthropic에서 쓰던 화제의 ELI5 스킬(ELI5 설치 및 사용해보기)",
-    "sent_at": "2026-08-25T01:06:29.354673+00:00"
-  },
-  "https://github.blog/?p=98354": {
-    "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
-    "sent_at": "2026-08-25T01:06:22.968726+00:00"
-  },
-  "https://techcrunch.com/?p=3156155": {
-    "title": "Zillow and Redfin settle FTC antitrust case",
-    "sent_at": "2026-08-25T01:06:22.226762+00:00"
-  },
-  "https://techcrunch.com/?p=3156185": {
-    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-    "sent_at": "2026-08-25T01:06:21.755478+00:00"
-  },
-  "https://techcrunch.com/?p=3156218": {
-    "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-    "sent_at": "2026-08-25T01:06:21.262102+00:00"
-  },
-  "https://techcrunch.com/?p=3156230": {
-    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "sent_at": "2026-08-25T01:06:20.789351+00:00"
-  },
-  "https://www.threads.com/t/DcXZ2TTATRJ": {
-    "title": "@feelfree_ai: 이제 AI 에이전트한테 길고 복잡한 프롬프트를 짤 필요 없이, 내가 ...",
-    "sent_at": "2026-08-24T01:07:54.522274+00:00"
-  },
-  "https://www.threads.com/t/DcYHZaxDqAw": {
-    "title": "@feelfree_ai: 앤드류 응 교수가 최근에 공개한 AI 엔지니어가 되기 위한 전체 로드매...",
-    "sent_at": "2026-08-24T01:07:54.114130+00:00"
   }
 }
