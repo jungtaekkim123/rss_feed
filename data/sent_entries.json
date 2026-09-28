@@ -1,4 +1,40 @@
 {
+  "https://www.threads.com/t/Ddx9HnpAcnv": {
+    "title": "@feelfree_ai: 국내 RAG 구축할 때 가장 골치 아픈 게 HWP나 공공문서 파싱인데, 류스...",
+    "sent_at": "2026-09-28T03:38:01.792666+00:00"
+  },
+  "https://www.threads.com/t/DdymKN-AQA5": {
+    "title": "@feelfree_ai: 리버스 엔지니어링의 표준인 IDA에 AI 에이전트를 직접 붙여 쓸 수 이...",
+    "sent_at": "2026-09-28T03:38:01.187606+00:00"
+  },
+  "01M3G3YZB5SBBFF13TYNNPJ62E": {
+    "title": "Cloudflare’s 2026 Annual Founders’ Letter",
+    "sent_at": "2026-09-28T03:37:45.241409+00:00"
+  },
+  "https://goddaehee.tistory.com/646": {
+    "title": "Jev 사용법(Jev란?) - 생성형 AI와 다른 판정 모델 쉽게 이해하기(Jev 가격, 성능, 한계와 실제 활용 사례 정리)",
+    "sent_at": "2026-09-28T03:37:41.846437+00:00"
+  },
+  "https://techcrunch.com/?p=3169746": {
+    "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+    "sent_at": "2026-09-28T03:37:35.358035+00:00"
+  },
+  "https://techcrunch.com/?p=3170008": {
+    "title": "TechCrunch Mobility: AV companies pick their lanes",
+    "sent_at": "2026-09-28T03:37:34.831326+00:00"
+  },
+  "https://techcrunch.com/?p=3170300": {
+    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "sent_at": "2026-09-28T03:37:34.312000+00:00"
+  },
+  "https://techcrunch.com/?p=3170334": {
+    "title": "Can Muse overcome Meta’s trust issues?",
+    "sent_at": "2026-09-28T03:37:33.796618+00:00"
+  },
+  "https://techcrunch.com/?p=3170341": {
+    "title": "Anthropic’s CEO is about to have dinner with President Trump",
+    "sent_at": "2026-09-28T03:37:33.204506+00:00"
+  },
   "https://www.threads.com/t/Ddvj5TOAezP": {
     "title": "@feelfree_ai: LLM을 서비스에 붙일 때 JSON 스키마가 깨지거나 파싱 에러로 고생해 보셨ᄃ...",
     "sent_at": "2026-09-27T03:39:47.765897+00:00"
@@ -1962,41 +1998,5 @@
   "https://www.threads.com/t/Dcad93pgfhr": {
     "title": "@feelfree_ai: 요즘 Z세대의 쇼핑 방식이 AI 에이전트로 빠르게 옮겨가면서, 단순 사...",
     "sent_at": "2026-08-25T01:06:57.634731+00:00"
-  },
-  "https://www.threads.com/t/Dcbda29AVU1": {
-    "title": "@feelfree_ai: 온디바이스 AI 돌릴 때 클라우드 벤치마크 수치만 믿었다가 실제 기ᄀ...",
-    "sent_at": "2026-08-25T01:06:57.113487+00:00"
-  },
-  "2c1999b3f40dcbf5fbc95e907da3c6141bbc8c45": {
-    "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
-    "sent_at": "2026-08-25T01:06:40.114276+00:00"
-  },
-  "01M0TDEVJZ66N7RGSKFA27M2WZ": {
-    "title": "The Cloudflare Blog – Brought to you by EmDash",
-    "sent_at": "2026-08-25T01:06:39.238625+00:00"
-  },
-  "https://blogs.nvidia.com/?p=97826": {
-    "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-    "sent_at": "2026-08-25T01:06:37.258317+00:00"
-  },
-  "https://blogs.nvidia.com/?p=97768": {
-    "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
-    "sent_at": "2026-08-25T01:06:36.777072+00:00"
-  },
-  "https://blogs.nvidia.com/?p=97869": {
-    "title": "How XPUs Meet a World-Class AI Factory",
-    "sent_at": "2026-08-25T01:06:36.266937+00:00"
-  },
-  "https://engineering.fb.com/?p=24394": {
-    "title": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines",
-    "sent_at": "2026-08-25T01:06:33.292830+00:00"
-  },
-  "https://engineering.fb.com/?p=24399": {
-    "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
-    "sent_at": "2026-08-25T01:06:32.792222+00:00"
-  },
-  "https://openai.com/index/gpt-5-6-in-kiro": {
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "sent_at": "2026-08-25T01:06:30.642369+00:00"
   }
 }
