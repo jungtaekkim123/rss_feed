@@ -1,4 +1,80 @@
 {
+  "bd4f16a7bf860913e1106ba3aa40014256a857e5": {
+    "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
+    "sent_at": "2026-09-29T04:13:06.786891+00:00"
+  },
+  "01M3J4F24CZJFAYS930VMKY6WH": {
+    "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
+    "sent_at": "2026-09-29T04:13:06.061832+00:00"
+  },
+  "01M3JF3DKKQ5XNFGNAX8ZFJ833": {
+    "title": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents",
+    "sent_at": "2026-09-29T04:13:05.689229+00:00"
+  },
+  "01M3CW0C8PVD170DBSKBTM8666": {
+    "title": "How fast is the web? Explore billions of real-user measurements with BEACON",
+    "sent_at": "2026-09-29T04:13:05.317181+00:00"
+  },
+  "01M3KR05M9ZET98RWX42EJ7YMG": {
+    "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
+    "sent_at": "2026-09-29T04:13:04.942208+00:00"
+  },
+  "01M3AZRN7QXCG8CS98YQVRRM60": {
+    "title": "Next.js applications, powered by Vite: introducing Vinext 1.0",
+    "sent_at": "2026-09-29T04:13:04.572093+00:00"
+  },
+  "https://huggingface.co/blog/Hcompany/holo4": {
+    "title": "Holo4: powering generalist computer-use agents",
+    "sent_at": "2026-09-29T04:12:58.749565+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/": {
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "sent_at": "2026-09-29T04:12:57.337947+00:00"
+  },
+  "https://openai.com/index/basis-tax-workbook-with-astra": {
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "sent_at": "2026-09-29T04:12:56.609037+00:00"
+  },
+  "https://openai.com/form/codex-originals": {
+    "title": "Are you a Codex Original?",
+    "sent_at": "2026-09-29T04:12:56.238081+00:00"
+  },
+  "https://openai.com/index/lenfest-ai-collaborative-expansion": {
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "sent_at": "2026-09-29T04:12:55.869396+00:00"
+  },
+  "https://openai.com/index/how-we-will-do-better-for-australia": {
+    "title": "How we will do better for Australia",
+    "sent_at": "2026-09-29T04:12:55.493115+00:00"
+  },
+  "https://github.blog/?p=99087": {
+    "title": "Highlights from Git 2.56",
+    "sent_at": "2026-09-29T04:12:43.028680+00:00"
+  },
+  "https://github.blog/?p=98105": {
+    "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+    "sent_at": "2026-09-29T04:12:42.655860+00:00"
+  },
+  "https://techcrunch.com/?p=3170932": {
+    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+    "sent_at": "2026-09-29T04:12:40.968794+00:00"
+  },
+  "https://techcrunch.com/?p=3170936": {
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "sent_at": "2026-09-29T04:12:40.595587+00:00"
+  },
+  "https://techcrunch.com/?p=3170875": {
+    "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+    "sent_at": "2026-09-29T04:12:40.223891+00:00"
+  },
+  "https://techcrunch.com/?p=3171035": {
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "sent_at": "2026-09-29T04:12:39.829259+00:00"
+  },
+  "https://techcrunch.com/?p=3170634": {
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "sent_at": "2026-09-29T04:12:39.459700+00:00"
+  },
   "https://www.threads.com/t/Ddx9HnpAcnv": {
     "title": "@feelfree_ai: 국내 RAG 구축할 때 가장 골치 아픈 게 HWP나 공공문서 파싱인데, 류스...",
     "sent_at": "2026-09-28T03:38:01.792666+00:00"
@@ -1922,81 +1998,5 @@
   "https://d2.naver.com/helloworld/5788040": {
     "title": "VictoriaMetrics 운영기 2편 — 장비 증설 없이 리소스 위기를 해결한 3단계 최적화 전략",
     "sent_at": "2026-08-26T01:08:57.113141+00:00"
-  },
-  "0d62c0134c150af14fc409516cdf59aff26dc9e1": {
-    "title": "Happy 20th Birthday, Amazon EC2",
-    "sent_at": "2026-08-26T01:08:55.028808+00:00"
-  },
-  "https://huggingface.co/blog/pwc-search": {
-    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "sent_at": "2026-08-26T01:08:52.420233+00:00"
-  },
-  "https://huggingface.co/blog/gradio-workflow-guide": {
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "sent_at": "2026-08-26T01:08:51.945850+00:00"
-  },
-  "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": {
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "sent_at": "2026-08-26T01:08:51.465034+00:00"
-  },
-  "https://huggingface.co/blog/ibm-granite/granite-4-2": {
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "sent_at": "2026-08-26T01:08:50.991967+00:00"
-  },
-  "https://blogs.nvidia.com/?p=97918": {
-    "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
-    "sent_at": "2026-08-26T01:08:46.716015+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/search/home-decor-tips/": {
-    "title": "5 ways to upgrade your home decor with Google Search",
-    "sent_at": "2026-08-26T01:08:45.529640+00:00"
-  },
-  "https://openai.com/index/introducing-admin-plugin": {
-    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-    "sent_at": "2026-08-26T01:08:44.583503+00:00"
-  },
-  "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": {
-    "title": "Disrupting a new covert influence campaign from Russia",
-    "sent_at": "2026-08-26T01:08:44.122733+00:00"
-  },
-  "https://openai.com/index/jalapeno-first-results": {
-    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-    "sent_at": "2026-08-26T01:08:43.656775+00:00"
-  },
-  "https://openai.com/index/the-full-stack-behind-abundant-intelligence": {
-    "title": "The full stack behind abundant intelligence",
-    "sent_at": "2026-08-26T01:08:43.185434+00:00"
-  },
-  "https://github.blog/?p=98316": {
-    "title": "How to evaluate LLMs before production",
-    "sent_at": "2026-08-26T01:08:32.628243+00:00"
-  },
-  "https://techcrunch.com/?p=3156618": {
-    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-    "sent_at": "2026-08-26T01:08:31.747292+00:00"
-  },
-  "https://techcrunch.com/?p=3156733": {
-    "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
-    "sent_at": "2026-08-26T01:08:31.273917+00:00"
-  },
-  "https://techcrunch.com/?p=3156746": {
-    "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
-    "sent_at": "2026-08-26T01:08:30.800976+00:00"
-  },
-  "https://techcrunch.com/?p=3156793": {
-    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-    "sent_at": "2026-08-26T01:08:30.331900+00:00"
-  },
-  "https://techcrunch.com/?p=3156922": {
-    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-    "sent_at": "2026-08-26T01:08:29.861901+00:00"
-  },
-  "https://www.threads.com/t/DcaEVGlgb-A": {
-    "title": "@feelfree_ai: 기존 강화학습(PPO·GRPO)이 에이전트 작업의 호흡이 길어질수록 왜 무...",
-    "sent_at": "2026-08-25T01:06:58.118565+00:00"
-  },
-  "https://www.threads.com/t/Dcad93pgfhr": {
-    "title": "@feelfree_ai: 요즘 Z세대의 쇼핑 방식이 AI 에이전트로 빠르게 옮겨가면서, 단순 사...",
-    "sent_at": "2026-08-25T01:06:57.634731+00:00"
   }
 }
