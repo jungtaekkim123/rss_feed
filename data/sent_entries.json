@@ -1,4 +1,104 @@
 {
+  "https://www.threads.com/t/Dd07vMlgR9X": {
+    "title": "@feelfree_ai: 인터넷이 완전히 끊긴 폐쇄망 환경에서도 스스로 장비 고장을 지...",
+    "sent_at": "2026-09-30T03:59:20.293890+00:00"
+  },
+  "https://www.threads.com/t/Dd3FV7zAXgt": {
+    "title": "@feelfree_ai: 단 1B(10억 개) 파라미터의 초경량 모델이 30배 큰 거대 모델들과 대등하...",
+    "sent_at": "2026-09-30T03:59:19.908067+00:00"
+  },
+  "https://www.threads.com/t/Dd312fXgQVL": {
+    "title": "@feelfree_ai: AI 에이전트에게 메일 접근 권한을 줬더니, 분명 \"가장 저렴한 비...",
+    "sent_at": "2026-09-30T03:59:19.518304+00:00"
+  },
+  "https://www.threads.com/t/Dd46fgqAciX": {
+    "title": "@feelfree_ai: Liquid AI에서 허깅페이스 디시전 인덱스(Decision Index) 1위를 갈아치운 의사결...",
+    "sent_at": "2026-09-30T03:59:19.143308+00:00"
+  },
+  "https://toss.tech/article/chipmunk": {
+    "title": "9인조 다람쥐 아이돌을 데뷔시켰습니다",
+    "sent_at": "2026-09-30T03:59:05.733377+00:00"
+  },
+  "https://d2.naver.com/helloworld/7314597": {
+    "title": "Hive는 잊으려 했지만, Spark는 기억하고 있었다: 사라진 get_table RPC 복원기",
+    "sent_at": "2026-09-30T03:59:02.068102+00:00"
+  },
+  "https://d2.naver.com/helloworld/8118359": {
+    "title": "에이전트, 개념부터 같이 정리해봐요 - 워크플로우 · 하네스 · Context/Memory · MCP/A2A",
+    "sent_at": "2026-09-30T03:59:01.690189+00:00"
+  },
+  "01M3MTBRK8BVPBQW7H8PYZ32D4": {
+    "title": "We tested our own WAF with frontier AI models. Here’s what we found",
+    "sent_at": "2026-09-30T03:58:56.959240+00:00"
+  },
+  "01M3MX1WMY7FQZXQH4QK6575ZF": {
+    "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
+    "sent_at": "2026-09-30T03:58:56.592323+00:00"
+  },
+  "01M3N44EM60WP9JA2PGE4ZS5YX": {
+    "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
+    "sent_at": "2026-09-30T03:58:56.181614+00:00"
+  },
+  "01M3NDPTPSCDWFTMFBHE9JAF51": {
+    "title": "Building a certificate authority for the whole Internet",
+    "sent_at": "2026-09-30T03:58:55.800741+00:00"
+  },
+  "01M3NESWHMHMZYRDST3MNM46GJ": {
+    "title": "Using AI to chart a course for our post-quantum migration",
+    "sent_at": "2026-09-30T03:58:55.430616+00:00"
+  },
+  "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source": {
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "sent_at": "2026-09-30T03:58:48.891964+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/kumo-tabular": {
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "sent_at": "2026-09-30T03:58:48.496644+00:00"
+  },
+  "https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
+    "title": "Towards safety cases for frontier AI training",
+    "sent_at": "2026-09-30T03:58:45.946635+00:00"
+  },
+  "https://openai.com/index/introducing-dots": {
+    "title": "Introducing dots",
+    "sent_at": "2026-09-30T03:58:45.575272+00:00"
+  },
+  "https://openai.com/index/devday-2026-recap": {
+    "title": "DevDay 2026 Recap",
+    "sent_at": "2026-09-30T03:58:45.187054+00:00"
+  },
+  "https://openai.com/index/introducing-gpt-6-1-sol": {
+    "title": "Introducing GPT-6.1 Sol",
+    "sent_at": "2026-09-30T03:58:44.807570+00:00"
+  },
+  "https://goddaehee.tistory.com/647": {
+    "title": "GPT-6 Sol&middot;Luna 출시 정리 - Astra&middot;Sol&middot;Luna 차이와 선택 기준(Astra&middot;Sol&middot;Luna 용도와 API 가격 한눈에 보기)",
+    "sent_at": "2026-09-30T03:58:40.325367+00:00"
+  },
+  "https://github.blog/?p=99134": {
+    "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+    "sent_at": "2026-09-30T03:58:32.278415+00:00"
+  },
+  "https://techcrunch.com/?p=3171694": {
+    "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+    "sent_at": "2026-09-30T03:58:31.666288+00:00"
+  },
+  "https://techcrunch.com/?p=3171726": {
+    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+    "sent_at": "2026-09-30T03:58:31.229528+00:00"
+  },
+  "https://techcrunch.com/?p=3171636": {
+    "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+    "sent_at": "2026-09-30T03:58:30.861967+00:00"
+  },
+  "https://techcrunch.com/?p=3171681": {
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "sent_at": "2026-09-30T03:58:30.483920+00:00"
+  },
+  "https://techcrunch.com/?p=3171769": {
+    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+    "sent_at": "2026-09-30T03:58:30.106785+00:00"
+  },
   "bd4f16a7bf860913e1106ba3aa40014256a857e5": {
     "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
     "sent_at": "2026-09-29T04:13:06.786891+00:00"
@@ -1898,105 +1998,5 @@
   "https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
     "title": "Supporting Thailand’s next generation of AI startups",
     "sent_at": "2026-08-28T09:30:38.022688+00:00"
-  },
-  "https://goddaehee.tistory.com/635": {
-    "title": "Ox Alpha 정체 공개 - Z.ai GLM-5.3-Flash 스펙, 가격, 확인된 사실 정리",
-    "sent_at": "2026-08-28T09:30:34.473653+00:00"
-  },
-  "https://github.blog/?p=98468": {
-    "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
-    "sent_at": "2026-08-28T09:30:27.612490+00:00"
-  },
-  "https://techcrunch.com/?p=3157838": {
-    "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
-    "sent_at": "2026-08-28T09:30:26.746691+00:00"
-  },
-  "https://techcrunch.com/?p=3158061": {
-    "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
-    "sent_at": "2026-08-28T09:30:26.273914+00:00"
-  },
-  "https://techcrunch.com/?p=3158092": {
-    "title": "Rivian’s CFO is leaving the company",
-    "sent_at": "2026-08-28T09:30:25.753642+00:00"
-  },
-  "https://techcrunch.com/?p=3158165": {
-    "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-    "sent_at": "2026-08-28T09:30:25.245844+00:00"
-  },
-  "https://huggingface.co/blog/train-multi-vector-encoder": {
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "sent_at": "2026-08-27T07:16:55.307632+00:00"
-  },
-  "https://blogs.nvidia.com/?p=97957": {
-    "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-    "sent_at": "2026-08-27T07:16:54.308139+00:00"
-  },
-  "https://openai.com/index/loveholidays": {
-    "title": "How loveholidays is making everyone a builder with Codex",
-    "sent_at": "2026-08-27T07:16:52.894703+00:00"
-  },
-  "https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
-    "title": "The Hugging Face incident and the road ahead",
-    "sent_at": "2026-08-27T07:16:52.346317+00:00"
-  },
-  "https://openai.com/index/learning-never-stops": {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "sent_at": "2026-08-27T07:16:51.859224+00:00"
-  },
-  "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "sent_at": "2026-08-27T07:16:51.366669+00:00"
-  },
-  "https://goddaehee.tistory.com/634": {
-    "title": "Grok Bot이란? - Grok Bot 설치 및 사용 방법(플랜, 일반 Grok과 다른 점, 가격, 활용 사례)",
-    "sent_at": "2026-08-27T07:16:46.643393+00:00"
-  },
-  "https://github.blog/?p=98460": {
-    "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-    "sent_at": "2026-08-27T07:16:40.023073+00:00"
-  },
-  "https://techcrunch.com/?p=3157364": {
-    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-    "sent_at": "2026-08-27T07:16:39.250595+00:00"
-  },
-  "https://techcrunch.com/?p=3157338": {
-    "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
-    "sent_at": "2026-08-27T07:16:38.765803+00:00"
-  },
-  "https://techcrunch.com/?p=3157431": {
-    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-    "sent_at": "2026-08-27T07:16:38.252634+00:00"
-  },
-  "https://techcrunch.com/?p=3157433": {
-    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-    "sent_at": "2026-08-27T07:16:37.758858+00:00"
-  },
-  "https://techcrunch.com/?p=3157522": {
-    "title": "Nvidia closes in on Hugging Face acquisition",
-    "sent_at": "2026-08-27T07:16:37.207116+00:00"
-  },
-  "https://www.threads.com/t/DcciE8_AT9a": {
-    "title": "@feelfree_ai: 이제 메모리 용량이 부족해서 대형 LLM을 못 돌린다는 건 옛말이 ᄃ...",
-    "sent_at": "2026-08-26T01:09:16.883341+00:00"
-  },
-  "https://www.threads.com/t/Dcc7koIjJvZ": {
-    "title": "@feelfree_ai: AI 에이전트 스킬을 검증할 때 기존처럼 코드 구조나 정적 스타일ᄆ...",
-    "sent_at": "2026-08-26T01:09:16.407591+00:00"
-  },
-  "https://www.threads.com/t/DcdrHtVAbTL": {
-    "title": "@feelfree_ai: 왜 AI 에이전트 성능 평가 결과는 테스트 환경마다 매번 엇갈리고 ᄆ...",
-    "sent_at": "2026-08-26T01:09:15.899701+00:00"
-  },
-  "https://www.threads.com/t/DcexI21Dxjs": {
-    "title": "@feelfree_ai: AI 에이전트 만들 때 매번 수작업으로 하네스 튜닝하느라 고생하셨다...",
-    "sent_at": "2026-08-26T01:09:15.413685+00:00"
-  },
-  "https://toss.tech/article/tech_talk_talk_3": {
-    "title": "토스증권 추천과 검색은 어떻게 진화하고 있을까?",
-    "sent_at": "2026-08-26T01:09:01.122015+00:00"
-  },
-  "https://d2.naver.com/helloworld/5788040": {
-    "title": "VictoriaMetrics 운영기 2편 — 장비 증설 없이 리소스 위기를 해결한 3단계 최적화 전략",
-    "sent_at": "2026-08-26T01:08:57.113141+00:00"
   }
 }
