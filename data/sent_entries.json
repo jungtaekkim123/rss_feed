@@ -1,4 +1,84 @@
 {
+  "https://www.threads.com/t/Dd-w608ARlm": {
+    "title": "@feelfree_ai: 에이전트 수를 무작정 늘린다고 AI 시스템의 성능이 무조건 올라가...",
+    "sent_at": "2026-10-03T03:48:02.297262+00:00"
+  },
+  "https://www.threads.com/t/DeAb5k8Eyyd": {
+    "title": "@feelfree_ai: 128K 컨텍스트를 지원한다고 해서 AI 에이전트가 긴 호흡의 작업을 ᄁ...",
+    "sent_at": "2026-10-03T03:48:01.687005+00:00"
+  },
+  "https://www.threads.com/t/DeA_6OhgW6d": {
+    "title": "@feelfree_ai: llama.cpp에서 144M 초경량 크기부터 27B까지 지원하는 '의사결정(Decision) 모델' ᄌ...",
+    "sent_at": "2026-10-03T03:48:01.102594+00:00"
+  },
+  "01M3XD0M307DCDJ5QYA2RFTW87": {
+    "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
+    "sent_at": "2026-10-03T03:47:41.453539+00:00"
+  },
+  "01M3XE7G2V6JJXPKX92B1D4080": {
+    "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
+    "sent_at": "2026-10-03T03:47:40.879851+00:00"
+  },
+  "01M3XHCB64KZ1NTN3N83GY590B": {
+    "title": "8 major updates to Cloudflare Observability",
+    "sent_at": "2026-10-03T03:47:40.256936+00:00"
+  },
+  "01M3XM9KVCRB6JKE07Q88EPGD2": {
+    "title": "Introducing Web Search API via AI Gateway",
+    "sent_at": "2026-10-03T03:47:39.700275+00:00"
+  },
+  "01M3XKBJCTDTMBBCNNHA141F04": {
+    "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+    "sent_at": "2026-10-03T03:47:39.149727+00:00"
+  },
+  "https://engineering.atspotify.com/?p=2BHiaulFaaun4MVkEBakNn": {
+    "title": "Indexing the Data Lake for Online Point Queries",
+    "sent_at": "2026-10-03T03:47:33.931628+00:00"
+  },
+  "https://huggingface.co/blog/allenai/astabrief": {
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "sent_at": "2026-10-03T03:47:31.871398+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98570": {
+    "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+    "sent_at": "2026-10-03T03:47:30.818543+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/": {
+    "title": "The latest AI news we announced in September 2026",
+    "sent_at": "2026-10-03T03:47:29.124789+00:00"
+  },
+  "https://openai.com/index/chatham-financial": {
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "sent_at": "2026-10-03T03:47:28.049031+00:00"
+  },
+  "https://openai.com/index/practical-guide-building-gpt-6": {
+    "title": "A model guide for the GPT-6 family",
+    "sent_at": "2026-10-03T03:47:27.484159+00:00"
+  },
+  "https://github.blog/?p=99170": {
+    "title": "AI is changing developer work. Here are three skills to strengthen.",
+    "sent_at": "2026-10-03T03:47:18.583331+00:00"
+  },
+  "https://techcrunch.com/?p=3173313": {
+    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+    "sent_at": "2026-10-03T03:47:17.454587+00:00"
+  },
+  "https://techcrunch.com/?p=3169207": {
+    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "sent_at": "2026-10-03T03:47:16.853538+00:00"
+  },
+  "https://techcrunch.com/?p=3173395": {
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "sent_at": "2026-10-03T03:47:16.295005+00:00"
+  },
+  "https://techcrunch.com/?p=3173449": {
+    "title": "Sanders introduces bill to ban the federal government from using Flock",
+    "sent_at": "2026-10-03T03:47:15.722942+00:00"
+  },
+  "https://techcrunch.com/?p=3173444": {
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "sent_at": "2026-10-03T03:47:15.164491+00:00"
+  },
   "https://www.threads.com/t/Dd8dlm3AcE6": {
     "title": "@feelfree_ai: 별도의 운전 정책(Policy)을 학습하지 않고도, 미래 화면만 예측해 ᄉ...",
     "sent_at": "2026-10-02T04:03:12.004894+00:00"
@@ -1918,85 +1998,5 @@
   "https://d2.naver.com/helloworld/4452165": {
     "title": "Python의 멀티프로세싱과 Airflow, 그리고 관련된 문제 해결기 1편",
     "sent_at": "2026-09-02T02:51:27.160460+00:00"
-  },
-  "01M1DAE3EH5FEG7RQMQD63A731": {
-    "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
-    "sent_at": "2026-09-02T02:51:24.231456+00:00"
-  },
-  "https://huggingface.co/blog/webgpu-kernels": {
-    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "sent_at": "2026-09-02T02:51:22.379768+00:00"
-  },
-  "https://huggingface.co/blog/allenai/benchmirt": {
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "sent_at": "2026-09-02T02:51:21.851302+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98014": {
-    "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-    "sent_at": "2026-09-02T02:51:19.789837+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/workspace/google-pics/": {
-    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-    "sent_at": "2026-09-02T02:51:18.649536+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/": {
-    "title": "The latest AI news we announced in August 2026",
-    "sent_at": "2026-09-02T02:51:18.124152+00:00"
-  },
-  "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
-    "title": "OpenAI supports California’s bill to advance youth AI safety",
-    "sent_at": "2026-09-02T02:51:16.115672+00:00"
-  },
-  "https://openai.com/index/gilbert-tobin": {
-    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-    "sent_at": "2026-09-02T02:51:15.580005+00:00"
-  },
-  "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": {
-    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-    "sent_at": "2026-09-02T02:51:15.043243+00:00"
-  },
-  "https://openai.com/index/path-to-astra": {
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "sent_at": "2026-09-02T02:51:14.517493+00:00"
-  },
-  "https://openai.com/index/ai-native-company-workflows": {
-    "title": "How AI-native companies turn workflows into operating capability",
-    "sent_at": "2026-09-02T02:51:13.983048+00:00"
-  },
-  "https://goddaehee.tistory.com/639": {
-    "title": "UI/UX Pro Max 사용법 - skills 설치부터 구조&middot;사용법&middot;커뮤니티 반응 정리(UI/UX Pro Max 보안&middot;설치&middot;사용법)",
-    "sent_at": "2026-09-02T02:51:07.460385+00:00"
-  },
-  "https://techcrunch.com/?p=3159895": {
-    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-    "sent_at": "2026-09-02T02:51:00.315995+00:00"
-  },
-  "https://techcrunch.com/?p=3159934": {
-    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-    "sent_at": "2026-09-02T02:50:59.787401+00:00"
-  },
-  "https://techcrunch.com/?p=3159931": {
-    "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-    "sent_at": "2026-09-02T02:50:59.188701+00:00"
-  },
-  "https://techcrunch.com/?p=3159531": {
-    "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
-    "sent_at": "2026-09-02T02:50:58.652320+00:00"
-  },
-  "https://techcrunch.com/?p=3159987": {
-    "title": "Larry Page’s flying car company Pivotal loses its CEO",
-    "sent_at": "2026-09-02T02:50:58.115414+00:00"
-  },
-  "https://www.threads.com/t/DcsvWITAYUa": {
-    "title": "@feelfree_ai: 기존 RAG처럼 매번 청크를 새로 검색하는 대신, 문서를 위키 형태ᄅ...",
-    "sent_at": "2026-09-01T03:33:26.549872+00:00"
-  },
-  "3418fcf622154fda93d6ae0475d0ab9d6ec4180f": {
-    "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
-    "sent_at": "2026-09-01T03:33:11.564421+00:00"
-  },
-  "691506bc5e95268a961b15cf0a07d63a6837a457": {
-    "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
-    "sent_at": "2026-09-01T03:33:11.035305+00:00"
   }
 }
