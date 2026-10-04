@@ -1,4 +1,36 @@
 {
+  "https://www.threads.com/t/DeCZn0ugYBf": {
+    "title": "@feelfree_ai: 아무리 강력한 LLM을 연동해도 주변 사람의 목소리가 텍스트로 섞ᄋ...",
+    "sent_at": "2026-10-04T04:18:14.437989+00:00"
+  },
+  "https://www.threads.com/t/DeDiVnkgTEy": {
+    "title": "@feelfree_ai: AI 에이전트한테 ML 연구를 맡겨봤다면 데이터 누수나 끊긴 그래디언...",
+    "sent_at": "2026-10-04T04:18:13.999387+00:00"
+  },
+  "https://huggingface.co/blog/microsoft/thinkingbox": {
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "sent_at": "2026-10-04T04:17:55.733732+00:00"
+  },
+  "https://techcrunch.com/?p=3171644": {
+    "title": "Vessev built an electric ferry that almost flies",
+    "sent_at": "2026-10-04T04:17:46.275001+00:00"
+  },
+  "https://techcrunch.com/?p=3173486": {
+    "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+    "sent_at": "2026-10-04T04:17:45.854082+00:00"
+  },
+  "https://techcrunch.com/?p=3173499": {
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "sent_at": "2026-10-04T04:17:45.430327+00:00"
+  },
+  "https://techcrunch.com/?p=3173505": {
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "sent_at": "2026-10-04T04:17:45.012356+00:00"
+  },
+  "https://techcrunch.com/?p=3173513": {
+    "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+    "sent_at": "2026-10-04T04:17:44.601068+00:00"
+  },
   "https://www.threads.com/t/Dd-w608ARlm": {
     "title": "@feelfree_ai: 에이전트 수를 무작정 늘린다고 AI 시스템의 성능이 무조건 올라가...",
     "sent_at": "2026-10-03T03:48:02.297262+00:00"
@@ -1966,37 +1998,5 @@
   "https://techcrunch.com/?p=3160225": {
     "title": "OpenAI’s new reasoning technique alarms AI safety experts",
     "sent_at": "2026-09-03T02:54:57.546195+00:00"
-  },
-  "https://techcrunch.com/?p=3160198": {
-    "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-    "sent_at": "2026-09-03T02:54:57.060748+00:00"
-  },
-  "https://techcrunch.com/?p=3149903": {
-    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-    "sent_at": "2026-09-03T02:54:56.556247+00:00"
-  },
-  "https://techcrunch.com/?p=3160290": {
-    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "sent_at": "2026-09-03T02:54:56.070862+00:00"
-  },
-  "https://techcrunch.com/?p=3137969": {
-    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-    "sent_at": "2026-09-03T02:54:55.580964+00:00"
-  },
-  "https://www.threads.com/t/DcuvsoMgV3a": {
-    "title": "@feelfree_ai: 4일 전에 올렸던 건데 이건 진짜 중요해서 한번 더 가져왔습니다...",
-    "sent_at": "2026-09-02T02:51:43.328113+00:00"
-  },
-  "https://www.threads.com/t/DcvNeD3gV9s": {
-    "title": "@feelfree_ai: AI 에이전트가 오랫동안 작동할수록 느려지고 성능이 떨어지는 ᄋ...",
-    "sent_at": "2026-09-02T02:51:42.791924+00:00"
-  },
-  "https://www.threads.com/t/DcvhfaBAbs7": {
-    "title": "@feelfree_ai: 스마트폰에서 MoE 모델을 3GB 미만 메모리로 가볍게 돌리는 시대가 드디ᄋ...",
-    "sent_at": "2026-09-02T02:51:42.233695+00:00"
-  },
-  "https://d2.naver.com/helloworld/4452165": {
-    "title": "Python의 멀티프로세싱과 Airflow, 그리고 관련된 문제 해결기 1편",
-    "sent_at": "2026-09-02T02:51:27.160460+00:00"
   }
 }
