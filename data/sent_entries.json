@@ -1,4 +1,68 @@
 {
+  "https://www.threads.com/t/DeFmuBJkxYv": {
+    "title": "@feelfree_ai: 내장 그래픽이 달린 일반 PC에서 고작 2B 크기의 초소형 모델로 실제 ...",
+    "sent_at": "2026-10-06T04:51:47.554232+00:00"
+  },
+  "https://www.threads.com/t/DeGZisnAf77": {
+    "title": "@feelfree_ai: LLM한테 지식 그래프 만들라고 JSON 추출을 시켰다가 끝없는 환각과 ...",
+    "sent_at": "2026-10-06T04:51:47.178916+00:00"
+  },
+  "https://www.threads.com/t/DeG5W-QgUXW": {
+    "title": "@feelfree_ai: RAG나 AI 에이전트를 만들 때 프레임워크 내부가 블랙박스처럼 돌아ᄀ...",
+    "sent_at": "2026-10-06T04:51:46.800924+00:00"
+  },
+  "https://www.threads.com/t/DeHgGD7gXv-": {
+    "title": "@feelfree_ai: LLM 에이전트 비용 아끼려고 컨텍스트 압축을 적용했다가, 오히려 시...",
+    "sent_at": "2026-10-06T04:51:46.418535+00:00"
+  },
+  "b763b52a942275354399615fd56b8f7232f71f2c": {
+    "title": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)",
+    "sent_at": "2026-10-06T04:51:27.953268+00:00"
+  },
+  "01M40C00BDZBKANZ5QVXW0AD7X": {
+    "title": "One year later: the power of 1.1.1.1 interns",
+    "sent_at": "2026-10-06T04:51:27.175104+00:00"
+  },
+  "01M45M6M9H2C1A45G0S8EC3KW9": {
+    "title": "Everything we launched during Birthday Week 2026",
+    "sent_at": "2026-10-06T04:51:26.792172+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98578": {
+    "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+    "sent_at": "2026-10-06T04:51:24.084679+00:00"
+  },
+  "https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
+    "title": "Building advertising for the way people use AI",
+    "sent_at": "2026-10-06T04:51:22.887532+00:00"
+  },
+  "https://openai.com/index/eu-text-provenance": {
+    "title": "Our approach to EU text provenance rules",
+    "sent_at": "2026-10-06T04:51:22.450847+00:00"
+  },
+  "https://github.blog/?p=99258": {
+    "title": "ReviewBench: An open benchmark for AI code review",
+    "sent_at": "2026-10-06T04:51:12.420808+00:00"
+  },
+  "https://techcrunch.com/?p=3173994": {
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "sent_at": "2026-10-06T04:51:11.744960+00:00"
+  },
+  "https://techcrunch.com/?p=3173872": {
+    "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+    "sent_at": "2026-10-06T04:51:11.353741+00:00"
+  },
+  "https://techcrunch.com/?p=3173384": {
+    "title": "Etched fields funding offers at $40B+ valuation, sources say",
+    "sent_at": "2026-10-06T04:51:10.980920+00:00"
+  },
+  "https://techcrunch.com/?p=3173997": {
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "sent_at": "2026-10-06T04:51:10.607199+00:00"
+  },
+  "https://techcrunch.com/?p=3174057": {
+    "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+    "sent_at": "2026-10-06T04:51:10.237044+00:00"
+  },
   "https://d2.naver.com/helloworld/4452165": {
     "title": "Python의 멀티프로세싱과 Airflow, 그리고 관련된 문제 해결기 1편",
     "sent_at": "2026-10-05T04:02:07.348530+00:00"
@@ -1934,69 +1998,5 @@
   "https://engineering.fb.com/?p=24463": {
     "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
     "sent_at": "2026-09-04T02:54:26.142126+00:00"
-  },
-  "https://openai.com/index/safety-overview-gpt-6-astra": {
-    "title": "Safety overview: GPT-6 Astra",
-    "sent_at": "2026-09-04T02:54:24.892898+00:00"
-  },
-  "https://openai.com/index/playco-game-prototyping-with-astra": {
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "sent_at": "2026-09-04T02:54:24.400729+00:00"
-  },
-  "https://openai.com/index/legora-financial-statement-review-with-astra": {
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "sent_at": "2026-09-04T02:54:23.910421+00:00"
-  },
-  "https://openai.com/index/daybreak-for-frontline-defenders": {
-    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-    "sent_at": "2026-09-04T02:54:23.418491+00:00"
-  },
-  "https://github.blog/?p=98638": {
-    "title": "GitHub Copilot app for Beginners: Run several agents at once",
-    "sent_at": "2026-09-04T02:54:12.705672+00:00"
-  },
-  "https://techcrunch.com/?p=3160634": {
-    "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
-    "sent_at": "2026-09-04T02:54:11.976247+00:00"
-  },
-  "https://techcrunch.com/?p=3160602": {
-    "title": "Startup ARR is less secure than ever, new research shows",
-    "sent_at": "2026-09-04T02:54:11.494510+00:00"
-  },
-  "https://techcrunch.com/?p=3160662": {
-    "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
-    "sent_at": "2026-09-04T02:54:11.010722+00:00"
-  },
-  "https://techcrunch.com/?p=3160717": {
-    "title": "Oura files to go public",
-    "sent_at": "2026-09-04T02:54:10.523941+00:00"
-  },
-  "https://techcrunch.com/?p=3160771": {
-    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-    "sent_at": "2026-09-04T02:54:10.018883+00:00"
-  },
-  "https://www.threads.com/t/DcxRnGugUB8": {
-    "title": "@feelfree_ai: AI 에이전트에게 365일간 온라인 쇼핑몰 운영을 맡겨봤더니, 수익...",
-    "sent_at": "2026-09-03T02:55:30.056587+00:00"
-  },
-  "https://www.threads.com/t/DcyIf08AeWK": {
-    "title": "@feelfree_ai: 프로덕션 환경에서 AI 에이전트를 구축할 때 프롬프트 단건만 압...",
-    "sent_at": "2026-09-03T02:55:29.561882+00:00"
-  },
-  "https://www.threads.com/t/DczcgtaAYVD": {
-    "title": "@feelfree_ai: 인간 개입 없이 며칠 동안 스스로 코드를 짜고 테스트하며 FPS 게임까...",
-    "sent_at": "2026-09-03T02:55:29.068230+00:00"
-  },
-  "https://d2.naver.com/news/3092933": {
-    "title": "[네이버피셜] 네이버 개발자라면 꼭 만나게 됩니다",
-    "sent_at": "2026-09-03T02:55:14.855466+00:00"
-  },
-  "https://huggingface.co/blog/ibm-research/real-time-intelligence": {
-    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-    "sent_at": "2026-09-03T02:55:10.430644+00:00"
-  },
-  "https://engineering.fb.com/?p=24419": {
-    "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
-    "sent_at": "2026-09-03T02:55:09.166634+00:00"
   }
 }
