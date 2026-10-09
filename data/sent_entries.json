@@ -1,4 +1,88 @@
 {
+  "https://www.threads.com/t/DeOUoihgfPy": {
+    "title": "@feelfree_ai: 1억 편이 넘는 논문 속에서 특정 주장의 찬반 근거를 1초 만에 ...",
+    "sent_at": "2026-10-09T04:35:01.431703+00:00"
+  },
+  "https://www.threads.com/t/DePJzBhAU_w": {
+    "title": "@feelfree_ai: 모델마다 서빙 환경 따로 구축하느라 파이프라인 복잡해지셨 다면,...",
+    "sent_at": "2026-10-09T04:35:00.967547+00:00"
+  },
+  "https://www.threads.com/t/DeQnBzyATD1": {
+    "title": "@feelfree_ai: 1조 개(1T) 모델 강화학습 시 매번 87.5분이나 걸리던 가중치 동기화 시...",
+    "sent_at": "2026-10-09T04:35:00.485919+00:00"
+  },
+  "https://d2.naver.com/helloworld/4149925": {
+    "title": "Python의 GC가 멀티프로세싱과 만나면 생기는 일 - Python과 Airflow, 그리고 관련된 문제 해결기 2편",
+    "sent_at": "2026-10-09T04:34:45.987051+00:00"
+  },
+  "01M4ATYPWQETFZA4EZJ5AJYSFT": {
+    "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
+    "sent_at": "2026-10-09T04:34:42.569354+00:00"
+  },
+  "https://engineering.atspotify.com/?p=3ak5D3CnpWDbDfHK66OFCF": {
+    "title": "Introducing: Spotify Technology. Proven at Spotify, now yours.",
+    "sent_at": "2026-10-09T04:34:41.722819+00:00"
+  },
+  "https://huggingface.co/blog/tiiuae/falcon-asr": {
+    "title": "Introducing Falcon ASR",
+    "sent_at": "2026-10-09T04:34:40.370836+00:00"
+  },
+  "https://huggingface.co/blog/building-with-ml-intern": {
+    "title": "The model that didn't exist, so you made it yourself",
+    "sent_at": "2026-10-09T04:34:39.899676+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98628": {
+    "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+    "sent_at": "2026-10-09T04:34:37.913395+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98677": {
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "sent_at": "2026-10-09T04:34:37.158125+00:00"
+  },
+  "https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
+    "title": "Disrupting AI-enabled “false front” operations",
+    "sent_at": "2026-10-09T04:34:34.366204+00:00"
+  },
+  "https://openai.com/index/legalon-halves-codex-costs": {
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "sent_at": "2026-10-09T04:34:33.902482+00:00"
+  },
+  "https://openai.com/index/pollo-ai": {
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "sent_at": "2026-10-09T04:34:33.432013+00:00"
+  },
+  "https://openai.com/index/oracle": {
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "sent_at": "2026-10-09T04:34:32.963694+00:00"
+  },
+  "https://goddaehee.tistory.com/653": {
+    "title": "멀티에이전트 오케스트레이션이란? 언제 나누고 어떻게 맡길까(하네스&middot;루프&middot;그래프 다음은 '조장'이다 멀티에이전트 오케스트레이션 팩트체크)",
+    "sent_at": "2026-10-09T04:34:28.354333+00:00"
+  },
+  "https://github.blog/?p=99392": {
+    "title": "How one bug bounty researcher chooses the features they investigate",
+    "sent_at": "2026-10-09T04:34:20.819276+00:00"
+  },
+  "https://techcrunch.com/?p=3175682": {
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "sent_at": "2026-10-09T04:34:19.760883+00:00"
+  },
+  "https://techcrunch.com/?p=3175788": {
+    "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+    "sent_at": "2026-10-09T04:34:19.282979+00:00"
+  },
+  "https://techcrunch.com/?p=3175894": {
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "sent_at": "2026-10-09T04:34:18.813611+00:00"
+  },
+  "https://techcrunch.com/?p=3175918": {
+    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "sent_at": "2026-10-09T04:34:18.303198+00:00"
+  },
+  "https://techcrunch.com/?p=3175951": {
+    "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+    "sent_at": "2026-10-09T04:34:17.834982+00:00"
+  },
   "https://www.threads.com/t/DeMgooQgU3Q": {
     "title": "@feelfree_ai: RAG 시스템에서 늘 골치 아팠던 할루시네이션과 개인정보(PII) 필터리...",
     "sent_at": "2026-10-08T04:30:08.356365+00:00"
@@ -1914,89 +1998,5 @@
   "https://openai.com/index/introducing-chatgpt-images-2-5": {
     "title": "Introducing ChatGPT Images 2.5",
     "sent_at": "2026-09-09T03:03:33.887580+00:00"
-  },
-  "https://openai.com/index/the-work-now-within-reach": {
-    "title": "The Work Now Within Reach",
-    "sent_at": "2026-09-09T03:03:33.514895+00:00"
-  },
-  "https://openai.com/index/codex-quantum-computing-experiments": {
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-    "sent_at": "2026-09-09T03:03:33.133899+00:00"
-  },
-  "https://techcrunch.com/?p=3161372": {
-    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-    "sent_at": "2026-09-09T03:03:20.089921+00:00"
-  },
-  "https://techcrunch.com/?p=3161299": {
-    "title": "The Exploration Company nabs $450 million to challenge SpaceX",
-    "sent_at": "2026-09-09T03:03:19.705779+00:00"
-  },
-  "https://techcrunch.com/?p=3161658": {
-    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-    "sent_at": "2026-09-09T03:03:19.317394+00:00"
-  },
-  "https://techcrunch.com/?p=3161463": {
-    "title": "Hackers are stealing Claude tokens from subscribers",
-    "sent_at": "2026-09-09T03:03:18.936765+00:00"
-  },
-  "https://techcrunch.com/?p=3161759": {
-    "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
-    "sent_at": "2026-09-09T03:03:18.559145+00:00"
-  },
-  "https://www.threads.com/t/Dc-GdqSAQiO": {
-    "title": "@feelfree_ai: 구글 딥마인드가 단순 자동완성을 넘어 글쓰기 과정에 선제적...",
-    "sent_at": "2026-09-08T03:02:53.074303+00:00"
-  },
-  "https://www.threads.com/t/Dc-asVIgR9X": {
-    "title": "@feelfree_ai: LoRA 코드 단 한 줄 수정으로 추가 파라미터나 연산량 없이 학습 안ᄌ...",
-    "sent_at": "2026-09-08T03:02:52.521952+00:00"
-  },
-  "https://www.threads.com/t/Dc-9H37j_e5": {
-    "title": "@feelfree_ai: 알고 계신분들만 사용하시는 34개 AI 제공자의 무료 용량을 하나로 ...",
-    "sent_at": "2026-09-08T03:02:51.970353+00:00"
-  },
-  "https://www.threads.com/t/Dc_RBreAXKQ": {
-    "title": "@feelfree_ai: 기존 RAG가 정보 업데이트 시 과거 이력을 그냥 덮어씌우는 한계를 ᄒ...",
-    "sent_at": "2026-09-08T03:02:51.386518+00:00"
-  },
-  "https://toss.tech/article/toss-frontend-ai-docs-eng": {
-    "title": "How Documents Find Developers at Toss",
-    "sent_at": "2026-09-08T03:02:39.169013+00:00"
-  },
-  "https://toss.tech/article/technical-writing-1-eng": {
-    "title": "1. Creating a Role That Didn’t Exist Before",
-    "sent_at": "2026-09-08T03:02:38.672815+00:00"
-  },
-  "https://toss.tech/article/technical-writing-2-eng": {
-    "title": "2. Beyond Our Expertise",
-    "sent_at": "2026-09-08T03:02:38.175055+00:00"
-  },
-  "https://toss.tech/article/52631": {
-    "title": "AI가 팀 규칙을 지키도록 하는 방법",
-    "sent_at": "2026-09-08T03:02:37.623957+00:00"
-  },
-  "bd7e863a13091bede2374f2ed4b4748927b1e862": {
-    "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
-    "sent_at": "2026-09-08T03:02:29.400525+00:00"
-  },
-  "https://openai.com/index/supporting-independent-journalism-in-ukraine": {
-    "title": "Supporting independent journalism in Ukraine",
-    "sent_at": "2026-09-08T03:02:26.664331+00:00"
-  },
-  "https://goddaehee.tistory.com/642": {
-    "title": "Claude Fable 5.1 출시 리뷰(클로드 Fable 5.1이란?) - 무엇이 좋아졌고 무엇이 비싸졌나(벤치마크, 요금제, 접근 제한 살펴 보기)",
-    "sent_at": "2026-09-08T03:02:25.335874+00:00"
-  },
-  "https://techcrunch.com/?p=3160871": {
-    "title": "What we expect from the upcoming Apple launch",
-    "sent_at": "2026-09-08T03:02:19.229117+00:00"
-  },
-  "https://techcrunch.com/?p=3161092": {
-    "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-    "sent_at": "2026-09-08T03:02:18.665196+00:00"
-  },
-  "https://techcrunch.com/?p=2973217": {
-    "title": "Opaque recurrence, and other AI terms that you should probably know",
-    "sent_at": "2026-09-08T03:02:18.111098+00:00"
   }
 }
