@@ -1,4 +1,60 @@
 {
+  "https://www.threads.com/t/DeRDJm0gVam": {
+    "title": "@feelfree_ai: 하드웨어가 완벽하지 않아도 모델이 커지면 AI가 스스로 결함을 극보...",
+    "sent_at": "2026-10-10T04:19:26.560892+00:00"
+  },
+  "https://www.threads.com/t/DeRiVYuAfTz": {
+    "title": "@feelfree_ai: 이제 윈도우에서도 AI 에이전트의 코드 실행을 안전하게 격리할 수 ᄋ...",
+    "sent_at": "2026-10-10T04:19:26.009955+00:00"
+  },
+  "01M4EHZFCN5RWBFJJ8WEERWAYZ": {
+    "title": "Deno is joining Cloudflare",
+    "sent_at": "2026-10-10T04:19:10.698576+00:00"
+  },
+  "01M497Y0BQ6DVED6YT05KTNA6W": {
+    "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+    "sent_at": "2026-10-10T04:19:10.147819+00:00"
+  },
+  "01M4GV0DTKYJTCM5GPYBCME1T4": {
+    "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+    "sent_at": "2026-10-10T04:19:09.583798+00:00"
+  },
+  "https://huggingface.co/blog/allenai/impactful-scheduling": {
+    "title": "Impactful scheduling for GPU clusters",
+    "sent_at": "2026-10-10T04:19:05.754846+00:00"
+  },
+  "https://openai.com/index/asana-browser-agent": {
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "sent_at": "2026-10-10T04:19:03.808553+00:00"
+  },
+  "https://openai.com/index/sophos": {
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "sent_at": "2026-10-10T04:19:03.319374+00:00"
+  },
+  "https://github.blog/?p=99381": {
+    "title": "Hack the World: Why hackathons are still the best place to learn to build",
+    "sent_at": "2026-10-10T04:18:54.100420+00:00"
+  },
+  "https://techcrunch.com/?p=3176212": {
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "sent_at": "2026-10-10T04:18:53.227224+00:00"
+  },
+  "https://techcrunch.com/?p=3176290": {
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "sent_at": "2026-10-10T04:18:52.674664+00:00"
+  },
+  "https://techcrunch.com/?p=3174131": {
+    "title": "Long live the mechanical keyboard",
+    "sent_at": "2026-10-10T04:18:52.102930+00:00"
+  },
+  "https://techcrunch.com/?p=3176323": {
+    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "sent_at": "2026-10-10T04:18:51.531389+00:00"
+  },
+  "https://techcrunch.com/?p=3176213": {
+    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+    "sent_at": "2026-10-10T04:18:50.967460+00:00"
+  },
   "https://www.threads.com/t/DeOUoihgfPy": {
     "title": "@feelfree_ai: 1억 편이 넘는 논문 속에서 특정 주장의 찬반 근거를 1초 만에 ...",
     "sent_at": "2026-10-09T04:35:01.431703+00:00"
@@ -1942,61 +1998,5 @@
   "https://goddaehee.tistory.com/643": {
     "title": "ChatGPT Images 2.5 사용법 : 정밀 편집부터 @Sketch&middot;프롬프트 공유까지(GPT Image 2와 무엇이 달라졌을까?)",
     "sent_at": "2026-09-10T03:04:04.062264+00:00"
-  },
-  "https://github.blog/?p=98774": {
-    "title": "GitHub availability report: August 2026",
-    "sent_at": "2026-09-10T03:03:57.844763+00:00"
-  },
-  "https://techcrunch.com/?p=3162282": {
-    "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
-    "sent_at": "2026-09-10T03:03:57.041928+00:00"
-  },
-  "https://techcrunch.com/?p=3162041": {
-    "title": "Massachusetts hits data centers with new clean power rules",
-    "sent_at": "2026-09-10T03:03:56.507049+00:00"
-  },
-  "https://techcrunch.com/?p=3162350": {
-    "title": "OpenAI adds a prominent AI doomer to its board of directors",
-    "sent_at": "2026-09-10T03:03:55.957931+00:00"
-  },
-  "https://techcrunch.com/?p=3162370": {
-    "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
-    "sent_at": "2026-09-10T03:03:55.392622+00:00"
-  },
-  "https://techcrunch.com/?p=3162445": {
-    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-    "sent_at": "2026-09-10T03:03:54.860312+00:00"
-  },
-  "https://www.threads.com/t/DdAs2mjk7_X": {
-    "title": "@feelfree_ai: 문서로만 아키텍처 규칙을 강조해봤자 코드 리뷰나 바쁜 일정 속ᄋ...",
-    "sent_at": "2026-09-09T03:03:54.433395+00:00"
-  },
-  "https://www.threads.com/t/DdBtioJk2hM": {
-    "title": "@feelfree_ai: 회원가입이나 복잡한 설정 없이 바로 사용할 수 있는 AI·개발 오...",
-    "sent_at": "2026-09-09T03:03:54.037017+00:00"
-  },
-  "01M1PVWQ383YJ6PFVFNJM3X122": {
-    "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
-    "sent_at": "2026-09-09T03:03:38.139400+00:00"
-  },
-  "https://engineering.atspotify.com/?p=4ode0KMR0ZNP2v8r180XjX": {
-    "title": "Why Spotify Is Not Using Bayesian A/B Testing",
-    "sent_at": "2026-09-09T03:03:37.452607+00:00"
-  },
-  "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom": {
-    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-    "sent_at": "2026-09-09T03:03:36.283361+00:00"
-  },
-  "https://openai.com/index/teen-development-research-grants": {
-    "title": "Funding grants for new research into AI and teen development",
-    "sent_at": "2026-09-09T03:03:34.643880+00:00"
-  },
-  "https://openai.com/index/navier-stokes-solution": {
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "sent_at": "2026-09-09T03:03:34.262792+00:00"
-  },
-  "https://openai.com/index/introducing-chatgpt-images-2-5": {
-    "title": "Introducing ChatGPT Images 2.5",
-    "sent_at": "2026-09-09T03:03:33.887580+00:00"
   }
 }
