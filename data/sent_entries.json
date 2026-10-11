@@ -1,4 +1,36 @@
 {
+  "https://www.threads.com/t/DeTmeUwAUi8": {
+    "title": "@feelfree_ai: 가장 똑똑한 AI 모델이 가장 잘 배우는 모델은 아니라는 연구 결ᄀ...",
+    "sent_at": "2026-10-11T03:59:03.440406+00:00"
+  },
+  "https://www.threads.com/t/DeUMD8IAWHr": {
+    "title": "@feelfree_ai: RAG나 에이전트를 만들 때 모든 질문마다 검색 API를 태우는 게 비효ᄋ...",
+    "sent_at": "2026-10-11T03:59:02.900702+00:00"
+  },
+  "https://engineering.atspotify.com/?p=4ode0KMR0ZNP2v8r180XjX": {
+    "title": "Why Spotify Is Not Using Bayesian A/B Testing",
+    "sent_at": "2026-10-11T03:58:45.802450+00:00"
+  },
+  "https://techcrunch.com/?p=3176326": {
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "sent_at": "2026-10-11T03:58:34.828980+00:00"
+  },
+  "https://techcrunch.com/?p=3176412": {
+    "title": "Cloudflare acquires Deno to improve its Workers programming model",
+    "sent_at": "2026-10-11T03:58:34.302546+00:00"
+  },
+  "https://techcrunch.com/?p=3174064": {
+    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+    "sent_at": "2026-10-11T03:58:33.771724+00:00"
+  },
+  "https://techcrunch.com/?p=3176436": {
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "sent_at": "2026-10-11T03:58:33.225138+00:00"
+  },
+  "https://techcrunch.com/?p=3176448": {
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "sent_at": "2026-10-11T03:58:32.699597+00:00"
+  },
   "https://www.threads.com/t/DeRDJm0gVam": {
     "title": "@feelfree_ai: 하드웨어가 완벽하지 않아도 모델이 커지면 AI가 스스로 결함을 극보...",
     "sent_at": "2026-10-10T04:19:26.560892+00:00"
@@ -1966,37 +1998,5 @@
   "01M1WCCYXD65TK4WBQW6QVC79V": {
     "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
     "sent_at": "2026-09-10T03:04:15.323665+00:00"
-  },
-  "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": {
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "sent_at": "2026-09-10T03:04:13.452980+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98109": {
-    "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-    "sent_at": "2026-09-10T03:04:12.551467+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/": {
-    "title": "Recreating a 70-year love story frame by frame",
-    "sent_at": "2026-09-10T03:04:11.284773+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/search/football-features-google-search/": {
-    "title": "Get ready for the game with new football features in Search",
-    "sent_at": "2026-09-10T03:04:10.745849+00:00"
-  },
-  "https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
-    "title": "Paul Christiano joins OpenAI Foundation Board",
-    "sent_at": "2026-09-10T03:04:08.720232+00:00"
-  },
-  "https://openai.com/index/gpt-6-astra-next-generation-work": {
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "sent_at": "2026-09-10T03:04:08.083958+00:00"
-  },
-  "https://openai.com/index/ai-policy-window": {
-    "title": "The AI policy window is open. We need to act.",
-    "sent_at": "2026-09-10T03:04:07.557446+00:00"
-  },
-  "https://goddaehee.tistory.com/643": {
-    "title": "ChatGPT Images 2.5 사용법 : 정밀 편집부터 @Sketch&middot;프롬프트 공유까지(GPT Image 2와 무엇이 달라졌을까?)",
-    "sent_at": "2026-09-10T03:04:04.062264+00:00"
   }
 }
