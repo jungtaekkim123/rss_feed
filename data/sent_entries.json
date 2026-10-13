@@ -1,4 +1,76 @@
 {
+  "https://www.threads.com/t/DeZqCH8AYG0": {
+    "title": "@feelfree_ai: 사람 없이 AI 에이전트들끼리 회사를 직접 굴려보는 가상 시뮬레이...",
+    "sent_at": "2026-10-13T05:28:13.653419+00:00"
+  },
+  "https://www.threads.com/t/DeaY7CogV2v": {
+    "title": "@feelfree_ai: 슬랙, 깃허브, 노션 쓸 때마다 MCP 서버 일일이 붙이는 거 번거로우시...",
+    "sent_at": "2026-10-13T05:28:13.148825+00:00"
+  },
+  "https://www.threads.com/t/Deav7BJgYgm": {
+    "title": "@feelfree_ai: LoRA보다 메모리를 덜 쓰면서 전체 가중치 강화학습(RL)을 돌리는 새ᄅ...",
+    "sent_at": "2026-10-13T05:28:12.665989+00:00"
+  },
+  "https://toss.tech/article/milvus-optimization-and-sizing": {
+    "title": "CPU 뼛속까지 써먹고, Milvus 사이징 기준을 만들기까지",
+    "sent_at": "2026-10-13T05:28:00.248885+00:00"
+  },
+  "https://toss.tech/article/ai-platform-foundation": {
+    "title": "서비스 개발에 집중할 수 있는 AI 플랫폼 만들기",
+    "sent_at": "2026-10-13T05:27:59.786293+00:00"
+  },
+  "4158873d220345e053e781fb51ca252fff001d13": {
+    "title": "Announcing AWS Lambda Web Functions",
+    "sent_at": "2026-10-13T05:27:52.932841+00:00"
+  },
+  "01M4HA4SBV0ANTH6C2775H4SSY": {
+    "title": "Filter, reshape, and redact logs before export with Transformers",
+    "sent_at": "2026-10-13T05:27:52.093048+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98706": {
+    "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+    "sent_at": "2026-10-13T05:27:50.342879+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98737": {
+    "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+    "sent_at": "2026-10-13T05:27:49.828801+00:00"
+  },
+  "https://engineering.fb.com/?p=24593": {
+    "title": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
+    "sent_at": "2026-10-13T05:27:47.981923+00:00"
+  },
+  "https://engineering.fb.com/?p=24625": {
+    "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
+    "sent_at": "2026-10-13T05:27:47.479518+00:00"
+  },
+  "https://engineering.fb.com/?p=24657": {
+    "title": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
+    "sent_at": "2026-10-13T05:27:46.971255+00:00"
+  },
+  "https://github.blog/?p=99409": {
+    "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+    "sent_at": "2026-10-13T05:27:37.468908+00:00"
+  },
+  "https://techcrunch.com/?p=3176454": {
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "sent_at": "2026-10-13T05:27:36.532396+00:00"
+  },
+  "https://techcrunch.com/?p=3176628": {
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "sent_at": "2026-10-13T05:27:36.064027+00:00"
+  },
+  "https://techcrunch.com/?p=3175181": {
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "sent_at": "2026-10-13T05:27:35.579544+00:00"
+  },
+  "https://techcrunch.com/?p=3176669": {
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "sent_at": "2026-10-13T05:27:35.108752+00:00"
+  },
+  "https://techcrunch.com/?p=3176752": {
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "sent_at": "2026-10-13T05:27:34.630725+00:00"
+  },
   "https://www.threads.com/t/DeWQT0JgS1K": {
     "title": "@feelfree_ai: 완성된 프로그램이나 앱을 AI 에이전트가 역공학으로 분석해 거ᄋ...",
     "sent_at": "2026-10-12T04:19:28.327446+00:00"
@@ -1926,77 +1998,5 @@
   "https://techcrunch.com/?p=3163323": {
     "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
     "sent_at": "2026-09-12T03:06:04.062013+00:00"
-  },
-  "https://www.threads.com/t/DdGWR62gfsa": {
-    "title": "@feelfree_ai: 로컬에서 LLM을 돌린다고 해서 내 데이터가 무조건 안전한 건 아닐 ᄉ...",
-    "sent_at": "2026-09-11T03:00:01.735967+00:00"
-  },
-  "https://www.threads.com/t/DdIEl7rgVI1": {
-    "title": "@feelfree_ai: 스마트폰 RAM 용량 때문에 고성능 온디바이스 AI를 못 돌린다는 선...",
-    "sent_at": "2026-09-11T03:00:01.190095+00:00"
-  },
-  "a7eafcc0229cd1fa7f057426d064a4eca2d0738b": {
-    "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
-    "sent_at": "2026-09-11T02:59:45.318218+00:00"
-  },
-  "01M23Q2R3K11Z1TNGRS35GYWR6": {
-    "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
-    "sent_at": "2026-09-11T02:59:44.430068+00:00"
-  },
-  "https://huggingface.co/blog/gradio-workflow-1111": {
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "sent_at": "2026-09-11T02:59:42.058210+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98103": {
-    "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
-    "sent_at": "2026-09-11T02:59:41.194464+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98153": {
-    "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-    "sent_at": "2026-09-11T02:59:40.725204+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98141": {
-    "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-    "sent_at": "2026-09-11T02:59:40.253878+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98131": {
-    "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-    "sent_at": "2026-09-11T02:59:39.773702+00:00"
-  },
-  "https://blog.google/products-and-platforms/products/search/running-race-training-tips/": {
-    "title": "3 ways to prep for your next big race with Search",
-    "sent_at": "2026-09-11T02:59:35.255019+00:00"
-  },
-  "https://openai.com/index/introducing-the-agents-api": {
-    "title": "Introducing the Agents API",
-    "sent_at": "2026-09-11T02:59:34.366099+00:00"
-  },
-  "https://openai.com/index/expanding-ai-access-us-government": {
-    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-    "sent_at": "2026-09-11T02:59:33.872027+00:00"
-  },
-  "https://openai.com/index/introducing-chatgpt-financial-services": {
-    "title": "Introducing ChatGPT for Financial Services",
-    "sent_at": "2026-09-11T02:59:33.404529+00:00"
-  },
-  "https://openai.com/index/put-data-to-work": {
-    "title": "Now everyone can put data to work",
-    "sent_at": "2026-09-11T02:59:32.950767+00:00"
-  },
-  "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "sent_at": "2026-09-11T02:59:32.476315+00:00"
-  },
-  "https://github.blog/?p=98771": {
-    "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-    "sent_at": "2026-09-11T02:59:20.085775+00:00"
-  },
-  "https://techcrunch.com/?p=3162919": {
-    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-    "sent_at": "2026-09-11T02:59:19.201872+00:00"
-  },
-  "https://techcrunch.com/?p=3162967": {
-    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-    "sent_at": "2026-09-11T02:59:18.725512+00:00"
   }
 }
