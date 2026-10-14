@@ -1,4 +1,68 @@
 {
+  "https://www.threads.com/t/DedRfTegWgx": {
+    "title": "@feelfree_ai: Liquid AI가 LFM2.5-24B-A2B 모델을 공개했습니다. 이거 확인해보니 Qwen3.6-35B-A3B급ᄋ...",
+    "sent_at": "2026-10-14T03:31:45.270685+00:00"
+  },
+  "https://toss.tech/article/rpg-savings": {
+    "title": "디자이너의 아이디어가 금융상품이 되기까지",
+    "sent_at": "2026-10-14T03:31:35.333813+00:00"
+  },
+  "7d8a98739984e60ca9480501cf2c370433bebfb8": {
+    "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
+    "sent_at": "2026-10-14T03:31:30.342503+00:00"
+  },
+  "01M4RYTJWRQG5ZF619XNRPYAZB": {
+    "title": "Rewinding the exponential: How we keep hardware usage down",
+    "sent_at": "2026-10-14T03:31:29.534349+00:00"
+  },
+  "01M4TZM0P3VSCZHV70ZGX58319": {
+    "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
+    "sent_at": "2026-10-14T03:31:28.906175+00:00"
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": {
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "sent_at": "2026-10-14T03:31:25.908460+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98768": {
+    "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+    "sent_at": "2026-10-14T03:31:24.916667+00:00"
+  },
+  "https://engineering.fb.com/?p=24641": {
+    "title": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
+    "sent_at": "2026-10-14T03:31:23.988752+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "sent_at": "2026-10-14T03:31:23.111702+00:00"
+  },
+  "https://openai.com/index/higgsfield-longer-videos-voice": {
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "sent_at": "2026-10-14T03:31:22.084864+00:00"
+  },
+  "https://github.blog/?p=99413": {
+    "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+    "sent_at": "2026-10-14T03:31:13.949211+00:00"
+  },
+  "https://techcrunch.com/?p=3177406": {
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "sent_at": "2026-10-14T03:31:13.052144+00:00"
+  },
+  "https://techcrunch.com/?p=3173266": {
+    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "sent_at": "2026-10-14T03:31:12.574983+00:00"
+  },
+  "https://techcrunch.com/?p=3177414": {
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "sent_at": "2026-10-14T03:31:12.052972+00:00"
+  },
+  "https://techcrunch.com/?p=3177396": {
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "sent_at": "2026-10-14T03:31:11.570085+00:00"
+  },
+  "https://techcrunch.com/?p=3177447": {
+    "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+    "sent_at": "2026-10-14T03:31:11.080513+00:00"
+  },
   "https://www.threads.com/t/DeZqCH8AYG0": {
     "title": "@feelfree_ai: 사람 없이 AI 에이전트들끼리 회사를 직접 굴려보는 가상 시뮬레이...",
     "sent_at": "2026-10-13T05:28:13.653419+00:00"
@@ -1934,69 +1998,5 @@
   "https://techcrunch.com/?p=3163373": {
     "title": "Anthropic CEO outlines plan to slow AI development",
     "sent_at": "2026-09-13T03:08:03.724680+00:00"
-  },
-  "https://techcrunch.com/?p=3163386": {
-    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "sent_at": "2026-09-13T03:08:03.226742+00:00"
-  },
-  "https://techcrunch.com/?p=3163427": {
-    "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-    "sent_at": "2026-09-13T03:08:02.745631+00:00"
-  },
-  "https://www.threads.com/t/DdI3yUxgQqP": {
-    "title": "@feelfree_ai: AI 에이전트가 스스로 스킬을 다듬을 때 자꾸 기존 수정을 덮어씌우ᄆ...",
-    "sent_at": "2026-09-12T03:06:39.318434+00:00"
-  },
-  "https://www.threads.com/t/DdJfgeTgRv4": {
-    "title": "@feelfree_ai: 19만 건의 대용량 문서를 분류할 때 매번 LLM API를 호출하는 대신, ᄋ...",
-    "sent_at": "2026-09-12T03:06:38.852049+00:00"
-  },
-  "https://www.threads.com/t/DdK0aGRgS-6": {
-    "title": "@feelfree_ai: 100만 토큰 컨텍스트를 편법(RoPE Scaling)으로 억지로 늘린 게 아니라, 처ᄋ...",
-    "sent_at": "2026-09-12T03:06:38.383032+00:00"
-  },
-  "01M283KZX4CC68X1GXQMAR2KMN": {
-    "title": "Introducing automatic remediation policies with Cloudflare CASB",
-    "sent_at": "2026-09-12T03:06:21.450013+00:00"
-  },
-  "https://medium.com/p/0f3468349607": {
-    "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
-    "sent_at": "2026-09-12T03:06:20.288271+00:00"
-  },
-  "https://openai.com/index/cognition-devin-testing-with-astra": {
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "sent_at": "2026-09-12T03:06:17.613244+00:00"
-  },
-  "https://openai.com/index/scaling-storage-one-billion-users-part-one": {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "sent_at": "2026-09-12T03:06:17.146362+00:00"
-  },
-  "https://openai.com/index/perplexity-improving-accuracy-with-astra": {
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "sent_at": "2026-09-12T03:06:16.691886+00:00"
-  },
-  "https://github.blog/?p=98799": {
-    "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-    "sent_at": "2026-09-12T03:06:06.624587+00:00"
-  },
-  "https://techcrunch.com/?p=3162257": {
-    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-    "sent_at": "2026-09-12T03:06:05.896890+00:00"
-  },
-  "https://techcrunch.com/?p=3163181": {
-    "title": "OpenAI’s feud with mathematicians is only escalating",
-    "sent_at": "2026-09-12T03:06:05.432811+00:00"
-  },
-  "https://techcrunch.com/?p=3163179": {
-    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "sent_at": "2026-09-12T03:06:04.971870+00:00"
-  },
-  "https://techcrunch.com/?p=3163211": {
-    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-    "sent_at": "2026-09-12T03:06:04.505393+00:00"
-  },
-  "https://techcrunch.com/?p=3163323": {
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "sent_at": "2026-09-12T03:06:04.062013+00:00"
   }
 }
