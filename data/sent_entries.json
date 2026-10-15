@@ -1,4 +1,116 @@
 {
+  "https://www.threads.com/t/Deei2CsAdEu": {
+    "title": "@feelfree_ai: 마스킹 비율 차이로 분류와 검색 성능이 갈리던 기존 한계를 극...",
+    "sent_at": "2026-10-15T03:11:33.014945+00:00"
+  },
+  "https://www.threads.com/t/DefXssZk3M2": {
+    "title": "@feelfree_ai: 마이크로소프트와 스탠퍼드 등 공동 연구진이 AI 모델이 스스로 강화ᄒ...",
+    "sent_at": "2026-10-15T03:11:32.520323+00:00"
+  },
+  "https://www.threads.com/t/Defk7Qmgd__": {
+    "title": "@feelfree_ai: AI 에이전트가 오래 실행될수록 지시사항, 도구 실행 결과, 파일, 초ᄋ...",
+    "sent_at": "2026-10-15T03:11:32.047711+00:00"
+  },
+  "https://www.threads.com/t/Def5TcsAR0E": {
+    "title": "@feelfree_ai: 스탠포드와 Together AI 연구진이 에이전트가 모든 추론 과정을 일일이 ...",
+    "sent_at": "2026-10-15T03:11:31.538804+00:00"
+  },
+  "https://toss.tech/article/spark-connect-on-kubernetes-2": {
+    "title": "Spark Connect on Kubernetes #2: Operator로 만드는 Control Plane",
+    "sent_at": "2026-10-15T03:11:18.482453+00:00"
+  },
+  "dde1e88f3c93eabd2dbb3913d365d085496d24b2": {
+    "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
+    "sent_at": "2026-10-15T03:11:12.508845+00:00"
+  },
+  "01M4VK1MXKAPMWG5QXYBFK222G": {
+    "title": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
+    "sent_at": "2026-10-15T03:11:11.628547+00:00"
+  },
+  "01M4Y1477Z7DBJHXRZDP6MM2FN": {
+    "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+    "sent_at": "2026-10-15T03:11:11.139475+00:00"
+  },
+  "https://medium.com/p/826ebf9ad9fb": {
+    "title": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II",
+    "sent_at": "2026-10-15T03:11:08.618132+00:00"
+  },
+  "https://medium.com/p/e59d597c9d60": {
+    "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
+    "sent_at": "2026-10-15T03:11:08.095458+00:00"
+  },
+  "https://medium.com/p/4c26be3a4d96": {
+    "title": "Measuring the Impact of Personalized Recommendations",
+    "sent_at": "2026-10-15T03:11:07.615820+00:00"
+  },
+  "https://medium.com/p/92af926b40a5": {
+    "title": "DataJunction as Netflix’s answer to the missing piece of the modern data stack",
+    "sent_at": "2026-10-15T03:11:07.135821+00:00"
+  },
+  "https://medium.com/p/cf176b5860eb": {
+    "title": "Integrating Netflix’s Foundation Model into Personalization applications",
+    "sent_at": "2026-10-15T03:11:06.493354+00:00"
+  },
+  "https://huggingface.co/blog/allenai/hiro-acev2": {
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "sent_at": "2026-10-15T03:11:01.011105+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98818": {
+    "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+    "sent_at": "2026-10-15T03:11:00.056294+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98835": {
+    "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
+    "sent_at": "2026-10-15T03:10:59.537596+00:00"
+  },
+  "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
+    "title": "The EU’s next chapter in AI is agentic",
+    "sent_at": "2026-10-15T03:10:56.971643+00:00"
+  },
+  "https://openai.com/index/block-ai-powered-security": {
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "sent_at": "2026-10-15T03:10:56.403951+00:00"
+  },
+  "https://openai.com/index/third-moment-research": {
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "sent_at": "2026-10-15T03:10:55.897163+00:00"
+  },
+  "https://openai.com/index/sentinelone": {
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "sent_at": "2026-10-15T03:10:55.423599+00:00"
+  },
+  "https://openai.com/index/amp-beyond-coding": {
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "sent_at": "2026-10-15T03:10:54.936852+00:00"
+  },
+  "https://github.blog/?p=99364": {
+    "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+    "sent_at": "2026-10-15T03:10:42.226570+00:00"
+  },
+  "https://github.blog/?p=99506": {
+    "title": "GitHub availability report: September 2026",
+    "sent_at": "2026-10-15T03:10:41.740002+00:00"
+  },
+  "https://techcrunch.com/?p=3170999": {
+    "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+    "sent_at": "2026-10-15T03:10:39.709291+00:00"
+  },
+  "https://techcrunch.com/?p=3175869": {
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "sent_at": "2026-10-15T03:10:39.220507+00:00"
+  },
+  "https://techcrunch.com/?p=3177974": {
+    "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+    "sent_at": "2026-10-15T03:10:38.737254+00:00"
+  },
+  "https://techcrunch.com/?p=3177738": {
+    "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+    "sent_at": "2026-10-15T03:10:38.224221+00:00"
+  },
+  "https://techcrunch.com/?p=3177960": {
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "sent_at": "2026-10-15T03:10:37.743287+00:00"
+  },
   "https://www.threads.com/t/DedRfTegWgx": {
     "title": "@feelfree_ai: Liquid AI가 LFM2.5-24B-A2B 모델을 공개했습니다. 이거 확인해보니 Qwen3.6-35B-A3B급ᄋ...",
     "sent_at": "2026-10-14T03:31:45.270685+00:00"
@@ -1886,117 +1998,5 @@
   "https://techcrunch.com/?p=3164506": {
     "title": "The AI data center boom is colliding with cities scarred by big industry",
     "sent_at": "2026-09-16T03:18:57.626917+00:00"
-  },
-  "https://techcrunch.com/?p=3164495": {
-    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-    "sent_at": "2026-09-16T03:18:57.156134+00:00"
-  },
-  "https://www.threads.com/t/DdQkmp1gU1k": {
-    "title": "@feelfree_ai: AI 에이전트나 MCP를 도입할 때 정작 AI가 우리 시스템 어디까지 건드릴 ...",
-    "sent_at": "2026-09-15T03:23:27.704808+00:00"
-  },
-  "https://www.threads.com/t/DdSLQzvkzTb": {
-    "title": "@feelfree_ai: 토큰 기반 LLM이 가진 성능 한계를 깨고, 연산량이 늘어날수록 기...",
-    "sent_at": "2026-09-15T03:23:27.222919+00:00"
-  },
-  "https://toss.tech/article/gpu-native-cluster": {
-    "title": "토스증권이 GPU-aware를 넘어 GPU-native 클러스터를 구축한 방법",
-    "sent_at": "2026-09-15T03:23:16.957360+00:00"
-  },
-  "936acd2588551fb9eea86f9b0eaf5f722128dc6e": {
-    "title": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)",
-    "sent_at": "2026-09-15T03:23:11.015615+00:00"
-  },
-  "https://huggingface.co/blog/asyncgrpo-lora-hfjobs": {
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "sent_at": "2026-09-15T03:23:08.834747+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98202": {
-    "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-    "sent_at": "2026-09-15T03:23:07.946659+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/": {
-    "title": "DevFest is back",
-    "sent_at": "2026-09-15T03:23:06.623447+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/": {
-    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-    "sent_at": "2026-09-15T03:23:06.138565+00:00"
-  },
-  "https://openai.com/index/fyxer": {
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "sent_at": "2026-09-15T03:23:04.186688+00:00"
-  },
-  "https://goddaehee.tistory.com/644": {
-    "title": "OmniRoute란?(OmniRoute 사용법) - 무료 AI 티어를 모아 Claude Code&middot;VS Code에 연결하기",
-    "sent_at": "2026-09-15T03:23:02.830595+00:00"
-  },
-  "https://techcrunch.com/?p=3163695": {
-    "title": "Amazon Prime Video takes on TikTok with short-form news clips",
-    "sent_at": "2026-09-15T03:22:55.573141+00:00"
-  },
-  "https://techcrunch.com/?p=3163813": {
-    "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-    "sent_at": "2026-09-15T03:22:55.086463+00:00"
-  },
-  "https://techcrunch.com/?p=3163844": {
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "sent_at": "2026-09-15T03:22:54.615522+00:00"
-  },
-  "https://techcrunch.com/?p=3163882": {
-    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-    "sent_at": "2026-09-15T03:22:53.876255+00:00"
-  },
-  "https://techcrunch.com/?p=3164024": {
-    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-    "sent_at": "2026-09-15T03:22:53.366218+00:00"
-  },
-  "https://www.threads.com/t/DdN7r5JAY1p": {
-    "title": "@feelfree_ai: 파라미터를 더 늘리지 않고도 AI의 추론 능력을 극대화하는 'Looped Flows' ...",
-    "sent_at": "2026-09-14T03:21:48.256324+00:00"
-  },
-  "https://www.threads.com/t/DdOyN0SgS_e": {
-    "title": "@feelfree_ai: API 키 없이 로컬에서 무료로 실행할 수 있는 나만의 AI 에이전트 프로ᄌ...",
-    "sent_at": "2026-09-14T03:21:47.761206+00:00"
-  },
-  "https://techcrunch.com/?p=3163436": {
-    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "sent_at": "2026-09-14T03:21:21.590954+00:00"
-  },
-  "https://techcrunch.com/?p=3163449": {
-    "title": "What’s behind the AI industry’s latest warnings of doom?",
-    "sent_at": "2026-09-14T03:21:21.100301+00:00"
-  },
-  "https://techcrunch.com/?p=3163451": {
-    "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-    "sent_at": "2026-09-14T03:21:20.600138+00:00"
-  },
-  "https://techcrunch.com/?p=3163467": {
-    "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-    "sent_at": "2026-09-14T03:21:20.040937+00:00"
-  },
-  "https://techcrunch.com/?p=3163457": {
-    "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-    "sent_at": "2026-09-14T03:21:19.486167+00:00"
-  },
-  "https://www.threads.com/t/DdLslvNAblU": {
-    "title": "@feelfree_ai: AI 에이전트에 무작정 메모리를 붙이면 잘못된 지식까지 쌓이곤 ᄒ...",
-    "sent_at": "2026-09-13T03:08:30.230366+00:00"
-  },
-  "https://www.threads.com/t/DdNau-kAcv9": {
-    "title": "@feelfree_ai: 프론티어 AI 개발 속도가 안전 장치보다 훨씬 빠르게 앞서나가고 있...",
-    "sent_at": "2026-09-13T03:08:29.730790+00:00"
-  },
-  "https://techcrunch.com/?p=3163369": {
-    "title": "Revolut confirms customer data breach through fake government requests",
-    "sent_at": "2026-09-13T03:08:04.664519+00:00"
-  },
-  "https://techcrunch.com/?p=3163377": {
-    "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-    "sent_at": "2026-09-13T03:08:04.211096+00:00"
-  },
-  "https://techcrunch.com/?p=3163373": {
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "sent_at": "2026-09-13T03:08:03.724680+00:00"
   }
 }
