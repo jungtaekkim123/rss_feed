@@ -1,4 +1,120 @@
 {
+  "https://www.threads.com/t/Deghbp1AYIF": {
+    "title": "@feelfree_ai: 텍스트의 고유한 문체만 보고 어떤 AI 모델이 작성했는지 맞히는 ...",
+    "sent_at": "2026-10-16T03:07:48.915260+00:00"
+  },
+  "https://www.threads.com/t/Deh8m5YElti": {
+    "title": "@feelfree_ai: 구글에서 별도의 검증기(verifier) 없이도 테스트 시점에 에이전트 하네스...",
+    "sent_at": "2026-10-16T03:07:48.539466+00:00"
+  },
+  "https://toss.tech/article/package-management-1": {
+    "title": "토스뱅크가 패키지를 관리하는 방식 #1: 패키지를 ESM으로만 제공하기로 했어요",
+    "sent_at": "2026-10-16T03:07:34.215389+00:00"
+  },
+  "https://toss.tech/article/package-management-2": {
+    "title": "토스뱅크가 패키지를 관리하는 방식 #2: 토스뱅크 패키지의 세 가지 기준",
+    "sent_at": "2026-10-16T03:07:33.832222+00:00"
+  },
+  "01M4YQC31GRHMR5V2624TPHTH7": {
+    "title": "Cloudflare and OpenAI: Making AI discovery better for everyone",
+    "sent_at": "2026-10-16T03:07:26.254102+00:00"
+  },
+  "01M4EX2BRJ7RNGAPQTBRXWRYT1": {
+    "title": "Deploy with Void",
+    "sent_at": "2026-10-16T03:07:25.886268+00:00"
+  },
+  "01M5072CXFWQ88M9NCXZBSPAF2": {
+    "title": "A fully programmable secure web gateway",
+    "sent_at": "2026-10-16T03:07:25.524010+00:00"
+  },
+  "https://huggingface.co/blog/flux-3": {
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "sent_at": "2026-10-16T03:07:21.660968+00:00"
+  },
+  "https://huggingface.co/blog/meta-muse-spark-open": {
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "sent_at": "2026-10-16T03:07:21.296023+00:00"
+  },
+  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": {
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "sent_at": "2026-10-16T03:07:20.925546+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/scaling-indic-pretraining": {
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "sent_at": "2026-10-16T03:07:20.556874+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98901": {
+    "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+    "sent_at": "2026-10-16T03:07:16.546148+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98912": {
+    "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+    "sent_at": "2026-10-16T03:07:16.177409+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98870": {
+    "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+    "sent_at": "2026-10-16T03:07:15.808404+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98620": {
+    "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+    "sent_at": "2026-10-16T03:07:15.439585+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98987": {
+    "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+    "sent_at": "2026-10-16T03:07:15.008334+00:00"
+  },
+  "https://engineering.fb.com/?p=24721": {
+    "title": "Sapienz Receives ISSTA 2026 Impact Paper Award",
+    "sent_at": "2026-10-16T03:07:09.930334+00:00"
+  },
+  "https://engineering.fb.com/?p=24735": {
+    "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale",
+    "sent_at": "2026-10-16T03:07:09.564227+00:00"
+  },
+  "https://engineering.fb.com/?p=24709": {
+    "title": "How Meta Built Forum With AI-Native Engineering",
+    "sent_at": "2026-10-16T03:07:09.198740+00:00"
+  },
+  "https://openai.com/index/sullivan-cromwell": {
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "sent_at": "2026-10-16T03:07:06.195742+00:00"
+  },
+  "https://openai.com/index/teaching-students-to-think-and-learn-through-questions": {
+    "title": "Teaching students to think and learn through questions",
+    "sent_at": "2026-10-16T03:07:05.825519+00:00"
+  },
+  "https://openai.com/index/introducing-the-rosalind-academic-plan": {
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "sent_at": "2026-10-16T03:07:05.463744+00:00"
+  },
+  "https://github.blog/?p=99529": {
+    "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+    "sent_at": "2026-10-16T03:06:53.835622+00:00"
+  },
+  "https://github.blog/?p=99541": {
+    "title": "The next developer interface is ambient intelligence",
+    "sent_at": "2026-10-16T03:06:53.445075+00:00"
+  },
+  "https://techcrunch.com/?p=3178309": {
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "sent_at": "2026-10-16T03:06:51.685629+00:00"
+  },
+  "https://techcrunch.com/?p=3178405": {
+    "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+    "sent_at": "2026-10-16T03:06:51.318625+00:00"
+  },
+  "https://techcrunch.com/?p=3178503": {
+    "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+    "sent_at": "2026-10-16T03:06:50.947534+00:00"
+  },
+  "https://techcrunch.com/?p=3178431": {
+    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+    "sent_at": "2026-10-16T03:06:50.575445+00:00"
+  },
+  "https://techcrunch.com/?p=3178485": {
+    "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+    "sent_at": "2026-10-16T03:06:50.204668+00:00"
+  },
   "https://www.threads.com/t/Deei2CsAdEu": {
     "title": "@feelfree_ai: 마스킹 비율 차이로 분류와 검색 성능이 갈리던 기존 한계를 극...",
     "sent_at": "2026-10-15T03:11:33.014945+00:00"
@@ -1882,121 +1998,5 @@
   "https://openai.com/index/model-misalignment-reporting-framework": {
     "title": "Our framework for reporting model misalignment",
     "sent_at": "2026-09-17T03:25:06.681782+00:00"
-  },
-  "https://openai.com/index/how-to-connect-ai-usage-to-business-value": {
-    "title": "How to connect AI usage to business value",
-    "sent_at": "2026-09-17T03:25:06.132881+00:00"
-  },
-  "https://openai.com/index/reimagining-advertising-with-ai": {
-    "title": "Reimagining advertising with AI",
-    "sent_at": "2026-09-17T03:25:05.568215+00:00"
-  },
-  "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
-    "title": "Helping older adults use AI in everyday life",
-    "sent_at": "2026-09-17T03:25:05.036335+00:00"
-  },
-  "https://github.blog/?p=98713": {
-    "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-    "sent_at": "2026-09-17T03:24:52.322664+00:00"
-  },
-  "https://techcrunch.com/?p=3164524": {
-    "title": "Noise wants to help everyday people  become paid content creators",
-    "sent_at": "2026-09-17T03:24:51.355139+00:00"
-  },
-  "https://techcrunch.com/?p=3165052": {
-    "title": "US automakers could soon be forced to include AM radio for free",
-    "sent_at": "2026-09-17T03:24:50.812724+00:00"
-  },
-  "https://techcrunch.com/?p=3165204": {
-    "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
-    "sent_at": "2026-09-17T03:24:50.282811+00:00"
-  },
-  "https://techcrunch.com/?p=3165227": {
-    "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
-    "sent_at": "2026-09-17T03:24:49.705385+00:00"
-  },
-  "https://techcrunch.com/?p=3165213": {
-    "title": "Snap tries to make the case again for its $2,200 smart glasses",
-    "sent_at": "2026-09-17T03:24:49.161077+00:00"
-  },
-  "https://www.threads.com/t/DdTJQv9gav4": {
-    "title": "@feelfree_ai: 거대한 LLM으로 토큰을 하나씩 생성하며 비싼 GPU 비용을 태우던 정ᄇ...",
-    "sent_at": "2026-09-16T03:19:43.404064+00:00"
-  },
-  "https://www.threads.com/t/DdT553tgTwL": {
-    "title": "@feelfree_ai: LLM 추론 속도가 생각만큼 안 나오는 건 GPU 사양 부족이 아니라 KV 캐ᄉ...",
-    "sent_at": "2026-09-16T03:19:42.910179+00:00"
-  },
-  "https://www.threads.com/t/DdU1R1XgW6e": {
-    "title": "@feelfree_ai: 단 13.2B의 활성 파라미터로 DeepSeek V4 Pro를 금융 툴 활용(Tool-use) 벤치마크ᄅ...",
-    "sent_at": "2026-09-16T03:19:42.423445+00:00"
-  },
-  "https://d2.naver.com/helloworld/0525182": {
-    "title": "우리 팀만의 vLLM 플러그인 만들기 1편 - 검색 AI 모델 서빙 성능 극대화하기",
-    "sent_at": "2026-09-16T03:19:27.041430+00:00"
-  },
-  "https://d2.naver.com/helloworld/7337586": {
-    "title": "우리 팀만의 vLLM 플러그인 만들기 2편 - 모델 변환부터 배포까지 AI-native로 자동화하기",
-    "sent_at": "2026-09-16T03:19:26.551849+00:00"
-  },
-  "01M2FPAD7MK0F8D9W7Z5HXH3MF": {
-    "title": "Give every teammate and agent the right level of access to your Workers",
-    "sent_at": "2026-09-16T03:19:22.412985+00:00"
-  },
-  "01M2H31EJKJWKFGC30ER2V5R9F": {
-    "title": "Have it both ways: stay discoverable in search while disallowing AI training",
-    "sent_at": "2026-09-16T03:19:21.916294+00:00"
-  },
-  "https://huggingface.co/blog/ibm-research/altk-evolve-consistency": {
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "sent_at": "2026-09-16T03:19:18.931839+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98260": {
-    "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
-    "sent_at": "2026-09-16T03:19:18.066668+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98178": {
-    "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-    "sent_at": "2026-09-16T03:19:17.575074+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98194": {
-    "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
-    "sent_at": "2026-09-16T03:19:17.102259+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98294": {
-    "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
-    "sent_at": "2026-09-16T03:19:16.611090+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/": {
-    "title": "New insights from Google’s AI & Economy ATLAS",
-    "sent_at": "2026-09-16T03:19:12.021022+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/": {
-    "title": "AI for everyone in every language",
-    "sent_at": "2026-09-16T03:19:11.550967+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/": {
-    "title": "Building AI to accelerate science and improve lives",
-    "sent_at": "2026-09-16T03:19:11.076732+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/": {
-    "title": "AI for Societal Impact",
-    "sent_at": "2026-09-16T03:19:10.602019+00:00"
-  },
-  "https://techcrunch.com/?p=3164442": {
-    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-    "sent_at": "2026-09-16T03:18:59.104316+00:00"
-  },
-  "https://techcrunch.com/?p=3162590": {
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "sent_at": "2026-09-16T03:18:58.622868+00:00"
-  },
-  "https://techcrunch.com/?p=3164453": {
-    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "sent_at": "2026-09-16T03:18:58.126514+00:00"
-  },
-  "https://techcrunch.com/?p=3164506": {
-    "title": "The AI data center boom is colliding with cities scarred by big industry",
-    "sent_at": "2026-09-16T03:18:57.626917+00:00"
   }
 }
