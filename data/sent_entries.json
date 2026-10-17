@@ -1,4 +1,52 @@
 {
+  "https://toss.tech/article/dw-airflow-migration": {
+    "title": "실행은 도메인별로, 문맥은 한 레포에",
+    "sent_at": "2026-10-17T02:59:10.851995+00:00"
+  },
+  "01M510YDY2PS6BYR03DF8HHG2D": {
+    "title": "Continuous accountability for Verified bots",
+    "sent_at": "2026-10-17T02:59:04.545940+00:00"
+  },
+  "https://engineering.atspotify.com/?p=237nFrtnxxwGVhert3vmha": {
+    "title": "Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM",
+    "sent_at": "2026-10-17T02:59:03.854853+00:00"
+  },
+  "https://medium.com/p/421392cf5adf": {
+    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+    "sent_at": "2026-10-17T02:59:02.674746+00:00"
+  },
+  "https://huggingface.co/blog/reflection-beam": {
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "sent_at": "2026-10-17T02:59:01.667063+00:00"
+  },
+  "https://openai.com/index/stack-overflow-chatgpt-plugin": {
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "sent_at": "2026-10-17T02:58:59.866822+00:00"
+  },
+  "https://openai.com/index/itau-generative-ai": {
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "sent_at": "2026-10-17T02:58:59.455991+00:00"
+  },
+  "https://techcrunch.com/?post_type=tc_video&p=3176211": {
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "sent_at": "2026-10-17T02:58:49.565071+00:00"
+  },
+  "https://techcrunch.com/?p=3178813": {
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "sent_at": "2026-10-17T02:58:49.139419+00:00"
+  },
+  "https://techcrunch.com/?p=3178464": {
+    "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+    "sent_at": "2026-10-17T02:58:48.718361+00:00"
+  },
+  "https://techcrunch.com/?p=3178496": {
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "sent_at": "2026-10-17T02:58:48.283074+00:00"
+  },
+  "https://techcrunch.com/?p=3178901": {
+    "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+    "sent_at": "2026-10-17T02:58:47.873343+00:00"
+  },
   "https://www.threads.com/t/Deghbp1AYIF": {
     "title": "@feelfree_ai: 텍스트의 고유한 문체만 보고 어떤 AI 모델이 작성했는지 맞히는 ...",
     "sent_at": "2026-10-16T03:07:48.915260+00:00"
@@ -1950,53 +1998,5 @@
   "https://techcrunch.com/?p=3165830": {
     "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
     "sent_at": "2026-09-18T03:10:48.640267+00:00"
-  },
-  "https://techcrunch.com/?p=3165871": {
-    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
-    "sent_at": "2026-09-18T03:10:48.147450+00:00"
-  },
-  "https://www.threads.com/t/DdVZR9rggUz": {
-    "title": "@feelfree_ai: PyTorch 래퍼만 써서 모델을 띄우다 보면 실제 GPU 내부에서 무슨 일이 일ᄋ...",
-    "sent_at": "2026-09-17T03:25:34.850059+00:00"
-  },
-  "https://www.threads.com/t/DdWINtsAZRp": {
-    "title": "@feelfree_ai: 24GB M4 맥북에서 27B 모델 컨텍스트를 3만에서 21만 토큰으로 늘린 최저...",
-    "sent_at": "2026-09-17T03:25:34.294244+00:00"
-  },
-  "https://www.threads.com/t/DdXq3H2ke_I": {
-    "title": "@feelfree_ai: 양자 컴퓨터로 생성한 데이터를 학습에 활용한 AI 모델 Quasar 1.1이 ᄃ...",
-    "sent_at": "2026-09-17T03:25:33.295255+00:00"
-  },
-  "https://toss.tech/article/toss-benchmark": {
-    "title": "리더보드 1등 LLM, 토스에서도 1등일까? - Toss Benchmark 구축기",
-    "sent_at": "2026-09-17T03:25:21.159568+00:00"
-  },
-  "08498470152ce637e9283653fce2e1e7198f87fb": {
-    "title": "AWS reimagines the getting started experience",
-    "sent_at": "2026-09-17T03:25:15.714503+00:00"
-  },
-  "01M2KNF1C55YJDSSWYFA6ES3B6": {
-    "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
-    "sent_at": "2026-09-17T03:25:14.666801+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98313": {
-    "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-    "sent_at": "2026-09-17T03:25:12.289058+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98287": {
-    "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-    "sent_at": "2026-09-17T03:25:11.748312+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98215": {
-    "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-    "sent_at": "2026-09-17T03:25:11.173885+00:00"
-  },
-  "https://openai.com/index/unlocking-new-ways-of-working": {
-    "title": "How workers are unlocking new ways of working",
-    "sent_at": "2026-09-17T03:25:07.245503+00:00"
-  },
-  "https://openai.com/index/model-misalignment-reporting-framework": {
-    "title": "Our framework for reporting model misalignment",
-    "sent_at": "2026-09-17T03:25:06.681782+00:00"
   }
 }
