@@ -1,4 +1,44 @@
 {
+  "https://www.threads.com/t/Dejr3B1gVv-": {
+    "title": "@feelfree_ai: 음성 AI 에이전트가 주변 사람의 말까지 섞어 알아듣는 문제를 해...",
+    "sent_at": "2026-10-18T03:00:51.628978+00:00"
+  },
+  "https://www.threads.com/t/DelbqMCgbOs": {
+    "title": "@feelfree_ai: 엔비디아와 스탠포드 대학교 연구진이 추론 지연 시간을 최대 3.4배 ᄌ...",
+    "sent_at": "2026-10-18T03:00:51.036577+00:00"
+  },
+  "https://www.threads.com/t/DemMhpCARgD": {
+    "title": "@feelfree_ai: MIT CSAIL과 MIT-IBM 연구소에서 AI 에이전트들이 텍스트 요약 대신 KV 캐시를 지...",
+    "sent_at": "2026-10-18T03:00:50.513561+00:00"
+  },
+  "https://www.threads.com/t/DenjVeMgYca": {
+    "title": "@feelfree_ai: 구글 리서치가 AI 에이전트를 실제 생물학 실험실(Wet-lab) 로봇과 연...",
+    "sent_at": "2026-10-18T03:00:49.913104+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99053": {
+    "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+    "sent_at": "2026-10-18T03:00:31.176282+00:00"
+  },
+  "https://openai.com/index/benefit-street-partners": {
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "sent_at": "2026-10-18T03:00:29.801054+00:00"
+  },
+  "https://techcrunch.com/?p=3178863": {
+    "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+    "sent_at": "2026-10-18T03:00:22.474125+00:00"
+  },
+  "https://techcrunch.com/?p=3178934": {
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "sent_at": "2026-10-18T03:00:21.874034+00:00"
+  },
+  "https://techcrunch.com/?p=3178937": {
+    "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+    "sent_at": "2026-10-18T03:00:21.288440+00:00"
+  },
+  "https://techcrunch.com/?p=3178941": {
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "sent_at": "2026-10-18T03:00:20.766965+00:00"
+  },
   "https://toss.tech/article/dw-airflow-migration": {
     "title": "실행은 도메인별로, 문맥은 한 레포에",
     "sent_at": "2026-10-17T02:59:10.851995+00:00"
@@ -1958,45 +1998,5 @@
   "e54808ff9073a2b426d2baf919a0236eb2f63e40": {
     "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
     "sent_at": "2026-09-18T03:11:06.718636+00:00"
-  },
-  "https://engineering.atspotify.com/?p=3PqIQGV6v5xB9DK6ql80CA": {
-    "title": "AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity",
-    "sent_at": "2026-09-18T03:11:04.467721+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98338": {
-    "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
-    "sent_at": "2026-09-18T03:11:02.534854+00:00"
-  },
-  "https://engineering.fb.com/?p=24092": {
-    "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
-    "sent_at": "2026-09-18T03:11:01.675224+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/": {
-    "title": "Making global data easier to explore",
-    "sent_at": "2026-09-18T03:11:00.539222+00:00"
-  },
-  "https://openai.com/index/astra-for-law": {
-    "title": "Introducing Astra for Law",
-    "sent_at": "2026-09-18T03:10:59.681676+00:00"
-  },
-  "https://openai.com/index/cooley-gopublic": {
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "sent_at": "2026-09-18T03:10:59.199308+00:00"
-  },
-  "https://techcrunch.com/?p=3165541": {
-    "title": "PrismML hopes its tiny LLM will change how we all use AI",
-    "sent_at": "2026-09-18T03:10:50.145266+00:00"
-  },
-  "https://techcrunch.com/?p=3165713": {
-    "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
-    "sent_at": "2026-09-18T03:10:49.667567+00:00"
-  },
-  "https://techcrunch.com/?p=3165803": {
-    "title": "Google DeepMind launches institute to widen the AGI debate",
-    "sent_at": "2026-09-18T03:10:49.128276+00:00"
-  },
-  "https://techcrunch.com/?p=3165830": {
-    "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-    "sent_at": "2026-09-18T03:10:48.640267+00:00"
   }
 }
