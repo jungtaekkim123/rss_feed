@@ -1,4 +1,48 @@
 {
+  "https://www.threads.com/t/Den41_2geCa": {
+    "title": "@feelfree_ai: 엔비디아에서 SFT는 그대로 두고 미드트레이닝 단계만 추가해 SWE-bench Multilingu...",
+    "sent_at": "2026-10-19T03:14:55.322780+00:00"
+  },
+  "https://www.threads.com/t/DeokZFOgfDk": {
+    "title": "@feelfree_ai: AI 에이전트에 MCP로 126개의 리버스 엔지니어링 도구를 연결해 악성코드...",
+    "sent_at": "2026-10-19T03:14:54.721211+00:00"
+  },
+  "https://www.threads.com/t/DeqE3SpAWTF": {
+    "title": "@feelfree_ai: 스탠포드와 MIT 등 공동 연구진이 원본 문서 토큰을 108배 덜 쓰면ᄉ...",
+    "sent_at": "2026-10-19T03:14:54.131732+00:00"
+  },
+  "https://www.threads.com/t/DeqNp25gX7N": {
+    "title": "@feelfree_ai: AI가 복잡한 연쇄 취약점을 뚫지 못한다는 통념을 깨고 그래프 ...",
+    "sent_at": "2026-10-19T03:14:53.608988+00:00"
+  },
+  "https://toss.tech/article/nic-interrupt-bottleneck": {
+    "title": "평균 CPU는 여유로운데, 커밋은 왜 느릴까?",
+    "sent_at": "2026-10-19T03:14:40.778349+00:00"
+  },
+  "https://engineering.atspotify.com/?p=3PqIQGV6v5xB9DK6ql80CA": {
+    "title": "AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity",
+    "sent_at": "2026-10-19T03:14:34.865427+00:00"
+  },
+  "https://techcrunch.com/?p=3178907": {
+    "title": "TechCrunch Mobility: Rivian’s next act",
+    "sent_at": "2026-10-19T03:14:25.862080+00:00"
+  },
+  "https://techcrunch.com/?p=3178949": {
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "sent_at": "2026-10-19T03:14:25.346382+00:00"
+  },
+  "https://techcrunch.com/?p=3178957": {
+    "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+    "sent_at": "2026-10-19T03:14:24.749947+00:00"
+  },
+  "https://techcrunch.com/?p=3178960": {
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "sent_at": "2026-10-19T03:14:24.165457+00:00"
+  },
+  "https://techcrunch.com/?p=3178953": {
+    "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+    "sent_at": "2026-10-19T03:14:23.580250+00:00"
+  },
   "https://www.threads.com/t/Dejr3B1gVv-": {
     "title": "@feelfree_ai: 음성 AI 에이전트가 주변 사람의 말까지 섞어 알아듣는 문제를 해...",
     "sent_at": "2026-10-18T03:00:51.628978+00:00"
@@ -1954,49 +1998,5 @@
   "https://github.blog/?p=98893": {
     "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
     "sent_at": "2026-09-19T03:06:58.847345+00:00"
-  },
-  "https://techcrunch.com/?p=3166487": {
-    "title": "AI hallucination nearly triggers US military operation",
-    "sent_at": "2026-09-19T03:06:57.801381+00:00"
-  },
-  "https://techcrunch.com/?p=3166494": {
-    "title": "Anthropic is operating a lab that conducts biology experiments",
-    "sent_at": "2026-09-19T03:06:57.426514+00:00"
-  },
-  "https://techcrunch.com/?p=3166504": {
-    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-    "sent_at": "2026-09-19T03:06:56.970193+00:00"
-  },
-  "https://techcrunch.com/?p=3166469": {
-    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-    "sent_at": "2026-09-19T03:06:56.593634+00:00"
-  },
-  "https://techcrunch.com/?p=3166409": {
-    "title": "India forces caller-ID apps to feed spam reports to telcos",
-    "sent_at": "2026-09-19T03:06:56.221392+00:00"
-  },
-  "https://www.threads.com/t/DdYg0u1gYxU": {
-    "title": "@feelfree_ai: 거대한 모델을 쓰지 않고 단 230M 파라미터만으로 체스 Elo 2000점을 찍으...",
-    "sent_at": "2026-09-18T03:11:26.190950+00:00"
-  },
-  "https://www.threads.com/t/DdY8LDKgdp9": {
-    "title": "@feelfree_ai: AI 에이전트 토큰 비용 줄이겠다고 컨텍스트를 함부로 요약하거나 ᄎ...",
-    "sent_at": "2026-09-18T03:11:25.675868+00:00"
-  },
-  "https://www.threads.com/t/DdaGMpUgaHF": {
-    "title": "@feelfree_ai: 멀티 에이전트 시스템에서 에이전트 단 한 대의 오작동이 전염병ᄎ...",
-    "sent_at": "2026-09-18T03:11:25.171688+00:00"
-  },
-  "https://www.threads.com/t/Ddaa6x0keLm": {
-    "title": "@feelfree_ai: RAG 검색 성능을 극대화해 줄 150M 파라미터 크기의 최신 희소 임베딩 ᄆ...",
-    "sent_at": "2026-09-18T03:11:24.697883+00:00"
-  },
-  "871c44b03c81444dbf2768f2c7efdf2a156c5808": {
-    "title": "AWS Elastic Beanstalk introduces Cluster Mode",
-    "sent_at": "2026-09-18T03:11:07.191866+00:00"
-  },
-  "e54808ff9073a2b426d2baf919a0236eb2f63e40": {
-    "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
-    "sent_at": "2026-09-18T03:11:06.718636+00:00"
   }
 }
