@@ -1,4 +1,84 @@
 {
+  "https://www.threads.com/t/Dercz5bAe0d": {
+    "title": "@feelfree_ai: AI 에이전트 여러 개 띄워놓고 '도대체 얘네 안에서 일은 제대로 하고 있ᄂ...",
+    "sent_at": "2026-10-20T03:23:58.859233+00:00"
+  },
+  "https://www.threads.com/t/Desxta7AWDt": {
+    "title": "@feelfree_ai: 추론 모델이 스스로에게 지시를 내리게 하면 생각의 사슬(CoT) 통제력...",
+    "sent_at": "2026-10-20T03:23:58.487985+00:00"
+  },
+  "cd5eb4df7600955259cf3d08d3dc859f994f08c5": {
+    "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
+    "sent_at": "2026-10-20T03:23:41.273016+00:00"
+  },
+  "01M537RHECVHNJPV12N2E54ZR7": {
+    "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+    "sent_at": "2026-10-20T03:23:40.428214+00:00"
+  },
+  "01M5AKCKW0449M3Q6FW10XB4K3": {
+    "title": "Introducing Clairic, a new System One class of extraction models",
+    "sent_at": "2026-10-20T03:23:40.064718+00:00"
+  },
+  "01M58NMKW6A1DQJNZXH37VZ9JH": {
+    "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+    "sent_at": "2026-10-20T03:23:39.692258+00:00"
+  },
+  "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": {
+    "title": "Apertus 1.5 Release Notes",
+    "sent_at": "2026-10-20T03:23:36.048703+00:00"
+  },
+  "https://huggingface.co/blog/hf-torchneuron": {
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "sent_at": "2026-10-20T03:23:35.681094+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99038": {
+    "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+    "sent_at": "2026-10-20T03:23:33.786391+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99080": {
+    "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+    "sent_at": "2026-10-20T03:23:33.418911+00:00"
+  },
+  "https://engineering.fb.com/?p=24763": {
+    "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+    "sent_at": "2026-10-20T03:23:31.441003+00:00"
+  },
+  "https://engineering.fb.com/?p=24724": {
+    "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+    "sent_at": "2026-10-20T03:23:31.063751+00:00"
+  },
+  "https://engineering.fb.com/?p=24783": {
+    "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
+    "sent_at": "2026-10-20T03:23:30.668339+00:00"
+  },
+  "https://openai.com/index/low-resource-programming-languages": {
+    "title": "Advancing coding in low‑resource programming languages",
+    "sent_at": "2026-10-20T03:23:27.563917+00:00"
+  },
+  "https://github.blog/?p=99556": {
+    "title": "How to continue a GitHub Copilot app session in VS Code",
+    "sent_at": "2026-10-20T03:23:18.574313+00:00"
+  },
+  "https://techcrunch.com/?p=3179279": {
+    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "sent_at": "2026-10-20T03:23:17.768484+00:00"
+  },
+  "https://techcrunch.com/?p=3178312": {
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "sent_at": "2026-10-20T03:23:17.405089+00:00"
+  },
+  "https://techcrunch.com/?p=3179487": {
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "sent_at": "2026-10-20T03:23:16.400336+00:00"
+  },
+  "https://techcrunch.com/?p=3179517": {
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "sent_at": "2026-10-20T03:23:16.031367+00:00"
+  },
+  "https://techcrunch.com/?p=3179333": {
+    "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+    "sent_at": "2026-10-20T03:23:15.651945+00:00"
+  },
   "https://www.threads.com/t/Den41_2geCa": {
     "title": "@feelfree_ai: 엔비디아에서 SFT는 그대로 두고 미드트레이닝 단계만 추가해 SWE-bench Multilingu...",
     "sent_at": "2026-10-19T03:14:55.322780+00:00"
@@ -1918,85 +1998,5 @@
   "https://techcrunch.com/?p=3166716": {
     "title": "Is the AI industry really ready to slow down?",
     "sent_at": "2026-09-21T03:18:24.714763+00:00"
-  },
-  "https://techcrunch.com/?p=3166721": {
-    "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
-    "sent_at": "2026-09-21T03:18:24.221697+00:00"
-  },
-  "https://techcrunch.com/?p=3166196": {
-    "title": "World model companies are keeping a lot of secrets",
-    "sent_at": "2026-09-21T03:18:23.765172+00:00"
-  },
-  "https://techcrunch.com/?p=3166682": {
-    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-    "sent_at": "2026-09-21T03:18:23.272708+00:00"
-  },
-  "https://www.threads.com/t/DddsrEZgZIQ": {
-    "title": "@feelfree_ai: AI가 코드 검수를 넘어 아예 전용 정적 분석기까지 직접 만들어 ᄉ...",
-    "sent_at": "2026-09-20T03:23:55.551533+00:00"
-  },
-  "https://openai.com/index/australian-youth-safety-blueprint": {
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "sent_at": "2026-09-20T03:23:37.337000+00:00"
-  },
-  "https://techcrunch.com/?p=3162545": {
-    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "sent_at": "2026-09-20T03:23:27.935145+00:00"
-  },
-  "https://techcrunch.com/?p=3166634": {
-    "title": "The US Navy just told us what’s on its tech wish list for the next several years",
-    "sent_at": "2026-09-20T03:23:27.428517+00:00"
-  },
-  "https://techcrunch.com/?p=3166647": {
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "sent_at": "2026-09-20T03:23:26.962725+00:00"
-  },
-  "https://techcrunch.com/?p=3166662": {
-    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-    "sent_at": "2026-09-20T03:23:26.471723+00:00"
-  },
-  "https://techcrunch.com/?p=3166668": {
-    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-    "sent_at": "2026-09-20T03:23:25.976342+00:00"
-  },
-  "https://www.threads.com/t/Dda-bwnARjq": {
-    "title": "@feelfree_ai: 이제 복잡한 의존성 설치 없이 도커 명령어 한 줄로 500개가 넘는 ...",
-    "sent_at": "2026-09-19T03:07:30.071588+00:00"
-  },
-  "https://www.threads.com/t/DdcyNJ6AX1E": {
-    "title": "@feelfree_ai: 엔비디아가 에이전트 하네스를 스스로 최적화하는 SoL-Pi를 공개했는ᄃ...",
-    "sent_at": "2026-09-19T03:07:29.685931+00:00"
-  },
-  "https://toss.tech/article/lockbank": {
-    "title": "사용자를 위해 일부러 어렵게 만드는 경험, 어디까지 괜찮을까?",
-    "sent_at": "2026-09-19T03:07:19.849566+00:00"
-  },
-  "01M2PG0CV1HQN5RRFVQ49YYMWY": {
-    "title": "Saving another 100TB of RAM with math (and Rust)",
-    "sent_at": "2026-09-19T03:07:13.286433+00:00"
-  },
-  "https://engineering.atspotify.com/?p=ln7E2AsSaOEViz9VzHqlL": {
-    "title": "When Can LLMs Replace Humans in A/B Tests?",
-    "sent_at": "2026-09-19T03:07:12.575271+00:00"
-  },
-  "https://medium.com/p/67a85b15b6be": {
-    "title": "Leave the Class Path in the Rearview Mirror",
-    "sent_at": "2026-09-19T03:07:11.623229+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/": {
-    "title": "Co-creating the future of fashion with Google",
-    "sent_at": "2026-09-19T03:07:10.116859+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/": {
-    "title": "New experts join Google’s AI & Economy team",
-    "sent_at": "2026-09-19T03:07:09.742605+00:00"
-  },
-  "https://openai.com/index/hex-gpt-6-astra": {
-    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-    "sent_at": "2026-09-19T03:07:07.968481+00:00"
-  },
-  "https://github.blog/?p=98893": {
-    "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-    "sent_at": "2026-09-19T03:06:58.847345+00:00"
   }
 }
