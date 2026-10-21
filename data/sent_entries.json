@@ -1,4 +1,92 @@
 {
+  "https://www.threads.com/t/DetqkWOAefM": {
+    "title": "@feelfree_ai: 영국 디지털 헬스케어 기업 Numan이 LangGraph와 LangSmith를 기반으로 단 하루 ᄆ...",
+    "sent_at": "2026-10-21T03:18:41.884636+00:00"
+  },
+  "https://www.threads.com/t/DevAU0jgYUV": {
+    "title": "@feelfree_ai: 구글과 메타가 손잡고 코드 한 줄(.to(\"tpu\"))만 바꾸면 PyTorch 워크로드를 구...",
+    "sent_at": "2026-10-21T03:18:41.498848+00:00"
+  },
+  "https://www.threads.com/t/DevXlm2gX0y": {
+    "title": "@feelfree_ai: 카카오에서 외부 모델에 의존하지 않고 처음부터 직접 학습(From Scratch)ᄒ...",
+    "sent_at": "2026-10-21T03:18:41.110849+00:00"
+  },
+  "https://d2.naver.com/helloworld/2675915": {
+    "title": "2026년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)",
+    "sent_at": "2026-10-21T03:18:24.294827+00:00"
+  },
+  "b26c8ec6bfaf7141b02ddd51b0832cb797e2fa86": {
+    "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
+    "sent_at": "2026-10-21T03:18:20.617141+00:00"
+  },
+  "01M5C833HV3W30PBZZYVMCVRR6": {
+    "title": "Introducing tsrs: A port of TypeScript to Rust",
+    "sent_at": "2026-10-21T03:18:19.858626+00:00"
+  },
+  "01M5DK5J81T0VC8YTBR2FKD8A3": {
+    "title": "8 eMudhra certificates are compromised. Here's what you need to know",
+    "sent_at": "2026-10-21T03:18:19.426005+00:00"
+  },
+  "https://huggingface.co/blog/anylanguagemodel-1-0": {
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "sent_at": "2026-10-21T03:18:16.841120+00:00"
+  },
+  "https://huggingface.co/blog/hf-torchtpu": {
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "sent_at": "2026-10-21T03:18:16.465469+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/altk-evolve-bc": {
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "sent_at": "2026-10-21T03:18:16.092869+00:00"
+  },
+  "https://huggingface.co/blog/allenai/fairstress": {
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "sent_at": "2026-10-21T03:18:15.719093+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/cosmos3-h-dreams": {
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "sent_at": "2026-10-21T03:18:15.331965+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99066": {
+    "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+    "sent_at": "2026-10-21T03:18:09.990503+00:00"
+  },
+  "https://openai.com/index/openai-to-acquire-orchestra-bio": {
+    "title": "OpenAI acquires Orchestra Bio",
+    "sent_at": "2026-10-21T03:18:08.732595+00:00"
+  },
+  "https://openai.com/index/terminal-x": {
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "sent_at": "2026-10-21T03:18:08.323926+00:00"
+  },
+  "https://openai.com/index/ted-taylor-restaurant": {
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "sent_at": "2026-10-21T03:18:07.942452+00:00"
+  },
+  "https://github.blog/?p=99538": {
+    "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+    "sent_at": "2026-10-21T03:17:57.371332+00:00"
+  },
+  "https://techcrunch.com/?p=3179777": {
+    "title": "SpaceX’s AI business is beating expectations",
+    "sent_at": "2026-10-21T03:17:56.649785+00:00"
+  },
+  "https://techcrunch.com/?p=3179891": {
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "sent_at": "2026-10-21T03:17:56.277214+00:00"
+  },
+  "https://techcrunch.com/?p=3179822": {
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "sent_at": "2026-10-21T03:17:55.898069+00:00"
+  },
+  "https://techcrunch.com/?p=3179932": {
+    "title": "SpaceX and Tesla boards form special committees to review merger",
+    "sent_at": "2026-10-21T03:17:55.510120+00:00"
+  },
+  "https://techcrunch.com/?p=3179755": {
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "sent_at": "2026-10-21T03:17:55.135407+00:00"
+  },
   "https://www.threads.com/t/Dercz5bAe0d": {
     "title": "@feelfree_ai: AI 에이전트 여러 개 띄워놓고 '도대체 얘네 안에서 일은 제대로 하고 있ᄂ...",
     "sent_at": "2026-10-20T03:23:58.859233+00:00"
@@ -1910,93 +1998,5 @@
   "https://blogs.nvidia.com/?p=98393": {
     "title": "5 Companies Using NVIDIA AI for Clean Energy",
     "sent_at": "2026-09-22T03:18:21.308219+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98407": {
-    "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
-    "sent_at": "2026-09-22T03:18:20.766129+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98372": {
-    "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-    "sent_at": "2026-09-22T03:18:20.211211+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98364": {
-    "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-    "sent_at": "2026-09-22T03:18:19.677570+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98386": {
-    "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-    "sent_at": "2026-09-22T03:18:19.111675+00:00"
-  },
-  "https://engineering.fb.com/?p=24485": {
-    "title": "Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable",
-    "sent_at": "2026-09-22T03:18:13.708151+00:00"
-  },
-  "https://engineering.fb.com/?p=24447": {
-    "title": "Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems",
-    "sent_at": "2026-09-22T03:18:13.167604+00:00"
-  },
-  "https://openai.com/index/v7": {
-    "title": "How V7 gives AI agents institutional memory",
-    "sent_at": "2026-09-22T03:18:10.782873+00:00"
-  },
-  "https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
-    "title": "Expanding OpenAI Academy with new learning paths",
-    "sent_at": "2026-09-22T03:18:10.224226+00:00"
-  },
-  "https://openai.com/index/building-standards-next-phase-ai": {
-    "title": "Building standards for the next phase of AI",
-    "sent_at": "2026-09-22T03:18:09.673847+00:00"
-  },
-  "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": {
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "sent_at": "2026-09-22T03:18:09.115303+00:00"
-  },
-  "https://openai.com/index/advisory-group-on-mathematics-and-ai": {
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "sent_at": "2026-09-22T03:18:08.578202+00:00"
-  },
-  "https://goddaehee.tistory.com/645": {
-    "title": "Aside 브라우저란? Aside 브라우저(AI 브라우저) 사용방법 - Claude Code와 Codex에 브라우저를 연결하는 방법, Aside 사용 가이드",
-    "sent_at": "2026-09-22T03:18:02.779357+00:00"
-  },
-  "https://techcrunch.com/?p=3167037": {
-    "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-    "sent_at": "2026-09-22T03:17:55.777169+00:00"
-  },
-  "https://techcrunch.com/?p=3167075": {
-    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-    "sent_at": "2026-09-22T03:17:55.203732+00:00"
-  },
-  "https://techcrunch.com/?p=3167098": {
-    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-    "sent_at": "2026-09-22T03:17:54.661984+00:00"
-  },
-  "https://techcrunch.com/?p=3167174": {
-    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-    "sent_at": "2026-09-22T03:17:54.082280+00:00"
-  },
-  "https://techcrunch.com/?p=3167267": {
-    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-    "sent_at": "2026-09-22T03:17:53.273923+00:00"
-  },
-  "https://www.threads.com/t/Ddfo4hQAbi-": {
-    "title": "@feelfree_ai: LLM으로 AI 에이전트를 평가하느라 비용과 일관성 문제로 고민하셨다...",
-    "sent_at": "2026-09-21T03:18:53.433819+00:00"
-  },
-  "https://www.threads.com/t/DdgpG9hgXXD": {
-    "title": "@feelfree_ai: LLM API 구축해두고 트래픽 몰릴 때 latency 터지는 경험 해보신분 계신가...",
-    "sent_at": "2026-09-21T03:18:52.923620+00:00"
-  },
-  "https://www.threads.com/t/DdiCeALjseR": {
-    "title": "@feelfree_ai: 인간이 만드는 마지막 AI는 결국 스스로를 개량하고 그 개선 프로ᄉ...",
-    "sent_at": "2026-09-21T03:18:52.455186+00:00"
-  },
-  "https://techcrunch.com/?p=3152751": {
-    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-    "sent_at": "2026-09-21T03:18:25.176586+00:00"
-  },
-  "https://techcrunch.com/?p=3166716": {
-    "title": "Is the AI industry really ready to slow down?",
-    "sent_at": "2026-09-21T03:18:24.714763+00:00"
   }
 }
