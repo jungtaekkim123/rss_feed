@@ -1,4 +1,100 @@
 {
+  "https://www.threads.com/t/Deyv93XAV9Q": {
+    "title": "@feelfree_ai: 음바페보다 빠른 코딩 에이전트들의 작업 기억 상실을 해결해 주...",
+    "sent_at": "2026-10-23T03:22:42.909635+00:00"
+  },
+  "https://www.threads.com/t/DezENXJAVqz": {
+    "title": "@feelfree_ai: 점점 AI 오픈소스 공급망 보안(AI-BOM)이 중요해지는 시점에, 많이들 ...",
+    "sent_at": "2026-10-23T03:22:42.384408+00:00"
+  },
+  "https://www.threads.com/t/De0Z1JGATCP": {
+    "title": "@feelfree_ai: 아이폰이 RTX 4090 노트북보다 42배 빠르게 드론 카메라를 시뮬레이션하는 ...",
+    "sent_at": "2026-10-23T03:22:41.853526+00:00"
+  },
+  "https://toss.tech/article/dataops-log-definition-skill": {
+    "title": "머릿속에 있던 로그 정의 기준을 모두의 AI 스킬로 만들기",
+    "sent_at": "2026-10-23T03:22:29.930326+00:00"
+  },
+  "7ce6bf5eb7b5d26b8ad5cb6ced771ac43468759d": {
+    "title": "AWS Continuum for code vulnerabilities is now generally available",
+    "sent_at": "2026-10-23T03:22:23.830266+00:00"
+  },
+  "01M5FTVN0D8MSEXMF36ZM9WWD4": {
+    "title": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
+    "sent_at": "2026-10-23T03:22:23.042576+00:00"
+  },
+  "https://medium.com/p/6d8b1909d163": {
+    "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+    "sent_at": "2026-10-23T03:22:21.726531+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": {
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "sent_at": "2026-10-23T03:22:20.745243+00:00"
+  },
+  "https://huggingface.co/blog/allenai/olmoearth-v1-3": {
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "sent_at": "2026-10-23T03:22:20.224244+00:00"
+  },
+  "https://huggingface.co/blog/microsoft/thinkingbox-training": {
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "sent_at": "2026-10-23T03:22:19.706254+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99128": {
+    "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+    "sent_at": "2026-10-23T03:22:16.710100+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99173": {
+    "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+    "sent_at": "2026-10-23T03:22:16.193196+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99414": {
+    "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+    "sent_at": "2026-10-23T03:22:15.675222+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99404": {
+    "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+    "sent_at": "2026-10-23T03:22:15.146901+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99413": {
+    "title": "Kazakhstan Expands Compute for Its AI Future",
+    "sent_at": "2026-10-23T03:22:14.630244+00:00"
+  },
+  "https://openai.com/index/uber-chatgpt-work-rollout": {
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "sent_at": "2026-10-23T03:22:09.008506+00:00"
+  },
+  "https://openai.com/index/forward-deployed-engineering-means": {
+    "title": "What FDE means at OpenAI",
+    "sent_at": "2026-10-23T03:22:08.421916+00:00"
+  },
+  "https://openai.com/index/decisions-api": {
+    "title": "Build more responsive apps with the Decisions API",
+    "sent_at": "2026-10-23T03:22:07.902842+00:00"
+  },
+  "https://github.blog/?p=99645": {
+    "title": "How bug bounty sharpens one researcher’s security skills",
+    "sent_at": "2026-10-23T03:21:58.906656+00:00"
+  },
+  "https://techcrunch.com/?p=3180936": {
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "sent_at": "2026-10-23T03:21:57.920712+00:00"
+  },
+  "https://techcrunch.com/?p=3180975": {
+    "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+    "sent_at": "2026-10-23T03:21:57.404268+00:00"
+  },
+  "https://techcrunch.com/?p=3180969": {
+    "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+    "sent_at": "2026-10-23T03:21:56.880741+00:00"
+  },
+  "https://techcrunch.com/?p=3180868": {
+    "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+    "sent_at": "2026-10-23T03:21:56.343242+00:00"
+  },
+  "https://techcrunch.com/?p=3181016": {
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "sent_at": "2026-10-23T03:21:55.805164+00:00"
+  },
   "https://www.threads.com/t/DewrwYzgXOJ": {
     "title": "@feelfree_ai: 구글 클라우드 AI 리서치와 UIUC가 객체지향 설계로 에이전트 하네스를 진화시켜 AutomationBench 성능을 61.6%에서 77.4%까지 끌어올린 'OO-Harn...",
     "sent_at": "2026-10-22T03:17:15.978820+00:00"
@@ -1902,101 +1998,5 @@
   "https://www.threads.com/t/Ddn92S_AesM": {
     "title": "@feelfree_ai: 이제 로봇 개발도 개발자 혼자가 아니라 AI 에이전트와 협업해 ROS 2 앱ᄋ...",
     "sent_at": "2026-09-24T03:08:47.555632+00:00"
-  },
-  "https://www.threads.com/t/Ddpe1A1ktO-": {
-    "title": "@feelfree_ai: 벤치마크 점수는 계속 오르는데, 왜 우리 AI 에이전트는 실전 업무에...",
-    "sent_at": "2026-09-24T03:08:47.018342+00:00"
-  },
-  "https://toss.tech/article/AI_chatbot": {
-    "title": "연 300시간을 아낀 AI 상담 서비스",
-    "sent_at": "2026-09-24T03:08:31.203534+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp": {
-    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-    "sent_at": "2026-09-24T03:08:23.567363+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98468": {
-    "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
-    "sent_at": "2026-09-24T03:08:22.513954+00:00"
-  },
-  "https://engineering.fb.com/?p=24499": {
-    "title": "Bringing Private Processing to Meta AI Glasses",
-    "sent_at": "2026-09-24T03:08:21.529397+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/": {
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "sent_at": "2026-09-24T03:08:20.641961+00:00"
-  },
-  "https://openai.com/index/invideo-builds-with-gpt-6-astra": {
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "sent_at": "2026-09-24T03:08:19.633789+00:00"
-  },
-  "https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "sent_at": "2026-09-24T03:08:19.099644+00:00"
-  },
-  "https://openai.com/index/sam-altman-un-security-council-remarks": {
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "sent_at": "2026-09-24T03:08:18.568257+00:00"
-  },
-  "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "sent_at": "2026-09-24T03:08:18.036454+00:00"
-  },
-  "https://openai.com/index/two-years-of-openai-academy": {
-    "title": "Two years of OpenAI Academy",
-    "sent_at": "2026-09-24T03:08:17.502705+00:00"
-  },
-  "https://github.blog/?p=98976": {
-    "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
-    "sent_at": "2026-09-24T03:08:04.560606+00:00"
-  },
-  "https://github.blog/?p=99002": {
-    "title": "Rendering huge pull requests in the GitHub Copilot app",
-    "sent_at": "2026-09-24T03:08:04.016765+00:00"
-  },
-  "https://techcrunch.com/?p=3168578": {
-    "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
-    "sent_at": "2026-09-24T03:08:01.963102+00:00"
-  },
-  "https://techcrunch.com/?p=3168626": {
-    "title": "Meta introduces camera-free AI glasses",
-    "sent_at": "2026-09-24T03:08:01.426613+00:00"
-  },
-  "https://techcrunch.com/?p=3168624": {
-    "title": "Meta is trying VR glasses (again), this time with more IMAX",
-    "sent_at": "2026-09-24T03:08:00.880246+00:00"
-  },
-  "https://techcrunch.com/?p=3168692": {
-    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-    "sent_at": "2026-09-24T03:08:00.333018+00:00"
-  },
-  "https://techcrunch.com/?p=3168527": {
-    "title": "Everything new coming to Meta’s AI agent Muse",
-    "sent_at": "2026-09-24T03:07:59.795998+00:00"
-  },
-  "https://www.threads.com/t/DdlJgDUiE8M": {
-    "title": "@feelfree_ai: LLM 강화학습(RL)이 추론 능력을 획기적으로 올려준다고 알려져 있...",
-    "sent_at": "2026-09-23T03:19:08.197350+00:00"
-  },
-  "https://www.threads.com/t/DdlrCB-gY2Q": {
-    "title": "@feelfree_ai: 아직도 LLM 프롬프트 문구를 손으로 일일이 수정하고 계신다면, 이제...",
-    "sent_at": "2026-09-23T03:19:07.803622+00:00"
-  },
-  "https://www.threads.com/t/Ddl5nGAAti9": {
-    "title": "@feelfree_ai: OpenAI 연구원은 과연 어떤 내용으로 면접을 준비했을까요? 현직 ...",
-    "sent_at": "2026-09-23T03:19:07.424303+00:00"
-  },
-  "https://www.threads.com/t/DdnFtDcgUAH": {
-    "title": "@feelfree_ai: 단 8B 크기의 모델이 어떻게 32B 거대 모델의 SQL 작성 성능을 넘어섰ᄋ...",
-    "sent_at": "2026-09-23T03:19:07.034660+00:00"
-  },
-  "https://toss.tech/article/toss-doctor": {
-    "title": "쉼 없이 도는 테스트, 사람이 어디까지 돌봐야 할까요? - 토스닥터(Toss Doctor)",
-    "sent_at": "2026-09-23T03:18:54.000386+00:00"
-  },
-  "https://toss.tech/article/asset_management": {
-    "title": "방해하지 않고, 눈에 띌 수 있을까",
-    "sent_at": "2026-09-23T03:18:53.634263+00:00"
   }
 }
