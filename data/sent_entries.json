@@ -1,4 +1,40 @@
 {
+  "https://www.threads.com/t/De6WnewgfQ0": {
+    "title": "@feelfree_ai: 엔비디아와 UC 버클리 연구진이 로봇이 직접 코드를 짜고 다음 상황을 예측해 복잡한 작업을 수행하는 AI 시스템 AW-0를 공개했습니다. 사람의 지...",
+    "sent_at": "2026-10-26T03:12:11.377262+00:00"
+  },
+  "https://www.threads.com/t/De6pSbJgTX3": {
+    "title": "@feelfree_ai: 구글 딥마인드가 모든 딥러닝 프레임워크의 소프트맥스 연산에 숨어있던 치명적인 수치적 버그 2가지를 찾아내 수정했습니다. 기존 방식은 bf16 ...",
+    "sent_at": "2026-10-26T03:12:11.008205+00:00"
+  },
+  "https://www.threads.com/t/De70aN3EsMe": {
+    "title": "@feelfree_ai: 세바스찬 라슈카(Sebastian Raschka)가 추론(Reasoning) 모델을 밑바닥부터 직접 구현하는 총 11시간 분량의 8부작 코딩 강의 시리즈를 완성해 공...",
+    "sent_at": "2026-10-26T03:12:10.635991+00:00"
+  },
+  "https://www.threads.com/t/De8PhIuAYHI": {
+    "title": "@feelfree_ai: 구글에서 수십억 개의 자율 에이전트 워크로드를 클러스터 단위로 실행하고 관리할 수 있는 오픈소스 런타임 'AX'를 공개했습니다. 쿠버네티스처...",
+    "sent_at": "2026-10-26T03:12:10.263388+00:00"
+  },
+  "https://techcrunch.com/?p=3181384": {
+    "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+    "sent_at": "2026-10-26T03:11:40.547451+00:00"
+  },
+  "https://techcrunch.com/?p=3181532": {
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "sent_at": "2026-10-26T03:11:40.186990+00:00"
+  },
+  "https://techcrunch.com/?p=3181538": {
+    "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+    "sent_at": "2026-10-26T03:11:39.796911+00:00"
+  },
+  "https://techcrunch.com/?p=3181554": {
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "sent_at": "2026-10-26T03:11:39.433481+00:00"
+  },
+  "https://techcrunch.com/?p=2463158": {
+    "title": "The best apps for tracking your reading and discovering new books",
+    "sent_at": "2026-10-26T03:11:39.070889+00:00"
+  },
   "https://www.threads.com/t/De3ueT2k-tI": {
     "title": "@feelfree_ai: 단순한 용어 암기를 넘어 제1원리(First Principles)부터 AI 아키텍처를 밑ᄇ...",
     "sent_at": "2026-10-25T03:11:44.311496+00:00"
@@ -1962,41 +1998,5 @@
   "https://www.threads.com/t/DdxhD9KgW8n": {
     "title": "@feelfree_ai: ￼ 복잡한 에이전트 프레임워크가 늘 정답은 아닐지도 모릅니다. MIT...",
     "sent_at": "2026-09-27T03:39:46.562323+00:00"
-  },
-  "https://techcrunch.com/?p=3170235": {
-    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-    "sent_at": "2026-09-27T03:39:19.702290+00:00"
-  },
-  "https://techcrunch.com/?p=3170281": {
-    "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-    "sent_at": "2026-09-27T03:39:19.085596+00:00"
-  },
-  "https://techcrunch.com/?p=3170285": {
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "sent_at": "2026-09-27T03:39:18.542080+00:00"
-  },
-  "https://techcrunch.com/?p=3170226": {
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "sent_at": "2026-09-27T03:39:17.916270+00:00"
-  },
-  "https://techcrunch.com/?p=3170162": {
-    "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-    "sent_at": "2026-09-27T03:39:17.385232+00:00"
-  },
-  "https://www.threads.com/t/DdtVWhFgR_w": {
-    "title": "@feelfree_ai: 실시간 보이스 AI 에이전트를 만들 때 모델 선택보다 복잡한 파이...",
-    "sent_at": "2026-09-26T03:30:55.345044+00:00"
-  },
-  "https://www.threads.com/t/Ddu-0lmgU_z": {
-    "title": "@feelfree_ai: 최신 AI 에이전트에게 복잡한 작업 중 갈림길에서 '더 나은 방향...",
-    "sent_at": "2026-09-26T03:30:54.808739+00:00"
-  },
-  "01M39NRWHQ3A97HJ70DRJS7VGM": {
-    "title": "Agents can now set up your website’s security with Turnstile Spin",
-    "sent_at": "2026-09-26T03:30:38.876022+00:00"
-  },
-  "https://medium.com/p/e9f6a1b1492b": {
-    "title": "A Tale of Two Flink Autoscalers",
-    "sent_at": "2026-09-26T03:30:37.529646+00:00"
   }
 }
