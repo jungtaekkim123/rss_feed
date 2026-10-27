@@ -1,4 +1,80 @@
 {
+  "https://www.threads.com/t/De9LOSmAdUo": {
+    "title": "@feelfree_ai: VAGO Solutions에서 파라미터가 1.5M~115M에 불과한 초소형 MoE 기반 임베딩 및 검...",
+    "sent_at": "2026-10-27T03:42:30.360069+00:00"
+  },
+  "https://www.threads.com/t/De-inX2gZoU": {
+    "title": "@feelfree_ai: 256K 토큰을 추론해도 KV 캐시 메모리를 단 72MiB로 고정해 기존 대비 메모리...",
+    "sent_at": "2026-10-27T03:42:29.868416+00:00"
+  },
+  "https://d2.naver.com/helloworld/1975819": {
+    "title": "AI 시대의 개발자를 꿈꾸는 학생 개발자에게",
+    "sent_at": "2026-10-27T03:42:16.206910+00:00"
+  },
+  "da6ca251ec6556de7daf75747bcf2af4e10a86a5": {
+    "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
+    "sent_at": "2026-10-27T03:42:12.064743+00:00"
+  },
+  "01M5X2P6CQYMNAESRJ922DG5J3": {
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+    "sent_at": "2026-10-27T03:42:11.016939+00:00"
+  },
+  "https://medium.com/p/2e6b42810f49": {
+    "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+    "sent_at": "2026-10-27T03:42:09.709787+00:00"
+  },
+  "https://medium.com/p/6b0811a1c015": {
+    "title": "Making Failure Diagnosis Reliable with Pensive AI",
+    "sent_at": "2026-10-27T03:42:09.234758+00:00"
+  },
+  "https://engineering.fb.com/?p=24816": {
+    "title": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks",
+    "sent_at": "2026-10-27T03:42:06.361077+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/": {
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "sent_at": "2026-10-27T03:42:05.407108+00:00"
+  },
+  "https://openai.com/index/fanatics-streamline-fan-experience": {
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "sent_at": "2026-10-27T03:42:04.534494+00:00"
+  },
+  "https://openai.com/index/chatgpt-expanding-world-of-work": {
+    "title": "ChatGPT’s expanding world of work",
+    "sent_at": "2026-10-27T03:42:04.070215+00:00"
+  },
+  "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": {
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "sent_at": "2026-10-27T03:42:03.594718+00:00"
+  },
+  "https://openai.com/index/building-scientific-understanding-with-academic-communities": {
+    "title": "Working with academic communities to build scientific understanding",
+    "sent_at": "2026-10-27T03:42:03.095961+00:00"
+  },
+  "https://openai.com/index/greptile-code-review-codex-astra": {
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "sent_at": "2026-10-27T03:42:02.596701+00:00"
+  },
+  "https://techcrunch.com/?p=3181811": {
+    "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+    "sent_at": "2026-10-27T03:41:49.632156+00:00"
+  },
+  "https://techcrunch.com/?p=3181714": {
+    "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+    "sent_at": "2026-10-27T03:41:48.760933+00:00"
+  },
+  "https://techcrunch.com/?p=3180879": {
+    "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+    "sent_at": "2026-10-27T03:41:47.616511+00:00"
+  },
+  "https://techcrunch.com/?p=3181989": {
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "sent_at": "2026-10-27T03:41:47.146994+00:00"
+  },
+  "https://techcrunch.com/?p=3181218": {
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "sent_at": "2026-10-27T03:41:46.668166+00:00"
+  },
   "https://www.threads.com/t/De6WnewgfQ0": {
     "title": "@feelfree_ai: 엔비디아와 UC 버클리 연구진이 로봇이 직접 코드를 짜고 다음 상황을 예측해 복잡한 작업을 수행하는 AI 시스템 AW-0를 공개했습니다. 사람의 지...",
     "sent_at": "2026-10-26T03:12:11.377262+00:00"
@@ -1922,81 +1998,5 @@
   "https://openai.com/index/how-we-will-do-better-for-australia": {
     "title": "How we will do better for Australia",
     "sent_at": "2026-09-29T04:12:55.493115+00:00"
-  },
-  "https://github.blog/?p=99087": {
-    "title": "Highlights from Git 2.56",
-    "sent_at": "2026-09-29T04:12:43.028680+00:00"
-  },
-  "https://github.blog/?p=98105": {
-    "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
-    "sent_at": "2026-09-29T04:12:42.655860+00:00"
-  },
-  "https://techcrunch.com/?p=3170932": {
-    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-    "sent_at": "2026-09-29T04:12:40.968794+00:00"
-  },
-  "https://techcrunch.com/?p=3170936": {
-    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "sent_at": "2026-09-29T04:12:40.595587+00:00"
-  },
-  "https://techcrunch.com/?p=3170875": {
-    "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
-    "sent_at": "2026-09-29T04:12:40.223891+00:00"
-  },
-  "https://techcrunch.com/?p=3171035": {
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "sent_at": "2026-09-29T04:12:39.829259+00:00"
-  },
-  "https://techcrunch.com/?p=3170634": {
-    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-    "sent_at": "2026-09-29T04:12:39.459700+00:00"
-  },
-  "https://www.threads.com/t/Ddx9HnpAcnv": {
-    "title": "@feelfree_ai: 국내 RAG 구축할 때 가장 골치 아픈 게 HWP나 공공문서 파싱인데, 류스...",
-    "sent_at": "2026-09-28T03:38:01.792666+00:00"
-  },
-  "https://www.threads.com/t/DdymKN-AQA5": {
-    "title": "@feelfree_ai: 리버스 엔지니어링의 표준인 IDA에 AI 에이전트를 직접 붙여 쓸 수 이...",
-    "sent_at": "2026-09-28T03:38:01.187606+00:00"
-  },
-  "01M3G3YZB5SBBFF13TYNNPJ62E": {
-    "title": "Cloudflare’s 2026 Annual Founders’ Letter",
-    "sent_at": "2026-09-28T03:37:45.241409+00:00"
-  },
-  "https://goddaehee.tistory.com/646": {
-    "title": "Jev 사용법(Jev란?) - 생성형 AI와 다른 판정 모델 쉽게 이해하기(Jev 가격, 성능, 한계와 실제 활용 사례 정리)",
-    "sent_at": "2026-09-28T03:37:41.846437+00:00"
-  },
-  "https://techcrunch.com/?p=3169746": {
-    "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
-    "sent_at": "2026-09-28T03:37:35.358035+00:00"
-  },
-  "https://techcrunch.com/?p=3170008": {
-    "title": "TechCrunch Mobility: AV companies pick their lanes",
-    "sent_at": "2026-09-28T03:37:34.831326+00:00"
-  },
-  "https://techcrunch.com/?p=3170300": {
-    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "sent_at": "2026-09-28T03:37:34.312000+00:00"
-  },
-  "https://techcrunch.com/?p=3170334": {
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "sent_at": "2026-09-28T03:37:33.796618+00:00"
-  },
-  "https://techcrunch.com/?p=3170341": {
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "sent_at": "2026-09-28T03:37:33.204506+00:00"
-  },
-  "https://www.threads.com/t/Ddvj5TOAezP": {
-    "title": "@feelfree_ai: LLM을 서비스에 붙일 때 JSON 스키마가 깨지거나 파싱 에러로 고생해 보셨ᄃ...",
-    "sent_at": "2026-09-27T03:39:47.765897+00:00"
-  },
-  "https://www.threads.com/t/DdwFugcAV85": {
-    "title": "@feelfree_ai: Cursor나 Claude Code 같은 코딩 툴을 단순 구현용을 넘어, 스스로 가설으...",
-    "sent_at": "2026-09-27T03:39:47.196110+00:00"
-  },
-  "https://www.threads.com/t/DdxhD9KgW8n": {
-    "title": "@feelfree_ai: ￼ 복잡한 에이전트 프레임워크가 늘 정답은 아닐지도 모릅니다. MIT...",
-    "sent_at": "2026-09-27T03:39:46.562323+00:00"
   }
 }
