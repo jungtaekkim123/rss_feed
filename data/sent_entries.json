@@ -1,4 +1,80 @@
 {
+  "https://www.threads.com/t/De_g94jAb0n": {
+    "title": "@feelfree_ai: 최신 AI 논문과 SOTA 리더보드를 한눈에 추적하는 Papers with Code의 전체 코ᄃ...",
+    "sent_at": "2026-10-28T03:58:42.170265+00:00"
+  },
+  "https://www.threads.com/t/DfAJUQlAVAq": {
+    "title": "@feelfree_ai: 프리미엄 학습 데이터 하나 없이, 주제만 던져주면 LLM이 스스로 성능...",
+    "sent_at": "2026-10-28T03:58:41.690401+00:00"
+  },
+  "https://www.threads.com/t/DfBLRWNAbRn": {
+    "title": "@feelfree_ai: 마이크로소프트에서 모델 메모리를 1/8 수준(3.74GB)으로 줄이면서도 추론 ᄉ...",
+    "sent_at": "2026-10-28T03:58:41.182184+00:00"
+  },
+  "https://toss.tech/article/snap-llm-cost-reduction": {
+    "title": "손가락 튕기기로 LLM 비용 줄이기",
+    "sent_at": "2026-10-28T03:58:30.363779+00:00"
+  },
+  "01M5G72REK3978980FNZCPDBRR": {
+    "title": "What took the Internet offline in Q3 2026",
+    "sent_at": "2026-10-28T03:58:24.177175+00:00"
+  },
+  "01M5YGNW60G1XYREPZQ9W8PSTD": {
+    "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
+    "sent_at": "2026-10-28T03:58:23.700526+00:00"
+  },
+  "https://huggingface.co/blog/allenai/novelty-bench": {
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "sent_at": "2026-10-28T03:58:20.889787+00:00"
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm3": {
+    "title": "Build specialized multimodal models with LFM3",
+    "sent_at": "2026-10-28T03:58:20.415190+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99512": {
+    "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+    "sent_at": "2026-10-28T03:58:18.350829+00:00"
+  },
+  "https://engineering.fb.com/?p=24841": {
+    "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
+    "sent_at": "2026-10-28T03:58:17.505051+00:00"
+  },
+  "https://engineering.fb.com/?p=24851": {
+    "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
+    "sent_at": "2026-10-28T03:58:17.027640+00:00"
+  },
+  "https://openai.com/index/check-point-daybreak": {
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "sent_at": "2026-10-28T03:58:14.632533+00:00"
+  },
+  "https://openai.com/index/oracle-apps-in-chatgpt": {
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "sent_at": "2026-10-28T03:58:14.163270+00:00"
+  },
+  "https://openai.com/index/retell-ai": {
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "sent_at": "2026-10-28T03:58:13.680069+00:00"
+  },
+  "https://techcrunch.com/?p=3181982": {
+    "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+    "sent_at": "2026-10-28T03:58:03.086147+00:00"
+  },
+  "https://techcrunch.com/?p=3182363": {
+    "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+    "sent_at": "2026-10-28T03:58:02.617056+00:00"
+  },
+  "https://techcrunch.com/?p=3181301": {
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "sent_at": "2026-10-28T03:58:02.130302+00:00"
+  },
+  "https://techcrunch.com/?p=3182387": {
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "sent_at": "2026-10-28T03:58:01.631516+00:00"
+  },
+  "https://techcrunch.com/?p=3182406": {
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "sent_at": "2026-10-28T03:58:01.151210+00:00"
+  },
   "https://www.threads.com/t/De9LOSmAdUo": {
     "title": "@feelfree_ai: VAGO Solutions에서 파라미터가 1.5M~115M에 불과한 초소형 MoE 기반 임베딩 및 검...",
     "sent_at": "2026-10-27T03:42:30.360069+00:00"
@@ -1922,81 +1998,5 @@
   "https://openai.com/index/introducing-gpt-6-1-sol": {
     "title": "Introducing GPT-6.1 Sol",
     "sent_at": "2026-09-30T03:58:44.807570+00:00"
-  },
-  "https://goddaehee.tistory.com/647": {
-    "title": "GPT-6 Sol&middot;Luna 출시 정리 - Astra&middot;Sol&middot;Luna 차이와 선택 기준(Astra&middot;Sol&middot;Luna 용도와 API 가격 한눈에 보기)",
-    "sent_at": "2026-09-30T03:58:40.325367+00:00"
-  },
-  "https://github.blog/?p=99134": {
-    "title": "Developer policy update: Transparency, state policy, and what’s ahead",
-    "sent_at": "2026-09-30T03:58:32.278415+00:00"
-  },
-  "https://techcrunch.com/?p=3171694": {
-    "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
-    "sent_at": "2026-09-30T03:58:31.666288+00:00"
-  },
-  "https://techcrunch.com/?p=3171726": {
-    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-    "sent_at": "2026-09-30T03:58:31.229528+00:00"
-  },
-  "https://techcrunch.com/?p=3171636": {
-    "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
-    "sent_at": "2026-09-30T03:58:30.861967+00:00"
-  },
-  "https://techcrunch.com/?p=3171681": {
-    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-    "sent_at": "2026-09-30T03:58:30.483920+00:00"
-  },
-  "https://techcrunch.com/?p=3171769": {
-    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-    "sent_at": "2026-09-30T03:58:30.106785+00:00"
-  },
-  "bd4f16a7bf860913e1106ba3aa40014256a857e5": {
-    "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
-    "sent_at": "2026-09-29T04:13:06.786891+00:00"
-  },
-  "01M3J4F24CZJFAYS930VMKY6WH": {
-    "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
-    "sent_at": "2026-09-29T04:13:06.061832+00:00"
-  },
-  "01M3JF3DKKQ5XNFGNAX8ZFJ833": {
-    "title": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents",
-    "sent_at": "2026-09-29T04:13:05.689229+00:00"
-  },
-  "01M3CW0C8PVD170DBSKBTM8666": {
-    "title": "How fast is the web? Explore billions of real-user measurements with BEACON",
-    "sent_at": "2026-09-29T04:13:05.317181+00:00"
-  },
-  "01M3KR05M9ZET98RWX42EJ7YMG": {
-    "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
-    "sent_at": "2026-09-29T04:13:04.942208+00:00"
-  },
-  "01M3AZRN7QXCG8CS98YQVRRM60": {
-    "title": "Next.js applications, powered by Vite: introducing Vinext 1.0",
-    "sent_at": "2026-09-29T04:13:04.572093+00:00"
-  },
-  "https://huggingface.co/blog/Hcompany/holo4": {
-    "title": "Holo4: powering generalist computer-use agents",
-    "sent_at": "2026-09-29T04:12:58.749565+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/": {
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "sent_at": "2026-09-29T04:12:57.337947+00:00"
-  },
-  "https://openai.com/index/basis-tax-workbook-with-astra": {
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "sent_at": "2026-09-29T04:12:56.609037+00:00"
-  },
-  "https://openai.com/form/codex-originals": {
-    "title": "Are you a Codex Original?",
-    "sent_at": "2026-09-29T04:12:56.238081+00:00"
-  },
-  "https://openai.com/index/lenfest-ai-collaborative-expansion": {
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "sent_at": "2026-09-29T04:12:55.869396+00:00"
-  },
-  "https://openai.com/index/how-we-will-do-better-for-australia": {
-    "title": "How we will do better for Australia",
-    "sent_at": "2026-09-29T04:12:55.493115+00:00"
   }
 }
