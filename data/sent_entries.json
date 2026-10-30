@@ -1,4 +1,84 @@
 {
+  "https://www.threads.com/t/DfETgXDAVN7": {
+    "title": "@feelfree_ai: 수백 개의 OCR 모델마다 제각각이던 문서 파싱 결과를 하나로 통일ᄒ...",
+    "sent_at": "2026-10-30T04:22:13.556976+00:00"
+  },
+  "https://www.threads.com/t/DfExUoKAbB7": {
+    "title": "@feelfree_ai: 엔비디아가 40개 언어를 지원하는 오픈웨이트 음성 모델 'Nemotron 3.5 Transcr...",
+    "sent_at": "2026-10-30T04:22:13.056739+00:00"
+  },
+  "https://www.threads.com/t/DfGMalfAUgb": {
+    "title": "@feelfree_ai: 엔비디아에서 AI 에이전트의 API 호출 비용을 평균 65.9% 절감하면서 저...",
+    "sent_at": "2026-10-30T04:22:12.570967+00:00"
+  },
+  "https://d2.naver.com/helloworld/2983631": {
+    "title": "사이드카의 선언적 관리: OpenKruise SidecarSet 도입과 운영",
+    "sent_at": "2026-10-30T04:21:57.990233+00:00"
+  },
+  "https://d2.naver.com/news/0907869": {
+    "title": "모두가 함께 성장하는 기술 축제, NAVER Engineering Day 10년의 여정",
+    "sent_at": "2026-10-30T04:21:57.517658+00:00"
+  },
+  "01M6254V6WN4EZTWVH0BF1748Y": {
+    "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+    "sent_at": "2026-10-30T04:21:53.191931+00:00"
+  },
+  "https://huggingface.co/blog/anydecisionmodel": {
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "sent_at": "2026-10-30T04:21:51.362877+00:00"
+  },
+  "https://huggingface.co/blog/mistral-large4": {
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "sent_at": "2026-10-30T04:21:50.865170+00:00"
+  },
+  "https://huggingface.co/blog/announcing-project-protostar": {
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "sent_at": "2026-10-30T04:21:50.389239+00:00"
+  },
+  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": {
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "sent_at": "2026-10-30T04:21:49.907685+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99565": {
+    "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+    "sent_at": "2026-10-30T04:21:45.589837+00:00"
+  },
+  "https://engineering.fb.com/?p=24907": {
+    "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
+    "sent_at": "2026-10-30T04:21:44.749715+00:00"
+  },
+  "https://openai.com/index/ropes-gray-ai-diligence": {
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "sent_at": "2026-10-30T04:21:43.449296+00:00"
+  },
+  "https://openai.com/index/how-we-detect-frontier-model-misalignment": {
+    "title": "How we detect frontier model misalignment",
+    "sent_at": "2026-10-30T04:21:42.960733+00:00"
+  },
+  "https://openai.com/index/updated-model-spec": {
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "sent_at": "2026-10-30T04:21:42.485332+00:00"
+  },
+  "https://techcrunch.com/?p=3183319": {
+    "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+    "sent_at": "2026-10-30T04:21:32.687457+00:00"
+  },
+  "https://techcrunch.com/?p=3183395": {
+    "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+    "sent_at": "2026-10-30T04:21:32.039205+00:00"
+  },
+  "https://techcrunch.com/?p=3183387": {
+    "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "sent_at": "2026-10-30T04:21:31.567149+00:00"
+  },
+  "https://techcrunch.com/?p=3183393": {
+    "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+    "sent_at": "2026-10-30T04:21:31.080942+00:00"
+  },
+  "https://techcrunch.com/?p=3183095": {
+    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "sent_at": "2026-10-30T04:21:30.590565+00:00"
+  },
   "https://www.threads.com/t/DfBtAh7gbN9": {
     "title": "@feelfree_ai: 알리바바와 코넬대가 코딩 에이전트 환경에서 별도의 리뷰어 에이전...",
     "sent_at": "2026-10-29T04:22:14.483304+00:00"
@@ -1918,85 +1998,5 @@
   "ea1cc456e7a2e65a27ab5c8db65b3016bf527355": {
     "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
     "sent_at": "2026-10-01T04:08:33.081775+00:00"
-  },
-  "e76e8a63de9311bd1dde4b12497cc264c4918389": {
-    "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
-    "sent_at": "2026-10-01T04:08:32.713619+00:00"
-  },
-  "817caa03e06c6ac753e2104bcdd58418a88fea6e": {
-    "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
-    "sent_at": "2026-10-01T04:08:32.322434+00:00"
-  },
-  "01M3QKBTCVGSPDD7VHVA777Q74": {
-    "title": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
-    "sent_at": "2026-10-01T04:08:28.033118+00:00"
-  },
-  "01M3QWRKWVNFA0DF9FYY3RTFKV": {
-    "title": "Simplifying domains for people and agents",
-    "sent_at": "2026-10-01T04:08:27.662592+00:00"
-  },
-  "01M3QYT7CXBGJWT89M2NJE3DPH": {
-    "title": "Detect and send production issues straight to your agent",
-    "sent_at": "2026-10-01T04:08:27.294485+00:00"
-  },
-  "01M3QZKAM72WCF4RKVH06BKQYZ": {
-    "title": "Cut your AI spend with AI Gateway's Auto Router",
-    "sent_at": "2026-10-01T04:08:26.925128+00:00"
-  },
-  "01M3RVQ97H21055GVJRNRSNH97": {
-    "title": "Cloudflare Impact reaches $100 million in donations",
-    "sent_at": "2026-10-01T04:08:26.557947+00:00"
-  },
-  "https://huggingface.co/blog/open-tts-leaderboard": {
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "sent_at": "2026-10-01T04:08:20.771646+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98507": {
-    "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-    "sent_at": "2026-10-01T04:08:19.923753+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98499": {
-    "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
-    "sent_at": "2026-10-01T04:08:19.558265+00:00"
-  },
-  "https://openai.com/index/helping-small-businesses-put-ai-to-work": {
-    "title": "Helping small businesses put AI to work",
-    "sent_at": "2026-10-01T04:08:17.278299+00:00"
-  },
-  "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign": {
-    "title": "Disrupting a coordinated model-distillation campaign",
-    "sent_at": "2026-10-01T04:08:16.916106+00:00"
-  },
-  "https://goddaehee.tistory.com/648": {
-    "title": "Claude Sonnet 5.5(클로드 소넷 5.5) 출시 리뷰 - 공식 발표, 가격, effort, 사용 상황별 비교(무엇이 달라졌고 실무에서 왜 중요한가)",
-    "sent_at": "2026-10-01T04:08:14.583612+00:00"
-  },
-  "https://techcrunch.com/?post_type=tc_video&p=3172433": {
-    "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-    "sent_at": "2026-10-01T04:08:06.453901+00:00"
-  },
-  "https://techcrunch.com/?p=3172331": {
-    "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
-    "sent_at": "2026-10-01T04:08:06.059913+00:00"
-  },
-  "https://techcrunch.com/?p=3172428": {
-    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-    "sent_at": "2026-10-01T04:08:05.671905+00:00"
-  },
-  "https://techcrunch.com/?p=3172545": {
-    "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
-    "sent_at": "2026-10-01T04:08:05.300919+00:00"
-  },
-  "https://techcrunch.com/?p=3172532": {
-    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-    "sent_at": "2026-10-01T04:08:04.927152+00:00"
-  },
-  "https://www.threads.com/t/Dd07vMlgR9X": {
-    "title": "@feelfree_ai: 인터넷이 완전히 끊긴 폐쇄망 환경에서도 스스로 장비 고장을 지...",
-    "sent_at": "2026-09-30T03:59:20.293890+00:00"
-  },
-  "https://www.threads.com/t/Dd3FV7zAXgt": {
-    "title": "@feelfree_ai: 단 1B(10억 개) 파라미터의 초경량 모델이 30배 큰 거대 모델들과 대등하...",
-    "sent_at": "2026-09-30T03:59:19.908067+00:00"
   }
 }
