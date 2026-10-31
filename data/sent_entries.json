@@ -1,4 +1,64 @@
 {
+  "https://www.threads.com/t/DfHJAqjAYKw": {
+    "title": "@feelfree_ai: Meta FAIR에서 다른 모델의 출력값으로 몰래 증류(Distillation) 학습한 AI 모ᄃ...",
+    "sent_at": "2026-10-31T04:01:37.301443+00:00"
+  },
+  "https://www.threads.com/t/DfHrj8BgQYo": {
+    "title": "@feelfree_ai: Transformers에서 이제 추가 학습 없이 여러 임베딩 모델을 하나로 합치는 ...",
+    "sent_at": "2026-10-31T04:01:36.826681+00:00"
+  },
+  "https://www.threads.com/t/DfI-MPqAWyz": {
+    "title": "@feelfree_ai: 1,000페이지가 넘는 대용량 PDF를 메모리 폭증 없이 한 번에 파싱해내...",
+    "sent_at": "2026-10-31T04:01:36.382494+00:00"
+  },
+  "01M64V2TDYZYSS8RE60T3MWKSM": {
+    "title": "Cloudflare services for private origins is now generally available",
+    "sent_at": "2026-10-31T04:01:18.437018+00:00"
+  },
+  "01M66XYRNK559YY01V2P37EBD7": {
+    "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+    "sent_at": "2026-10-31T04:01:17.998531+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-halloween": {
+    "title": "nemotron-halloween",
+    "sent_at": "2026-10-31T04:01:15.302437+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99597": {
+    "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+    "sent_at": "2026-10-31T04:01:14.371905+00:00"
+  },
+  "https://openai.com/index/fair-use-benefits-everyone": {
+    "title": "Fair use benefits everyone",
+    "sent_at": "2026-10-31T04:01:12.698904+00:00"
+  },
+  "https://openai.com/index/community-safety-report-and-new-protections-for-teens": {
+    "title": "Community safety report and new protections for teens",
+    "sent_at": "2026-10-31T04:01:12.274750+00:00"
+  },
+  "https://openai.com/index/helping-websites-express-ai-training-preferences": {
+    "title": "Making it easier for websites to express AI training preferences",
+    "sent_at": "2026-10-31T04:01:11.835903+00:00"
+  },
+  "https://techcrunch.com/?p=3183715": {
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "sent_at": "2026-10-31T04:01:02.054582+00:00"
+  },
+  "https://techcrunch.com/?p=3183862": {
+    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "sent_at": "2026-10-31T04:01:01.625389+00:00"
+  },
+  "https://techcrunch.com/?p=3183846": {
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "sent_at": "2026-10-31T04:01:01.157601+00:00"
+  },
+  "https://techcrunch.com/?p=3183971": {
+    "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+    "sent_at": "2026-10-31T04:01:00.723697+00:00"
+  },
+  "https://techcrunch.com/?p=3183989": {
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "sent_at": "2026-10-31T04:01:00.271314+00:00"
+  },
   "https://www.threads.com/t/DfETgXDAVN7": {
     "title": "@feelfree_ai: 수백 개의 OCR 모델마다 제각각이던 문서 파싱 결과를 하나로 통일ᄒ...",
     "sent_at": "2026-10-30T04:22:13.556976+00:00"
@@ -1938,65 +1998,5 @@
   "https://openai.com/index/albertsons-reimagining-retail": {
     "title": "How Albertsons Companies is reimagining retail from the inside out",
     "sent_at": "2026-10-02T04:02:38.426388+00:00"
-  },
-  "https://openai.com/index/the-eternal-complement": {
-    "title": "The eternal complement",
-    "sent_at": "2026-10-02T04:02:37.893917+00:00"
-  },
-  "https://goddaehee.tistory.com/pages/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8": {
-    "title": "개인정보처리방침",
-    "sent_at": "2026-10-02T04:02:34.501802+00:00"
-  },
-  "https://goddaehee.tistory.com/649": {
-    "title": "[GPT-6.1 Sol] OpenAI DevDay 2026 정리 - 6.1Sol&middot;가격&middot;속도&middot;Ultrafast&middot;dots 등 정리",
-    "sent_at": "2026-10-02T04:02:33.969235+00:00"
-  },
-  "https://github.blog/?p=99192": {
-    "title": "10 technical talks I’m excited about at GitHub Universe 2026",
-    "sent_at": "2026-10-02T04:02:27.331957+00:00"
-  },
-  "https://techcrunch.com/?p=3172859": {
-    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-    "sent_at": "2026-10-02T04:02:26.592504+00:00"
-  },
-  "https://techcrunch.com/?p=3172963": {
-    "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-    "sent_at": "2026-10-02T04:02:26.063848+00:00"
-  },
-  "https://techcrunch.com/?p=3172935": {
-    "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
-    "sent_at": "2026-10-02T04:02:25.543457+00:00"
-  },
-  "https://techcrunch.com/?p=3151020": {
-    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "sent_at": "2026-10-02T04:02:25.018242+00:00"
-  },
-  "https://techcrunch.com/?p=3172720": {
-    "title": "Robotaxi operators will face fines for blocking first responders",
-    "sent_at": "2026-10-02T04:02:24.491417+00:00"
-  },
-  "https://www.threads.com/t/Dd6SOYWAUzV": {
-    "title": "@feelfree_ai: 최근 오픈소스로 공개된 CLM은 긴 텍스트를 만들어가며 평가하는 ...",
-    "sent_at": "2026-10-01T04:08:53.089937+00:00"
-  },
-  "https://www.threads.com/t/Dd6jTyfgUCb": {
-    "title": "@feelfree_ai: 이번에 공개된 Context Language Model(CLM)은 모델이 컨텍스트를 수동적으로 ᄊ...",
-    "sent_at": "2026-10-01T04:08:52.647540+00:00"
-  },
-  "https://www.threads.com/t/Dd7k_JbgYVS": {
-    "title": "@feelfree_ai: 단 2GB 크기의 온디바이스 모델이 8B급 모델 수준의 논리 추론 성능으...",
-    "sent_at": "2026-10-01T04:08:52.270290+00:00"
-  },
-  "https://toss.tech/article/53545": {
-    "title": "추천 후보는 많을수록 좋을까? TopK를 최적화해 전환율을 높인 방법",
-    "sent_at": "2026-10-01T04:08:40.209822+00:00"
-  },
-  "fc299694003096540401c2714b7038f1f5b7f685": {
-    "title": "Celebrating Our Newest AWS Heroes – September 2026",
-    "sent_at": "2026-10-01T04:08:33.448122+00:00"
-  },
-  "ea1cc456e7a2e65a27ab5c8db65b3016bf527355": {
-    "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
-    "sent_at": "2026-10-01T04:08:33.081775+00:00"
   }
 }
