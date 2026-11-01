@@ -1,4 +1,44 @@
 {
+  "https://www.threads.com/t/DfJQPYpgYP_": {
+    "title": "@feelfree_ai: Rust로 GPU 커널을 직접 구현해 기존 pyannote 대비 화자 분리 속도를 60배 끄...",
+    "sent_at": "2026-11-01T04:23:07.713487+00:00"
+  },
+  "https://www.threads.com/t/DfKhRBEgcP0": {
+    "title": "@feelfree_ai: IBM에서 모델 변경 없이 에이전트와 툴 사이에 의사결정 게이트(JevAct)르...",
+    "sent_at": "2026-11-01T04:23:07.341711+00:00"
+  },
+  "https://www.threads.com/t/DfLqvpvARmC": {
+    "title": "@feelfree_ai: 칭화대와 칭하이대 연구진이 시끄러운 환경에서 화자의 입모양만 ...",
+    "sent_at": "2026-11-01T04:23:06.951654+00:00"
+  },
+  "https://goddaehee.tistory.com/pages/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8": {
+    "title": "개인정보처리방침",
+    "sent_at": "2026-11-01T04:22:46.267515+00:00"
+  },
+  "https://goddaehee.tistory.com/649": {
+    "title": "[GPT-6.1 Sol] OpenAI DevDay 2026 정리 - 6.1Sol&middot;가격&middot;속도&middot;Ultrafast&middot;dots 등 정리",
+    "sent_at": "2026-11-01T04:22:45.904328+00:00"
+  },
+  "https://techcrunch.com/?p=3184004": {
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "sent_at": "2026-11-01T04:22:37.435889+00:00"
+  },
+  "https://techcrunch.com/?p=3184013": {
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "sent_at": "2026-11-01T04:22:37.009845+00:00"
+  },
+  "https://techcrunch.com/?p=3184015": {
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "sent_at": "2026-11-01T04:22:36.639120+00:00"
+  },
+  "https://techcrunch.com/?p=3184023": {
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "sent_at": "2026-11-01T04:22:36.254185+00:00"
+  },
+  "https://techcrunch.com/?p=3183712": {
+    "title": "Data centers are now a midterm issue, even in Brooklyn",
+    "sent_at": "2026-11-01T04:22:35.893903+00:00"
+  },
   "https://www.threads.com/t/DfHJAqjAYKw": {
     "title": "@feelfree_ai: Meta FAIR에서 다른 모델의 출력값으로 몰래 증류(Distillation) 학습한 AI 모ᄃ...",
     "sent_at": "2026-10-31T04:01:37.301443+00:00"
@@ -1958,45 +1998,5 @@
   "01M3VEGEH98DJT6FTGDT1MHP5M": {
     "title": "Introducing Workers KV Instant — powered by Quicksilver",
     "sent_at": "2026-10-02T04:02:53.543966+00:00"
-  },
-  "01M3TESBKM9T71XXXK1XMDP4PZ": {
-    "title": "One year later: Sovereign AI and the fight for choice",
-    "sent_at": "2026-10-02T04:02:53.011835+00:00"
-  },
-  "01M3TJPSZAN4TKGKX6HWSNQWEP": {
-    "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
-    "sent_at": "2026-10-02T04:02:52.502480+00:00"
-  },
-  "https://medium.com/p/32f96320785e": {
-    "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
-    "sent_at": "2026-10-02T04:02:47.031015+00:00"
-  },
-  "https://huggingface.co/blog/allenai/olmocore3": {
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "sent_at": "2026-10-02T04:02:46.001640+00:00"
-  },
-  "https://huggingface.co/blog/ServiceNow-AI/autosynthdata": {
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "sent_at": "2026-10-02T04:02:45.473792+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98535": {
-    "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-    "sent_at": "2026-10-02T04:02:43.541174+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98517": {
-    "title": "Fall Into 25 New Games on GeForce NOW This October",
-    "sent_at": "2026-10-02T04:02:43.023567+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98527": {
-    "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-    "sent_at": "2026-10-02T04:02:42.505438+00:00"
-  },
-  "https://openai.com/index/the-den-family-social": {
-    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-    "sent_at": "2026-10-02T04:02:38.935329+00:00"
-  },
-  "https://openai.com/index/albertsons-reimagining-retail": {
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "sent_at": "2026-10-02T04:02:38.426388+00:00"
   }
 }
