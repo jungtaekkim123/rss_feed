@@ -1,4 +1,32 @@
 {
+  "https://www.threads.com/t/DfOQIXVAWvn": {
+    "title": "@feelfree_ai: DeepSeek Harness 팀에서 더 높은 자율성을 가진 에이전트 시스템 구축을 ...",
+    "sent_at": "2026-11-02T04:24:49.558466+00:00"
+  },
+  "https://github.blog/?p=99918": {
+    "title": "Game Off 2026: The theme is SHIFT",
+    "sent_at": "2026-11-02T04:24:24.014194+00:00"
+  },
+  "https://techcrunch.com/?p=3184037": {
+    "title": "Binance resumes withdrawals following $6.3 billion breach",
+    "sent_at": "2026-11-02T04:24:23.357178+00:00"
+  },
+  "https://techcrunch.com/?p=3183874": {
+    "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+    "sent_at": "2026-11-02T04:24:22.286333+00:00"
+  },
+  "https://techcrunch.com/?p=3184041": {
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "sent_at": "2026-11-02T04:24:21.859221+00:00"
+  },
+  "https://techcrunch.com/?p=3184048": {
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "sent_at": "2026-11-02T04:24:21.435764+00:00"
+  },
+  "https://techcrunch.com/?p=3184061": {
+    "title": "Borrowed reading: stories from our extended colleagues",
+    "sent_at": "2026-11-02T04:24:21.009834+00:00"
+  },
   "https://www.threads.com/t/DfJQPYpgYP_": {
     "title": "@feelfree_ai: Rust로 GPU 커널을 직접 구현해 기존 pyannote 대비 화자 분리 속도를 60배 끄...",
     "sent_at": "2026-11-01T04:23:07.713487+00:00"
@@ -1970,33 +1998,5 @@
   "https://techcrunch.com/?p=3173449": {
     "title": "Sanders introduces bill to ban the federal government from using Flock",
     "sent_at": "2026-10-03T03:47:15.722942+00:00"
-  },
-  "https://techcrunch.com/?p=3173444": {
-    "title": "Meta wants your next gadget to be Muse-infused",
-    "sent_at": "2026-10-03T03:47:15.164491+00:00"
-  },
-  "https://www.threads.com/t/Dd8dlm3AcE6": {
-    "title": "@feelfree_ai: 별도의 운전 정책(Policy)을 학습하지 않고도, 미래 화면만 예측해 ᄉ...",
-    "sent_at": "2026-10-02T04:03:12.004894+00:00"
-  },
-  "https://www.threads.com/t/Dd-J23MgUqC": {
-    "title": "@feelfree_ai: AI 에이전트를 스스로 개선하게 두면 금방 로컬 최적점(Local Optimum)에 가...",
-    "sent_at": "2026-10-02T04:03:11.458253+00:00"
-  },
-  "6936a126ff37e6868dadff2a0b59022a185e8d3c": {
-    "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
-    "sent_at": "2026-10-02T04:02:55.363349+00:00"
-  },
-  "01M3SXWQS68A0MY0GS33S6DJQJ": {
-    "title": "Announcing Cloudflare K2: serverless event streams",
-    "sent_at": "2026-10-02T04:02:54.585396+00:00"
-  },
-  "01M3T6X21KEDC6DH8GGSGV13HR": {
-    "title": "Cloudflare OS: your company’s agent workspace, managed for you",
-    "sent_at": "2026-10-02T04:02:54.072024+00:00"
-  },
-  "01M3VEGEH98DJT6FTGDT1MHP5M": {
-    "title": "Introducing Workers KV Instant — powered by Quicksilver",
-    "sent_at": "2026-10-02T04:02:53.543966+00:00"
   }
 }
