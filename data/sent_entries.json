@@ -1,4 +1,76 @@
 {
+  "https://www.threads.com/t/DfO7E05ATe8": {
+    "title": "@feelfree_ai: AI 에이전트의 지식 그래프에서 시간에 따라 변하는 팩트와 맥락을 ᄎ...",
+    "sent_at": "2026-11-03T05:20:54.164205+00:00"
+  },
+  "https://www.threads.com/t/DfQSBPUk6Gz": {
+    "title": "@feelfree_ai: 벡터 DB나 별도 인덱스 없이 기본적인 BM25와 grep만으로도 에이전틱 RAG...",
+    "sent_at": "2026-11-03T05:20:53.770122+00:00"
+  },
+  "https://www.threads.com/t/DfRBX9CAXv1": {
+    "title": "@feelfree_ai: 허깅페이스에서 온디바이스 AI 배포 시 가장 까다로웠던 모델 변환과 ...",
+    "sent_at": "2026-11-03T05:20:53.390955+00:00"
+  },
+  "https://d2.naver.com/helloworld/2265641": {
+    "title": "컨테이너처럼 쓰고, VM처럼 격리하기",
+    "sent_at": "2026-11-03T05:20:38.131724+00:00"
+  },
+  "https://d2.naver.com/helloworld/9639872": {
+    "title": "딸깍으로 안되는 Multi-interest 개발기",
+    "sent_at": "2026-11-03T05:20:37.764286+00:00"
+  },
+  "a75ee10f33f51c28e1b3189dc509cb78f1c8eaa7": {
+    "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)",
+    "sent_at": "2026-11-03T05:20:33.133686+00:00"
+  },
+  "01M5J4YTFMTRT7PG1Y8HAPNPYG": {
+    "title": "How we halved DNS build delay and cut memory use by 85%",
+    "sent_at": "2026-11-03T05:20:32.336018+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/": {
+    "title": "The latest AI news we announced in October 2026",
+    "sent_at": "2026-11-03T05:20:30.261760+00:00"
+  },
+  "https://openai.com/index/lifeval": {
+    "title": "LifeVal",
+    "sent_at": "2026-11-03T05:20:29.586270+00:00"
+  },
+  "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai": {
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "sent_at": "2026-11-03T05:20:29.212169+00:00"
+  },
+  "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": {
+    "title": "Rewarding defenders with bigger bug bounties",
+    "sent_at": "2026-11-03T05:20:28.839513+00:00"
+  },
+  "https://openai.com/index/grid-protectors-program": {
+    "title": "Introducing the Grid Protectors Program",
+    "sent_at": "2026-11-03T05:20:28.470506+00:00"
+  },
+  "https://openai.com/index/scaling-git-at-openai": {
+    "title": "Scaling Git at OpenAI",
+    "sent_at": "2026-11-03T05:20:28.069058+00:00"
+  },
+  "https://techcrunch.com/?p=3184483": {
+    "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+    "sent_at": "2026-11-03T05:20:15.237985+00:00"
+  },
+  "https://techcrunch.com/?p=3184485": {
+    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "sent_at": "2026-11-03T05:20:14.866163+00:00"
+  },
+  "https://techcrunch.com/?p=3184542": {
+    "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+    "sent_at": "2026-11-03T05:20:14.496047+00:00"
+  },
+  "https://techcrunch.com/?p=3184506": {
+    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+    "sent_at": "2026-11-03T05:20:14.130539+00:00"
+  },
+  "https://techcrunch.com/?p=3184353": {
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "sent_at": "2026-11-03T05:20:13.753752+00:00"
+  },
   "https://www.threads.com/t/DfOQIXVAWvn": {
     "title": "@feelfree_ai: DeepSeek Harness 팀에서 더 높은 자율성을 가진 에이전트 시스템 구축을 ...",
     "sent_at": "2026-11-02T04:24:49.558466+00:00"
@@ -1926,77 +1998,5 @@
   "https://www.threads.com/t/Dd-w608ARlm": {
     "title": "@feelfree_ai: 에이전트 수를 무작정 늘린다고 AI 시스템의 성능이 무조건 올라가...",
     "sent_at": "2026-10-03T03:48:02.297262+00:00"
-  },
-  "https://www.threads.com/t/DeAb5k8Eyyd": {
-    "title": "@feelfree_ai: 128K 컨텍스트를 지원한다고 해서 AI 에이전트가 긴 호흡의 작업을 ᄁ...",
-    "sent_at": "2026-10-03T03:48:01.687005+00:00"
-  },
-  "https://www.threads.com/t/DeA_6OhgW6d": {
-    "title": "@feelfree_ai: llama.cpp에서 144M 초경량 크기부터 27B까지 지원하는 '의사결정(Decision) 모델' ᄌ...",
-    "sent_at": "2026-10-03T03:48:01.102594+00:00"
-  },
-  "01M3XD0M307DCDJ5QYA2RFTW87": {
-    "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
-    "sent_at": "2026-10-03T03:47:41.453539+00:00"
-  },
-  "01M3XE7G2V6JJXPKX92B1D4080": {
-    "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
-    "sent_at": "2026-10-03T03:47:40.879851+00:00"
-  },
-  "01M3XHCB64KZ1NTN3N83GY590B": {
-    "title": "8 major updates to Cloudflare Observability",
-    "sent_at": "2026-10-03T03:47:40.256936+00:00"
-  },
-  "01M3XM9KVCRB6JKE07Q88EPGD2": {
-    "title": "Introducing Web Search API via AI Gateway",
-    "sent_at": "2026-10-03T03:47:39.700275+00:00"
-  },
-  "01M3XKBJCTDTMBBCNNHA141F04": {
-    "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
-    "sent_at": "2026-10-03T03:47:39.149727+00:00"
-  },
-  "https://engineering.atspotify.com/?p=2BHiaulFaaun4MVkEBakNn": {
-    "title": "Indexing the Data Lake for Online Point Queries",
-    "sent_at": "2026-10-03T03:47:33.931628+00:00"
-  },
-  "https://huggingface.co/blog/allenai/astabrief": {
-    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-    "sent_at": "2026-10-03T03:47:31.871398+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98570": {
-    "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-    "sent_at": "2026-10-03T03:47:30.818543+00:00"
-  },
-  "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/": {
-    "title": "The latest AI news we announced in September 2026",
-    "sent_at": "2026-10-03T03:47:29.124789+00:00"
-  },
-  "https://openai.com/index/chatham-financial": {
-    "title": "Chatham scales its capital markets expertise with OpenAI",
-    "sent_at": "2026-10-03T03:47:28.049031+00:00"
-  },
-  "https://openai.com/index/practical-guide-building-gpt-6": {
-    "title": "A model guide for the GPT-6 family",
-    "sent_at": "2026-10-03T03:47:27.484159+00:00"
-  },
-  "https://github.blog/?p=99170": {
-    "title": "AI is changing developer work. Here are three skills to strengthen.",
-    "sent_at": "2026-10-03T03:47:18.583331+00:00"
-  },
-  "https://techcrunch.com/?p=3173313": {
-    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-    "sent_at": "2026-10-03T03:47:17.454587+00:00"
-  },
-  "https://techcrunch.com/?p=3169207": {
-    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "sent_at": "2026-10-03T03:47:16.853538+00:00"
-  },
-  "https://techcrunch.com/?p=3173395": {
-    "title": "Sean Parker is rebuilding Stability AI around music",
-    "sent_at": "2026-10-03T03:47:16.295005+00:00"
-  },
-  "https://techcrunch.com/?p=3173449": {
-    "title": "Sanders introduces bill to ban the federal government from using Flock",
-    "sent_at": "2026-10-03T03:47:15.722942+00:00"
   }
 }
