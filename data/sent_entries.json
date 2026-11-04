@@ -1,4 +1,88 @@
 {
+  "https://www.threads.com/t/DfRn0fwAUdF": {
+    "title": "@feelfree_ai: 파인튜닝이나 옵티마이저 없이 GPT-6 Astra가 신경망 가중치를 직접 수정해 Qwen3.5-0.8B의 수학(MATH-500) 성능을 7.9%에서 48.1%로 끌어올린 'W...",
+    "sent_at": "2026-11-04T04:50:15.807713+00:00"
+  },
+  "https://www.threads.com/t/DfTV-fIAXR0": {
+    "title": "@feelfree_ai: 마이크로소프트 연구진이 에이전트 하네스의 품질은 높이면서 비용은 대폭 낮추는 최적화 기법 'ParetoSaddler'를 공개했습니다. 탐색 단계마다 ...",
+    "sent_at": "2026-11-04T04:50:15.437242+00:00"
+  },
+  "https://d2.naver.com/news/1095957": {
+    "title": "FE News 26년 11월 소식을 전해드립니다.",
+    "sent_at": "2026-11-04T04:49:59.818716+00:00"
+  },
+  "01M6GJ3RNQ17SDPWXJVW49JAFW": {
+    "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+    "sent_at": "2026-11-04T04:49:56.171523+00:00"
+  },
+  "https://huggingface.co/blog/transformers-mic": {
+    "title": "Transformers Model Integration Contracts",
+    "sent_at": "2026-11-04T04:49:54.832434+00:00"
+  },
+  "https://huggingface.co/blog/cwe-bench": {
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "sent_at": "2026-11-04T04:49:54.468346+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/palette-deck-building": {
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "sent_at": "2026-11-04T04:49:54.103245+00:00"
+  },
+  "https://huggingface.co/blog/allenai/statebench": {
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "sent_at": "2026-11-04T04:49:53.740103+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99615": {
+    "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+    "sent_at": "2026-11-04T04:49:49.559584+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99605": {
+    "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+    "sent_at": "2026-11-04T04:49:49.181924+00:00"
+  },
+  "https://engineering.fb.com/?p=24926": {
+    "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
+    "sent_at": "2026-11-04T04:49:47.190416+00:00"
+  },
+  "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer": {
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "sent_at": "2026-11-04T04:49:46.279918+00:00"
+  },
+  "https://openai.com/index/heimstaden": {
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "sent_at": "2026-11-04T04:49:45.920774+00:00"
+  },
+  "https://openai.com/index/cisco-cyber": {
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "sent_at": "2026-11-04T04:49:45.560452+00:00"
+  },
+  "https://openai.com/index/accelerating-engineering-for-the-physical-world": {
+    "title": "Accelerating engineering for the physical world",
+    "sent_at": "2026-11-04T04:49:45.194513+00:00"
+  },
+  "https://github.blog/?p=99955": {
+    "title": "Arnis turns any place on Earth into a Minecraft world",
+    "sent_at": "2026-11-04T04:49:33.699149+00:00"
+  },
+  "https://techcrunch.com/?p=3184699": {
+    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+    "sent_at": "2026-11-04T04:49:33.071581+00:00"
+  },
+  "https://techcrunch.com/?p=3184842": {
+    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "sent_at": "2026-11-04T04:49:32.680011+00:00"
+  },
+  "https://techcrunch.com/?p=3184896": {
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "sent_at": "2026-11-04T04:49:32.314639+00:00"
+  },
+  "https://techcrunch.com/?p=3184891": {
+    "title": "Anthropic is working on a system to prove AI models’ identity",
+    "sent_at": "2026-11-04T04:49:31.113039+00:00"
+  },
+  "https://techcrunch.com/?p=3184575": {
+    "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+    "sent_at": "2026-11-04T04:49:30.737030+00:00"
+  },
   "https://www.threads.com/t/DfO7E05ATe8": {
     "title": "@feelfree_ai: AI 에이전트의 지식 그래프에서 시간에 따라 변하는 팩트와 맥락을 ᄎ...",
     "sent_at": "2026-11-03T05:20:54.164205+00:00"
@@ -1914,89 +1998,5 @@
   "https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
     "title": "Building advertising for the way people use AI",
     "sent_at": "2026-10-06T04:51:22.887532+00:00"
-  },
-  "https://openai.com/index/eu-text-provenance": {
-    "title": "Our approach to EU text provenance rules",
-    "sent_at": "2026-10-06T04:51:22.450847+00:00"
-  },
-  "https://github.blog/?p=99258": {
-    "title": "ReviewBench: An open benchmark for AI code review",
-    "sent_at": "2026-10-06T04:51:12.420808+00:00"
-  },
-  "https://techcrunch.com/?p=3173994": {
-    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "sent_at": "2026-10-06T04:51:11.744960+00:00"
-  },
-  "https://techcrunch.com/?p=3173872": {
-    "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
-    "sent_at": "2026-10-06T04:51:11.353741+00:00"
-  },
-  "https://techcrunch.com/?p=3173384": {
-    "title": "Etched fields funding offers at $40B+ valuation, sources say",
-    "sent_at": "2026-10-06T04:51:10.980920+00:00"
-  },
-  "https://techcrunch.com/?p=3173997": {
-    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-    "sent_at": "2026-10-06T04:51:10.607199+00:00"
-  },
-  "https://techcrunch.com/?p=3174057": {
-    "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
-    "sent_at": "2026-10-06T04:51:10.237044+00:00"
-  },
-  "https://d2.naver.com/helloworld/4452165": {
-    "title": "Python의 멀티프로세싱과 Airflow, 그리고 관련된 문제 해결기 1편",
-    "sent_at": "2026-10-05T04:02:07.348530+00:00"
-  },
-  "https://techcrunch.com/?p=3173547": {
-    "title": "Trump unveils his new Super Intelligence Force",
-    "sent_at": "2026-10-05T04:01:56.695033+00:00"
-  },
-  "https://techcrunch.com/?p=3173378": {
-    "title": "TechCrunch Mobility: Reining in robotaxis",
-    "sent_at": "2026-10-05T04:01:56.169984+00:00"
-  },
-  "https://techcrunch.com/?p=3173555": {
-    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-    "sent_at": "2026-10-05T04:01:55.632657+00:00"
-  },
-  "https://techcrunch.com/?p=3173559": {
-    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-    "sent_at": "2026-10-05T04:01:55.112649+00:00"
-  },
-  "https://www.threads.com/t/DeCZn0ugYBf": {
-    "title": "@feelfree_ai: 아무리 강력한 LLM을 연동해도 주변 사람의 목소리가 텍스트로 섞ᄋ...",
-    "sent_at": "2026-10-04T04:18:14.437989+00:00"
-  },
-  "https://www.threads.com/t/DeDiVnkgTEy": {
-    "title": "@feelfree_ai: AI 에이전트한테 ML 연구를 맡겨봤다면 데이터 누수나 끊긴 그래디언...",
-    "sent_at": "2026-10-04T04:18:13.999387+00:00"
-  },
-  "https://huggingface.co/blog/microsoft/thinkingbox": {
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "sent_at": "2026-10-04T04:17:55.733732+00:00"
-  },
-  "https://techcrunch.com/?p=3171644": {
-    "title": "Vessev built an electric ferry that almost flies",
-    "sent_at": "2026-10-04T04:17:46.275001+00:00"
-  },
-  "https://techcrunch.com/?p=3173486": {
-    "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-    "sent_at": "2026-10-04T04:17:45.854082+00:00"
-  },
-  "https://techcrunch.com/?p=3173499": {
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "sent_at": "2026-10-04T04:17:45.430327+00:00"
-  },
-  "https://techcrunch.com/?p=3173505": {
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "sent_at": "2026-10-04T04:17:45.012356+00:00"
-  },
-  "https://techcrunch.com/?p=3173513": {
-    "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-    "sent_at": "2026-10-04T04:17:44.601068+00:00"
-  },
-  "https://www.threads.com/t/Dd-w608ARlm": {
-    "title": "@feelfree_ai: 에이전트 수를 무작정 늘린다고 AI 시스템의 성능이 무조건 올라가...",
-    "sent_at": "2026-10-03T03:48:02.297262+00:00"
   }
 }
