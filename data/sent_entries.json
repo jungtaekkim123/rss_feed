@@ -1,4 +1,80 @@
 {
+  "https://www.threads.com/t/DfTwuWEAUA-": {
+    "title": "@feelfree_ai: 수백만 편의 논문에서 필요한 데이터를 몇 분 만에 추출해 데이ᄐ...",
+    "sent_at": "2026-11-05T05:06:02.807570+00:00"
+  },
+  "https://www.threads.com/t/DfUhEsfAXRP": {
+    "title": "@feelfree_ai: 세바스찬 라슈카가 지난 10월 한 달간 쏟아진 10개의 핵심 오픈 LLM 아...",
+    "sent_at": "2026-11-05T05:06:02.362679+00:00"
+  },
+  "https://www.threads.com/t/DfVpMm7gTZs": {
+    "title": "@feelfree_ai: 엔비디아에서 긴 컨텍스트를 유지하는 대신 자주 압축(Compaction)하는 ...",
+    "sent_at": "2026-11-05T05:06:01.881230+00:00"
+  },
+  "https://d2.naver.com/helloworld/7134499": {
+    "title": "크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까?",
+    "sent_at": "2026-11-05T05:05:45.234697+00:00"
+  },
+  "https://d2.naver.com/helloworld/7770448": {
+    "title": "2026년과 이후 JavaScript의 동향 - WebAssembly",
+    "sent_at": "2026-11-05T05:05:44.778188+00:00"
+  },
+  "https://d2.naver.com/helloworld/5037598": {
+    "title": "worklog-system 주간보고 자동화 구축 경험기",
+    "sent_at": "2026-11-05T05:05:44.324454+00:00"
+  },
+  "7d30dbf9b73fcfe8e471c3e83d1f2ee69b4b3343": {
+    "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
+    "sent_at": "2026-11-05T05:05:38.902839+00:00"
+  },
+  "01M6HZ245M2MBZAF7ZQXKC85X6": {
+    "title": "See the agents, set the terms: new visibility and control for personal agents",
+    "sent_at": "2026-11-05T05:05:38.072435+00:00"
+  },
+  "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": {
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "sent_at": "2026-11-05T05:05:36.252486+00:00"
+  },
+  "https://openai.com/index/devrev-enterprise-self-service": {
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "sent_at": "2026-11-05T05:05:34.131380+00:00"
+  },
+  "https://openai.com/index/introducing-images-2-6": {
+    "title": "Introducing Images 2.6",
+    "sent_at": "2026-11-05T05:05:33.674088+00:00"
+  },
+  "https://openai.com/index/a-thousand-fewer-paths-to-root": {
+    "title": "A thousand fewer paths to root",
+    "sent_at": "2026-11-05T05:05:33.221708+00:00"
+  },
+  "https://openai.com/index/daybreak-red-aws-govcloud": {
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "sent_at": "2026-11-05T05:05:32.777096+00:00"
+  },
+  "https://openai.com/index/openai-to-acquire-pierre": {
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "sent_at": "2026-11-05T05:05:32.323288+00:00"
+  },
+  "https://techcrunch.com/?p=3185205": {
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "sent_at": "2026-11-05T05:05:20.897187+00:00"
+  },
+  "https://techcrunch.com/?p=3185172": {
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "sent_at": "2026-11-05T05:05:20.395365+00:00"
+  },
+  "https://techcrunch.com/?p=3185268": {
+    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "sent_at": "2026-11-05T05:05:19.908611+00:00"
+  },
+  "https://techcrunch.com/?p=3185307": {
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "sent_at": "2026-11-05T05:05:19.454068+00:00"
+  },
+  "https://techcrunch.com/?p=3185305": {
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "sent_at": "2026-11-05T05:05:19.019516+00:00"
+  },
   "https://www.threads.com/t/DfRn0fwAUdF": {
     "title": "@feelfree_ai: 파인튜닝이나 옵티마이저 없이 GPT-6 Astra가 신경망 가중치를 직접 수정해 Qwen3.5-0.8B의 수학(MATH-500) 성능을 7.9%에서 48.1%로 끌어올린 'W...",
     "sent_at": "2026-11-04T04:50:15.807713+00:00"
@@ -1922,81 +1998,5 @@
   "https://openai.com/index/atlassian-partnership": {
     "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
     "sent_at": "2026-10-07T04:17:44.842796+00:00"
-  },
-  "https://openai.com/index/advancing-computer-use-with-ironclad": {
-    "title": "Advancing computer use with Ironclad",
-    "sent_at": "2026-10-07T04:17:44.418886+00:00"
-  },
-  "https://openai.com/index/sharing-ai-progress-in-mathematics": {
-    "title": "Sharing AI progress in mathematics",
-    "sent_at": "2026-10-07T04:17:44.003976+00:00"
-  },
-  "https://openai.com/index/jump-trading": {
-    "title": "How Jump Trading is scaling quant research with ChatGPT",
-    "sent_at": "2026-10-07T04:17:43.583739+00:00"
-  },
-  "https://goddaehee.tistory.com/651": {
-    "title": "메타 뮤즈(Muse) 한국 가입 방법 - VPN 가입, 첫 대화, 활용 사례, 권한 설정까지(한국에서 Muse 앱 쓰는 방법과 주의점)",
-    "sent_at": "2026-10-07T04:17:37.088209+00:00"
-  },
-  "https://github.blog/?p=99275": {
-    "title": "Building Git infrastructure for agent-scale development",
-    "sent_at": "2026-10-07T04:17:29.083225+00:00"
-  },
-  "https://techcrunch.com/?p=3174464": {
-    "title": "How AI decision models could change content moderation",
-    "sent_at": "2026-10-07T04:17:28.136240+00:00"
-  },
-  "https://techcrunch.com/?p=3174503": {
-    "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-    "sent_at": "2026-10-07T04:17:27.713496+00:00"
-  },
-  "https://techcrunch.com/?p=3174722": {
-    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-    "sent_at": "2026-10-07T04:17:27.291819+00:00"
-  },
-  "https://techcrunch.com/?p=3174755": {
-    "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-    "sent_at": "2026-10-07T04:17:26.884717+00:00"
-  },
-  "https://techcrunch.com/?p=3174743": {
-    "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
-    "sent_at": "2026-10-07T04:17:26.466940+00:00"
-  },
-  "https://www.threads.com/t/DeFmuBJkxYv": {
-    "title": "@feelfree_ai: 내장 그래픽이 달린 일반 PC에서 고작 2B 크기의 초소형 모델로 실제 ...",
-    "sent_at": "2026-10-06T04:51:47.554232+00:00"
-  },
-  "https://www.threads.com/t/DeGZisnAf77": {
-    "title": "@feelfree_ai: LLM한테 지식 그래프 만들라고 JSON 추출을 시켰다가 끝없는 환각과 ...",
-    "sent_at": "2026-10-06T04:51:47.178916+00:00"
-  },
-  "https://www.threads.com/t/DeG5W-QgUXW": {
-    "title": "@feelfree_ai: RAG나 AI 에이전트를 만들 때 프레임워크 내부가 블랙박스처럼 돌아ᄀ...",
-    "sent_at": "2026-10-06T04:51:46.800924+00:00"
-  },
-  "https://www.threads.com/t/DeHgGD7gXv-": {
-    "title": "@feelfree_ai: LLM 에이전트 비용 아끼려고 컨텍스트 압축을 적용했다가, 오히려 시...",
-    "sent_at": "2026-10-06T04:51:46.418535+00:00"
-  },
-  "b763b52a942275354399615fd56b8f7232f71f2c": {
-    "title": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)",
-    "sent_at": "2026-10-06T04:51:27.953268+00:00"
-  },
-  "01M40C00BDZBKANZ5QVXW0AD7X": {
-    "title": "One year later: the power of 1.1.1.1 interns",
-    "sent_at": "2026-10-06T04:51:27.175104+00:00"
-  },
-  "01M45M6M9H2C1A45G0S8EC3KW9": {
-    "title": "Everything we launched during Birthday Week 2026",
-    "sent_at": "2026-10-06T04:51:26.792172+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98578": {
-    "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-    "sent_at": "2026-10-06T04:51:24.084679+00:00"
-  },
-  "https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
-    "title": "Building advertising for the way people use AI",
-    "sent_at": "2026-10-06T04:51:22.887532+00:00"
   }
 }
