@@ -1,4 +1,64 @@
 {
+  "https://www.threads.com/t/DfZgvPKgS72": {
+    "title": "@feelfree_ai: 모델 가중치 수정이나 상위 교사 모델 없이 스스로 학습해 법률 태ᄉ...",
+    "sent_at": "2026-11-07T04:39:01.558648+00:00"
+  },
+  "https://www.threads.com/t/DfanPlBgZZ_": {
+    "title": "@feelfree_ai: 단일 GPU에서 8B 모델 에이전트 450개를 1시간 구동해 딥마인드 AlphaEvolve의 ...",
+    "sent_at": "2026-11-07T04:39:01.035020+00:00"
+  },
+  "01M6PDR60R01B25PZF6REB72W3": {
+    "title": "The post-quantum future of web privacy",
+    "sent_at": "2026-11-07T04:38:45.294727+00:00"
+  },
+  "https://huggingface.co/blog/open-asr-leaderboard-liva": {
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "sent_at": "2026-11-07T04:38:43.719852+00:00"
+  },
+  "https://huggingface.co/blog/allenai/toyblocks": {
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "sent_at": "2026-11-07T04:38:43.218439+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99702": {
+    "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+    "sent_at": "2026-11-07T04:38:41.328854+00:00"
+  },
+  "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "sent_at": "2026-11-07T04:38:39.769955+00:00"
+  },
+  "https://openai.com/index/partnering-with-hacktron": {
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "sent_at": "2026-11-07T04:38:39.267782+00:00"
+  },
+  "https://goddaehee.tistory.com/652": {
+    "title": "개인정보처리방침 (갓댐 블로그 자동수집)",
+    "sent_at": "2026-11-07T04:38:36.806445+00:00"
+  },
+  "https://github.blog/?p=100047": {
+    "title": "Beyond code generation: A developer’s guide to agentic engineering",
+    "sent_at": "2026-11-07T04:38:31.353025+00:00"
+  },
+  "https://techcrunch.com/?p=3185905": {
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "sent_at": "2026-11-07T04:38:30.515936+00:00"
+  },
+  "https://techcrunch.com/?p=3186020": {
+    "title": "The Duo apps are coming, says Apple",
+    "sent_at": "2026-11-07T04:38:29.979015+00:00"
+  },
+  "https://techcrunch.com/?p=3186034": {
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "sent_at": "2026-11-07T04:38:29.439614+00:00"
+  },
+  "https://techcrunch.com/?p=3186051": {
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "sent_at": "2026-11-07T04:38:28.916054+00:00"
+  },
+  "https://techcrunch.com/?p=3186018": {
+    "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+    "sent_at": "2026-11-07T04:38:28.398108+00:00"
+  },
   "https://www.threads.com/t/DfXGOfCgVym": {
     "title": "@feelfree_ai: AI가 스스로 LLM 사후 학습(Post-training)까지 수행하도록 훈련하는 RSI-Dojo가 공개되며, 35B 규모 모델로 GPT 5.5 및 GLM-5.2 수준의 성능을 ...",
     "sent_at": "2026-11-06T05:05:17.493526+00:00"
@@ -1938,65 +1998,5 @@
   "https://openai.com/index/oracle": {
     "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
     "sent_at": "2026-10-09T04:34:32.963694+00:00"
-  },
-  "https://goddaehee.tistory.com/653": {
-    "title": "멀티에이전트 오케스트레이션이란? 언제 나누고 어떻게 맡길까(하네스&middot;루프&middot;그래프 다음은 '조장'이다 멀티에이전트 오케스트레이션 팩트체크)",
-    "sent_at": "2026-10-09T04:34:28.354333+00:00"
-  },
-  "https://github.blog/?p=99392": {
-    "title": "How one bug bounty researcher chooses the features they investigate",
-    "sent_at": "2026-10-09T04:34:20.819276+00:00"
-  },
-  "https://techcrunch.com/?p=3175682": {
-    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-    "sent_at": "2026-10-09T04:34:19.760883+00:00"
-  },
-  "https://techcrunch.com/?p=3175788": {
-    "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
-    "sent_at": "2026-10-09T04:34:19.282979+00:00"
-  },
-  "https://techcrunch.com/?p=3175894": {
-    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "sent_at": "2026-10-09T04:34:18.813611+00:00"
-  },
-  "https://techcrunch.com/?p=3175918": {
-    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-    "sent_at": "2026-10-09T04:34:18.303198+00:00"
-  },
-  "https://techcrunch.com/?p=3175951": {
-    "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
-    "sent_at": "2026-10-09T04:34:17.834982+00:00"
-  },
-  "https://www.threads.com/t/DeMgooQgU3Q": {
-    "title": "@feelfree_ai: RAG 시스템에서 늘 골치 아팠던 할루시네이션과 개인정보(PII) 필터리...",
-    "sent_at": "2026-10-08T04:30:08.356365+00:00"
-  },
-  "https://www.threads.com/t/DeNRj9Vk1QF": {
-    "title": "@feelfree_ai: 장황한 답변 대신 '의사결정(Decision)'만 딱 내리는 AI 모델을 이제 ᄃ...",
-    "sent_at": "2026-10-08T04:30:07.769385+00:00"
-  },
-  "https://d2.naver.com/news/7360495": {
-    "title": "FE News 26년 9월 소식을 전해드립니다.",
-    "sent_at": "2026-10-08T04:29:53.890006+00:00"
-  },
-  "https://d2.naver.com/news/7193556": {
-    "title": "D2Coding 폰트 1.4.0 릴리즈 소식을 전합니다.",
-    "sent_at": "2026-10-08T04:29:53.297294+00:00"
-  },
-  "https://d2.naver.com/news/8711937": {
-    "title": "FE News 26년 10월 소식을 전해드립니다.",
-    "sent_at": "2026-10-08T04:29:52.757670+00:00"
-  },
-  "01M49SJF5QT2EPN5CTQ3C99EZW": {
-    "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
-    "sent_at": "2026-10-08T04:29:47.653013+00:00"
-  },
-  "https://engineering.atspotify.com/?p=4Q95CxFeg0bPD9rsoBjQuk": {
-    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-    "sent_at": "2026-10-08T04:29:46.800048+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": {
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "sent_at": "2026-10-08T04:29:44.962040+00:00"
   }
 }
