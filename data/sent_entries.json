@@ -1,4 +1,44 @@
 {
+  "https://www.threads.com/t/Dfb1nRAAdy7": {
+    "title": "@feelfree_ai: 하버드대 연구진이 LLM 서빙의 KV 블록 프리픽스 캐시를 빠르게 검증할 수 있는 시뮬레이터 'PrefixSim'을 오픈소스로 공개했습니다. 단순 캐시 ...",
+    "sent_at": "2026-11-08T04:26:47.238537+00:00"
+  },
+  "https://www.threads.com/t/DfcGe4uAfkM": {
+    "title": "@feelfree_ai: 벡터 검색, 그래프 네트워크, SQL을 단 하나의 임베딩 데이터베이스로 통합해 RAG와 에이전트 워크플로우를 구축할 수 있는 오픈소스 파이썬 프레...",
+    "sent_at": "2026-11-08T04:26:46.669261+00:00"
+  },
+  "https://www.threads.com/t/Dfd0zrSAeBl": {
+    "title": "@feelfree_ai: 앤트로픽이 이번 금요일에 AI 에이전트 성능을 좌우하는 핵심 레버인 '에이전트 메모리 시스템'의 작동 구조와 설계 원칙을 공개했습니다. 세션 ...",
+    "sent_at": "2026-11-08T04:26:46.083524+00:00"
+  },
+  "https://engineering.atspotify.com/?p=4Q95CxFeg0bPD9rsoBjQuk": {
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "sent_at": "2026-11-08T04:26:26.852307+00:00"
+  },
+  "https://goddaehee.tistory.com/653": {
+    "title": "멀티에이전트 오케스트레이션이란? 언제 나누고 어떻게 맡길까(하네스&middot;루프&middot;그래프 다음은 '조장'이다 멀티에이전트 오케스트레이션 팩트체크)",
+    "sent_at": "2026-11-08T04:26:20.713749+00:00"
+  },
+  "https://techcrunch.com/?p=3185881": {
+    "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+    "sent_at": "2026-11-08T04:26:14.639907+00:00"
+  },
+  "https://techcrunch.com/?p=3186084": {
+    "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+    "sent_at": "2026-11-08T04:26:14.077902+00:00"
+  },
+  "https://techcrunch.com/?p=3143658": {
+    "title": "Parents want safer phones for kids. These companies are answering the call.",
+    "sent_at": "2026-11-08T04:26:13.484593+00:00"
+  },
+  "https://techcrunch.com/?p=3186087": {
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "sent_at": "2026-11-08T04:26:12.909158+00:00"
+  },
+  "https://techcrunch.com/?p=3186091": {
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "sent_at": "2026-11-08T04:26:12.351025+00:00"
+  },
   "https://www.threads.com/t/DfZgvPKgS72": {
     "title": "@feelfree_ai: 모델 가중치 수정이나 상위 교사 모델 없이 스스로 학습해 법률 태ᄉ...",
     "sent_at": "2026-11-07T04:39:01.558648+00:00"
@@ -1958,45 +1998,5 @@
   "https://d2.naver.com/helloworld/4149925": {
     "title": "Python의 GC가 멀티프로세싱과 만나면 생기는 일 - Python과 Airflow, 그리고 관련된 문제 해결기 2편",
     "sent_at": "2026-10-09T04:34:45.987051+00:00"
-  },
-  "01M4ATYPWQETFZA4EZJ5AJYSFT": {
-    "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
-    "sent_at": "2026-10-09T04:34:42.569354+00:00"
-  },
-  "https://engineering.atspotify.com/?p=3ak5D3CnpWDbDfHK66OFCF": {
-    "title": "Introducing: Spotify Technology. Proven at Spotify, now yours.",
-    "sent_at": "2026-10-09T04:34:41.722819+00:00"
-  },
-  "https://huggingface.co/blog/tiiuae/falcon-asr": {
-    "title": "Introducing Falcon ASR",
-    "sent_at": "2026-10-09T04:34:40.370836+00:00"
-  },
-  "https://huggingface.co/blog/building-with-ml-intern": {
-    "title": "The model that didn't exist, so you made it yourself",
-    "sent_at": "2026-10-09T04:34:39.899676+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98628": {
-    "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
-    "sent_at": "2026-10-09T04:34:37.913395+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98677": {
-    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-    "sent_at": "2026-10-09T04:34:37.158125+00:00"
-  },
-  "https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
-    "title": "Disrupting AI-enabled “false front” operations",
-    "sent_at": "2026-10-09T04:34:34.366204+00:00"
-  },
-  "https://openai.com/index/legalon-halves-codex-costs": {
-    "title": "LegalOn halves Codex costs while maintaining development speed",
-    "sent_at": "2026-10-09T04:34:33.902482+00:00"
-  },
-  "https://openai.com/index/pollo-ai": {
-    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-    "sent_at": "2026-10-09T04:34:33.432013+00:00"
-  },
-  "https://openai.com/index/oracle": {
-    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-    "sent_at": "2026-10-09T04:34:32.963694+00:00"
   }
 }
