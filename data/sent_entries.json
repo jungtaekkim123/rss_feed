@@ -1,4 +1,48 @@
 {
+  "https://www.threads.com/t/Dfe5VMLgVtg": {
+    "title": "@feelfree_ai: 구글에서 코딩 에이전트의 머신러닝 실험 재현 성공률을 76.4%에서 92.6%까지 끌어올리고 API 비용은 19.7% 절감해 주는 'ReproBridge' 연구를 공...",
+    "sent_at": "2026-11-09T04:39:35.140814+00:00"
+  },
+  "https://www.threads.com/t/Dffz3AiAY1G": {
+    "title": "@feelfree_ai: 베이징대 연구진이 라즈베리파이 5에서 추론 속도 저하 없이 MoE 모델의 정확도를 12.5% 끌어올린 동적 양자화 기법 'MatMoE'를 공개했습니다. 기...",
+    "sent_at": "2026-11-09T04:39:34.485975+00:00"
+  },
+  "https://d2.naver.com/helloworld/4293206": {
+    "title": "로그인 화면, 이제 만들지 마세요 - n3r OIDC",
+    "sent_at": "2026-11-09T04:39:21.191279+00:00"
+  },
+  "https://engineering.atspotify.com/?p=3ak5D3CnpWDbDfHK66OFCF": {
+    "title": "Introducing: Spotify Technology. Proven at Spotify, now yours.",
+    "sent_at": "2026-11-09T04:39:16.842098+00:00"
+  },
+  "https://blogs.nvidia.com/?p=98677": {
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "sent_at": "2026-11-09T04:39:15.551959+00:00"
+  },
+  "https://goddaehee.tistory.com/654": {
+    "title": "Buzz 1편. Codex 연결부터 친구초대와 버그 티켓 만들기까지",
+    "sent_at": "2026-11-09T04:39:13.463841+00:00"
+  },
+  "https://techcrunch.com/?p=3186115": {
+    "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+    "sent_at": "2026-11-09T04:39:06.262775+00:00"
+  },
+  "https://techcrunch.com/?p=3185903": {
+    "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+    "sent_at": "2026-11-09T04:39:05.907126+00:00"
+  },
+  "https://techcrunch.com/?p=3185633": {
+    "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+    "sent_at": "2026-11-09T04:39:05.552203+00:00"
+  },
+  "https://techcrunch.com/?p=3186128": {
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "sent_at": "2026-11-09T04:39:05.191616+00:00"
+  },
+  "https://techcrunch.com/?p=3102406": {
+    "title": "Apps to distract you from the endless cycle of doomscrolling",
+    "sent_at": "2026-11-09T04:39:04.833086+00:00"
+  },
   "https://www.threads.com/t/Dfb1nRAAdy7": {
     "title": "@feelfree_ai: 하버드대 연구진이 LLM 서빙의 KV 블록 프리픽스 캐시를 빠르게 검증할 수 있는 시뮬레이터 'PrefixSim'을 오픈소스로 공개했습니다. 단순 캐시 ...",
     "sent_at": "2026-11-08T04:26:47.238537+00:00"
@@ -1954,49 +1998,5 @@
   "https://openai.com/index/asana-browser-agent": {
     "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
     "sent_at": "2026-10-10T04:19:03.808553+00:00"
-  },
-  "https://openai.com/index/sophos": {
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "sent_at": "2026-10-10T04:19:03.319374+00:00"
-  },
-  "https://github.blog/?p=99381": {
-    "title": "Hack the World: Why hackathons are still the best place to learn to build",
-    "sent_at": "2026-10-10T04:18:54.100420+00:00"
-  },
-  "https://techcrunch.com/?p=3176212": {
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "sent_at": "2026-10-10T04:18:53.227224+00:00"
-  },
-  "https://techcrunch.com/?p=3176290": {
-    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "sent_at": "2026-10-10T04:18:52.674664+00:00"
-  },
-  "https://techcrunch.com/?p=3174131": {
-    "title": "Long live the mechanical keyboard",
-    "sent_at": "2026-10-10T04:18:52.102930+00:00"
-  },
-  "https://techcrunch.com/?p=3176323": {
-    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-    "sent_at": "2026-10-10T04:18:51.531389+00:00"
-  },
-  "https://techcrunch.com/?p=3176213": {
-    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-    "sent_at": "2026-10-10T04:18:50.967460+00:00"
-  },
-  "https://www.threads.com/t/DeOUoihgfPy": {
-    "title": "@feelfree_ai: 1억 편이 넘는 논문 속에서 특정 주장의 찬반 근거를 1초 만에 ...",
-    "sent_at": "2026-10-09T04:35:01.431703+00:00"
-  },
-  "https://www.threads.com/t/DePJzBhAU_w": {
-    "title": "@feelfree_ai: 모델마다 서빙 환경 따로 구축하느라 파이프라인 복잡해지셨 다면,...",
-    "sent_at": "2026-10-09T04:35:00.967547+00:00"
-  },
-  "https://www.threads.com/t/DeQnBzyATD1": {
-    "title": "@feelfree_ai: 1조 개(1T) 모델 강화학습 시 매번 87.5분이나 걸리던 가중치 동기화 시...",
-    "sent_at": "2026-10-09T04:35:00.485919+00:00"
-  },
-  "https://d2.naver.com/helloworld/4149925": {
-    "title": "Python의 GC가 멀티프로세싱과 만나면 생기는 일 - Python과 Airflow, 그리고 관련된 문제 해결기 2편",
-    "sent_at": "2026-10-09T04:34:45.987051+00:00"
   }
 }
