@@ -1,4 +1,112 @@
 {
+  "https://www.threads.com/t/Dfg5zIAgXU-": {
+    "title": "@feelfree_ai: 코딩 에이전트를 활용해 LLM 서빙 시뮬레이터를 자동으로 확장하느...",
+    "sent_at": "2026-11-10T05:56:24.253377+00:00"
+  },
+  "https://www.threads.com/t/Dfir-yHgU3n": {
+    "title": "@feelfree_ai: 마이크로소프트 연구진이 장시간 실행되는 AI 에이전트가 스스로 하ᄂ...",
+    "sent_at": "2026-11-10T05:56:23.794137+00:00"
+  },
+  "https://www.threads.com/t/Dfi3gEqgSLv": {
+    "title": "@feelfree_ai: 개발자가 미리 짜둔 고정 플랜 없이도 멀티 에이전트가 스스로 협어...",
+    "sent_at": "2026-11-10T05:56:23.344654+00:00"
+  },
+  "https://www.threads.com/t/DfjMIVpAQfQ": {
+    "title": "@feelfree_ai: 프랑스 마크롱 대통령 주도로 OpenAI, Anthropic, Microsoft, Mistral AI, Sakana AI 등 주요 AI 기...",
+    "sent_at": "2026-11-10T05:56:22.887518+00:00"
+  },
+  "https://toss.tech/article/taste": {
+    "title": "TASTE, 토스의 추천 파운데이션 플랫폼",
+    "sent_at": "2026-11-10T05:56:09.448349+00:00"
+  },
+  "https://d2.naver.com/helloworld/8644274": {
+    "title": "우리 팀만의 스펙 주도 개발 정착기",
+    "sent_at": "2026-11-10T05:56:06.379023+00:00"
+  },
+  "92fb165d30993e71e0cdd70801398f45f9518c7d": {
+    "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
+    "sent_at": "2026-11-10T05:56:03.436879+00:00"
+  },
+  "01M6SMASVYY5EVPJPHFF7WNPFG": {
+    "title": "Launching the Vite Ecosystem Fund",
+    "sent_at": "2026-11-10T05:56:02.647942+00:00"
+  },
+  "https://engineering.atspotify.com/?p=31BrflfI7gi4xKTIY3gvyK": {
+    "title": "AI Product Management at Spotify: A View From Three Angles",
+    "sent_at": "2026-11-10T05:56:01.885716+00:00"
+  },
+  "https://medium.com/p/d7d85859d808": {
+    "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
+    "sent_at": "2026-11-10T05:56:00.080464+00:00"
+  },
+  "https://huggingface.co/blog/amazon/higher-order-pruning-experts": {
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "sent_at": "2026-11-10T05:55:59.196606+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": {
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "sent_at": "2026-11-10T05:55:58.760702+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99721": {
+    "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+    "sent_at": "2026-11-10T05:55:56.771728+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99736": {
+    "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+    "sent_at": "2026-11-10T05:55:56.327817+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99712": {
+    "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+    "sent_at": "2026-11-10T05:55:55.891131+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99744": {
+    "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+    "sent_at": "2026-11-10T05:55:55.453031+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99751": {
+    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+    "sent_at": "2026-11-10T05:55:55.012722+00:00"
+  },
+  "https://engineering.fb.com/?p=24955": {
+    "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+    "sent_at": "2026-11-10T05:55:49.879703+00:00"
+  },
+  "https://openai.com/index/kuken": {
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "sent_at": "2026-11-10T05:55:48.792741+00:00"
+  },
+  "https://openai.com/index/coderabbit-codex-daybreak": {
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "sent_at": "2026-11-10T05:55:48.317749+00:00"
+  },
+  "https://openai.com/index/control-room": {
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "sent_at": "2026-11-10T05:55:47.851836+00:00"
+  },
+  "https://openai.com/index/chatgpt-enterprise-aws-marketplace": {
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "sent_at": "2026-11-10T05:55:47.378761+00:00"
+  },
+  "https://techcrunch.com/?p=3186559": {
+    "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+    "sent_at": "2026-11-10T05:55:37.992381+00:00"
+  },
+  "https://techcrunch.com/?p=3186628": {
+    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+    "sent_at": "2026-11-10T05:55:37.545559+00:00"
+  },
+  "https://techcrunch.com/?p=3186715": {
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "sent_at": "2026-11-10T05:55:37.100420+00:00"
+  },
+  "https://techcrunch.com/?p=3186594": {
+    "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+    "sent_at": "2026-11-10T05:55:36.632825+00:00"
+  },
+  "https://techcrunch.com/?p=3183699": {
+    "title": "California’s proposed ‘billionaire tax’ fails to pass",
+    "sent_at": "2026-11-10T05:55:36.164400+00:00"
+  },
   "https://www.threads.com/t/Dfe5VMLgVtg": {
     "title": "@feelfree_ai: 구글에서 코딩 에이전트의 머신러닝 실험 재현 성공률을 76.4%에서 92.6%까지 끌어올리고 API 비용은 19.7% 절감해 주는 'ReproBridge' 연구를 공...",
     "sent_at": "2026-11-09T04:39:35.140814+00:00"
@@ -1890,113 +1998,5 @@
   "https://techcrunch.com/?p=3176454": {
     "title": "This AI startup says it can generate permit-ready blueprints in minutes",
     "sent_at": "2026-10-13T05:27:36.532396+00:00"
-  },
-  "https://techcrunch.com/?p=3176628": {
-    "title": "Microsoft president says UK is best placed to drive AI regulation",
-    "sent_at": "2026-10-13T05:27:36.064027+00:00"
-  },
-  "https://techcrunch.com/?p=3175181": {
-    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-    "sent_at": "2026-10-13T05:27:35.579544+00:00"
-  },
-  "https://techcrunch.com/?p=3176669": {
-    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "sent_at": "2026-10-13T05:27:35.108752+00:00"
-  },
-  "https://techcrunch.com/?p=3176752": {
-    "title": "Meta releases its first frontier model, Muse Wonder",
-    "sent_at": "2026-10-13T05:27:34.630725+00:00"
-  },
-  "https://www.threads.com/t/DeWQT0JgS1K": {
-    "title": "@feelfree_ai: 완성된 프로그램이나 앱을 AI 에이전트가 역공학으로 분석해 거ᄋ...",
-    "sent_at": "2026-10-12T04:19:28.327446+00:00"
-  },
-  "https://www.threads.com/t/DeXC1QyAUNp": {
-    "title": "@feelfree_ai: 수백 개의 AI 에이전트를 협업시키는 가장 현실적인 방식으로 메...",
-    "sent_at": "2026-10-12T04:19:27.749966+00:00"
-  },
-  "https://www.threads.com/t/DeYKfozAerD": {
-    "title": "@feelfree_ai: AI가 스스로를 평가하며 자가 발전(RSI)하게 두면, 자신의 편향과 맹점...",
-    "sent_at": "2026-10-12T04:19:27.218351+00:00"
-  },
-  "https://toss.tech/article/53795": {
-    "title": "CPU 뼛속까지 써먹고, Milvus 사이징 기준을 만들기까지",
-    "sent_at": "2026-10-12T04:19:14.430467+00:00"
-  },
-  "https://techcrunch.com/?p=3154551": {
-    "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "sent_at": "2026-10-12T04:19:00.657575+00:00"
-  },
-  "https://techcrunch.com/?p=3176474": {
-    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "sent_at": "2026-10-12T04:19:00.081660+00:00"
-  },
-  "https://techcrunch.com/?p=3176485": {
-    "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
-    "sent_at": "2026-10-12T04:18:59.472875+00:00"
-  },
-  "https://techcrunch.com/?p=3176490": {
-    "title": "Will the HomeView be Apple’s first smart home success?",
-    "sent_at": "2026-10-12T04:18:58.948461+00:00"
-  },
-  "https://www.threads.com/t/DeTmeUwAUi8": {
-    "title": "@feelfree_ai: 가장 똑똑한 AI 모델이 가장 잘 배우는 모델은 아니라는 연구 결ᄀ...",
-    "sent_at": "2026-10-11T03:59:03.440406+00:00"
-  },
-  "https://www.threads.com/t/DeUMD8IAWHr": {
-    "title": "@feelfree_ai: RAG나 에이전트를 만들 때 모든 질문마다 검색 API를 태우는 게 비효ᄋ...",
-    "sent_at": "2026-10-11T03:59:02.900702+00:00"
-  },
-  "https://engineering.atspotify.com/?p=4ode0KMR0ZNP2v8r180XjX": {
-    "title": "Why Spotify Is Not Using Bayesian A/B Testing",
-    "sent_at": "2026-10-11T03:58:45.802450+00:00"
-  },
-  "https://techcrunch.com/?p=3176326": {
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "sent_at": "2026-10-11T03:58:34.828980+00:00"
-  },
-  "https://techcrunch.com/?p=3176412": {
-    "title": "Cloudflare acquires Deno to improve its Workers programming model",
-    "sent_at": "2026-10-11T03:58:34.302546+00:00"
-  },
-  "https://techcrunch.com/?p=3174064": {
-    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-    "sent_at": "2026-10-11T03:58:33.771724+00:00"
-  },
-  "https://techcrunch.com/?p=3176436": {
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "sent_at": "2026-10-11T03:58:33.225138+00:00"
-  },
-  "https://techcrunch.com/?p=3176448": {
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "sent_at": "2026-10-11T03:58:32.699597+00:00"
-  },
-  "https://www.threads.com/t/DeRDJm0gVam": {
-    "title": "@feelfree_ai: 하드웨어가 완벽하지 않아도 모델이 커지면 AI가 스스로 결함을 극보...",
-    "sent_at": "2026-10-10T04:19:26.560892+00:00"
-  },
-  "https://www.threads.com/t/DeRiVYuAfTz": {
-    "title": "@feelfree_ai: 이제 윈도우에서도 AI 에이전트의 코드 실행을 안전하게 격리할 수 ᄋ...",
-    "sent_at": "2026-10-10T04:19:26.009955+00:00"
-  },
-  "01M4EHZFCN5RWBFJJ8WEERWAYZ": {
-    "title": "Deno is joining Cloudflare",
-    "sent_at": "2026-10-10T04:19:10.698576+00:00"
-  },
-  "01M497Y0BQ6DVED6YT05KTNA6W": {
-    "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
-    "sent_at": "2026-10-10T04:19:10.147819+00:00"
-  },
-  "01M4GV0DTKYJTCM5GPYBCME1T4": {
-    "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
-    "sent_at": "2026-10-10T04:19:09.583798+00:00"
-  },
-  "https://huggingface.co/blog/allenai/impactful-scheduling": {
-    "title": "Impactful scheduling for GPU clusters",
-    "sent_at": "2026-10-10T04:19:05.754846+00:00"
-  },
-  "https://openai.com/index/asana-browser-agent": {
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "sent_at": "2026-10-10T04:19:03.808553+00:00"
   }
 }
