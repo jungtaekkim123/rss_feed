@@ -1,4 +1,92 @@
 {
+  "https://www.threads.com/t/DfmNIDfAZKg": {
+    "title": "@feelfree_ai: 복잡한 GPU 추론과 모델 학습의 진입장벽을 허물어줄 새로운 인터랙티브 강의가 공개되었습니다. GPU 인프라 전문가가 직접 기획한 'Introduction...",
+    "sent_at": "2026-11-12T05:45:08.438374+00:00"
+  },
+  "https://www.threads.com/t/DfntfA8ATQq": {
+    "title": "@feelfree_ai: 구글 딥마인드가 멀티 에이전트 정형 검증 프레임워크 'AlphaProof Code'를 통해, 과거 20인년이 걸리던 수준의 시그널(Signal) 기계어 보안 검증...",
+    "sent_at": "2026-11-12T05:45:07.981694+00:00"
+  },
+  "https://d2.naver.com/helloworld/7749530": {
+    "title": "검수도 답변도 호출도 AI가? 커머스API의 2026",
+    "sent_at": "2026-11-12T05:44:54.770907+00:00"
+  },
+  "https://d2.naver.com/helloworld/2568242": {
+    "title": "AI 산출물이 프로덕션이 되기까지-AI와 디자인시스템이 함께 일하는 법",
+    "sent_at": "2026-11-12T05:44:54.330814+00:00"
+  },
+  "https://d2.naver.com/helloworld/6523094": {
+    "title": "Chaos Mesh로 Kubernetes 앱의 장애 내구성 검증하기",
+    "sent_at": "2026-11-12T05:44:53.890001+00:00"
+  },
+  "c0bd049236369d601a6a4b54035a912339948df0": {
+    "title": "Test your applications against AWS locally with AWS Emulator",
+    "sent_at": "2026-11-12T05:44:48.139767+00:00"
+  },
+  "01M742VWRK37TPYYPMXERSCWKN": {
+    "title": "Choosing QuePaxa, an unusual consensus algorithm",
+    "sent_at": "2026-11-12T05:44:47.325498+00:00"
+  },
+  "https://huggingface.co/blog/token-pooling": {
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "sent_at": "2026-11-12T05:44:45.906049+00:00"
+  },
+  "https://huggingface.co/blog/qvac/botpsy": {
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "sent_at": "2026-11-12T05:44:45.465771+00:00"
+  },
+  "https://engineering.fb.com/?p=25010": {
+    "title": "Intelligent Delivery: Making Every Unit of Compute Serve Better Ads",
+    "sent_at": "2026-11-12T05:44:43.087147+00:00"
+  },
+  "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/": {
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "sent_at": "2026-11-12T05:44:42.194969+00:00"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/": {
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "sent_at": "2026-11-12T05:44:41.742238+00:00"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/": {
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "sent_at": "2026-11-12T05:44:41.309237+00:00"
+  },
+  "https://openai.com/index/jiostar-vijay-seshadri": {
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "sent_at": "2026-11-12T05:44:37.989638+00:00"
+  },
+  "https://openai.com/index/chatgpt-plus-for-veterans": {
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "sent_at": "2026-11-12T05:44:37.546090+00:00"
+  },
+  "https://goddaehee.tistory.com/656": {
+    "title": "[AI 기초 1화] 챗GPT를 네이버&middot;구글 검색창처럼 쓰면 손해 보는 이유: 검색엔진 vs 생성형 AI 결정적 차이",
+    "sent_at": "2026-11-12T05:44:34.922746+00:00"
+  },
+  "https://goddaehee.tistory.com/657": {
+    "title": "[AI 기초 2화] 사실 AI는 내 말뜻을 이해하지 못합니다: 박사님 아닌 '초고성능 자동완성 확률 계산기'의 원리",
+    "sent_at": "2026-11-12T05:44:34.477558+00:00"
+  },
+  "https://techcrunch.com/?post_type=tc_video&p=3187347": {
+    "title": "Why the data center you dread might never even be built",
+    "sent_at": "2026-11-12T05:44:26.764623+00:00"
+  },
+  "https://techcrunch.com/?p=3187540": {
+    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "sent_at": "2026-11-12T05:44:26.303374+00:00"
+  },
+  "https://techcrunch.com/?p=3187556": {
+    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "sent_at": "2026-11-12T05:44:25.861294+00:00"
+  },
+  "https://techcrunch.com/?p=3186475": {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "sent_at": "2026-11-12T05:44:25.413885+00:00"
+  },
+  "https://techcrunch.com/?p=3187615": {
+    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+    "sent_at": "2026-11-12T05:44:24.971389+00:00"
+  },
   "https://www.threads.com/t/DflU6BrAR3w": {
     "title": "@feelfree_ai: 추가 학습이나 합성 데이터 없이도 소형 LLM의 긴 문맥 처리 능력으...",
     "sent_at": "2026-11-11T04:42:34.702083+00:00"
@@ -1910,93 +1998,5 @@
   "https://medium.com/p/4c26be3a4d96": {
     "title": "Measuring the Impact of Personalized Recommendations",
     "sent_at": "2026-10-15T03:11:07.615820+00:00"
-  },
-  "https://medium.com/p/92af926b40a5": {
-    "title": "DataJunction as Netflix’s answer to the missing piece of the modern data stack",
-    "sent_at": "2026-10-15T03:11:07.135821+00:00"
-  },
-  "https://medium.com/p/cf176b5860eb": {
-    "title": "Integrating Netflix’s Foundation Model into Personalization applications",
-    "sent_at": "2026-10-15T03:11:06.493354+00:00"
-  },
-  "https://huggingface.co/blog/allenai/hiro-acev2": {
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "sent_at": "2026-10-15T03:11:01.011105+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98818": {
-    "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-    "sent_at": "2026-10-15T03:11:00.056294+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98835": {
-    "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
-    "sent_at": "2026-10-15T03:10:59.537596+00:00"
-  },
-  "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
-    "title": "The EU’s next chapter in AI is agentic",
-    "sent_at": "2026-10-15T03:10:56.971643+00:00"
-  },
-  "https://openai.com/index/block-ai-powered-security": {
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "sent_at": "2026-10-15T03:10:56.403951+00:00"
-  },
-  "https://openai.com/index/third-moment-research": {
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "sent_at": "2026-10-15T03:10:55.897163+00:00"
-  },
-  "https://openai.com/index/sentinelone": {
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "sent_at": "2026-10-15T03:10:55.423599+00:00"
-  },
-  "https://openai.com/index/amp-beyond-coding": {
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "sent_at": "2026-10-15T03:10:54.936852+00:00"
-  },
-  "https://github.blog/?p=99364": {
-    "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-    "sent_at": "2026-10-15T03:10:42.226570+00:00"
-  },
-  "https://github.blog/?p=99506": {
-    "title": "GitHub availability report: September 2026",
-    "sent_at": "2026-10-15T03:10:41.740002+00:00"
-  },
-  "https://techcrunch.com/?p=3170999": {
-    "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-    "sent_at": "2026-10-15T03:10:39.709291+00:00"
-  },
-  "https://techcrunch.com/?p=3175869": {
-    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "sent_at": "2026-10-15T03:10:39.220507+00:00"
-  },
-  "https://techcrunch.com/?p=3177974": {
-    "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-    "sent_at": "2026-10-15T03:10:38.737254+00:00"
-  },
-  "https://techcrunch.com/?p=3177738": {
-    "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
-    "sent_at": "2026-10-15T03:10:38.224221+00:00"
-  },
-  "https://techcrunch.com/?p=3177960": {
-    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-    "sent_at": "2026-10-15T03:10:37.743287+00:00"
-  },
-  "https://www.threads.com/t/DedRfTegWgx": {
-    "title": "@feelfree_ai: Liquid AI가 LFM2.5-24B-A2B 모델을 공개했습니다. 이거 확인해보니 Qwen3.6-35B-A3B급ᄋ...",
-    "sent_at": "2026-10-14T03:31:45.270685+00:00"
-  },
-  "https://toss.tech/article/rpg-savings": {
-    "title": "디자이너의 아이디어가 금융상품이 되기까지",
-    "sent_at": "2026-10-14T03:31:35.333813+00:00"
-  },
-  "7d8a98739984e60ca9480501cf2c370433bebfb8": {
-    "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
-    "sent_at": "2026-10-14T03:31:30.342503+00:00"
-  },
-  "01M4RYTJWRQG5ZF619XNRPYAZB": {
-    "title": "Rewinding the exponential: How we keep hardware usage down",
-    "sent_at": "2026-10-14T03:31:29.534349+00:00"
-  },
-  "01M4TZM0P3VSCZHV70ZGX58319": {
-    "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
-    "sent_at": "2026-10-14T03:31:28.906175+00:00"
   }
 }
