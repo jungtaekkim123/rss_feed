@@ -1,4 +1,76 @@
 {
+  "https://www.threads.com/t/DfpGG7SAcyh": {
+    "title": "@feelfree_ai: 엔비디아에서 SQL 에이전트가 데이터베이스 메타데이터를 완벽하게 이해할 수 있도록 돕는 오픈소스 라이브러리를 공개했습니다. 데이터베이스 스...",
+    "sent_at": "2026-11-13T05:02:23.235387+00:00"
+  },
+  "https://www.threads.com/t/DfqVlipAdv7": {
+    "title": "@feelfree_ai: Liquid.ai에서 음성 처리 속도를 극적으로 끌어올린 74M 파라미터 규모의 스트리밍 오디오 코덱, LiquidCodec을 공개했습니다. 그룹화된 유한 스...",
+    "sent_at": "2026-11-13T05:02:22.785497+00:00"
+  },
+  "https://huggingface.co/blog/3d-lora-finetuning": {
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "sent_at": "2026-11-13T05:02:04.824740+00:00"
+  },
+  "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": {
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "sent_at": "2026-11-13T05:02:04.386492+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99861": {
+    "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+    "sent_at": "2026-11-13T05:02:02.405545+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/": {
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "sent_at": "2026-11-13T05:02:01.218970+00:00"
+  },
+  "https://openai.com/index/children-first-declaration": {
+    "title": "Supporting research on AI and children’s safety",
+    "sent_at": "2026-11-13T05:02:00.080184+00:00"
+  },
+  "https://openai.com/business/customer-stories/holidays-extras-codex": {
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "sent_at": "2026-11-13T05:01:59.634480+00:00"
+  },
+  "https://openai.com/business/customer-stories/gondola": {
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "sent_at": "2026-11-13T05:01:59.189401+00:00"
+  },
+  "https://openai.com/business/customer-stories/amplitude": {
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "sent_at": "2026-11-13T05:01:58.753522+00:00"
+  },
+  "https://goddaehee.tistory.com/658": {
+    "title": "[AI 기초 3화] 챗GPT&middot;클로드&middot;제미나이 특징 비교: 다 비슷해 보이는데 뭐부터 써야 할까?",
+    "sent_at": "2026-11-13T05:01:53.859440+00:00"
+  },
+  "https://goddaehee.tistory.com/659": {
+    "title": "[피클 1편] 왜 테크판에서 난리일까? 초대권 시스템부터 실제 AI 비서 업무 위임까지",
+    "sent_at": "2026-11-13T05:01:53.379939+00:00"
+  },
+  "https://github.blog/?p=100122": {
+    "title": "Build once, run on any agent: A practical guide to agent skills",
+    "sent_at": "2026-11-13T05:01:45.728965+00:00"
+  },
+  "https://github.blog/?p=100130": {
+    "title": "GitHub availability report: October 2026",
+    "sent_at": "2026-11-13T05:01:45.290360+00:00"
+  },
+  "https://techcrunch.com/?p=3188106": {
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "sent_at": "2026-11-13T05:01:43.348834+00:00"
+  },
+  "https://techcrunch.com/?p=3188119": {
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "sent_at": "2026-11-13T05:01:42.872415+00:00"
+  },
+  "https://techcrunch.com/?p=3188128": {
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "sent_at": "2026-11-13T05:01:42.431236+00:00"
+  },
+  "https://techcrunch.com/?p=3188108": {
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "sent_at": "2026-11-13T05:01:41.982290+00:00"
+  },
   "https://www.threads.com/t/DfmNIDfAZKg": {
     "title": "@feelfree_ai: 복잡한 GPU 추론과 모델 학습의 진입장벽을 허물어줄 새로운 인터랙티브 강의가 공개되었습니다. GPU 인프라 전문가가 직접 기획한 'Introduction...",
     "sent_at": "2026-11-12T05:45:08.438374+00:00"
@@ -1926,77 +1998,5 @@
   "https://openai.com/index/introducing-the-rosalind-academic-plan": {
     "title": "Bringing GPT-Rosalind to academic research labs",
     "sent_at": "2026-10-16T03:07:05.463744+00:00"
-  },
-  "https://github.blog/?p=99529": {
-    "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-    "sent_at": "2026-10-16T03:06:53.835622+00:00"
-  },
-  "https://github.blog/?p=99541": {
-    "title": "The next developer interface is ambient intelligence",
-    "sent_at": "2026-10-16T03:06:53.445075+00:00"
-  },
-  "https://techcrunch.com/?p=3178309": {
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "sent_at": "2026-10-16T03:06:51.685629+00:00"
-  },
-  "https://techcrunch.com/?p=3178405": {
-    "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-    "sent_at": "2026-10-16T03:06:51.318625+00:00"
-  },
-  "https://techcrunch.com/?p=3178503": {
-    "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-    "sent_at": "2026-10-16T03:06:50.947534+00:00"
-  },
-  "https://techcrunch.com/?p=3178431": {
-    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-    "sent_at": "2026-10-16T03:06:50.575445+00:00"
-  },
-  "https://techcrunch.com/?p=3178485": {
-    "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-    "sent_at": "2026-10-16T03:06:50.204668+00:00"
-  },
-  "https://www.threads.com/t/Deei2CsAdEu": {
-    "title": "@feelfree_ai: 마스킹 비율 차이로 분류와 검색 성능이 갈리던 기존 한계를 극...",
-    "sent_at": "2026-10-15T03:11:33.014945+00:00"
-  },
-  "https://www.threads.com/t/DefXssZk3M2": {
-    "title": "@feelfree_ai: 마이크로소프트와 스탠퍼드 등 공동 연구진이 AI 모델이 스스로 강화ᄒ...",
-    "sent_at": "2026-10-15T03:11:32.520323+00:00"
-  },
-  "https://www.threads.com/t/Defk7Qmgd__": {
-    "title": "@feelfree_ai: AI 에이전트가 오래 실행될수록 지시사항, 도구 실행 결과, 파일, 초ᄋ...",
-    "sent_at": "2026-10-15T03:11:32.047711+00:00"
-  },
-  "https://www.threads.com/t/Def5TcsAR0E": {
-    "title": "@feelfree_ai: 스탠포드와 Together AI 연구진이 에이전트가 모든 추론 과정을 일일이 ...",
-    "sent_at": "2026-10-15T03:11:31.538804+00:00"
-  },
-  "https://toss.tech/article/spark-connect-on-kubernetes-2": {
-    "title": "Spark Connect on Kubernetes #2: Operator로 만드는 Control Plane",
-    "sent_at": "2026-10-15T03:11:18.482453+00:00"
-  },
-  "dde1e88f3c93eabd2dbb3913d365d085496d24b2": {
-    "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
-    "sent_at": "2026-10-15T03:11:12.508845+00:00"
-  },
-  "01M4VK1MXKAPMWG5QXYBFK222G": {
-    "title": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
-    "sent_at": "2026-10-15T03:11:11.628547+00:00"
-  },
-  "01M4Y1477Z7DBJHXRZDP6MM2FN": {
-    "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
-    "sent_at": "2026-10-15T03:11:11.139475+00:00"
-  },
-  "https://medium.com/p/826ebf9ad9fb": {
-    "title": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II",
-    "sent_at": "2026-10-15T03:11:08.618132+00:00"
-  },
-  "https://medium.com/p/e59d597c9d60": {
-    "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
-    "sent_at": "2026-10-15T03:11:08.095458+00:00"
-  },
-  "https://medium.com/p/4c26be3a4d96": {
-    "title": "Measuring the Impact of Personalized Recommendations",
-    "sent_at": "2026-10-15T03:11:07.615820+00:00"
   }
 }
