@@ -1,4 +1,88 @@
 {
+  "https://www.threads.com/t/Dfq-HczAW19": {
+    "title": "@feelfree_ai: 화웨이가 새롭게 공개한 4비트 양자화 기법 MACaQ는 동일한 15GB 용량ᄋ...",
+    "sent_at": "2026-11-14T04:55:32.483573+00:00"
+  },
+  "https://www.threads.com/t/Dfrea9Cgcy6": {
+    "title": "@feelfree_ai: 로컬 모델과 클라우드 LLM을 단 하나의 API로 묶어서 앱에 바로 심을 수 ...",
+    "sent_at": "2026-11-14T04:55:31.964203+00:00"
+  },
+  "https://www.threads.com/t/DfsmvHfk53a": {
+    "title": "@feelfree_ai: 기존 데이터 에이전트 벤치마크가 금방 한계에 부딪히자, 구글이 가ᄉ...",
+    "sent_at": "2026-11-14T04:55:31.443723+00:00"
+  },
+  "https://www.threads.com/t/DfsxlxoksYP": {
+    "title": "@feelfree_ai: 로컬 LLM 생태계의 표준으로 자리 잡은 오픈소스 추론 엔진 llama.cpp가 마...",
+    "sent_at": "2026-11-14T04:55:30.906170+00:00"
+  },
+  "01M7950HA1NFDM7V5HW3AMZ0SB": {
+    "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+    "sent_at": "2026-11-14T04:55:12.353535+00:00"
+  },
+  "01M7B3YSRJB0B2GD4ZN00Q227F": {
+    "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+    "sent_at": "2026-11-14T04:55:11.828328+00:00"
+  },
+  "01M7B8MAKWAA44XACM7ZT7P4NN": {
+    "title": "Kitesurf is now open source",
+    "sent_at": "2026-11-14T04:55:11.306380+00:00"
+  },
+  "https://huggingface.co/blog/ggml-org/llama-cpp-v1": {
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "sent_at": "2026-11-14T04:55:07.435639+00:00"
+  },
+  "https://huggingface.co/blog/allenai/xybench": {
+    "title": "XYBench: Helping with the problem behind the question",
+    "sent_at": "2026-11-14T04:55:06.927021+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": {
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "sent_at": "2026-11-14T04:55:06.409174+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99829": {
+    "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+    "sent_at": "2026-11-14T04:55:03.434957+00:00"
+  },
+  "https://engineering.fb.com/?p=25047": {
+    "title": "Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on Apple Silicon",
+    "sent_at": "2026-11-14T04:55:02.656754+00:00"
+  },
+  "https://openai.com/business/customer-stories/shield": {
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "sent_at": "2026-11-14T04:55:01.111043+00:00"
+  },
+  "https://openai.com/index/introducing-chatgpt-wallet": {
+    "title": "Introducing ChatGPT Wallet",
+    "sent_at": "2026-11-14T04:55:00.591250+00:00"
+  },
+  "https://goddaehee.tistory.com/660": {
+    "title": "Gemini 4 Carbon 출시, Argon&middot;Hydrogen과 무엇이 다를까?",
+    "sent_at": "2026-11-14T04:54:58.039213+00:00"
+  },
+  "https://goddaehee.tistory.com/661": {
+    "title": "[AI 기초 4화] 토큰(Token)이란? - AI에게 글자 수를 물으면 왜 틀릴까?",
+    "sent_at": "2026-11-14T04:54:57.534585+00:00"
+  },
+  "https://techcrunch.com/?p=3188474": {
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "sent_at": "2026-11-14T04:54:50.816113+00:00"
+  },
+  "https://techcrunch.com/?p=3188475": {
+    "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+    "sent_at": "2026-11-14T04:54:50.293717+00:00"
+  },
+  "https://techcrunch.com/?p=3188608": {
+    "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+    "sent_at": "2026-11-14T04:54:49.782726+00:00"
+  },
+  "https://techcrunch.com/?p=3188596": {
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "sent_at": "2026-11-14T04:54:49.271764+00:00"
+  },
+  "https://techcrunch.com/?p=3188482": {
+    "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+    "sent_at": "2026-11-14T04:54:48.187365+00:00"
+  },
   "https://www.threads.com/t/DfpGG7SAcyh": {
     "title": "@feelfree_ai: 엔비디아에서 SQL 에이전트가 데이터베이스 메타데이터를 완벽하게 이해할 수 있도록 돕는 오픈소스 라이브러리를 공개했습니다. 데이터베이스 스...",
     "sent_at": "2026-11-13T05:02:23.235387+00:00"
@@ -1914,89 +1998,5 @@
   "https://www.threads.com/t/Deghbp1AYIF": {
     "title": "@feelfree_ai: 텍스트의 고유한 문체만 보고 어떤 AI 모델이 작성했는지 맞히는 ...",
     "sent_at": "2026-10-16T03:07:48.915260+00:00"
-  },
-  "https://www.threads.com/t/Deh8m5YElti": {
-    "title": "@feelfree_ai: 구글에서 별도의 검증기(verifier) 없이도 테스트 시점에 에이전트 하네스...",
-    "sent_at": "2026-10-16T03:07:48.539466+00:00"
-  },
-  "https://toss.tech/article/package-management-1": {
-    "title": "토스뱅크가 패키지를 관리하는 방식 #1: 패키지를 ESM으로만 제공하기로 했어요",
-    "sent_at": "2026-10-16T03:07:34.215389+00:00"
-  },
-  "https://toss.tech/article/package-management-2": {
-    "title": "토스뱅크가 패키지를 관리하는 방식 #2: 토스뱅크 패키지의 세 가지 기준",
-    "sent_at": "2026-10-16T03:07:33.832222+00:00"
-  },
-  "01M4YQC31GRHMR5V2624TPHTH7": {
-    "title": "Cloudflare and OpenAI: Making AI discovery better for everyone",
-    "sent_at": "2026-10-16T03:07:26.254102+00:00"
-  },
-  "01M4EX2BRJ7RNGAPQTBRXWRYT1": {
-    "title": "Deploy with Void",
-    "sent_at": "2026-10-16T03:07:25.886268+00:00"
-  },
-  "01M5072CXFWQ88M9NCXZBSPAF2": {
-    "title": "A fully programmable secure web gateway",
-    "sent_at": "2026-10-16T03:07:25.524010+00:00"
-  },
-  "https://huggingface.co/blog/flux-3": {
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "sent_at": "2026-10-16T03:07:21.660968+00:00"
-  },
-  "https://huggingface.co/blog/meta-muse-spark-open": {
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "sent_at": "2026-10-16T03:07:21.296023+00:00"
-  },
-  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": {
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "sent_at": "2026-10-16T03:07:20.925546+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/scaling-indic-pretraining": {
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "sent_at": "2026-10-16T03:07:20.556874+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98901": {
-    "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
-    "sent_at": "2026-10-16T03:07:16.546148+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98912": {
-    "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
-    "sent_at": "2026-10-16T03:07:16.177409+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98870": {
-    "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
-    "sent_at": "2026-10-16T03:07:15.808404+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98620": {
-    "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-    "sent_at": "2026-10-16T03:07:15.439585+00:00"
-  },
-  "https://blogs.nvidia.com/?p=98987": {
-    "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-    "sent_at": "2026-10-16T03:07:15.008334+00:00"
-  },
-  "https://engineering.fb.com/?p=24721": {
-    "title": "Sapienz Receives ISSTA 2026 Impact Paper Award",
-    "sent_at": "2026-10-16T03:07:09.930334+00:00"
-  },
-  "https://engineering.fb.com/?p=24735": {
-    "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale",
-    "sent_at": "2026-10-16T03:07:09.564227+00:00"
-  },
-  "https://engineering.fb.com/?p=24709": {
-    "title": "How Meta Built Forum With AI-Native Engineering",
-    "sent_at": "2026-10-16T03:07:09.198740+00:00"
-  },
-  "https://openai.com/index/sullivan-cromwell": {
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "sent_at": "2026-10-16T03:07:06.195742+00:00"
-  },
-  "https://openai.com/index/teaching-students-to-think-and-learn-through-questions": {
-    "title": "Teaching students to think and learn through questions",
-    "sent_at": "2026-10-16T03:07:05.825519+00:00"
-  },
-  "https://openai.com/index/introducing-the-rosalind-academic-plan": {
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "sent_at": "2026-10-16T03:07:05.463744+00:00"
   }
 }
