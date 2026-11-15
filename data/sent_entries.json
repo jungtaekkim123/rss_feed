@@ -1,4 +1,32 @@
 {
+  "https://www.threads.com/t/Dfuc9YIkmlr": {
+    "title": "@feelfree_ai: Continuous Intelligence에서 기존 모델 대비 60배 이상 긴 컨텍스트 윈도우를 지ᄋ...",
+    "sent_at": "2026-11-15T04:48:05.492882+00:00"
+  },
+  "https://www.threads.com/t/DfvrVwnAXJs": {
+    "title": "@feelfree_ai: 메타에서 확률(Likelihood)만 좇는 LLM의 학습 방식이 진실을 찾는 데 ...",
+    "sent_at": "2026-11-15T04:48:04.978013+00:00"
+  },
+  "https://techcrunch.com/?p=3188732": {
+    "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+    "sent_at": "2026-11-15T04:47:39.266946+00:00"
+  },
+  "https://techcrunch.com/?p=3188554": {
+    "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+    "sent_at": "2026-11-15T04:47:38.756945+00:00"
+  },
+  "https://techcrunch.com/?p=3188739": {
+    "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+    "sent_at": "2026-11-15T04:47:38.233704+00:00"
+  },
+  "https://techcrunch.com/?p=3188741": {
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "sent_at": "2026-11-15T04:47:37.725972+00:00"
+  },
+  "https://techcrunch.com/?p=3188673": {
+    "title": "Where was Nvidia’s security team?",
+    "sent_at": "2026-11-15T04:47:37.196188+00:00"
+  },
   "https://www.threads.com/t/Dfq-HczAW19": {
     "title": "@feelfree_ai: 화웨이가 새롭게 공개한 4비트 양자화 기법 MACaQ는 동일한 15GB 용량ᄋ...",
     "sent_at": "2026-11-14T04:55:32.483573+00:00"
@@ -1970,33 +1998,5 @@
   "https://openai.com/index/stack-overflow-chatgpt-plugin": {
     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
     "sent_at": "2026-10-17T02:58:59.866822+00:00"
-  },
-  "https://openai.com/index/itau-generative-ai": {
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "sent_at": "2026-10-17T02:58:59.455991+00:00"
-  },
-  "https://techcrunch.com/?post_type=tc_video&p=3176211": {
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "sent_at": "2026-10-17T02:58:49.565071+00:00"
-  },
-  "https://techcrunch.com/?p=3178813": {
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "sent_at": "2026-10-17T02:58:49.139419+00:00"
-  },
-  "https://techcrunch.com/?p=3178464": {
-    "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-    "sent_at": "2026-10-17T02:58:48.718361+00:00"
-  },
-  "https://techcrunch.com/?p=3178496": {
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "sent_at": "2026-10-17T02:58:48.283074+00:00"
-  },
-  "https://techcrunch.com/?p=3178901": {
-    "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-    "sent_at": "2026-10-17T02:58:47.873343+00:00"
-  },
-  "https://www.threads.com/t/Deghbp1AYIF": {
-    "title": "@feelfree_ai: 텍스트의 고유한 문체만 보고 어떤 AI 모델이 작성했는지 맞히는 ...",
-    "sent_at": "2026-10-16T03:07:48.915260+00:00"
   }
 }
