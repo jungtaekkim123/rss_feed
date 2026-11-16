@@ -1,4 +1,48 @@
 {
+  "https://www.threads.com/t/Dfx8qYbASNB": {
+    "title": "@feelfree_ai: 스탠퍼드 대학교가 에이전트 프레임워크 없이 바닥부터 직접 구현ᄒ...",
+    "sent_at": "2026-11-16T04:44:52.357716+00:00"
+  },
+  "https://d2.naver.com/helloworld/1599966": {
+    "title": "흩어진 행동을 연결하다: 네이버 전 지면의 사용자 행동을 학습하는 추천 모델 개발기",
+    "sent_at": "2026-11-16T04:44:39.274160+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99955": {
+    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+    "sent_at": "2026-11-16T04:44:35.044821+00:00"
+  },
+  "https://openai.com/index/our-new-blog-for-science": {
+    "title": "Our new blog for science",
+    "sent_at": "2026-11-16T04:44:33.990732+00:00"
+  },
+  "https://openai.com/index/step-toward-defining-the-standard-model": {
+    "title": "A step toward defining the Standard Model on a lattice",
+    "sent_at": "2026-11-16T04:44:33.583306+00:00"
+  },
+  "https://goddaehee.tistory.com/662": {
+    "title": "[AI 기초 5화] 한글이 영어보다 토큰을 더 쓰는 이유: weather는 1조각인데 '날씨'는 왜 2조각일까?",
+    "sent_at": "2026-11-16T04:44:31.159805+00:00"
+  },
+  "https://techcrunch.com/?p=3188811": {
+    "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+    "sent_at": "2026-11-16T04:44:25.922051+00:00"
+  },
+  "https://techcrunch.com/?p=3188820": {
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "sent_at": "2026-11-16T04:44:25.518049+00:00"
+  },
+  "https://techcrunch.com/?p=3188757": {
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "sent_at": "2026-11-16T04:44:25.105455+00:00"
+  },
+  "https://techcrunch.com/?p=3188782": {
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "sent_at": "2026-11-16T04:44:24.696755+00:00"
+  },
+  "https://techcrunch.com/?p=3188803": {
+    "title": "Apple launches new app to study how people use AI for health",
+    "sent_at": "2026-11-16T04:44:24.283460+00:00"
+  },
   "https://www.threads.com/t/Dfuc9YIkmlr": {
     "title": "@feelfree_ai: Continuous Intelligence에서 기존 모델 대비 60배 이상 긴 컨텍스트 윈도우를 지ᄋ...",
     "sent_at": "2026-11-15T04:48:05.492882+00:00"
@@ -1954,49 +1998,5 @@
   "https://blogs.nvidia.com/?p=99053": {
     "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
     "sent_at": "2026-10-18T03:00:31.176282+00:00"
-  },
-  "https://openai.com/index/benefit-street-partners": {
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "sent_at": "2026-10-18T03:00:29.801054+00:00"
-  },
-  "https://techcrunch.com/?p=3178863": {
-    "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-    "sent_at": "2026-10-18T03:00:22.474125+00:00"
-  },
-  "https://techcrunch.com/?p=3178934": {
-    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "sent_at": "2026-10-18T03:00:21.874034+00:00"
-  },
-  "https://techcrunch.com/?p=3178937": {
-    "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
-    "sent_at": "2026-10-18T03:00:21.288440+00:00"
-  },
-  "https://techcrunch.com/?p=3178941": {
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "sent_at": "2026-10-18T03:00:20.766965+00:00"
-  },
-  "https://toss.tech/article/dw-airflow-migration": {
-    "title": "실행은 도메인별로, 문맥은 한 레포에",
-    "sent_at": "2026-10-17T02:59:10.851995+00:00"
-  },
-  "01M510YDY2PS6BYR03DF8HHG2D": {
-    "title": "Continuous accountability for Verified bots",
-    "sent_at": "2026-10-17T02:59:04.545940+00:00"
-  },
-  "https://engineering.atspotify.com/?p=237nFrtnxxwGVhert3vmha": {
-    "title": "Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM",
-    "sent_at": "2026-10-17T02:59:03.854853+00:00"
-  },
-  "https://medium.com/p/421392cf5adf": {
-    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
-    "sent_at": "2026-10-17T02:59:02.674746+00:00"
-  },
-  "https://huggingface.co/blog/reflection-beam": {
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "sent_at": "2026-10-17T02:59:01.667063+00:00"
-  },
-  "https://openai.com/index/stack-overflow-chatgpt-plugin": {
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "sent_at": "2026-10-17T02:58:59.866822+00:00"
   }
 }
