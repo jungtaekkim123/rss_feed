@@ -1,4 +1,120 @@
 {
+  "https://www.threads.com/t/Dfy80JbAVpt": {
+    "title": "@feelfree_ai: 수백 GB짜리 검열 해제 모델을 통째로 받을 필요 없이, 단 571K 파라미터의 초경량 LoRA 어댑터만으로 Qwen3.8-Flash-Next의 거부율을 93%에서 3%...",
+    "sent_at": "2026-11-17T06:31:48.127382+00:00"
+  },
+  "https://www.threads.com/t/Df0jUGFEvoL": {
+    "title": "@feelfree_ai: AI가 직접 강화학습(RL) 과정을 실시간으로 감독하고 수정해 Qwen3의 수학(AIME 2024) 점수를 46.67%에서 66.67%까지 끌어올린 AutoRL 논문이 공...",
+    "sent_at": "2026-11-17T06:31:47.747455+00:00"
+  },
+  "https://www.threads.com/t/Df0pa5AgW5n": {
+    "title": "@feelfree_ai: 워싱턴 대학 연구진이 내 스마트폰 기종과 작업에 딱 맞는 소형 AI 모델을 자동으로 만들어주는 'Mobile AI Factory'를 공개했습니다. 기기별 속...",
+    "sent_at": "2026-11-17T06:31:47.376901+00:00"
+  },
+  "https://www.threads.com/t/Df1KYTlAeaE": {
+    "title": "@feelfree_ai: 가중치도, 학습도 없이 오직 파이썬 규칙만으로 대화하는 챗봇 'PyBot'이 허깅페이스에 공개됐습니다. 1,000개 이상의 AI 에이전트가 5,000개가 ...",
+    "sent_at": "2026-11-17T06:31:46.281315+00:00"
+  },
+  "https://toss.tech/article/training-serving-skew": {
+    "title": "같은 모델, 다른 예측",
+    "sent_at": "2026-11-17T06:31:31.289929+00:00"
+  },
+  "https://d2.naver.com/helloworld/4049909": {
+    "title": "카페 관리도구 개편기: 문서는 낡았고, 사람은 떠났고, 코드만 남았다.",
+    "sent_at": "2026-11-17T06:31:28.055405+00:00"
+  },
+  "https://d2.naver.com/helloworld/9994827": {
+    "title": "Image AI 서빙 최적화: CPU와 GPU의 빈 시간을 줄여 H100 67장을 절감하기까지",
+    "sent_at": "2026-11-17T06:31:27.693359+00:00"
+  },
+  "https://d2.naver.com/helloworld/5976687": {
+    "title": "노트북을 닫아도 개발은 계속된다: 자율 그래프 주도 개발",
+    "sent_at": "2026-11-17T06:31:27.329090+00:00"
+  },
+  "c84e831e813aae9c114a1c7179100aac35ea0ad7": {
+    "title": "AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)",
+    "sent_at": "2026-11-17T06:31:21.948422+00:00"
+  },
+  "https://engineering.atspotify.com/?p=237nFrtnxxwGVhert3vmha": {
+    "title": "Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM",
+    "sent_at": "2026-11-17T06:31:21.052045+00:00"
+  },
+  "https://huggingface.co/blog/openrouter": {
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "sent_at": "2026-11-17T06:31:19.808291+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99933": {
+    "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+    "sent_at": "2026-11-17T06:31:19.040276+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99969": {
+    "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+    "sent_at": "2026-11-17T06:31:18.655084+00:00"
+  },
+  "https://blogs.nvidia.com/?p=99949": {
+    "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+    "sent_at": "2026-11-17T06:31:18.289138+00:00"
+  },
+  "https://blogs.nvidia.com/?p=100011": {
+    "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+    "sent_at": "2026-11-17T06:31:17.920051+00:00"
+  },
+  "https://blogs.nvidia.com/?p=100038": {
+    "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+    "sent_at": "2026-11-17T06:31:17.498976+00:00"
+  },
+  "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/": {
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "sent_at": "2026-11-17T06:31:12.200802+00:00"
+  },
+  "https://openai.com/index/lvmh-media-division-partnership": {
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "sent_at": "2026-11-17T06:31:11.500056+00:00"
+  },
+  "https://openai.com/business/customer-stories/revolut": {
+    "title": "How Revolut raises ambition without lowering the bar",
+    "sent_at": "2026-11-17T06:31:11.131013+00:00"
+  },
+  "https://openai.com/index/science-at-the-frontier": {
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "sent_at": "2026-11-17T06:31:10.759570+00:00"
+  },
+  "https://openai.com/index/strengthening-online-child-safety": {
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "sent_at": "2026-11-17T06:31:10.395714+00:00"
+  },
+  "https://openai.com/index/expanding-chatgpt-for-academic-researchers": {
+    "title": "Broadening access to AI for scientists",
+    "sent_at": "2026-11-17T06:31:10.028860+00:00"
+  },
+  "https://goddaehee.tistory.com/663": {
+    "title": "실행형 AI부터 멀티 에이전트까지 - AI에게 질문하던 시대에서, 일을 맡기는 시대로(2026 AI 에이전트 비교)",
+    "sent_at": "2026-11-17T06:31:04.312505+00:00"
+  },
+  "https://goddaehee.tistory.com/664": {
+    "title": "[AI 기초 5.5화 특별편] 아버지가방에들어가신다, AI는 '방'으로 읽을까 '가방'으로 읽을까?",
+    "sent_at": "2026-11-17T06:31:03.947198+00:00"
+  },
+  "https://techcrunch.com/?p=3189115": {
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "sent_at": "2026-11-17T06:30:55.902213+00:00"
+  },
+  "https://techcrunch.com/?p=3189173": {
+    "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+    "sent_at": "2026-11-17T06:30:55.531892+00:00"
+  },
+  "https://techcrunch.com/?p=3189019": {
+    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "sent_at": "2026-11-17T06:30:55.165754+00:00"
+  },
+  "https://techcrunch.com/?p=3189270": {
+    "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+    "sent_at": "2026-11-17T06:30:54.790542+00:00"
+  },
+  "https://techcrunch.com/?p=3189297": {
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "sent_at": "2026-11-17T06:30:54.427268+00:00"
+  },
   "https://www.threads.com/t/Dfx8qYbASNB": {
     "title": "@feelfree_ai: 스탠퍼드 대학교가 에이전트 프레임워크 없이 바닥부터 직접 구현ᄒ...",
     "sent_at": "2026-11-16T04:44:52.357716+00:00"
@@ -1882,121 +1998,5 @@
   "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": {
     "title": "Apertus 1.5 Release Notes",
     "sent_at": "2026-10-20T03:23:36.048703+00:00"
-  },
-  "https://huggingface.co/blog/hf-torchneuron": {
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "sent_at": "2026-10-20T03:23:35.681094+00:00"
-  },
-  "https://blogs.nvidia.com/?p=99038": {
-    "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
-    "sent_at": "2026-10-20T03:23:33.786391+00:00"
-  },
-  "https://blogs.nvidia.com/?p=99080": {
-    "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
-    "sent_at": "2026-10-20T03:23:33.418911+00:00"
-  },
-  "https://engineering.fb.com/?p=24763": {
-    "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-    "sent_at": "2026-10-20T03:23:31.441003+00:00"
-  },
-  "https://engineering.fb.com/?p=24724": {
-    "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
-    "sent_at": "2026-10-20T03:23:31.063751+00:00"
-  },
-  "https://engineering.fb.com/?p=24783": {
-    "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
-    "sent_at": "2026-10-20T03:23:30.668339+00:00"
-  },
-  "https://openai.com/index/low-resource-programming-languages": {
-    "title": "Advancing coding in low‑resource programming languages",
-    "sent_at": "2026-10-20T03:23:27.563917+00:00"
-  },
-  "https://github.blog/?p=99556": {
-    "title": "How to continue a GitHub Copilot app session in VS Code",
-    "sent_at": "2026-10-20T03:23:18.574313+00:00"
-  },
-  "https://techcrunch.com/?p=3179279": {
-    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-    "sent_at": "2026-10-20T03:23:17.768484+00:00"
-  },
-  "https://techcrunch.com/?p=3178312": {
-    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-    "sent_at": "2026-10-20T03:23:17.405089+00:00"
-  },
-  "https://techcrunch.com/?p=3179487": {
-    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-    "sent_at": "2026-10-20T03:23:16.400336+00:00"
-  },
-  "https://techcrunch.com/?p=3179517": {
-    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-    "sent_at": "2026-10-20T03:23:16.031367+00:00"
-  },
-  "https://techcrunch.com/?p=3179333": {
-    "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
-    "sent_at": "2026-10-20T03:23:15.651945+00:00"
-  },
-  "https://www.threads.com/t/Den41_2geCa": {
-    "title": "@feelfree_ai: 엔비디아에서 SFT는 그대로 두고 미드트레이닝 단계만 추가해 SWE-bench Multilingu...",
-    "sent_at": "2026-10-19T03:14:55.322780+00:00"
-  },
-  "https://www.threads.com/t/DeokZFOgfDk": {
-    "title": "@feelfree_ai: AI 에이전트에 MCP로 126개의 리버스 엔지니어링 도구를 연결해 악성코드...",
-    "sent_at": "2026-10-19T03:14:54.721211+00:00"
-  },
-  "https://www.threads.com/t/DeqE3SpAWTF": {
-    "title": "@feelfree_ai: 스탠포드와 MIT 등 공동 연구진이 원본 문서 토큰을 108배 덜 쓰면ᄉ...",
-    "sent_at": "2026-10-19T03:14:54.131732+00:00"
-  },
-  "https://www.threads.com/t/DeqNp25gX7N": {
-    "title": "@feelfree_ai: AI가 복잡한 연쇄 취약점을 뚫지 못한다는 통념을 깨고 그래프 ...",
-    "sent_at": "2026-10-19T03:14:53.608988+00:00"
-  },
-  "https://toss.tech/article/nic-interrupt-bottleneck": {
-    "title": "평균 CPU는 여유로운데, 커밋은 왜 느릴까?",
-    "sent_at": "2026-10-19T03:14:40.778349+00:00"
-  },
-  "https://engineering.atspotify.com/?p=3PqIQGV6v5xB9DK6ql80CA": {
-    "title": "AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity",
-    "sent_at": "2026-10-19T03:14:34.865427+00:00"
-  },
-  "https://techcrunch.com/?p=3178907": {
-    "title": "TechCrunch Mobility: Rivian’s next act",
-    "sent_at": "2026-10-19T03:14:25.862080+00:00"
-  },
-  "https://techcrunch.com/?p=3178949": {
-    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-    "sent_at": "2026-10-19T03:14:25.346382+00:00"
-  },
-  "https://techcrunch.com/?p=3178957": {
-    "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
-    "sent_at": "2026-10-19T03:14:24.749947+00:00"
-  },
-  "https://techcrunch.com/?p=3178960": {
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "sent_at": "2026-10-19T03:14:24.165457+00:00"
-  },
-  "https://techcrunch.com/?p=3178953": {
-    "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-    "sent_at": "2026-10-19T03:14:23.580250+00:00"
-  },
-  "https://www.threads.com/t/Dejr3B1gVv-": {
-    "title": "@feelfree_ai: 음성 AI 에이전트가 주변 사람의 말까지 섞어 알아듣는 문제를 해...",
-    "sent_at": "2026-10-18T03:00:51.628978+00:00"
-  },
-  "https://www.threads.com/t/DelbqMCgbOs": {
-    "title": "@feelfree_ai: 엔비디아와 스탠포드 대학교 연구진이 추론 지연 시간을 최대 3.4배 ᄌ...",
-    "sent_at": "2026-10-18T03:00:51.036577+00:00"
-  },
-  "https://www.threads.com/t/DemMhpCARgD": {
-    "title": "@feelfree_ai: MIT CSAIL과 MIT-IBM 연구소에서 AI 에이전트들이 텍스트 요약 대신 KV 캐시를 지...",
-    "sent_at": "2026-10-18T03:00:50.513561+00:00"
-  },
-  "https://www.threads.com/t/DenjVeMgYca": {
-    "title": "@feelfree_ai: 구글 리서치가 AI 에이전트를 실제 생물학 실험실(Wet-lab) 로봇과 연...",
-    "sent_at": "2026-10-18T03:00:49.913104+00:00"
-  },
-  "https://blogs.nvidia.com/?p=99053": {
-    "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-    "sent_at": "2026-10-18T03:00:31.176282+00:00"
   }
 }
