@@ -1,4 +1,68 @@
 {
+  "https://www.threads.com/t/Df88jAAARAZ": {
+    "title": "@feelfree_ai: 스스로 진화하는 AI 에이전트의 위험한 자가 수정 21건 중 20건을 걸ᄅ...",
+    "sent_at": "2026-11-21T05:37:53.887963+00:00"
+  },
+  "https://www.threads.com/t/Df99L18gbNJ": {
+    "title": "@feelfree_ai: AI 에이전트 메모리에 복잡한 벡터 DB나 요약 대신 단순 텍스트 로그ᄋ...",
+    "sent_at": "2026-11-21T05:37:53.405772+00:00"
+  },
+  "https://www.threads.com/t/Df_QtyxgRgy": {
+    "title": "@feelfree_ai: 복잡한 계층형 JSON 추출에서 GPT-5.6-luna를 앞지른 초경량 System 1 모델구...",
+    "sent_at": "2026-11-21T05:37:52.956265+00:00"
+  },
+  "https://toss.tech/article/bankbook_graphic": {
+    "title": "디자인 시스템 만들던 디자이너가 3D 그래픽을 그린다면",
+    "sent_at": "2026-11-21T05:37:41.167992+00:00"
+  },
+  "01M7X76K1JK00SF9K4YN83WANQ": {
+    "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+    "sent_at": "2026-11-21T05:37:37.009619+00:00"
+  },
+  "01M7X91JJQ5CWGQ65DZBAHW4Q9": {
+    "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+    "sent_at": "2026-11-21T05:37:36.571015+00:00"
+  },
+  "https://huggingface.co/blog/harness-adapters-at-scale": {
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "sent_at": "2026-11-21T05:37:33.909999+00:00"
+  },
+  "https://huggingface.co/blog/inkling2mini": {
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "sent_at": "2026-11-21T05:37:33.471384+00:00"
+  },
+  "https://openai.com/index/introducing-medchembench": {
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "sent_at": "2026-11-21T05:37:30.707881+00:00"
+  },
+  "https://openai.com/business/customer-stories/hebbia": {
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "sent_at": "2026-11-21T05:37:30.266213+00:00"
+  },
+  "https://openai.com/index/combatting-adversarial-distillation": {
+    "title": "Combatting adversarial distillation",
+    "sent_at": "2026-11-21T05:37:29.827069+00:00"
+  },
+  "https://techcrunch.com/?p=3190826": {
+    "title": "Super-hot rock geothermal could end data center energy woes",
+    "sent_at": "2026-11-21T05:37:21.175460+00:00"
+  },
+  "https://techcrunch.com/?p=3190908": {
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+    "sent_at": "2026-11-21T05:37:20.709740+00:00"
+  },
+  "https://techcrunch.com/?p=3190943": {
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "sent_at": "2026-11-21T05:37:20.235815+00:00"
+  },
+  "https://techcrunch.com/?p=3190935": {
+    "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+    "sent_at": "2026-11-21T05:37:19.766166+00:00"
+  },
+  "https://techcrunch.com/?p=3190989": {
+    "title": "Startup sues Apple in India over tap-to-share contacts feature",
+    "sent_at": "2026-11-21T05:37:19.287782+00:00"
+  },
   "https://www.threads.com/t/Df7JKzgAclJ": {
     "title": "@feelfree_ai: GitHub Security Lab이 AI 보안 감사 리포트의 수정률(Fix ratio)을 95%까지 끌어올린 비결을 공개했습니다. AI로 취약점을 무작정 많이 찾아 노...",
     "sent_at": "2026-11-20T05:42:58.588530+00:00"
@@ -1934,69 +1998,5 @@
   "01M5MYFG0SHDEYME96N0A4Z6PH": {
     "title": "Bringing post-quantum cryptography to geographically fenced key management",
     "sent_at": "2026-10-24T03:16:18.553715+00:00"
-  },
-  "01M5MZPETYH27RS72QV5V85YZ8": {
-    "title": "Origin Range Requests: Serving large files without range-request tuning",
-    "sent_at": "2026-10-24T03:16:18.123861+00:00"
-  },
-  "https://medium.com/p/9474f2fd4f90": {
-    "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
-    "sent_at": "2026-10-24T03:16:15.758693+00:00"
-  },
-  "https://huggingface.co/blog/torch-neuronx-model-support": {
-    "title": "Does Your Model Run on AWS Trainium? Look It Up",
-    "sent_at": "2026-10-24T03:16:14.789339+00:00"
-  },
-  "https://huggingface.co/blog/allenai/litpivot": {
-    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-    "sent_at": "2026-10-24T03:16:14.352628+00:00"
-  },
-  "https://openai.com/index/openai-nask-ai-safety-security-partnership": {
-    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-    "sent_at": "2026-10-24T03:16:11.558318+00:00"
-  },
-  "https://openai.com/index/securing-our-frontier-model-training-environment": {
-    "title": "Securing our frontier model training environment",
-    "sent_at": "2026-10-24T03:16:11.099572+00:00"
-  },
-  "https://openai.com/index/scaling-storage-one-billion-users-part-two": {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "sent_at": "2026-10-24T03:16:10.675832+00:00"
-  },
-  "https://techcrunch.com/?p=3181272": {
-    "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-    "sent_at": "2026-10-24T03:16:01.344132+00:00"
-  },
-  "https://techcrunch.com/?p=3181268": {
-    "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-    "sent_at": "2026-10-24T03:16:00.917530+00:00"
-  },
-  "https://techcrunch.com/?p=3181412": {
-    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-    "sent_at": "2026-10-24T03:16:00.460551+00:00"
-  },
-  "https://techcrunch.com/?p=3181396": {
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-    "sent_at": "2026-10-24T03:16:00.030203+00:00"
-  },
-  "https://techcrunch.com/?p=3181279": {
-    "title": "Startups don’t need to go viral to win customers",
-    "sent_at": "2026-10-24T03:15:59.564887+00:00"
-  },
-  "https://www.threads.com/t/Deyv93XAV9Q": {
-    "title": "@feelfree_ai: 음바페보다 빠른 코딩 에이전트들의 작업 기억 상실을 해결해 주...",
-    "sent_at": "2026-10-23T03:22:42.909635+00:00"
-  },
-  "https://www.threads.com/t/DezENXJAVqz": {
-    "title": "@feelfree_ai: 점점 AI 오픈소스 공급망 보안(AI-BOM)이 중요해지는 시점에, 많이들 ...",
-    "sent_at": "2026-10-23T03:22:42.384408+00:00"
-  },
-  "https://www.threads.com/t/De0Z1JGATCP": {
-    "title": "@feelfree_ai: 아이폰이 RTX 4090 노트북보다 42배 빠르게 드론 카메라를 시뮬레이션하는 ...",
-    "sent_at": "2026-10-23T03:22:41.853526+00:00"
-  },
-  "https://toss.tech/article/dataops-log-definition-skill": {
-    "title": "머릿속에 있던 로그 정의 기준을 모두의 AI 스킬로 만들기",
-    "sent_at": "2026-10-23T03:22:29.930326+00:00"
   }
 }
