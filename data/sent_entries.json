@@ -1,4 +1,40 @@
 {
+  "https://www.threads.com/t/Df_hHI8AWOB": {
+    "title": "@feelfree_ai: NVIDIA가 긴 문맥 추론 속도를 3배 높이는 희소 어텐션(Sparse Attention) 설계...",
+    "sent_at": "2026-11-22T05:03:14.595696+00:00"
+  },
+  "https://www.threads.com/t/Df_vddrgWac": {
+    "title": "@feelfree_ai: 앤트로픽이 파트너사 개발자를 위한 'Claude FDE(Forward Deployed Engineer)' 공식 교유...",
+    "sent_at": "2026-11-22T05:03:14.235939+00:00"
+  },
+  "https://www.threads.com/t/DgB0t7xARY_": {
+    "title": "@feelfree_ai: 코딩 에이전트가 인간이 설계한 최고 수준의 RAG 시스템 성능을 뛰ᄋ...",
+    "sent_at": "2026-11-22T05:03:13.881826+00:00"
+  },
+  "https://medium.com/p/9474f2fd4f90": {
+    "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
+    "sent_at": "2026-11-22T05:02:56.750165+00:00"
+  },
+  "https://techcrunch.com/?p=3188069": {
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "sent_at": "2026-11-22T05:02:48.982080+00:00"
+  },
+  "https://techcrunch.com/?p=3173132": {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "sent_at": "2026-11-22T05:02:48.640836+00:00"
+  },
+  "https://techcrunch.com/?p=3191127": {
+    "title": "Trump says reported FBI database hack is ‘not good’",
+    "sent_at": "2026-11-22T05:02:48.297142+00:00"
+  },
+  "https://techcrunch.com/?p=3191145": {
+    "title": "A tale of two Nvidias",
+    "sent_at": "2026-11-22T05:02:47.954247+00:00"
+  },
+  "https://techcrunch.com/?p=3191147": {
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "sent_at": "2026-11-22T05:02:47.610735+00:00"
+  },
   "https://www.threads.com/t/Df88jAAARAZ": {
     "title": "@feelfree_ai: 스스로 진화하는 AI 에이전트의 위험한 자가 수정 21건 중 20건을 걸ᄅ...",
     "sent_at": "2026-11-21T05:37:53.887963+00:00"
@@ -1962,41 +1998,5 @@
   "https://techcrunch.com/?p=3181490": {
     "title": "Block’s new voice model sounds eerily human",
     "sent_at": "2026-10-25T03:11:12.766497+00:00"
-  },
-  "https://techcrunch.com/?p=3181509": {
-    "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-    "sent_at": "2026-10-25T03:11:12.298271+00:00"
-  },
-  "https://techcrunch.com/?p=3162590": {
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "sent_at": "2026-10-25T03:11:11.845812+00:00"
-  },
-  "https://techcrunch.com/?p=3181514": {
-    "title": "Will AI expose the rickety infrastructure of the internet?",
-    "sent_at": "2026-10-25T03:11:11.384449+00:00"
-  },
-  "https://techcrunch.com/?p=3181518": {
-    "title": "Starlink seems to be working normally again in Ukraine",
-    "sent_at": "2026-10-25T03:11:10.902715+00:00"
-  },
-  "https://www.threads.com/t/De1SRN-ASAM": {
-    "title": "@feelfree_ai: 구글이 AI 에이전트 전용으로 독립된 가상 머신을 제공하는 Agent Comp...",
-    "sent_at": "2026-10-24T03:16:39.863592+00:00"
-  },
-  "https://www.threads.com/t/De1aXtmAWzR": {
-    "title": "@feelfree_ai: AI 에이전트에 별도의 메모리 프레임워크(Mem0, Zep 등)를 붙이는 것보다 ᄆ...",
-    "sent_at": "2026-10-24T03:16:39.395327+00:00"
-  },
-  "https://www.threads.com/t/De1fLbOgYgP": {
-    "title": "@feelfree_ai: 능력을 스스로 개선하는 AI 에이전트에게 자체 평가를 맡기면, 진ᄍ...",
-    "sent_at": "2026-10-24T03:16:38.967585+00:00"
-  },
-  "https://www.threads.com/t/De240HTk6KV": {
-    "title": "@feelfree_ai: 엔비디아에서 4GB VRAM이나 스마트폰 같은 온디바이스 환경에서도 가볍ᄀ...",
-    "sent_at": "2026-10-24T03:16:38.532846+00:00"
-  },
-  "01M5MYFG0SHDEYME96N0A4Z6PH": {
-    "title": "Bringing post-quantum cryptography to geographically fenced key management",
-    "sent_at": "2026-10-24T03:16:18.553715+00:00"
   }
 }
