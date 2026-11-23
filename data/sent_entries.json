@@ -1,4 +1,44 @@
 {
+  "https://www.threads.com/t/DgCIpy-gS_5": {
+    "title": "@feelfree_ai: 동일한 7B 모델과 같은 GPU 환경에서 LLM 추론 비용을 19달러에서 0.16다...",
+    "sent_at": "2026-11-23T05:45:13.258283+00:00"
+  },
+  "https://www.threads.com/t/DgCuHpAAfyS": {
+    "title": "@feelfree_ai: Expo 팀이 단 36줄의 코드로 모바일 실시간 음성 AI 에이전트를 구현하...",
+    "sent_at": "2026-11-23T05:45:12.775663+00:00"
+  },
+  "https://www.threads.com/t/DgD-8REAVMw": {
+    "title": "@feelfree_ai: 100개 이상의 데이터셋으로 오픈소스와 API 모델을 한 번에 평가할 수 ᄋ...",
+    "sent_at": "2026-11-23T05:45:12.297044+00:00"
+  },
+  "https://toss.tech/article/multi-task-learning-in-finance": {
+    "title": "목적마다, 상품마다 늘던 모델을 하나로: 금융 도메인에 멀티태스크 학습 적용하기",
+    "sent_at": "2026-11-23T05:44:59.837933+00:00"
+  },
+  "https://openai.com/index/perplexity-and-intelligence": {
+    "title": "Perplexity and Intelligence",
+    "sent_at": "2026-11-23T05:44:52.914170+00:00"
+  },
+  "https://techcrunch.com/?p=3191157": {
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "sent_at": "2026-11-23T05:44:46.759268+00:00"
+  },
+  "https://techcrunch.com/?p=3050440": {
+    "title": "The best apps to make new friends right now",
+    "sent_at": "2026-11-23T05:44:46.268324+00:00"
+  },
+  "https://techcrunch.com/?p=3191164": {
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "sent_at": "2026-11-23T05:44:45.814931+00:00"
+  },
+  "https://techcrunch.com/?p=3191170": {
+    "title": "‘You Can See Everything’ has made more than $100M worldwide",
+    "sent_at": "2026-11-23T05:44:45.347082+00:00"
+  },
+  "https://techcrunch.com/?p=3191173": {
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "sent_at": "2026-11-23T05:44:44.899278+00:00"
+  },
   "https://www.threads.com/t/Df_hHI8AWOB": {
     "title": "@feelfree_ai: NVIDIA가 긴 문맥 추론 속도를 3배 높이는 희소 어텐션(Sparse Attention) 설계...",
     "sent_at": "2026-11-22T05:03:14.595696+00:00"
@@ -1958,45 +1998,5 @@
   "https://www.threads.com/t/De70aN3EsMe": {
     "title": "@feelfree_ai: 세바스찬 라슈카(Sebastian Raschka)가 추론(Reasoning) 모델을 밑바닥부터 직접 구현하는 총 11시간 분량의 8부작 코딩 강의 시리즈를 완성해 공...",
     "sent_at": "2026-10-26T03:12:10.635991+00:00"
-  },
-  "https://www.threads.com/t/De8PhIuAYHI": {
-    "title": "@feelfree_ai: 구글에서 수십억 개의 자율 에이전트 워크로드를 클러스터 단위로 실행하고 관리할 수 있는 오픈소스 런타임 'AX'를 공개했습니다. 쿠버네티스처...",
-    "sent_at": "2026-10-26T03:12:10.263388+00:00"
-  },
-  "https://techcrunch.com/?p=3181384": {
-    "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
-    "sent_at": "2026-10-26T03:11:40.547451+00:00"
-  },
-  "https://techcrunch.com/?p=3181532": {
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "sent_at": "2026-10-26T03:11:40.186990+00:00"
-  },
-  "https://techcrunch.com/?p=3181538": {
-    "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-    "sent_at": "2026-10-26T03:11:39.796911+00:00"
-  },
-  "https://techcrunch.com/?p=3181554": {
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "sent_at": "2026-10-26T03:11:39.433481+00:00"
-  },
-  "https://techcrunch.com/?p=2463158": {
-    "title": "The best apps for tracking your reading and discovering new books",
-    "sent_at": "2026-10-26T03:11:39.070889+00:00"
-  },
-  "https://www.threads.com/t/De3ueT2k-tI": {
-    "title": "@feelfree_ai: 단순한 용어 암기를 넘어 제1원리(First Principles)부터 AI 아키텍처를 밑ᄇ...",
-    "sent_at": "2026-10-25T03:11:44.311496+00:00"
-  },
-  "https://www.threads.com/t/De4Ge3WE-QJ": {
-    "title": "@feelfree_ai: 텍스트를 길게 생성하는 대신 단 한 번의 추론(Single forward pass)으로 가...",
-    "sent_at": "2026-10-25T03:11:43.842650+00:00"
-  },
-  "https://www.threads.com/t/De5qfAAAXsH": {
-    "title": "@feelfree_ai: Claude Code와 지식 그래프를 연동해 AI 에이전트의 답변을 수학적으로 ᄌ...",
-    "sent_at": "2026-10-25T03:11:43.379479+00:00"
-  },
-  "https://techcrunch.com/?p=3181490": {
-    "title": "Block’s new voice model sounds eerily human",
-    "sent_at": "2026-10-25T03:11:12.766497+00:00"
   }
 }
