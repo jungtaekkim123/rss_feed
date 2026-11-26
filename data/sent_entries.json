@@ -1,4 +1,76 @@
 {
+  "https://www.threads.com/t/DgKMRXkgX2V": {
+    "title": "@feelfree_ai: HKUST와 엔비디아가 공개한 자율 연구 에이전트 하네스 MLEvolver가 MLE-Bench Lite ᄆ...",
+    "sent_at": "2026-11-26T06:50:38.974743+00:00"
+  },
+  "https://www.threads.com/t/DgK-bk6kuAE": {
+    "title": "@feelfree_ai: Linkup이 BEIR-15에서 57.2 nDCG@10을 기록하며 동급 late-interaction 모델과 맞먹는 150M ᄒ...",
+    "sent_at": "2026-11-26T06:50:38.566609+00:00"
+  },
+  "https://www.threads.com/t/DgLwKtygdaC": {
+    "title": "@feelfree_ai: 텐센트 위챗 팀이 4B 크기로 알리바바의 30B 모델을 17개 오디오-비디오 베...",
+    "sent_at": "2026-11-26T06:50:38.176713+00:00"
+  },
+  "https://toss.tech/article/loan_review": {
+    "title": "디자인 시스템이 있는데도 화면은 왜 제각각일까?",
+    "sent_at": "2026-11-26T06:50:27.499089+00:00"
+  },
+  "https://d2.naver.com/helloworld/5073599": {
+    "title": "운영자의 시간을 아끼는 AI 에이전트 2부 - MCP 부터 Agent 설계까지",
+    "sent_at": "2026-11-26T06:50:23.881053+00:00"
+  },
+  "https://d2.naver.com/helloworld/7426315": {
+    "title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기",
+    "sent_at": "2026-11-26T06:50:23.489859+00:00"
+  },
+  "01M87EHEACB4SNPV680X1CZPQ1": {
+    "title": "Introducing Search for Agents",
+    "sent_at": "2026-11-26T06:50:18.824551+00:00"
+  },
+  "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb": {
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "sent_at": "2026-11-26T06:50:17.229030+00:00"
+  },
+  "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga": {
+    "title": "An Indic Voice Agent with CUGA",
+    "sent_at": "2026-11-26T06:50:16.858876+00:00"
+  },
+  "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents": {
+    "title": "Where scientists draw the line on AI agents",
+    "sent_at": "2026-11-26T06:50:16.491196+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": {
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "sent_at": "2026-11-26T06:50:16.082714+00:00"
+  },
+  "https://github.blog/?p=99982": {
+    "title": "How to choose the next safe step in application modernization",
+    "sent_at": "2026-11-26T06:50:05.541506+00:00"
+  },
+  "https://github.blog/?p=100468": {
+    "title": "Art of play in the age of AI",
+    "sent_at": "2026-11-26T06:50:05.167397+00:00"
+  },
+  "https://techcrunch.com/?p=3192474": {
+    "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+    "sent_at": "2026-11-26T06:50:03.576695+00:00"
+  },
+  "https://techcrunch.com/?p=3192475": {
+    "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+    "sent_at": "2026-11-26T06:50:03.201759+00:00"
+  },
+  "https://techcrunch.com/?p=3192524": {
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "sent_at": "2026-11-26T06:50:02.837852+00:00"
+  },
+  "https://techcrunch.com/?p=3192570": {
+    "title": "FCC approves SpaceX plan to put AI data centers in space",
+    "sent_at": "2026-11-26T06:50:02.471034+00:00"
+  },
+  "https://techcrunch.com/?p=3192614": {
+    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "sent_at": "2026-11-26T06:50:02.101849+00:00"
+  },
   "https://www.threads.com/t/DgH5_pfkjdV": {
     "title": "@feelfree_ai: LLM 호출 전 개인정보를 자동 마스킹하는 newmean-pii가 LangChain 공식 문서ᄋ...",
     "sent_at": "2026-11-25T06:59:10.847451+00:00"
@@ -1926,77 +1998,5 @@
   "https://techcrunch.com/?p=3183319": {
     "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
     "sent_at": "2026-10-30T04:21:32.687457+00:00"
-  },
-  "https://techcrunch.com/?p=3183395": {
-    "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-    "sent_at": "2026-10-30T04:21:32.039205+00:00"
-  },
-  "https://techcrunch.com/?p=3183387": {
-    "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-    "sent_at": "2026-10-30T04:21:31.567149+00:00"
-  },
-  "https://techcrunch.com/?p=3183393": {
-    "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-    "sent_at": "2026-10-30T04:21:31.080942+00:00"
-  },
-  "https://techcrunch.com/?p=3183095": {
-    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-    "sent_at": "2026-10-30T04:21:30.590565+00:00"
-  },
-  "https://www.threads.com/t/DfBtAh7gbN9": {
-    "title": "@feelfree_ai: 알리바바와 코넬대가 코딩 에이전트 환경에서 별도의 리뷰어 에이전...",
-    "sent_at": "2026-10-29T04:22:14.483304+00:00"
-  },
-  "https://www.threads.com/t/DfClQDvgfi9": {
-    "title": "@feelfree_ai: 아마존과 UCSD 연구진이 실패로부터 스스로 개선하는 멀티 에이전트 시...",
-    "sent_at": "2026-10-29T04:22:14.005366+00:00"
-  },
-  "https://www.threads.com/t/DfD8rlMATEX": {
-    "title": "@feelfree_ai: 구글이 기존 기억을 덮어쓰지 않고 연속 학습을 수행하는 LLM용 ...",
-    "sent_at": "2026-10-29T04:22:13.233703+00:00"
-  },
-  "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary": {
-    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-    "sent_at": "2026-10-29T04:21:54.631227+00:00"
-  },
-  "https://blogs.nvidia.com/?p=99523": {
-    "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-    "sent_at": "2026-10-29T04:21:53.638320+00:00"
-  },
-  "https://engineering.fb.com/?p=24890": {
-    "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
-    "sent_at": "2026-10-29T04:21:52.616540+00:00"
-  },
-  "https://openai.com/index/legora": {
-    "title": "Legora is building the agentic operating system for legal work",
-    "sent_at": "2026-10-29T04:21:51.330709+00:00"
-  },
-  "https://openai.com/index/the-future-of-the-firm": {
-    "title": "The future of the firm",
-    "sent_at": "2026-10-29T04:21:50.859025+00:00"
-  },
-  "https://openai.com/index/openai-servicenow-partnership-expansion": {
-    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-    "sent_at": "2026-10-29T04:21:50.382399+00:00"
-  },
-  "https://github.blog/?p=99742": {
-    "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-    "sent_at": "2026-10-29T04:21:40.805917+00:00"
-  },
-  "https://github.blog/?p=99788": {
-    "title": "GitHub Universe 2026: Evolving every layer of the stack",
-    "sent_at": "2026-10-29T04:21:40.327024+00:00"
-  },
-  "https://techcrunch.com/?p=3182880": {
-    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "sent_at": "2026-10-29T04:21:38.445343+00:00"
-  },
-  "https://techcrunch.com/?p=3182884": {
-    "title": "Google expands AI Search ads globally as core ad growth slows",
-    "sent_at": "2026-10-29T04:21:37.961863+00:00"
-  },
-  "https://techcrunch.com/?p=3182841": {
-    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-    "sent_at": "2026-10-29T04:21:37.474077+00:00"
   }
 }
