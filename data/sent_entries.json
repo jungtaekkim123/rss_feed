@@ -1,4 +1,48 @@
 {
+  "https://www.threads.com/t/DgMn9FYlX89": {
+    "title": "@feelfree_ai: Cerebras와 UVA 연구진이 단일 H100 환경에서 기존 최고 성능(DFlash-2)보다 최대...",
+    "sent_at": "2026-11-27T06:42:48.161721+00:00"
+  },
+  "https://www.threads.com/t/DgOWIUnAdVv": {
+    "title": "@feelfree_ai: NVIDIA가 에이전트 모델 스스로 컨텍스트를 관리하게 해 GPT 6.1의 정확도ᄅ...",
+    "sent_at": "2026-11-27T06:42:47.641724+00:00"
+  },
+  "https://www.threads.com/t/DgO5hC-gVlC": {
+    "title": "@feelfree_ai: 구글 딥마인드가 AI 에이전트로 로봇 제어 코드를 짜고 3~5초 만에 물리 ...",
+    "sent_at": "2026-11-27T06:42:47.184149+00:00"
+  },
+  "https://huggingface.co/blog/training-swarms": {
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "sent_at": "2026-11-27T06:42:28.826852+00:00"
+  },
+  "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench": {
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "sent_at": "2026-11-27T06:42:28.367302+00:00"
+  },
+  "https://blogs.nvidia.com/?p=100151": {
+    "title": "Come for the Games, Stay for the Community With GeForce NOW",
+    "sent_at": "2026-11-27T06:42:26.538558+00:00"
+  },
+  "https://techcrunch.com/?p=3190829": {
+    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "sent_at": "2026-11-27T06:42:19.866976+00:00"
+  },
+  "https://techcrunch.com/?p=3192519": {
+    "title": "A month with the iPhone Duo has changed how I use my phone",
+    "sent_at": "2026-11-27T06:42:19.411189+00:00"
+  },
+  "https://techcrunch.com/?p=3192791": {
+    "title": "X finally gets parental controls after 20 years",
+    "sent_at": "2026-11-27T06:42:18.968944+00:00"
+  },
+  "https://techcrunch.com/?p=3192015": {
+    "title": "Is Alice Huang a spy or not?",
+    "sent_at": "2026-11-27T06:42:18.518747+00:00"
+  },
+  "https://techcrunch.com/?p=3192803": {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "sent_at": "2026-11-27T06:42:18.087809+00:00"
+  },
   "https://www.threads.com/t/DgKMRXkgX2V": {
     "title": "@feelfree_ai: HKUST와 엔비디아가 공개한 자율 연구 에이전트 하네스 MLEvolver가 MLE-Bench Lite ᄆ...",
     "sent_at": "2026-11-26T06:50:38.974743+00:00"
@@ -1954,49 +1998,5 @@
   "https://d2.naver.com/news/0907869": {
     "title": "모두가 함께 성장하는 기술 축제, NAVER Engineering Day 10년의 여정",
     "sent_at": "2026-10-30T04:21:57.517658+00:00"
-  },
-  "01M6254V6WN4EZTWVH0BF1748Y": {
-    "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
-    "sent_at": "2026-10-30T04:21:53.191931+00:00"
-  },
-  "https://huggingface.co/blog/anydecisionmodel": {
-    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-    "sent_at": "2026-10-30T04:21:51.362877+00:00"
-  },
-  "https://huggingface.co/blog/mistral-large4": {
-    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-    "sent_at": "2026-10-30T04:21:50.865170+00:00"
-  },
-  "https://huggingface.co/blog/announcing-project-protostar": {
-    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-    "sent_at": "2026-10-30T04:21:50.389239+00:00"
-  },
-  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": {
-    "title": "Granite Switch 4.1.1 — Update models like you update software",
-    "sent_at": "2026-10-30T04:21:49.907685+00:00"
-  },
-  "https://blogs.nvidia.com/?p=99565": {
-    "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-    "sent_at": "2026-10-30T04:21:45.589837+00:00"
-  },
-  "https://engineering.fb.com/?p=24907": {
-    "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
-    "sent_at": "2026-10-30T04:21:44.749715+00:00"
-  },
-  "https://openai.com/index/ropes-gray-ai-diligence": {
-    "title": "How Ropes & Gray is developing AI for transactional diligence",
-    "sent_at": "2026-10-30T04:21:43.449296+00:00"
-  },
-  "https://openai.com/index/how-we-detect-frontier-model-misalignment": {
-    "title": "How we detect frontier model misalignment",
-    "sent_at": "2026-10-30T04:21:42.960733+00:00"
-  },
-  "https://openai.com/index/updated-model-spec": {
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "sent_at": "2026-10-30T04:21:42.485332+00:00"
-  },
-  "https://techcrunch.com/?p=3183319": {
-    "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
-    "sent_at": "2026-10-30T04:21:32.687457+00:00"
   }
 }
