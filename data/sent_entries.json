@@ -1,4 +1,24 @@
 {
+  "https://www.threads.com/t/DgPy_OWkpOn": {
+    "title": "@feelfree_ai: 같은 하드웨어에서 AI 에이전트를 10배 더 많이 돌릴 수 있는 오픈소ᄉ...",
+    "sent_at": "2026-11-28T06:17:16.532181+00:00"
+  },
+  "https://www.threads.com/t/DgQnOWikk0U": {
+    "title": "@feelfree_ai: 마이크로소프트 연구진이 기존 롱컨텍스트 프롬프팅 대비 답변 토...",
+    "sent_at": "2026-11-28T06:17:16.114369+00:00"
+  },
+  "https://www.threads.com/t/DgRe3o4Eb00": {
+    "title": "@feelfree_ai: 바이트댄스(ByteDance Seed)가 700M 모델 기준 OLMo3 대비 학습 토큰 효율을 1.7배 ᄂ...",
+    "sent_at": "2026-11-28T06:17:15.735048+00:00"
+  },
+  "https://engineering.atspotify.com/?p=7FtMaNu9UhMgadOZ3CY8Nr": {
+    "title": "September 29 Outage Incident Report: What we learnt",
+    "sent_at": "2026-11-28T06:16:58.081587+00:00"
+  },
+  "https://huggingface.co/blog/video-trainium3": {
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "sent_at": "2026-11-28T06:16:56.935911+00:00"
+  },
   "https://www.threads.com/t/DgMn9FYlX89": {
     "title": "@feelfree_ai: Cerebras와 UVA 연구진이 단일 H100 환경에서 기존 최고 성능(DFlash-2)보다 최대...",
     "sent_at": "2026-11-27T06:42:48.161721+00:00"
@@ -1978,25 +1998,5 @@
   "https://techcrunch.com/?p=3183989": {
     "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
     "sent_at": "2026-10-31T04:01:00.271314+00:00"
-  },
-  "https://www.threads.com/t/DfETgXDAVN7": {
-    "title": "@feelfree_ai: 수백 개의 OCR 모델마다 제각각이던 문서 파싱 결과를 하나로 통일ᄒ...",
-    "sent_at": "2026-10-30T04:22:13.556976+00:00"
-  },
-  "https://www.threads.com/t/DfExUoKAbB7": {
-    "title": "@feelfree_ai: 엔비디아가 40개 언어를 지원하는 오픈웨이트 음성 모델 'Nemotron 3.5 Transcr...",
-    "sent_at": "2026-10-30T04:22:13.056739+00:00"
-  },
-  "https://www.threads.com/t/DfGMalfAUgb": {
-    "title": "@feelfree_ai: 엔비디아에서 AI 에이전트의 API 호출 비용을 평균 65.9% 절감하면서 저...",
-    "sent_at": "2026-10-30T04:22:12.570967+00:00"
-  },
-  "https://d2.naver.com/helloworld/2983631": {
-    "title": "사이드카의 선언적 관리: OpenKruise SidecarSet 도입과 운영",
-    "sent_at": "2026-10-30T04:21:57.990233+00:00"
-  },
-  "https://d2.naver.com/news/0907869": {
-    "title": "모두가 함께 성장하는 기술 축제, NAVER Engineering Day 10년의 여정",
-    "sent_at": "2026-10-30T04:21:57.517658+00:00"
   }
 }
